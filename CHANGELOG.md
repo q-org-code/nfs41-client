@@ -4,6 +4,19 @@ All notable changes to this project are recorded here. Format: [Keep a Changelog
 
 ## [Unreleased]
 
+## [0.8.1] - 2026-10-15
+### Fixed
+- `patches/0005-fuse-nfs-create-no-truncate.patch`: fuse-nfs `create` used `nfs_creat()`, which truncates. After a network outage the macOS client could see a lookup time out as "no such file", and the next `>> file` became a CREATE that emptied the existing file; the following append then wrote at offset 0. A write-during-outage run lost the first 285 and 53 lines of the appended file this way. Now the file is created exclusively and an existing one is opened untouched. In the rerun with the patch, nothing before the outage was lost and every surviving line was intact.
+- `scripts/fault_capture.sh` now force-kills its `tcpdump`; `scripts/p5_write_outage.sh` waits only for its own jobs (a bare `wait` never returned with `fuse-nfs -D`).
+### Added
+- `scripts/fault_trace.sh`: `fault_capture.sh` plus an `fs_usage` trace of file-system calls.
+### Changed
+- `scripts/build.sh` applies patch 0005. The 36-check local suite passes.
+### Known limits
+- The first in-flight write still takes 46-48 s to fail, later ones 11 s each.
+- After recovery, creating a new file in the test directory failed with ENOENT or EIO for a time (not yet explained).
+- One write returned success but was missing in the rerun (line 32). Not yet explained.
+
 ## [0.8.0] - 2026-10-15
 ### Added
 - `patches/0004-fuse-nfs-swallow-appledouble.patch`: fuse-nfs keeps macOS AppleDouble `._name` files in memory and never sends them to the server; the server's own `._` files are hidden. A control run with the unpatched build left 49 `._` files in a scratch tree, including `._pack-*.idx` that made git print `non-monotonic index` errors; the patched build left none, and git (init, commit, gc, fsck) works. `NFS41_APPLEDOUBLE=keep` turns it off.

@@ -1,0 +1,45 @@
+From: claude_m1 (for Calvin Lamont Mitchell), 2026-10-15
+Subject: [PATCH 0005] fuse-nfs: create must not truncate an existing file
+
+Applies on top of 0004. fuse_nfs_create called nfs_creat(), which opens with O_CREAT|O_TRUNC. If the
+kernel sends CREATE for a name that already exists (seen after a network outage: the macOS client's
+lookup timed out, saw "no such file", and the next `>> file` became a CREATE), the file was emptied
+and the next append started at offset 0, silently destroying the data. Now the file is created
+exclusively; on EEXIST (and no O_EXCL from the caller) the existing file is opened as it is, honouring
+O_TRUNC only if the caller asked for it.
+---
+--- a/fuse/fuse-nfs.c
++++ b/fuse/fuse-nfs.c
+@@ -958,12 +958,31 @@
+ 
+ 	pthread_mutex_lock(&nfs_mutex);
+ 	update_rpc_credentials();
+-	ret = nfs_creat_async(nfs, path, mode, open_cb, &cb_data);
++	/* nfs_creat() truncates an existing file. A CREATE for a name the kernel wrongly thought
++	   absent (a lookup that failed during an outage) must not destroy data, so create
++	   exclusively and open the existing file untouched if it is already there. */
++	ret = nfs_open2_async(nfs, path, O_CREAT|O_EXCL|O_RDWR, mode, open_cb, &cb_data);
+ 	pthread_mutex_unlock(&nfs_mutex);
+ 	if (ret < 0) {
+ 		return ret;
+ 	}
+ 	wait_for_nfs_reply(nfs, &cb_data);
++	if (cb_data.status == -EEXIST && !(fi->flags & O_EXCL)) {
++		memset(&cb_data, 0, sizeof(struct sync_cb_data));
++		pthread_mutex_lock(&nfs_mutex);
++		update_rpc_credentials();
++		ret = nfs_open_async(nfs, path, O_RDWR | (fi->flags & O_TRUNC), open_cb, &cb_data);
++		pthread_mutex_unlock(&nfs_mutex);
++		if (ret < 0) {
++			return ret;
++		}
++		wait_for_nfs_reply(nfs, &cb_data);
++		if (cb_data.status < 0) {
++			return cb_data.status;
++		}
++		fi->fh = (uint64_t)cb_data.return_data;
++		return 0;
++	}
+ 	if (cb_data.status < 0) {
+ 		return cb_data.status;
+ 	}
