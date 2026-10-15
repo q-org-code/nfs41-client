@@ -3,7 +3,7 @@
 nfs41-client is not a program of its own. It is two upstream projects plus our patches:
 
 - **libnfs 8.0.0** (`5b1bc60`) with `0001-nfs-v4.1-dialect` (adds NFS 4.1) and `0003-nfs-v4-retry-delay-grace` (retries `NFS4ERR_DELAY` and `NFS4ERR_GRACE`).
-- **fuse-nfs** (`6444bfc`) with `0002-fuse-nfs-macos-timespec` (macOS `st_atimespec` names), built against that libnfs.
+- **fuse-nfs** (`6444bfc`) with `0002-fuse-nfs-macos-timespec` (macOS `st_atimespec` names) and `0004-fuse-nfs-swallow-appledouble` (see below), built against that libnfs.
 - **fuse-t**, a FUSE layer for macOS that needs no kernel extension. It is installed, not built.
 
 Tested on macOS 27 (Apple silicon) with Command Line Tools only; full Xcode is not needed.
@@ -34,6 +34,7 @@ patch -p1 < ../patches/0003-nfs-v4-retry-delay-grace.patch
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release -DENABLE_NFS4_2=ON -DENABLE_EXAMPLES=OFF && cmake --build build
 cd .. && git clone https://github.com/sahlberg/fuse-nfs && cd fuse-nfs && git checkout 6444bfc
 patch -p1 < ../patches/0002-fuse-nfs-macos-timespec.patch
+patch -p1 < ../patches/0004-fuse-nfs-swallow-appledouble.patch
 echo '#define HAVE_FUSE_H 1' > config.h
 clang -O2 -w -D_FILE_OFFSET_BITS=64 $(pkg-config --cflags fuse-t) -I../libnfs/include fuse/fuse-nfs.c -o fuse-nfs \
   -L../libnfs/build/lib -lnfs -Wl,-rpath,$PWD/../libnfs/build/lib $(pkg-config --libs fuse-t)
@@ -59,16 +60,28 @@ umount ~/mnt/ref            # to unmount
 
 With these, a NAS that is unreachable for 60 s gives errors within 11-12 s, no process stays blocked, and the mount recovers about 10 s after the NAS returns. (fuse-t's own attribute cache can answer `stat` from memory for the first 15-25 s.)
 
-## 4. Check your build
+## 4. No more `._` files on the share
+
+macOS writes a `._name` AppleDouble companion file next to nearly every file it touches on a network volume (it holds the extended attributes, for example `com.apple.provenance`). They clutter the share and break git repositories (`non-monotonic index` errors on `._pack-*.idx`). With patch 0004 the mount **swallows** them:
+
+- creating or writing a `._` file succeeds and reads back while the mount is up, so `cp -p`, `xattr -w` and `xattr -l` keep working, but nothing is sent to the server;
+- the server's own `._` files are hidden from listings and lookups;
+- the in-memory files disappear on unmount, so extended attributes do **not** survive an unmount or reboot;
+- limits: 4,096 files and 16 MB in all (beyond that the create fails with `ENOSPC`);
+- set `NFS41_APPLEDOUBLE=keep` in the environment of `fuse-nfs` to turn it off.
+
+A file whose real name starts with `._` is treated the same way, so do not use such names on a share mounted this way. The kernel NFS mounts (autofs) still create `._` files; this fixes only mounts made with this client.
+
+## 5. Check your build
 
 ```
 scripts/local_suite.sh                              # uses build/fuse-nfs/fuse-nfs
 FUSE_NFS=$PWD/work/fuse-nfs/fuse-nfs scripts/local_suite.sh
 ```
 
-The suite writes a scratch folder at the root of share `REF` (edit the `IP`, `K` and export name at the top of the script for another share), checks files, names, links, a 2,000-file directory and parallel I/O, and removes everything afterwards. It must end with `RESULT pass=35 fail=0`. The outage tests (`scripts/fault.sh`, `scripts/p4_case.sh`) need root and block the NAS address with `pf`; read them before running.
+The suite writes a scratch folder at the root of share `REF` (edit the `IP`, `K` and export name at the top of the script for another share), checks files, names, links, a 2,000-file directory and parallel I/O, and removes everything afterwards. It must end with `RESULT pass=36 fail=0` (the last check is that no `._` file reached the server). The outage tests (`scripts/fault.sh`, `scripts/p4_case.sh`) need root and block the NAS address with `pf`; read them before running.
 
-## 5. Uninstall
+## 6. Uninstall
 
 Unmount, delete the `work` folder, and `brew uninstall --cask fuse-t`.
 

@@ -1,0 +1,569 @@
+From: claude_m1 (for Calvin Lamont Mitchell), 2026-10-15
+Subject: [PATCH 0004] fuse-nfs: swallow macOS AppleDouble ("._name") files
+
+Applies on top of 0002. macOS stores extended attributes on volumes without native support in
+"._name" companion files and writes one next to nearly every file. This keeps them in memory:
+creates and writes succeed and read back while mounted (so `cp -p` and `xattr` keep working),
+nothing reaches the server, the server's own "._" files are hidden from listings, and they
+vanish on unmount. Handles carry bit 62 so read/write/release work without a path. A swallowed
+file takes its owner from its directory on the server (macOS refuses the xattr write otherwise).
+Limits: 4096 entries, 16 MB in all. NFS41_APPLEDOUBLE=keep in the environment turns it off.
+---
+--- a/fuse/fuse-nfs.c
++++ b/fuse/fuse-nfs.c
+@@ -27,6 +27,7 @@
+ #include <stdlib.h>
+ #include <string.h>
+ #include <errno.h>
++#include <time.h>
+ #include <fcntl.h>
+ #include <getopt.h>
+ #ifndef WIN32
+@@ -62,6 +63,305 @@
+ 
+ /* Only one thread at a time can enter libnfs */
+ static pthread_mutex_t nfs_mutex = PTHREAD_MUTEX_INITIALIZER;
++
++/*
++ * AppleDouble swallow (nfs41-client patch 0004).
++ * macOS stores extended attributes (for example com.apple.provenance) of files on volumes
++ * without native support in "._name" companion files, and writes one next to nearly every
++ * file it touches. They clutter the NAS, and they corrupt git repositories kept there.
++ * Here every path whose last component starts with "._" is handled in memory: creates and
++ * writes succeed and can be read back while the mount lives, nothing reaches the server,
++ * the server's own "._" files are hidden, and everything disappears on unmount.
++ * Set NFS41_APPLEDOUBLE=keep in the environment to turn this off.
++ */
++#define AD_MAX_ENTRIES 4096
++#define AD_MAX_BYTES   (16 * 1024 * 1024)
++struct ad_file { char *path; unsigned char *data; size_t len; time_t mtime; mode_t mode; uid_t uid; gid_t gid; };
++static struct ad_file ad_tab[AD_MAX_ENTRIES];
++static size_t ad_bytes;
++static int ad_enabled = 1;
++static pthread_mutex_t ad_mutex = PTHREAD_MUTEX_INITIALIZER;
++
++static int ad_hidden(const char *name)
++{
++	return ad_enabled && name[0] == '.' && name[1] == '_' && name[2] != 0;
++}
++
++static int is_ad(const char *path)
++{
++	const char *b;
++
++	if (path == NULL) {
++		return 0;
++	}
++	b = strrchr(path, '/');
++	return ad_hidden(b ? b + 1 : path);
++}
++
++/*
++ * Handles of in-memory files carry bit 62 plus the table slot, so read, write and release
++ * recognise them from the handle alone: FUSE may not pass a path for an open file, and real
++ * handles are user-space pointers, which never have that bit set.
++ */
++#define AD_FH_TAG (1ULL << 62)
++#define AD_FH(slot) (AD_FH_TAG | (uint64_t)(slot))
++#define IS_AD_FH(fh) (((fh) & AD_FH_TAG) != 0)
++#define AD_SLOT(fh) ((int)((fh) & 0xffffffffULL))
++
++static struct ad_file *ad_find(const char *path)
++{
++	int i;
++
++	for (i = 0; i < AD_MAX_ENTRIES; i++) {
++		if (ad_tab[i].path && !strcmp(ad_tab[i].path, path)) {
++			return &ad_tab[i];
++		}
++	}
++	return NULL;
++}
++
++static int ad_exists(const char *path)
++{
++	int r;
++
++	pthread_mutex_lock(&ad_mutex);
++	r = ad_find(path) != NULL;
++	pthread_mutex_unlock(&ad_mutex);
++	return r;
++}
++
++/* Slot of an existing entry, or -ENOENT. */
++static int ad_open(const char *path)
++{
++	struct ad_file *f;
++	int r = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		r = (int)(f - ad_tab);
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return r;
++}
++
++static void ad_clear(struct ad_file *f)
++{
++	ad_bytes -= f->len;
++	free(f->data);
++	free(f->path);
++	memset(f, 0, sizeof(*f));
++}
++
++static int ad_create(const char *path, mode_t mode)
++{
++	struct ad_file *f;
++	int i, ret = 0;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		ad_bytes -= f->len;
++		free(f->data);
++		f->data = NULL;
++		f->len = 0;
++		f->mtime = time(NULL);
++		f->mode = mode & 07777;
++		f->uid = getuid();
++		f->gid = getgid();
++		ret = (int)(f - ad_tab);
++	} else {
++		for (i = 0; i < AD_MAX_ENTRIES && ad_tab[i].path; i++) {
++		}
++		if (i == AD_MAX_ENTRIES || (ad_tab[i].path = strdup(path)) == NULL) {
++			ret = -ENOSPC;
++		} else {
++			ad_tab[i].mtime = time(NULL);
++			ad_tab[i].mode = mode & 07777;
++			ad_tab[i].uid = getuid();
++			ad_tab[i].gid = getgid();
++			ret = i;
++		}
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++static int ad_getattr(const char *path, struct FUSE_STAT *stbuf)
++{
++	struct ad_file *f;
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		memset(stbuf, 0, sizeof(*stbuf));
++		stbuf->st_ino   = (ino_t)(0x7ff000000ULL + (f - ad_tab));
++		stbuf->st_blksize = 4096;
++		stbuf->st_blocks  = (blkcnt_t)((f->len + 511) / 512);
++		stbuf->st_mode  = S_IFREG | f->mode;
++		stbuf->st_nlink = 1;
++		stbuf->st_size  = f->len;
++		stbuf->st_uid   = f->uid;
++		stbuf->st_gid   = f->gid;
++		stbuf->st_mtime = f->mtime;
++		stbuf->st_atime = f->mtime;
++		stbuf->st_ctime = f->mtime;
++		ret = 0;
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++static int ad_read(int slot, char *buf, size_t size, off_t off)
++{
++	struct ad_file *f = &ad_tab[slot];
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	if (f->path) {
++		ret = 0;
++		if ((size_t)off < f->len) {
++			ret = (size_t)off + size > f->len ? (int)(f->len - off) : (int)size;
++			memcpy(buf, f->data + off, ret);
++		}
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++/* Resize to new_len, zero-filling any growth. Caller holds ad_mutex. */
++static int ad_resize(struct ad_file *f, size_t new_len)
++{
++	unsigned char *d;
++
++	if (new_len > f->len && ad_bytes + (new_len - f->len) > AD_MAX_BYTES) {
++		return -ENOSPC;
++	}
++	if (new_len == 0) {
++		free(f->data);
++		f->data = NULL;
++	} else if ((d = realloc(f->data, new_len)) == NULL) {
++		return -ENOSPC;
++	} else {
++		if (new_len > f->len) {
++			memset(d + f->len, 0, new_len - f->len);
++		}
++		f->data = d;
++	}
++	ad_bytes = ad_bytes - f->len + new_len;
++	f->len = new_len;
++	f->mtime = time(NULL);
++	return 0;
++}
++
++static int ad_write(int slot, const char *buf, size_t size, off_t off)
++{
++	struct ad_file *f = &ad_tab[slot];
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	if (f->path) {
++		ret = 0;
++		if ((size_t)off + size > f->len) {
++			ret = ad_resize(f, (size_t)off + size);
++		}
++		if (ret == 0) {
++			memcpy(f->data + off, buf, size);
++			ret = (int)size;
++		}
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++/* A swallowed file is owned by whoever owns its directory on the server, as a real file would be. */
++static void ad_set_owner(int slot, uid_t uid, gid_t gid)
++{
++	pthread_mutex_lock(&ad_mutex);
++	if (ad_tab[slot].path) {
++		ad_tab[slot].uid = uid;
++		ad_tab[slot].gid = gid;
++	}
++	pthread_mutex_unlock(&ad_mutex);
++}
++
++/* Record a new mode for a swallowed file. */
++static int ad_chmod(const char *path, mode_t mode)
++{
++	struct ad_file *f;
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		f->mode = mode & 07777;
++		ret = 0;
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++static int ad_truncate(const char *path, off_t size)
++{
++	struct ad_file *f;
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		ret = ad_resize(f, (size_t)size);
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++static int ad_unlink(const char *path)
++{
++	struct ad_file *f;
++	int ret = -ENOENT;
++
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(path);
++	if (f) {
++		ad_clear(f);
++		ret = 0;
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
++
++/* Both names are "._" names: move the entry. From a "._" name to a normal one: drop it. Normal to "._": refused. */
++static int ad_rename(const char *from, const char *to)
++{
++	struct ad_file *f, *g;
++	char *np;
++	int ret = -ENOENT;
++
++	if (!is_ad(from)) {
++		return -EPERM;
++	}
++	pthread_mutex_lock(&ad_mutex);
++	f = ad_find(from);
++	if (f) {
++		ret = 0;
++		if (is_ad(to)) {
++			if ((g = ad_find(to)) != NULL && g != f) {
++				ad_clear(g);
++			}
++			if ((np = strdup(to)) == NULL) {
++				ret = -ENOSPC;
++			} else {
++				free(f->path);
++				f->path = np;
++			}
++		} else {
++			ad_clear(f);
++		}
++	}
++	pthread_mutex_unlock(&ad_mutex);
++	return ret;
++}
+ static pthread_cond_t nfs_reply_cond = PTHREAD_COND_INITIALIZER;
+ static pthread_t nfs_service_thread;
+ static int nfs_service_running;
+@@ -320,6 +620,9 @@
+ static int
+ fuse_nfs_getattr(const char *path, struct FUSE_STAT *stbuf)
+ {
++	if (is_ad(path)) {
++		return ad_getattr(path, stbuf);
++	}
+ 	struct nfs_stat_64 st;
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+@@ -414,7 +717,9 @@
+ 
+ 	nfsdir = cb_data.return_data;
+ 	while ((nfsdirent = nfs_readdir(nfs, nfsdir)) != NULL) {
+-		filler(buf, nfsdirent->name, NULL, 0);
++		if (!ad_hidden(nfsdirent->name)) {
++			filler(buf, nfsdirent->name, NULL, 0);
++		}
+ 	}
+ 
+ 	pthread_mutex_lock(&nfs_mutex);
+@@ -441,6 +746,9 @@
+ static int
+ fuse_nfs_readlink(const char *path, char *buf, size_t size)
+ {
++	if (is_ad(path)) {
++		return -EINVAL;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -482,6 +790,15 @@
+ static int
+ fuse_nfs_open(const char *path, struct fuse_file_info *fi)
+ {
++	if (is_ad(path)) {
++		int slot = ad_open(path);
++
++		if (slot < 0) {
++			return slot;
++		}
++		fi->fh = AD_FH(slot);
++		return 0;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -507,6 +824,9 @@
+ 
+ static int fuse_nfs_release(const char *path, struct fuse_file_info *fi)
+ {
++	if (IS_AD_FH(fi->fh)) {
++		return 0;
++	}
+ 	struct sync_cb_data cb_data;
+ 	struct nfsfh *nfsfh = (struct nfsfh *)fi->fh;
+ 
+@@ -541,6 +861,9 @@
+ fuse_nfs_read(const char *path, char *buf, size_t size,
+ 	      off_t offset, struct fuse_file_info *fi)
+ {
++	if (IS_AD_FH(fi->fh)) {
++		return ad_read(AD_SLOT(fi->fh), buf, size, offset);
++	}
+ 	struct nfsfh *nfsfh = (struct nfsfh *)fi->fh;
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+@@ -569,6 +892,9 @@
+ static int fuse_nfs_write(const char *path, const char *buf, size_t size,
+        off_t offset, struct fuse_file_info *fi)
+ {
++	if (IS_AD_FH(fi->fh)) {
++		return ad_write(AD_SLOT(fi->fh), buf, size, offset);
++	}
+ 	struct nfsfh *nfsfh = (struct nfsfh *)fi->fh;
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+@@ -597,6 +923,30 @@
+ 
+ static int fuse_nfs_create(const char *path, mode_t mode, struct fuse_file_info *fi)
+ {
++	if (is_ad(path)) {
++		int slot = ad_create(path, mode);
++		char *dir;
++		struct FUSE_STAT dst;
++
++		if (slot < 0) {
++			return slot;
++		}
++		if ((dir = strdup(path)) != NULL) {
++			char *slash = strrchr(dir, '/');
++
++			if (slash == dir) {
++				slash[1] = 0;
++			} else if (slash) {
++				*slash = 0;
++			}
++			if (fuse_nfs_getattr(dir, &dst) == 0) {
++				ad_set_owner(slot, dst.st_uid, dst.st_gid);
++			}
++			free(dir);
++		}
++		fi->fh = AD_FH(slot);
++		return 0;
++	}
+ 	struct sync_cb_data cb_data;
+ 	struct sync_cb_data chmod_cb;
+ 	struct nfsfh *nfsfh;
+@@ -642,6 +992,9 @@
+ 
+ static int fuse_nfs_utime(const char *path, struct utimbuf *times)
+ {
++	if (is_ad(path)) {
++		return ad_exists(path) ? 0 : -ENOENT;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -666,6 +1019,9 @@
+ 
+ static int fuse_nfs_unlink(const char *path)
+ {
++	if (is_ad(path)) {
++		return ad_unlink(path);
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -687,6 +1043,9 @@
+ 
+ static int fuse_nfs_rmdir(const char *path)
+ {
++	if (is_ad(path)) {
++		return -ENOENT;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -709,6 +1068,9 @@
+ static int
+ fuse_nfs_mkdir(const char *path, mode_t mode)
+ {
++	if (is_ad(path)) {
++		return -EPERM;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -741,6 +1103,9 @@
+ 
+ static int fuse_nfs_mknod(const char *path, mode_t mode, dev_t rdev)
+ {
++	if (is_ad(path)) {
++		return S_ISREG(mode) ? (ad_create(path, mode) < 0 ? -ENOSPC : 0) : -EPERM;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -762,6 +1127,9 @@
+ 
+ static int fuse_nfs_symlink(const char *from, const char *to)
+ {
++	if (is_ad(to)) {
++		return -EPERM;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -783,6 +1151,9 @@
+ 
+ static int fuse_nfs_rename(const char *from, const char *to)
+ {
++	if (is_ad(from) || is_ad(to)) {
++		return ad_rename(from, to);
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -805,6 +1176,9 @@
+ static int
+ fuse_nfs_link(const char *from, const char *to)
+ {
++	if (is_ad(from) || is_ad(to)) {
++		return -EPERM;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -827,6 +1201,9 @@
+ static int
+ fuse_nfs_chmod(const char *path, mode_t mode)
+ {
++	if (is_ad(path)) {
++		return ad_chmod(path, mode);
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -848,6 +1225,9 @@
+ 
+ static int fuse_nfs_chown(const char *path, uid_t uid, gid_t gid)
+ {
++	if (is_ad(path)) {
++		return ad_exists(path) ? 0 : -ENOENT;
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -871,6 +1251,9 @@
+ 
+ static int fuse_nfs_truncate(const char *path, off_t size)
+ {
++	if (is_ad(path)) {
++		return ad_truncate(path, size);
++	}
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+ 
+@@ -894,6 +1277,9 @@
+ fuse_nfs_fsync(const char *path, int isdatasync,
+ 	       struct fuse_file_info *fi)
+ {
++	if (IS_AD_FH(fi->fh) || is_ad(path)) {
++		return 0;
++	}
+ 	struct nfsfh *nfsfh = (struct nfsfh *)fi->fh;
+ 	struct sync_cb_data cb_data;
+ 	int ret;
+@@ -1055,6 +1441,13 @@
+ 
+ int main(int argc, char *argv[])
+ {
++	{
++		const char *ad_env = getenv("NFS41_APPLEDOUBLE");
++
++		if (ad_env && !strcmp(ad_env, "keep")) {
++			ad_enabled = 0;
++		}
++	}
+ 	mount_user_uid=getuid();
+ 	mount_user_gid=getgid();
+ 

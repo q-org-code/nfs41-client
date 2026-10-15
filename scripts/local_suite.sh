@@ -45,6 +45,8 @@ for i in 1 2 3 4 5 6 7 8; do chk "parallel file $i" "$(sh1 $K/c_$i)" "$(sh1 /tmp
 for i in 1 2 3 4 5 6 7 8; do ( sh1 $T/c_$i > /tmp/c_$i.sum ) & done; wait
 for i in 1 2 3 4 5 6 7 8; do chk "parallel read $i" "$(cat /tmp/c_$i.sum)" "$(sh1 /tmp/c_$i)"; done
 rm -f /tmp/c_* ; rm -f ${T:?}/c_?
+# 4. AppleDouble: macOS must not have left any ._ file on the server
+sleep 3; chk "no ._ files on the server" "$(find $K -name '._*' 2>/dev/null | wc -l | tr -d ' ')" 0
 # cleanup
 rm -rf $T 2>/dev/null; umount $M || umount -f $M; rmdir $M
 sleep 1; rm -rf $K; echo "stuckU=$(ps -axo stat,comm | awk '$1 ~ /U/' | wc -l | tr -d ' ') fusenfs=$(pgrep fuse-nfs | wc -l | tr -d ' ')" | tee -a $LOG

@@ -21,7 +21,7 @@ cmake -S $W/libnfs -B $W/libnfs/build -DCMAKE_BUILD_TYPE=Release -DENABLE_NFS4_2
 cmake --build $W/libnfs/build -j"$(sysctl -n hw.ncpu)" >/dev/null
 
 echo "== fuse-nfs $FUSENFS_REV"; fetch $FUSENFS_URL $FUSENFS_REV $W/fuse-nfs
-patch -s -p1 -d $W/fuse-nfs < $REPO/patches/0002-fuse-nfs-macos-timespec.patch
+for p in 0002-fuse-nfs-macos-timespec 0004-fuse-nfs-swallow-appledouble; do patch -s -p1 -d $W/fuse-nfs < $REPO/patches/$p.patch; done
 echo '#define HAVE_FUSE_H 1' > $W/fuse-nfs/config.h
 clang -O2 -w -D_FILE_OFFSET_BITS=64 $(pkg-config --cflags fuse-t) -I$W/libnfs/include \
   $W/fuse-nfs/fuse/fuse-nfs.c -o $W/fuse-nfs/fuse-nfs \
