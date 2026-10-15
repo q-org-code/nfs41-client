@@ -4,6 +4,10 @@ All notable changes to this project are recorded here. Format: [Keep a Changelog
 
 ## [Unreleased]
 
+## [0.5.1] - 2026-10-15
+### Added
+- `LICENSE` (MIT, for our own scripts, tests and documents) and `NOTICE.md` (the patches keep their upstream licenses: LGPL 2.1 for libnfs, GPL 3.0 for fuse-nfs; a built `fuse-nfs` binary is GPL 3.0).
+
 ## [0.5.0] - 2026-10-15
 ### Added
 - `patches/0003-nfs-v4-retry-delay-grace.patch`: libnfs retries a compound the server answers with `NFS4ERR_DELAY` or `NFS4ERR_GRACE` (RFC 8881 15.1.1), up to 30 times, waiting 100 ms longer each time up to 1 s.
@@ -22,7 +26,8 @@ All notable changes to this project are recorded here. Format: [Keep a Changelog
 - First commit of the project (work of 2026-10-14): `patches/0001-nfs-v4.1-dialect.patch` (NFS 4.1 in libnfs 8.0.0), `patches/0002-fuse-nfs-macos-timespec.patch`, the fault-injection scripts and tests, the implementation plan, and the findings for Phases 0 to 4.
 - With `timeo=100&retrans=0&autoreconnect=-1&tcp-syncnt=2`, a NAS outage of 60 s gives an error within 11-12 s and recovery in about 10 s.
 
-[Unreleased]: https://github.com/q-org-code/nfs41-client/compare/v0.5.0...HEAD
+[Unreleased]: https://github.com/q-org-code/nfs41-client/compare/v0.5.1...HEAD
+[0.5.1]: https://github.com/q-org-code/nfs41-client/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/q-org-code/nfs41-client/compare/v0.4.1...v0.5.0
 [0.4.1]: https://github.com/q-org-code/nfs41-client/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/q-org-code/nfs41-client/releases/tag/v0.4.0
