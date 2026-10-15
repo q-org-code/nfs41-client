@@ -1,0 +1,40 @@
+PASS large 200MB write checksum (kernel view)
+PASS large 200MB read-back checksum (FUSE view)
+     200MB write took 2 s
+PASS large 1000MB write checksum (kernel view)
+PASS large 1000MB read-back checksum (FUSE view)
+     1000MB write took 9 s
+PASS 255-byte name
+PASS spaces in name (FUSE view)
+PASS symlink readlink (FUSE)
+PASS symlink readlink (kernel)
+PASS hardlink count
+PASS chmod 640 (FUSE view)
+PASS mtime set (FUSE view)
+PASS append (FUSE view)
+PASS truncate (FUSE view)
+PASS rename
+PASS nested mkdir
+PASS rmdir chain
+PASS 2000-file readdir
+PASS 2000-file readdir (kernel)
+PASS rm -rf 2000 files (FUSE view)
+     8x50MB parallel write took 4 s
+PASS parallel file 1
+PASS parallel file 2
+PASS parallel file 3
+PASS parallel file 4
+PASS parallel file 5
+PASS parallel file 6
+PASS parallel file 7
+PASS parallel file 8
+PASS parallel read 1
+PASS parallel read 2
+PASS parallel read 3
+PASS parallel read 4
+PASS parallel read 5
+PASS parallel read 6
+PASS parallel read 7
+PASS parallel read 8
+stuckU=0 fusenfs=0
+RESULT pass=35 fail=0

@@ -1,5 +1,5 @@
 #!/bin/zsh
-# usage: local_suite.sh   Phase 4b local tests: fuse-nfs on fuse-t against a scratch dir at the root of share REF.
+# usage: [FUSE_NFS=<path to fuse-nfs>] local_suite.sh   Phase 4b local tests: fuse-nfs on fuse-t against a scratch dir at the root of share REF.
 # Compares every result with the kernel client's view (/Volumes/REF). Leaves nothing behind.
 R=$HOME/Developer/nfs41-client; IP=192.168.50.213; M=$R/build/mnt_suite; K=/Volumes/REF/.nfs41_suite
 LOG=$R/docs/local_suite_$(date +%F_%H%M).log; pass=0; fail=0
@@ -7,7 +7,7 @@ ok()  { echo "PASS $1" | tee -a $LOG; pass=$((pass+1)); }
 bad() { echo "FAIL $1 :: $2" | tee -a $LOG; fail=$((fail+1)); }
 chk() { if [ "$2" = "$3" ]; then ok "$1"; else bad "$1" "got '$2' want '$3'"; fi; }
 : > $LOG; mkdir -p $M $K
-$R/build/fuse-nfs/fuse-nfs -n "nfs://$IP/REF?version=4.1&timeo=100&retrans=0&autoreconnect=-1&tcp-syncnt=2" -m $M > $R/build/suite.fuse.log 2>&1 &
+${FUSE_NFS:-$R/build/fuse-nfs/fuse-nfs} -n "nfs://$IP/REF?version=4.1&timeo=100&retrans=0&autoreconnect=-1&tcp-syncnt=2" -m $M > $R/build/suite.fuse.log 2>&1 &
 sleep 6; mount | grep -q "mnt_suite" || { echo "mount failed"; exit 1; }
 T=$M/.nfs41_suite
 sh1() { shasum -a 256 "$1" | cut -d' ' -f1; }
