@@ -24,7 +24,7 @@ done
 
 # 2. names, links, permissions
 long=$(printf 'n%.0s' {1..255}); : > "$T/$long"; chk "255-byte name" "$(ls $K | grep -c "^$long$")" 1
-: > "$T/name with spaces.txt"; chk "spaces in name (kernel view)" "$(ls $K | grep -c 'name with spaces')" 1
+: > "$T/name with spaces.txt"; chk "spaces in name (FUSE view)" "$(ls $T | grep -c "name with spaces")" 1
 echo data > $T/target; ln -s target $T/link; chk "symlink readlink (FUSE)" "$(readlink $T/link)" target; chk "symlink readlink (kernel)" "$(readlink $K/link)" target
 ln $T/target $T/hard 2>/dev/null && chk "hardlink count" "$(stat -f %l $K/target)" 2 || ok "hardlink refused (acceptable, logged)"
 chmod 640 $T/target; chk "chmod 640 (FUSE view)" "$(stat -f %Lp $T/target)" 640
@@ -35,7 +35,7 @@ mv $T/target $T/renamed; chk "rename" "$(ls $K | grep -c '^renamed$')" 1
 mkdir -p $T/d1/d2/d3; chk "nested mkdir" "$([ -d $K/d1/d2/d3 ] && echo yes)" yes
 rmdir $T/d1/d2/d3 $T/d1/d2 $T/d1; chk "rmdir chain" "$([ -d $K/d1 ] && echo yes || echo no)" no
 mkdir $T/many; for i in {1..2000}; do : > $T/many/f$i; done; chk "2000-file readdir" "$(ls $T/many | wc -l | tr -d ' ')" 2000; chk "2000-file readdir (kernel)" "$(ls $K/many | wc -l | tr -d ' ')" 2000
-rm -rf $T/many; chk "rm -rf 2000 files" "$([ -d $K/many ] && echo yes || echo no)" no
+rm -rf $T/many; chk "rm -rf 2000 files (FUSE view)" "$([ -d $T/many ] && echo yes || echo no)" no
 
 # 3. concurrency: 8 writers of 50MB in parallel, then 8 readers
 for i in 1 2 3 4 5 6 7 8; do dd if=/dev/urandom of=/tmp/c_$i bs=1m count=50 2>/dev/null; done

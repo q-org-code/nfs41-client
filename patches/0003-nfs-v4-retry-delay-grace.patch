@@ -1,0 +1,86 @@
+From: claude_m1 (for Calvin Lamont Mitchell), 2026-10-15
+Subject: [PATCH 0003] nfs4: retry compounds the server answers with NFS4ERR_DELAY or NFS4ERR_GRACE
+
+Applies on top of 0001. Without it a call that hits a delegation recall (REMOVE of a file another
+client has read) or a restarting server returns EIO. RFC 8881 15.1.1: the client must ask again.
+Retries up to 30 times, waiting 100 ms longer each time up to 1 s.
+---
+
+--- a/lib/nfs_v4.c
++++ b/lib/nfs_v4.c
+@@ -202,6 +202,14 @@
+         /* internal callback */
+         rpc_cb continue_cb;
+ 
++        /*
++         * The callback nfs4_lookup_path_async() was given, and how often the
++         * compound has been resent because the server answered
++         * NFS4ERR_DELAY or NFS4ERR_GRACE.
++         */
++        rpc_cb lookup_cb;
++        int delay_retries;
++
+         char *path; /* path to lookup */
+         struct lookup_filler filler;
+ 
+@@ -366,6 +374,32 @@
+         return data;
+ }
+ 
++/*
++ * RFC 8881 15.1.1: NFS4ERR_DELAY (for example while the server recalls a
++ * delegation another client holds) and NFS4ERR_GRACE (server restarting) mean
++ * "ask again shortly". Without a retry the application sees EIO for a call the
++ * server would have accepted a moment later. Retry up to NFS4_DELAY_MAX_RETRIES
++ * times, waiting 100 ms longer each time up to 1 s (about 25 s in all).
++ */
++#define NFS4_DELAY_MAX_RETRIES 30
++
++static int nfs4_lookup_path_async(struct nfs_context *nfs,
++                                  struct nfs4_cb_data *data, rpc_cb cb);
++
++static int
++nfs4_retry_delayed(struct nfs_context *nfs, struct nfs4_cb_data *data,
++                   COMPOUND4res *res)
++{
++        if (res == NULL || data->lookup_cb == NULL ||
++            (res->status != NFS4ERR_DELAY && res->status != NFS4ERR_GRACE) ||
++            data->delay_retries >= NFS4_DELAY_MAX_RETRIES) {
++                return 0;
++        }
++        data->delay_retries++;
++        usleep((data->delay_retries < 10 ? data->delay_retries : 10) * 100000);
++        return nfs4_lookup_path_async(nfs, data, data->lookup_cb) == 0;
++}
++
+ static int
+ check_nfs4_error(struct nfs_context *nfs, int status,
+                  struct nfs4_cb_data *data, void *command_data,
+@@ -390,6 +424,9 @@
+                 free_nfs4_cb_data(data);
+                 return 1;
+         }
++        if (nfs4_retry_delayed(nfs, data, res)) {
++                return 1;
++        }
+         if (res && res->status != NFS4_OK) {
+                 nfs_set_error(nfs, "NFS4: %s (path %s) failed with "
+                               "%s(%d)", op_name,
+@@ -1628,6 +1665,9 @@
+                 free_nfs4_cb_data(data);
+                 return;
+         }
++        if (nfs4_retry_delayed(nfs, data, res)) {
++                return;
++        }
+         if (res->status != NFS4_OK &&
+             res->status != NFS4ERR_SYMLINK) {
+                 nfs_set_error(nfs, "NFS4: (path %s) failed with "
+@@ -1788,6 +1828,7 @@
+         char *path;
+         int i, num_op;
+ 
++        data->lookup_cb = cb;
+         path = nfs4_resolve_path(nfs, data->path);
+         if (path == NULL) {
+                 return -1;
