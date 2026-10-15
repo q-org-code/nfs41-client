@@ -4,6 +4,12 @@ All notable changes to this project are recorded here. Format: [Keep a Changelog
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-10-15
+### Added
+- `scripts/p5_write_outage.sh` and `docs/phase5_write_outage.md`: writes during a 60 s outage. Appended lines stay intact, but the first in-flight write takes 36-48 s to fail (target 15 s), a copy started mid-outage takes 62 s, and creating a file right after recovery fails with EIO.
+### Known issues
+- fuse-t 1.2.9's `go-nfsv4` crashed once (nil pointer, `SIGABRT`) after the failed copy, leaving a mount that hung a process for over 7 minutes until `umount -f`. Not caused by our patches; see the findings.
+
 ## [0.6.0] - 2026-10-15
 ### Added
 - `scripts/build.sh`: builds the patched libnfs and fuse-nfs from the pinned upstream commits in one command (about 10 s); verified from a clean directory, and the binary it builds passes `scripts/local_suite.sh` 35 of 35.
@@ -33,7 +39,8 @@ All notable changes to this project are recorded here. Format: [Keep a Changelog
 - First commit of the project (work of 2026-10-14): `patches/0001-nfs-v4.1-dialect.patch` (NFS 4.1 in libnfs 8.0.0), `patches/0002-fuse-nfs-macos-timespec.patch`, the fault-injection scripts and tests, the implementation plan, and the findings for Phases 0 to 4.
 - With `timeo=100&retrans=0&autoreconnect=-1&tcp-syncnt=2`, a NAS outage of 60 s gives an error within 11-12 s and recovery in about 10 s.
 
-[Unreleased]: https://github.com/q-org-code/nfs41-client/compare/v0.6.0...HEAD
+[Unreleased]: https://github.com/q-org-code/nfs41-client/compare/v0.7.0...HEAD
+[0.7.0]: https://github.com/q-org-code/nfs41-client/compare/v0.6.0...v0.7.0
 [0.6.0]: https://github.com/q-org-code/nfs41-client/compare/v0.5.1...v0.6.0
 [0.5.1]: https://github.com/q-org-code/nfs41-client/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/q-org-code/nfs41-client/compare/v0.4.1...v0.5.0

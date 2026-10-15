@@ -1,0 +1,161 @@
+1792069745 A n=1 rc=0 dur=0s
+1792069745 OBS stuckU=1 mounted=1
+1792069746 A n=2 rc=0 dur=0s
+1792069746 OBS stuckU=0 mounted=1
+1792069748 A n=3 rc=0 dur=1s
+1792069748 OBS stuckU=0 mounted=1
+1792069749 A n=4 rc=0 dur=0s
+1792069749 OBS stuckU=0 mounted=1
+1792069750 A n=5 rc=0 dur=0s
+1792069750 OBS stuckU=0 mounted=1
+1792069751 A n=6 rc=0 dur=0s
+1792069751 OBS stuckU=0 mounted=1
+1792069752 A n=7 rc=0 dur=0s
+1792069752 OBS stuckU=0 mounted=1
+1792069753 A n=8 rc=0 dur=0s
+1792069753 OBS stuckU=0 mounted=1
+1792069754 A n=9 rc=0 dur=0s
+1792069754 OBS stuckU=0 mounted=1
+1792069755 A n=10 rc=0 dur=0s
+1792069755 OBS stuckU=0 mounted=1
+1792069755 FAULT-START (dialog)
+1792069756 A n=11 rc=0 dur=0s
+1792069756 OBS stuckU=0 mounted=1
+1792069757 A n=12 rc=0 dur=0s
+1792069757 OBS stuckU=0 mounted=1
+1792069758 A n=13 rc=0 dur=0s
+1792069758 OBS stuckU=0 mounted=1
+1792069759 A n=14 rc=0 dur=0s
+1792069759 OBS stuckU=0 mounted=1
+1792069760 A n=15 rc=0 dur=0s
+1792069761 OBS stuckU=0 mounted=1
+1792069761 A n=16 rc=0 dur=0s
+1792069762 OBS stuckU=0 mounted=1
+1792069762 A n=17 rc=0 dur=0s
+1792069763 OBS stuckU=0 mounted=1
+1792069763 BLOCK-START
+1792069764 OBS stuckU=1 mounted=1
+1792069765 OBS stuckU=1 mounted=1
+1792069766 OBS stuckU=1 mounted=1
+1792069767 OBS stuckU=1 mounted=1
+1792069768 OBS stuckU=1 mounted=1
+1792069769 OBS stuckU=1 mounted=1
+1792069770 OBS stuckU=1 mounted=1
+1792069771 OBS stuckU=2 mounted=1
+1792069772 OBS stuckU=1 mounted=1
+1792069773 OBS stuckU=2 mounted=1
+1792069774 OBS stuckU=2 mounted=1
+1792069775 OBS stuckU=2 mounted=1
+1792069776 OBS stuckU=2 mounted=1
+1792069777 OBS stuckU=2 mounted=1
+1792069778 OBS stuckU=2 mounted=1
+1792069779 OBS stuckU=2 mounted=1
+1792069781 OBS stuckU=2 mounted=1
+1792069782 OBS stuckU=2 mounted=1
+1792069783 OBS stuckU=2 mounted=1
+1792069784 OBS stuckU=2 mounted=1
+1792069785 OBS stuckU=2 mounted=1
+1792069786 OBS stuckU=2 mounted=1
+1792069787 OBS stuckU=2 mounted=1
+1792069788 OBS stuckU=2 mounted=1
+1792069789 OBS stuckU=2 mounted=1
+1792069790 OBS stuckU=2 mounted=1
+1792069791 OBS stuckU=2 mounted=1
+1792069792 OBS stuckU=2 mounted=1
+1792069793 OBS stuckU=2 mounted=1
+1792069794 OBS stuckU=2 mounted=1
+1792069795 OBS stuckU=2 mounted=1
+1792069796 OBS stuckU=2 mounted=1
+1792069797 OBS stuckU=2 mounted=1
+1792069798 OBS stuckU=2 mounted=1
+1792069799 OBS stuckU=2 mounted=1
+1792069800 OBS stuckU=2 mounted=1
+1792069802 OBS stuckU=2 mounted=1
+1792069803 OBS stuckU=2 mounted=1
+1792069804 OBS stuckU=2 mounted=1
+1792069805 OBS stuckU=2 mounted=1
+1792069806 OBS stuckU=2 mounted=1
+1792069807 OBS stuckU=2 mounted=1
+1792069808 OBS stuckU=2 mounted=1
+1792069809 OBS stuckU=2 mounted=1
+1792069810 OBS stuckU=2 mounted=1
+1792069811 A n=18 rc=1 dur=48s
+1792069811 OBS stuckU=1 mounted=1
+1792069812 OBS stuckU=2 mounted=1
+1792069813 OBS stuckU=2 mounted=1
+1792069814 OBS stuckU=2 mounted=1
+1792069815 OBS stuckU=2 mounted=1
+1792069816 OBS stuckU=2 mounted=1
+1792069817 OBS stuckU=2 mounted=1
+1792069818 OBS stuckU=2 mounted=1
+1792069819 OBS stuckU=2 mounted=1
+1792069820 OBS stuckU=2 mounted=1
+1792069821 OBS stuckU=2 mounted=1
+1792069823 A n=19 rc=1 dur=11s
+1792069822 OBS stuckU=2 mounted=1
+
+1792069823 FAULT-END
+1792069824 OBS stuckU=2 mounted=1
+1792069825 OBS stuckU=2 mounted=1
+1792069826 OBS stuckU=2 mounted=1
+1792069827 OBS stuckU=2 mounted=1
+1792069828 OBS stuckU=2 mounted=1
+1792069829 OBS stuckU=2 mounted=1
+1792069830 OBS stuckU=2 mounted=1
+1792069831 OBS stuckU=3 mounted=1
+1792069832 OBS stuckU=3 mounted=1
+1792069833 OBS stuckU=3 mounted=1
+1792069834 OBS stuckU=3 mounted=1
+cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_during: No such file or directory
+1792069835 B cp-during rc=1 dur=62s
+1792069835 A n=20 rc=1 dur=11s
+1792069835 OBS stuckU=1 mounted=1
+1792069837 OBS stuckU=2 mounted=1
+1792069838 OBS stuckU=2 mounted=1
+1792069839 OBS stuckU=2 mounted=1
+1792069840 OBS stuckU=2 mounted=1
+1792069841 OBS stuckU=2 mounted=1
+1792069842 OBS stuckU=2 mounted=1
+1792069843 OBS stuckU=2 mounted=1
+1792069844 OBS stuckU=2 mounted=1
+1792069845 OBS stuckU=2 mounted=1
+1792069846 OBS stuckU=2 mounted=1
+1792069847 A n=21 rc=1 dur=11s
+1792069847 OBS stuckU=1 mounted=1
+1792069848 A n=22 rc=0 dur=0s
+1792069848 OBS stuckU=0 mounted=1
+1792069849 A n=23 rc=0 dur=0s
+1792069849 OBS stuckU=0 mounted=1
+1792069850 A n=24 rc=0 dur=0s
+1792069851 OBS stuckU=0 mounted=1
+1792069851 A n=25 rc=0 dur=0s
+1792069852 OBS stuckU=0 mounted=1
+1792069852 A n=26 rc=1 dur=0s
+1792069853 OBS stuckU=0 mounted=1
+1792069853 A n=27 rc=0 dur=0s
+1792069854 OBS stuckU=0 mounted=1
+1792069855 A n=28 rc=0 dur=0s
+1792069855 OBS stuckU=0 mounted=1
+1792069856 A n=29 rc=0 dur=0s
+1792069856 OBS stuckU=0 mounted=1
+1792069857 A n=30 rc=0 dur=0s
+1792069857 OBS stuckU=0 mounted=1
+1792069858 A n=31 rc=0 dur=0s
+1792069858 OBS stuckU=0 mounted=1
+1792069859 A n=32 rc=0 dur=0s
+1792069859 OBS stuckU=0 mounted=1
+1792069860 A n=33 rc=0 dur=0s
+1792069860 OBS stuckU=0 mounted=1
+1792069861 A n=34 rc=0 dur=0s
+1792069861 OBS stuckU=0 mounted=1
+1792069862 A n=35 rc=0 dur=0s
+1792069862 OBS stuckU=0 mounted=1
+1792069863 A n=36 rc=0 dur=0s
+cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_after: fcopyfile failed: Input/output error
+1792069863 B cp-after rc=1 dur=0s
+cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_after: No such file or directory
+1792070306 B cp-after-retry rc=1 dur=0s
+RESULT big_after sha ok: NO
+RESULT append: lines= well-formed= garbled=
+RESULT A: ok=31 err=5 maxdur=48s
+RESULT maxStuckU=3
