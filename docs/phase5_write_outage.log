@@ -1,161 +1,3570 @@
-1792069745 A n=1 rc=0 dur=0s
-1792069745 OBS stuckU=1 mounted=1
-1792069746 A n=2 rc=0 dur=0s
-1792069746 OBS stuckU=0 mounted=1
-1792069748 A n=3 rc=0 dur=1s
-1792069748 OBS stuckU=0 mounted=1
-1792069749 A n=4 rc=0 dur=0s
-1792069749 OBS stuckU=0 mounted=1
-1792069750 A n=5 rc=0 dur=0s
-1792069750 OBS stuckU=0 mounted=1
-1792069751 A n=6 rc=0 dur=0s
-1792069751 OBS stuckU=0 mounted=1
-1792069752 A n=7 rc=0 dur=0s
-1792069752 OBS stuckU=0 mounted=1
-1792069753 A n=8 rc=0 dur=0s
-1792069753 OBS stuckU=0 mounted=1
-1792069754 A n=9 rc=0 dur=0s
-1792069754 OBS stuckU=0 mounted=1
-1792069755 A n=10 rc=0 dur=0s
-1792069755 OBS stuckU=0 mounted=1
-1792069755 FAULT-START (dialog)
-1792069756 A n=11 rc=0 dur=0s
-1792069756 OBS stuckU=0 mounted=1
-1792069757 A n=12 rc=0 dur=0s
-1792069757 OBS stuckU=0 mounted=1
-1792069758 A n=13 rc=0 dur=0s
-1792069758 OBS stuckU=0 mounted=1
-1792069759 A n=14 rc=0 dur=0s
-1792069759 OBS stuckU=0 mounted=1
-1792069760 A n=15 rc=0 dur=0s
-1792069761 OBS stuckU=0 mounted=1
-1792069761 A n=16 rc=0 dur=0s
-1792069762 OBS stuckU=0 mounted=1
-1792069762 A n=17 rc=0 dur=0s
-1792069763 OBS stuckU=0 mounted=1
-1792069763 BLOCK-START
-1792069764 OBS stuckU=1 mounted=1
-1792069765 OBS stuckU=1 mounted=1
-1792069766 OBS stuckU=1 mounted=1
-1792069767 OBS stuckU=1 mounted=1
-1792069768 OBS stuckU=1 mounted=1
-1792069769 OBS stuckU=1 mounted=1
-1792069770 OBS stuckU=1 mounted=1
-1792069771 OBS stuckU=2 mounted=1
-1792069772 OBS stuckU=1 mounted=1
-1792069773 OBS stuckU=2 mounted=1
-1792069774 OBS stuckU=2 mounted=1
-1792069775 OBS stuckU=2 mounted=1
-1792069776 OBS stuckU=2 mounted=1
-1792069777 OBS stuckU=2 mounted=1
-1792069778 OBS stuckU=2 mounted=1
-1792069779 OBS stuckU=2 mounted=1
-1792069781 OBS stuckU=2 mounted=1
-1792069782 OBS stuckU=2 mounted=1
-1792069783 OBS stuckU=2 mounted=1
-1792069784 OBS stuckU=2 mounted=1
-1792069785 OBS stuckU=2 mounted=1
-1792069786 OBS stuckU=2 mounted=1
-1792069787 OBS stuckU=2 mounted=1
-1792069788 OBS stuckU=2 mounted=1
-1792069789 OBS stuckU=2 mounted=1
-1792069790 OBS stuckU=2 mounted=1
-1792069791 OBS stuckU=2 mounted=1
-1792069792 OBS stuckU=2 mounted=1
-1792069793 OBS stuckU=2 mounted=1
-1792069794 OBS stuckU=2 mounted=1
-1792069795 OBS stuckU=2 mounted=1
-1792069796 OBS stuckU=2 mounted=1
-1792069797 OBS stuckU=2 mounted=1
-1792069798 OBS stuckU=2 mounted=1
-1792069799 OBS stuckU=2 mounted=1
-1792069800 OBS stuckU=2 mounted=1
-1792069802 OBS stuckU=2 mounted=1
-1792069803 OBS stuckU=2 mounted=1
-1792069804 OBS stuckU=2 mounted=1
-1792069805 OBS stuckU=2 mounted=1
-1792069806 OBS stuckU=2 mounted=1
-1792069807 OBS stuckU=2 mounted=1
-1792069808 OBS stuckU=2 mounted=1
-1792069809 OBS stuckU=2 mounted=1
-1792069810 OBS stuckU=2 mounted=1
-1792069811 A n=18 rc=1 dur=48s
-1792069811 OBS stuckU=1 mounted=1
-1792069812 OBS stuckU=2 mounted=1
-1792069813 OBS stuckU=2 mounted=1
-1792069814 OBS stuckU=2 mounted=1
-1792069815 OBS stuckU=2 mounted=1
-1792069816 OBS stuckU=2 mounted=1
-1792069817 OBS stuckU=2 mounted=1
-1792069818 OBS stuckU=2 mounted=1
-1792069819 OBS stuckU=2 mounted=1
-1792069820 OBS stuckU=2 mounted=1
-1792069821 OBS stuckU=2 mounted=1
-1792069823 A n=19 rc=1 dur=11s
-1792069822 OBS stuckU=2 mounted=1
-
-1792069823 FAULT-END
-1792069824 OBS stuckU=2 mounted=1
-1792069825 OBS stuckU=2 mounted=1
-1792069826 OBS stuckU=2 mounted=1
-1792069827 OBS stuckU=2 mounted=1
-1792069828 OBS stuckU=2 mounted=1
-1792069829 OBS stuckU=2 mounted=1
-1792069830 OBS stuckU=2 mounted=1
-1792069831 OBS stuckU=3 mounted=1
-1792069832 OBS stuckU=3 mounted=1
-1792069833 OBS stuckU=3 mounted=1
-1792069834 OBS stuckU=3 mounted=1
+1792070516 A n=1 rc=0 dur=0s
+1792070516 OBS stuckU=2 mounted=1
+1792070517 A n=2 rc=0 dur=0s
+1792070517 OBS stuckU=1 mounted=1
+1792070518 A n=3 rc=0 dur=0s
+1792070518 OBS stuckU=0 mounted=1
+1792070519 A n=4 rc=0 dur=0s
+1792070519 OBS stuckU=0 mounted=1
+1792070520 A n=5 rc=0 dur=0s
+1792070520 OBS stuckU=0 mounted=1
+1792070521 A n=6 rc=0 dur=0s
+1792070521 OBS stuckU=0 mounted=1
+1792070522 A n=7 rc=0 dur=0s
+1792070522 OBS stuckU=0 mounted=1
+1792070523 A n=8 rc=0 dur=0s
+1792070524 OBS stuckU=0 mounted=1
+1792070525 A n=9 rc=0 dur=1s
+1792070525 OBS stuckU=0 mounted=1
+1792070526 A n=10 rc=0 dur=0s
+1792070526 OBS stuckU=0 mounted=1
+1792070526 FAULT-START (dialog)
+1792070527 A n=11 rc=0 dur=0s
+1792070527 OBS stuckU=0 mounted=1
+1792070528 A n=12 rc=0 dur=0s
+1792070528 OBS stuckU=0 mounted=1
+1792070529 A n=13 rc=0 dur=0s
+1792070529 OBS stuckU=0 mounted=1
+1792070530 A n=14 rc=0 dur=0s
+1792070530 OBS stuckU=0 mounted=1
+1792070531 A n=15 rc=0 dur=0s
+1792070531 OBS stuckU=0 mounted=1
+1792070532 A n=16 rc=0 dur=0s
+1792070532 OBS stuckU=0 mounted=1
+1792070533 A n=17 rc=0 dur=0s
+1792070533 OBS stuckU=0 mounted=1
+1792070534 A n=18 rc=0 dur=0s
+1792070534 OBS stuckU=0 mounted=1
+1792070535 BLOCK-START
+1792070535 OBS stuckU=1 mounted=1
+1792070536 OBS stuckU=1 mounted=1
+1792070538 OBS stuckU=1 mounted=1
+1792070539 OBS stuckU=1 mounted=1
+1792070540 OBS stuckU=1 mounted=1
+1792070541 OBS stuckU=1 mounted=1
+1792070542 OBS stuckU=1 mounted=1
+1792070543 OBS stuckU=1 mounted=1
+1792070544 OBS stuckU=1 mounted=1
+1792070545 OBS stuckU=1 mounted=1
+1792070546 OBS stuckU=2 mounted=1
+1792070547 OBS stuckU=2 mounted=1
+1792070548 OBS stuckU=2 mounted=1
+1792070549 OBS stuckU=2 mounted=1
+1792070550 OBS stuckU=2 mounted=1
+1792070551 OBS stuckU=2 mounted=1
+1792070552 OBS stuckU=2 mounted=1
+1792070553 OBS stuckU=3 mounted=1
+1792070554 OBS stuckU=3 mounted=1
+1792070555 OBS stuckU=3 mounted=1
+1792070556 OBS stuckU=3 mounted=1
+1792070557 OBS stuckU=3 mounted=1
+1792070558 OBS stuckU=3 mounted=1
+1792070560 OBS stuckU=3 mounted=1
+1792070561 OBS stuckU=3 mounted=1
+1792070562 OBS stuckU=3 mounted=1
+1792070563 OBS stuckU=3 mounted=1
+1792070564 OBS stuckU=3 mounted=1
+1792070565 OBS stuckU=3 mounted=1
+1792070566 OBS stuckU=3 mounted=1
+1792070567 OBS stuckU=3 mounted=1
+1792070568 OBS stuckU=3 mounted=1
+1792070569 OBS stuckU=3 mounted=1
+1792070570 OBS stuckU=3 mounted=1
+1792070571 OBS stuckU=3 mounted=1
+1792070572 OBS stuckU=3 mounted=1
+1792070573 OBS stuckU=3 mounted=1
+1792070574 OBS stuckU=3 mounted=1
+1792070575 OBS stuckU=3 mounted=1
+1792070576 OBS stuckU=3 mounted=1
+1792070577 OBS stuckU=3 mounted=1
+1792070578 OBS stuckU=3 mounted=1
+1792070579 OBS stuckU=3 mounted=1
+1792070580 OBS stuckU=3 mounted=1
+1792070582 OBS stuckU=3 mounted=1
+1792070583 OBS stuckU=3 mounted=1
+1792070584 OBS stuckU=3 mounted=1
+1792070585 OBS stuckU=3 mounted=1
+1792070586 OBS stuckU=3 mounted=1
+1792070587 OBS stuckU=3 mounted=1
+1792070588 OBS stuckU=3 mounted=1
+1792070589 OBS stuckU=3 mounted=1
+1792070590 OBS stuckU=3 mounted=1
+1792070591 OBS stuckU=3 mounted=1
+1792070592 OBS stuckU=3 mounted=1
+1792070593 OBS stuckU=3 mounted=1
 cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_during: No such file or directory
-1792069835 B cp-during rc=1 dur=62s
-1792069835 A n=20 rc=1 dur=11s
-1792069835 OBS stuckU=1 mounted=1
-1792069837 OBS stuckU=2 mounted=1
-1792069838 OBS stuckU=2 mounted=1
-1792069839 OBS stuckU=2 mounted=1
-1792069840 OBS stuckU=2 mounted=1
-1792069841 OBS stuckU=2 mounted=1
-1792069842 OBS stuckU=2 mounted=1
-1792069843 OBS stuckU=2 mounted=1
-1792069844 OBS stuckU=2 mounted=1
-1792069845 OBS stuckU=2 mounted=1
-1792069846 OBS stuckU=2 mounted=1
-1792069847 A n=21 rc=1 dur=11s
-1792069847 OBS stuckU=1 mounted=1
-1792069848 A n=22 rc=0 dur=0s
-1792069848 OBS stuckU=0 mounted=1
-1792069849 A n=23 rc=0 dur=0s
-1792069849 OBS stuckU=0 mounted=1
-1792069850 A n=24 rc=0 dur=0s
-1792069851 OBS stuckU=0 mounted=1
-1792069851 A n=25 rc=0 dur=0s
-1792069852 OBS stuckU=0 mounted=1
-1792069852 A n=26 rc=1 dur=0s
-1792069853 OBS stuckU=0 mounted=1
-1792069853 A n=27 rc=0 dur=0s
-1792069854 OBS stuckU=0 mounted=1
-1792069855 A n=28 rc=0 dur=0s
-1792069855 OBS stuckU=0 mounted=1
-1792069856 A n=29 rc=0 dur=0s
-1792069856 OBS stuckU=0 mounted=1
-1792069857 A n=30 rc=0 dur=0s
-1792069857 OBS stuckU=0 mounted=1
-1792069858 A n=31 rc=0 dur=0s
-1792069858 OBS stuckU=0 mounted=1
-1792069859 A n=32 rc=0 dur=0s
-1792069859 OBS stuckU=0 mounted=1
-1792069860 A n=33 rc=0 dur=0s
-1792069860 OBS stuckU=0 mounted=1
-1792069861 A n=34 rc=0 dur=0s
-1792069861 OBS stuckU=0 mounted=1
-1792069862 A n=35 rc=0 dur=0s
-1792069862 OBS stuckU=0 mounted=1
-1792069863 A n=36 rc=0 dur=0s
-cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_after: fcopyfile failed: Input/output error
-1792069863 B cp-after rc=1 dur=0s
-cp: /Users/quasaur/Developer/nfs41-client/build/mnt_w/.nfs41_w/big_after: No such file or directory
-1792070306 B cp-after-retry rc=1 dur=0s
-RESULT big_after sha ok: NO
-RESULT append: lines= well-formed= garbled=
-RESULT A: ok=31 err=5 maxdur=48s
-RESULT maxStuckU=3
+1792070594 B cp-during rc=1 dur=49s
+1792070594 OBS stuckU=2 mounted=1
+1792070595 OBS stuckU=2 mounted=1
+1792070596 OBS stuckU=2 mounted=1
+1792070597 OBS stuckU=2 mounted=1
+1792070598 OBS stuckU=2 mounted=1
+1792070599 OBS stuckU=2 mounted=1
+1792070600 A n=19 rc=1 dur=65s
+1792070600 OBS stuckU=1 mounted=1
+1792070601 OBS stuckU=2 mounted=1
+1792070603 OBS stuckU=2 mounted=1
+1792070604 OBS stuckU=2 mounted=1
+1792070605 OBS stuckU=2 mounted=1
+1792070606 OBS stuckU=2 mounted=1
+1792070607 OBS stuckU=2 mounted=1
+1792070608 OBS stuckU=2 mounted=1
+1792070609 OBS stuckU=2 mounted=1
+1792070610 OBS stuckU=2 mounted=1
+1792070611 OBS stuckU=2 mounted=1
+1792070612 A n=20 rc=1 dur=11s
+1792070612 OBS stuckU=1 mounted=1
+1792070613 OBS stuckU=1 mounted=1
+1792070614 OBS stuckU=2 mounted=1
+1792070615 OBS stuckU=2 mounted=1
+1792070616 OBS stuckU=2 mounted=1
+1792070617 OBS stuckU=2 mounted=1
+1792070618 OBS stuckU=2 mounted=1
+1792070619 OBS stuckU=2 mounted=1
+1792070620 A n=21 rc=0 dur=7s
+1792070620 OBS stuckU=0 mounted=1
+1792070621 A n=22 rc=0 dur=0s
+1792070621 OBS stuckU=0 mounted=1
+1792070622 A n=23 rc=0 dur=0s
+1792070622 OBS stuckU=0 mounted=1
+1792070623 A n=24 rc=0 dur=0s
+1792070623 OBS stuckU=0 mounted=1
+1792070624 A n=25 rc=0 dur=0s
+1792070625 OBS stuckU=0 mounted=1
+1792070625 A n=26 rc=0 dur=0s
+1792070626 OBS stuckU=0 mounted=1
+1792070626 A n=27 rc=0 dur=0s
+1792070627 OBS stuckU=0 mounted=1
+1792070627 A n=28 rc=0 dur=0s
+1792070628 OBS stuckU=0 mounted=1
+1792070628 A n=29 rc=0 dur=0s
+1792070629 OBS stuckU=0 mounted=1
+1792070629 A n=30 rc=0 dur=0s
+1792070630 OBS stuckU=0 mounted=1
+1792070630 A n=31 rc=0 dur=0s
+1792070631 OBS stuckU=0 mounted=1
+1792070631 A n=32 rc=0 dur=0s
+1792070632 OBS stuckU=0 mounted=1
+1792070632 A n=33 rc=0 dur=0s
+1792070633 OBS stuckU=0 mounted=1
+1792070633 A n=34 rc=0 dur=0s
+1792070634 OBS stuckU=0 mounted=1
+1792070634 A n=35 rc=0 dur=0s
+1792070635 OBS stuckU=0 mounted=1
+1792070635 A n=36 rc=0 dur=0s
+1792070636 OBS stuckU=0 mounted=1
+1792070636 A n=37 rc=0 dur=0s
+1792070637 OBS stuckU=0 mounted=1
+1792070637 A n=38 rc=0 dur=0s
+1792070638 OBS stuckU=0 mounted=1
+1792070638 A n=39 rc=0 dur=0s
+1792070639 OBS stuckU=0 mounted=1
+1792070639 A n=40 rc=0 dur=0s
+1792070640 OBS stuckU=0 mounted=1
+1792070641 A n=41 rc=0 dur=0s
+1792070641 OBS stuckU=0 mounted=1
+1792070642 A n=42 rc=0 dur=0s
+1792070642 OBS stuckU=0 mounted=1
+1792070643 A n=43 rc=0 dur=0s
+1792070643 OBS stuckU=0 mounted=1
+1792070644 A n=44 rc=0 dur=0s
+1792070644 OBS stuckU=0 mounted=1
+1792070645 A n=45 rc=0 dur=0s
+1792070645 OBS stuckU=0 mounted=1
+1792070646 A n=46 rc=0 dur=0s
+1792070647 OBS stuckU=0 mounted=1
+1792070647 A n=47 rc=0 dur=0s
+1792070648 OBS stuckU=0 mounted=1
+1792070648 A n=48 rc=0 dur=0s
+1792070649 A n=49 rc=0 dur=0s
+1792070649 OBS stuckU=0 mounted=1
+1792070650 A n=50 rc=0 dur=0s
+1792070650 OBS stuckU=1 mounted=1
+1792070651 A n=51 rc=0 dur=0s
+1792070651 OBS stuckU=0 mounted=1
+1792070652 A n=52 rc=0 dur=0s
+1792070652 OBS stuckU=0 mounted=1
+1792070653 A n=53 rc=0 dur=0s
+1792070653 OBS stuckU=0 mounted=1
+1792070654 A n=54 rc=0 dur=0s
+1792070654 OBS stuckU=0 mounted=1
+1792070655 A n=55 rc=0 dur=0s
+1792070655 OBS stuckU=0 mounted=1
+1792070656 A n=56 rc=0 dur=0s
+1792070656 OBS stuckU=0 mounted=1
+1792070657 A n=57 rc=0 dur=0s
+1792070657 OBS stuckU=0 mounted=1
+1792070658 A n=58 rc=0 dur=0s
+1792070658 OBS stuckU=0 mounted=1
+1792070659 A n=59 rc=0 dur=0s
+1792070659 OBS stuckU=0 mounted=1
+1792070660 A n=60 rc=0 dur=0s
+1792070660 OBS stuckU=0 mounted=1
+1792070661 A n=61 rc=0 dur=0s
+1792070661 OBS stuckU=0 mounted=1
+1792070662 A n=62 rc=0 dur=0s
+1792070662 OBS stuckU=0 mounted=1
+1792070663 A n=63 rc=0 dur=0s
+1792070663 OBS stuckU=0 mounted=1
+1792070664 A n=64 rc=0 dur=0s
+1792070664 OBS stuckU=0 mounted=1
+1792070665 A n=65 rc=0 dur=0s
+1792070665 OBS stuckU=0 mounted=1
+1792070666 A n=66 rc=0 dur=0s
+1792070666 OBS stuckU=0 mounted=1
+1792070667 A n=67 rc=0 dur=0s
+1792070667 OBS stuckU=0 mounted=1
+1792070668 A n=68 rc=0 dur=0s
+1792070669 OBS stuckU=0 mounted=1
+1792070669 A n=69 rc=0 dur=0s
+1792070670 OBS stuckU=0 mounted=1
+1792070670 A n=70 rc=0 dur=0s
+1792070671 OBS stuckU=0 mounted=1
+1792070671 A n=71 rc=0 dur=0s
+1792070672 OBS stuckU=0 mounted=1
+1792070672 A n=72 rc=0 dur=0s
+1792070673 OBS stuckU=0 mounted=1
+1792070673 A n=73 rc=0 dur=0s
+1792070674 OBS stuckU=0 mounted=1
+1792070674 A n=74 rc=0 dur=0s
+1792070675 OBS stuckU=0 mounted=1
+1792070675 A n=75 rc=0 dur=0s
+1792070676 OBS stuckU=0 mounted=1
+1792070676 A n=76 rc=1 dur=0s
+1792070677 OBS stuckU=0 mounted=1
+1792070677 A n=77 rc=1 dur=0s
+1792070678 OBS stuckU=0 mounted=1
+1792070678 A n=78 rc=0 dur=0s
+1792070679 OBS stuckU=0 mounted=1
+1792070679 A n=79 rc=0 dur=0s
+1792070680 OBS stuckU=0 mounted=1
+1792070680 A n=80 rc=0 dur=0s
+1792070681 OBS stuckU=0 mounted=1
+1792070681 A n=81 rc=0 dur=0s
+1792070682 OBS stuckU=0 mounted=1
+1792070682 A n=82 rc=0 dur=0s
+1792070683 OBS stuckU=0 mounted=1
+1792070683 A n=83 rc=0 dur=0s
+1792070684 OBS stuckU=0 mounted=1
+1792070684 A n=84 rc=0 dur=0s
+1792070685 OBS stuckU=0 mounted=1
+1792070685 A n=85 rc=0 dur=0s
+1792070686 OBS stuckU=0 mounted=1
+1792070686 A n=86 rc=0 dur=0s
+1792070687 A n=87 rc=0 dur=0s
+1792070687 OBS stuckU=0 mounted=1
+1792070688 A n=88 rc=0 dur=0s
+1792070688 OBS stuckU=1 mounted=1
+1792070689 A n=89 rc=0 dur=0s
+1792070690 OBS stuckU=0 mounted=1
+1792070691 A n=90 rc=0 dur=0s
+1792070691 OBS stuckU=0 mounted=1
+1792070692 A n=91 rc=0 dur=0s
+1792070692 OBS stuckU=0 mounted=1
+1792070693 A n=92 rc=0 dur=0s
+1792070693 OBS stuckU=0 mounted=1
+1792070694 A n=93 rc=0 dur=0s
+1792070694 OBS stuckU=0 mounted=1
+1792070695 A n=94 rc=0 dur=0s
+1792070695 OBS stuckU=0 mounted=1
+1792070696 A n=95 rc=0 dur=0s
+1792070696 OBS stuckU=0 mounted=1
+1792070697 A n=96 rc=0 dur=0s
+1792070697 OBS stuckU=0 mounted=1
+1792070698 A n=97 rc=0 dur=0s
+1792070698 OBS stuckU=0 mounted=1
+1792070699 A n=98 rc=0 dur=0s
+1792070699 OBS stuckU=0 mounted=1
+1792070700 A n=99 rc=0 dur=0s
+1792070700 OBS stuckU=0 mounted=1
+1792070701 A n=100 rc=0 dur=0s
+1792070701 OBS stuckU=0 mounted=1
+1792070702 A n=101 rc=0 dur=0s
+1792070702 OBS stuckU=1 mounted=1
+1792070703 A n=102 rc=0 dur=0s
+1792070703 OBS stuckU=0 mounted=1
+1792070704 A n=103 rc=0 dur=0s
+1792070704 OBS stuckU=0 mounted=1
+1792070705 A n=104 rc=0 dur=0s
+1792070705 OBS stuckU=0 mounted=1
+1792070706 A n=105 rc=0 dur=0s
+1792070706 OBS stuckU=0 mounted=1
+1792070707 A n=106 rc=0 dur=0s
+1792070707 OBS stuckU=0 mounted=1
+1792070708 A n=107 rc=0 dur=0s
+1792070708 OBS stuckU=0 mounted=1
+1792070709 A n=108 rc=0 dur=0s
+1792070709 OBS stuckU=0 mounted=1
+1792070710 A n=109 rc=0 dur=0s
+1792070711 OBS stuckU=0 mounted=1
+1792070711 A n=110 rc=0 dur=0s
+1792070712 OBS stuckU=0 mounted=1
+1792070712 A n=111 rc=0 dur=0s
+1792070713 OBS stuckU=0 mounted=1
+1792070713 A n=112 rc=0 dur=0s
+1792070714 OBS stuckU=0 mounted=1
+1792070714 A n=113 rc=0 dur=0s
+1792070715 OBS stuckU=0 mounted=1
+1792070715 A n=114 rc=0 dur=0s
+1792070716 OBS stuckU=0 mounted=1
+1792070716 A n=115 rc=0 dur=0s
+1792070717 OBS stuckU=0 mounted=1
+1792070717 A n=116 rc=0 dur=0s
+1792070718 OBS stuckU=0 mounted=1
+1792070718 A n=117 rc=0 dur=0s
+1792070719 OBS stuckU=0 mounted=1
+1792070719 A n=118 rc=1 dur=0s
+1792070720 OBS stuckU=0 mounted=1
+1792070720 A n=119 rc=0 dur=0s
+1792070721 OBS stuckU=0 mounted=1
+1792070721 A n=120 rc=0 dur=0s
+1792070722 OBS stuckU=0 mounted=1
+1792070722 A n=121 rc=0 dur=0s
+1792070723 OBS stuckU=0 mounted=1
+1792070723 A n=122 rc=0 dur=0s
+1792070724 OBS stuckU=0 mounted=1
+1792070724 A n=123 rc=0 dur=0s
+1792070725 A n=124 rc=0 dur=0s
+1792070725 OBS stuckU=0 mounted=1
+1792070726 A n=125 rc=0 dur=0s
+1792070726 OBS stuckU=0 mounted=1
+1792070727 A n=126 rc=0 dur=0s
+1792070727 OBS stuckU=0 mounted=1
+1792070728 A n=127 rc=0 dur=0s
+1792070728 OBS stuckU=0 mounted=1
+1792070729 A n=128 rc=0 dur=0s
+1792070729 OBS stuckU=0 mounted=1
+1792070730 A n=129 rc=0 dur=0s
+1792070730 OBS stuckU=0 mounted=1
+1792070731 A n=130 rc=0 dur=0s
+1792070731 OBS stuckU=0 mounted=1
+1792070732 A n=131 rc=0 dur=0s
+1792070733 OBS stuckU=0 mounted=1
+1792070733 A n=132 rc=0 dur=0s
+1792070734 OBS stuckU=0 mounted=1
+1792070734 A n=133 rc=0 dur=0s
+1792070735 OBS stuckU=0 mounted=1
+1792070735 A n=134 rc=0 dur=0s
+1792070736 OBS stuckU=0 mounted=1
+1792070736 A n=135 rc=0 dur=0s
+1792070737 OBS stuckU=0 mounted=1
+1792070737 A n=136 rc=0 dur=0s
+1792070738 OBS stuckU=0 mounted=1
+1792070738 A n=137 rc=0 dur=0s
+1792070739 OBS stuckU=0 mounted=1
+1792070739 A n=138 rc=0 dur=0s
+1792070740 OBS stuckU=1 mounted=1
+1792070740 A n=139 rc=0 dur=0s
+1792070741 OBS stuckU=0 mounted=1
+1792070742 A n=140 rc=0 dur=0s
+1792070742 OBS stuckU=0 mounted=1
+1792070743 A n=141 rc=0 dur=0s
+1792070743 OBS stuckU=0 mounted=1
+1792070744 A n=142 rc=0 dur=0s
+1792070744 OBS stuckU=0 mounted=1
+1792070745 A n=143 rc=0 dur=0s
+1792070745 OBS stuckU=0 mounted=1
+1792070746 A n=144 rc=0 dur=0s
+1792070746 OBS stuckU=0 mounted=1
+1792070747 A n=145 rc=0 dur=0s
+1792070747 OBS stuckU=0 mounted=1
+1792070748 A n=146 rc=0 dur=0s
+1792070748 OBS stuckU=0 mounted=1
+1792070749 A n=147 rc=0 dur=0s
+1792070749 OBS stuckU=0 mounted=1
+1792070750 A n=148 rc=0 dur=0s
+1792070750 OBS stuckU=0 mounted=1
+1792070751 A n=149 rc=0 dur=0s
+1792070751 OBS stuckU=0 mounted=1
+1792070752 A n=150 rc=0 dur=0s
+1792070752 OBS stuckU=0 mounted=1
+1792070753 A n=151 rc=0 dur=0s
+1792070753 OBS stuckU=0 mounted=1
+1792070754 A n=152 rc=0 dur=0s
+1792070755 OBS stuckU=0 mounted=1
+1792070755 A n=153 rc=0 dur=0s
+1792070756 OBS stuckU=0 mounted=1
+1792070756 A n=154 rc=0 dur=0s
+1792070757 OBS stuckU=0 mounted=1
+1792070757 A n=155 rc=0 dur=0s
+1792070758 OBS stuckU=0 mounted=1
+1792070758 A n=156 rc=0 dur=0s
+1792070759 OBS stuckU=0 mounted=1
+1792070759 A n=157 rc=0 dur=0s
+1792070760 OBS stuckU=0 mounted=1
+1792070760 A n=158 rc=0 dur=0s
+1792070761 OBS stuckU=0 mounted=1
+1792070761 A n=159 rc=0 dur=0s
+1792070762 OBS stuckU=0 mounted=1
+1792070762 A n=160 rc=0 dur=0s
+1792070763 OBS stuckU=0 mounted=1
+1792070763 A n=161 rc=0 dur=0s
+1792070764 A n=162 rc=0 dur=0s
+1792070764 OBS stuckU=0 mounted=1
+1792070765 A n=163 rc=0 dur=0s
+1792070765 OBS stuckU=1 mounted=1
+1792070766 A n=164 rc=0 dur=0s
+1792070766 OBS stuckU=0 mounted=1
+1792070767 A n=165 rc=0 dur=0s
+1792070767 OBS stuckU=0 mounted=1
+1792070768 A n=166 rc=0 dur=0s
+1792070768 OBS stuckU=0 mounted=1
+1792070769 A n=167 rc=0 dur=0s
+1792070769 OBS stuckU=0 mounted=1
+1792070770 A n=168 rc=0 dur=0s
+1792070770 OBS stuckU=0 mounted=1
+1792070771 A n=169 rc=0 dur=0s
+1792070771 OBS stuckU=0 mounted=1
+1792070772 A n=170 rc=0 dur=0s
+1792070772 OBS stuckU=0 mounted=1
+1792070773 A n=171 rc=0 dur=0s
+1792070773 OBS stuckU=0 mounted=1
+1792070774 A n=172 rc=0 dur=0s
+1792070774 OBS stuckU=0 mounted=1
+1792070775 A n=173 rc=0 dur=0s
+1792070775 OBS stuckU=0 mounted=1
+1792070776 A n=174 rc=0 dur=0s
+1792070777 OBS stuckU=0 mounted=1
+1792070777 A n=175 rc=0 dur=0s
+1792070778 OBS stuckU=0 mounted=1
+1792070778 A n=176 rc=0 dur=0s
+1792070779 OBS stuckU=0 mounted=1
+1792070779 A n=177 rc=0 dur=0s
+1792070780 OBS stuckU=0 mounted=1
+1792070780 A n=178 rc=0 dur=0s
+1792070781 OBS stuckU=0 mounted=1
+1792070781 A n=179 rc=0 dur=0s
+1792070782 OBS stuckU=0 mounted=1
+1792070782 A n=180 rc=0 dur=0s
+1792070783 OBS stuckU=0 mounted=1
+1792070783 A n=181 rc=0 dur=0s
+1792070784 OBS stuckU=0 mounted=1
+1792070784 A n=182 rc=0 dur=0s
+1792070785 OBS stuckU=0 mounted=1
+1792070785 A n=183 rc=0 dur=0s
+1792070786 OBS stuckU=0 mounted=1
+1792070786 A n=184 rc=0 dur=0s
+1792070787 OBS stuckU=0 mounted=1
+1792070788 A n=185 rc=0 dur=1s
+1792070788 OBS stuckU=0 mounted=1
+1792070789 A n=186 rc=0 dur=0s
+1792070789 OBS stuckU=0 mounted=1
+1792070790 A n=187 rc=0 dur=0s
+1792070790 OBS stuckU=0 mounted=1
+1792070791 A n=188 rc=0 dur=0s
+1792070791 OBS stuckU=0 mounted=1
+1792070792 A n=189 rc=0 dur=0s
+1792070792 OBS stuckU=0 mounted=1
+1792070793 A n=190 rc=0 dur=0s
+1792070793 OBS stuckU=0 mounted=1
+1792070794 A n=191 rc=0 dur=0s
+1792070794 OBS stuckU=0 mounted=1
+1792070795 A n=192 rc=0 dur=0s
+1792070795 OBS stuckU=0 mounted=1
+1792070796 A n=193 rc=0 dur=0s
+1792070796 OBS stuckU=0 mounted=1
+1792070797 A n=194 rc=0 dur=0s
+1792070798 OBS stuckU=0 mounted=1
+1792070798 A n=195 rc=0 dur=0s
+1792070799 OBS stuckU=0 mounted=1
+1792070799 A n=196 rc=0 dur=0s
+1792070800 OBS stuckU=0 mounted=1
+1792070800 A n=197 rc=0 dur=0s
+1792070801 OBS stuckU=0 mounted=1
+1792070801 A n=198 rc=0 dur=0s
+1792070802 OBS stuckU=0 mounted=1
+1792070802 A n=199 rc=0 dur=0s
+1792070803 OBS stuckU=0 mounted=1
+1792070803 A n=200 rc=0 dur=0s
+1792070804 A n=201 rc=0 dur=0s
+1792070804 OBS stuckU=1 mounted=1
+1792070805 A n=202 rc=0 dur=0s
+1792070805 OBS stuckU=0 mounted=1
+1792070806 A n=203 rc=0 dur=0s
+1792070806 OBS stuckU=0 mounted=1
+1792070807 A n=204 rc=0 dur=0s
+1792070807 OBS stuckU=0 mounted=1
+1792070808 A n=205 rc=0 dur=0s
+1792070808 OBS stuckU=0 mounted=1
+1792070809 A n=206 rc=0 dur=0s
+1792070809 OBS stuckU=0 mounted=1
+1792070810 A n=207 rc=0 dur=0s
+1792070810 OBS stuckU=0 mounted=1
+1792070811 A n=208 rc=0 dur=0s
+1792070811 OBS stuckU=0 mounted=1
+1792070812 A n=209 rc=0 dur=0s
+1792070812 OBS stuckU=0 mounted=1
+1792070813 A n=210 rc=0 dur=0s
+1792070813 OBS stuckU=0 mounted=1
+1792070814 A n=211 rc=0 dur=0s
+1792070814 OBS stuckU=0 mounted=1
+1792070815 A n=212 rc=0 dur=0s
+1792070815 OBS stuckU=0 mounted=1
+1792070816 A n=213 rc=0 dur=0s
+1792070816 OBS stuckU=0 mounted=1
+1792070817 A n=214 rc=0 dur=0s
+1792070817 OBS stuckU=0 mounted=1
+1792070818 A n=215 rc=0 dur=0s
+1792070818 OBS stuckU=0 mounted=1
+1792070819 A n=216 rc=0 dur=0s
+1792070820 OBS stuckU=0 mounted=1
+1792070820 A n=217 rc=0 dur=0s
+1792070821 OBS stuckU=0 mounted=1
+1792070821 A n=218 rc=0 dur=0s
+1792070822 OBS stuckU=0 mounted=1
+1792070822 A n=219 rc=0 dur=0s
+1792070823 OBS stuckU=0 mounted=1
+1792070823 A n=220 rc=0 dur=0s
+1792070824 OBS stuckU=0 mounted=1
+1792070824 A n=221 rc=0 dur=0s
+1792070825 OBS stuckU=0 mounted=1
+1792070825 A n=222 rc=0 dur=0s
+1792070826 OBS stuckU=0 mounted=1
+1792070826 A n=223 rc=0 dur=0s
+1792070827 OBS stuckU=0 mounted=1
+1792070827 A n=224 rc=0 dur=0s
+1792070828 OBS stuckU=0 mounted=1
+1792070828 A n=225 rc=1 dur=0s
+1792070829 OBS stuckU=0 mounted=1
+1792070829 A n=226 rc=1 dur=0s
+1792070830 OBS stuckU=0 mounted=1
+1792070830 A n=227 rc=0 dur=0s
+1792070831 OBS stuckU=0 mounted=1
+1792070831 A n=228 rc=0 dur=0s
+1792070832 OBS stuckU=0 mounted=1
+1792070832 A n=229 rc=0 dur=0s
+1792070833 OBS stuckU=0 mounted=1
+1792070833 A n=230 rc=0 dur=0s
+1792070834 OBS stuckU=0 mounted=1
+1792070834 A n=231 rc=0 dur=0s
+1792070835 OBS stuckU=0 mounted=1
+1792070835 A n=232 rc=0 dur=0s
+1792070836 OBS stuckU=0 mounted=1
+1792070837 A n=233 rc=0 dur=1s
+1792070837 OBS stuckU=0 mounted=1
+1792070838 A n=234 rc=0 dur=0s
+1792070838 OBS stuckU=0 mounted=1
+1792070839 A n=235 rc=0 dur=0s
+1792070839 OBS stuckU=0 mounted=1
+1792070840 A n=236 rc=0 dur=0s
+1792070841 OBS stuckU=0 mounted=1
+1792070841 A n=237 rc=0 dur=0s
+1792070842 OBS stuckU=0 mounted=1
+1792070842 A n=238 rc=0 dur=0s
+1792070843 A n=239 rc=0 dur=0s
+1792070843 OBS stuckU=0 mounted=1
+1792070844 A n=240 rc=0 dur=0s
+1792070844 OBS stuckU=0 mounted=1
+1792070845 A n=241 rc=0 dur=0s
+1792070845 OBS stuckU=0 mounted=1
+1792070846 A n=242 rc=0 dur=0s
+1792070846 OBS stuckU=0 mounted=1
+1792070847 A n=243 rc=0 dur=0s
+1792070847 OBS stuckU=0 mounted=1
+1792070848 A n=244 rc=0 dur=0s
+1792070848 OBS stuckU=0 mounted=1
+1792070849 A n=245 rc=0 dur=0s
+1792070849 OBS stuckU=0 mounted=1
+1792070850 A n=246 rc=0 dur=0s
+1792070850 OBS stuckU=0 mounted=1
+1792070851 A n=247 rc=0 dur=0s
+1792070851 OBS stuckU=0 mounted=1
+1792070852 A n=248 rc=0 dur=0s
+1792070852 OBS stuckU=0 mounted=1
+1792070853 A n=249 rc=0 dur=0s
+1792070853 OBS stuckU=0 mounted=1
+1792070854 A n=250 rc=0 dur=0s
+1792070854 OBS stuckU=0 mounted=1
+1792070855 A n=251 rc=0 dur=0s
+1792070855 OBS stuckU=1 mounted=1
+1792070856 A n=252 rc=0 dur=0s
+1792070856 OBS stuckU=0 mounted=1
+1792070857 A n=253 rc=0 dur=0s
+1792070857 OBS stuckU=0 mounted=1
+1792070858 A n=254 rc=0 dur=0s
+1792070858 OBS stuckU=0 mounted=1
+1792070859 A n=255 rc=0 dur=0s
+1792070859 OBS stuckU=0 mounted=1
+1792070860 A n=256 rc=0 dur=0s
+1792070860 OBS stuckU=0 mounted=1
+1792070861 A n=257 rc=0 dur=0s
+1792070861 OBS stuckU=0 mounted=1
+1792070862 A n=258 rc=0 dur=0s
+1792070863 OBS stuckU=0 mounted=1
+1792070863 A n=259 rc=0 dur=0s
+1792070864 OBS stuckU=0 mounted=1
+1792070864 A n=260 rc=0 dur=0s
+1792070865 OBS stuckU=0 mounted=1
+1792070865 A n=261 rc=0 dur=0s
+1792070866 OBS stuckU=0 mounted=1
+1792070866 A n=262 rc=0 dur=0s
+1792070867 OBS stuckU=0 mounted=1
+1792070867 A n=263 rc=0 dur=0s
+1792070868 OBS stuckU=0 mounted=1
+1792070868 A n=264 rc=0 dur=0s
+1792070869 OBS stuckU=0 mounted=1
+1792070869 A n=265 rc=0 dur=0s
+1792070870 OBS stuckU=0 mounted=1
+1792070870 A n=266 rc=0 dur=0s
+1792070871 OBS stuckU=0 mounted=1
+1792070871 A n=267 rc=0 dur=0s
+1792070872 OBS stuckU=0 mounted=1
+1792070872 A n=268 rc=0 dur=0s
+1792070873 OBS stuckU=0 mounted=1
+1792070873 A n=269 rc=0 dur=0s
+1792070874 OBS stuckU=0 mounted=1
+1792070874 A n=270 rc=0 dur=0s
+1792070875 OBS stuckU=0 mounted=1
+1792070875 A n=271 rc=0 dur=0s
+1792070876 OBS stuckU=0 mounted=1
+1792070876 A n=272 rc=0 dur=0s
+1792070877 OBS stuckU=0 mounted=1
+1792070877 A n=273 rc=0 dur=0s
+1792070878 OBS stuckU=0 mounted=1
+1792070878 A n=274 rc=0 dur=0s
+1792070879 OBS stuckU=0 mounted=1
+1792070879 A n=275 rc=0 dur=0s
+1792070880 OBS stuckU=0 mounted=1
+1792070880 A n=276 rc=0 dur=0s
+1792070881 A n=277 rc=0 dur=0s
+1792070881 OBS stuckU=0 mounted=1
+1792070882 A n=278 rc=0 dur=0s
+1792070882 OBS stuckU=0 mounted=1
+1792070883 A n=279 rc=0 dur=0s
+1792070884 OBS stuckU=0 mounted=1
+1792070884 A n=280 rc=0 dur=0s
+1792070885 OBS stuckU=0 mounted=1
+1792070886 A n=281 rc=0 dur=0s
+1792070886 OBS stuckU=0 mounted=1
+1792070887 A n=282 rc=0 dur=0s
+1792070887 OBS stuckU=0 mounted=1
+1792070888 A n=283 rc=0 dur=0s
+1792070888 OBS stuckU=0 mounted=1
+1792070889 A n=284 rc=0 dur=0s
+1792070889 OBS stuckU=0 mounted=1
+1792070890 A n=285 rc=0 dur=0s
+1792070890 OBS stuckU=0 mounted=1
+1792070891 A n=286 rc=0 dur=0s
+1792070891 OBS stuckU=0 mounted=1
+1792070892 A n=287 rc=0 dur=0s
+1792070892 OBS stuckU=0 mounted=1
+1792070893 A n=288 rc=0 dur=0s
+1792070893 OBS stuckU=0 mounted=1
+1792070894 A n=289 rc=0 dur=0s
+1792070894 OBS stuckU=0 mounted=1
+1792070895 A n=290 rc=0 dur=0s
+1792070895 OBS stuckU=0 mounted=1
+1792070896 A n=291 rc=0 dur=0s
+1792070896 OBS stuckU=0 mounted=1
+1792070897 A n=292 rc=0 dur=0s
+1792070897 OBS stuckU=0 mounted=1
+1792070898 A n=293 rc=0 dur=0s
+1792070898 OBS stuckU=0 mounted=1
+1792070899 A n=294 rc=0 dur=0s
+1792070899 OBS stuckU=0 mounted=1
+1792070900 A n=295 rc=0 dur=0s
+1792070900 OBS stuckU=0 mounted=1
+1792070901 A n=296 rc=0 dur=0s
+1792070901 OBS stuckU=0 mounted=1
+1792070902 A n=297 rc=0 dur=0s
+1792070902 OBS stuckU=0 mounted=1
+1792070903 A n=298 rc=0 dur=0s
+1792070903 OBS stuckU=0 mounted=1
+1792070904 A n=299 rc=0 dur=0s
+1792070904 OBS stuckU=0 mounted=1
+1792070905 A n=300 rc=0 dur=0s
+1792070906 OBS stuckU=0 mounted=1
+1792070906 A n=301 rc=0 dur=0s
+1792070907 OBS stuckU=0 mounted=1
+1792070907 A n=302 rc=0 dur=0s
+1792070908 OBS stuckU=0 mounted=1
+1792070908 A n=303 rc=0 dur=0s
+1792070909 OBS stuckU=0 mounted=1
+1792070909 A n=304 rc=0 dur=0s
+1792070910 OBS stuckU=0 mounted=1
+1792070910 A n=305 rc=0 dur=0s
+1792070911 OBS stuckU=0 mounted=1
+1792070911 A n=306 rc=0 dur=0s
+1792070912 OBS stuckU=0 mounted=1
+1792070912 A n=307 rc=0 dur=0s
+1792070913 OBS stuckU=0 mounted=1
+1792070913 A n=308 rc=0 dur=0s
+1792070914 OBS stuckU=0 mounted=1
+1792070914 A n=309 rc=0 dur=0s
+1792070915 OBS stuckU=0 mounted=1
+1792070915 A n=310 rc=0 dur=0s
+1792070916 OBS stuckU=0 mounted=1
+1792070916 A n=311 rc=0 dur=0s
+1792070917 OBS stuckU=0 mounted=1
+1792070917 A n=312 rc=0 dur=0s
+1792070918 OBS stuckU=0 mounted=1
+1792070918 A n=313 rc=0 dur=0s
+1792070919 OBS stuckU=0 mounted=1
+1792070919 A n=314 rc=0 dur=0s
+1792070920 A n=315 rc=0 dur=0s
+1792070920 OBS stuckU=0 mounted=1
+1792070921 A n=316 rc=0 dur=0s
+1792070921 OBS stuckU=0 mounted=1
+1792070922 A n=317 rc=0 dur=0s
+1792070922 OBS stuckU=0 mounted=1
+1792070923 A n=318 rc=0 dur=0s
+1792070923 OBS stuckU=0 mounted=1
+1792070924 A n=319 rc=0 dur=0s
+1792070924 OBS stuckU=0 mounted=1
+1792070925 A n=320 rc=0 dur=0s
+1792070925 OBS stuckU=0 mounted=1
+1792070926 A n=321 rc=0 dur=0s
+1792070926 OBS stuckU=0 mounted=1
+1792070927 A n=322 rc=0 dur=0s
+1792070928 OBS stuckU=0 mounted=1
+1792070928 A n=323 rc=0 dur=0s
+1792070929 OBS stuckU=0 mounted=1
+1792070929 A n=324 rc=0 dur=0s
+1792070930 OBS stuckU=0 mounted=1
+1792070930 A n=325 rc=0 dur=0s
+1792070931 OBS stuckU=0 mounted=1
+1792070931 A n=326 rc=0 dur=0s
+1792070932 OBS stuckU=0 mounted=1
+1792070932 A n=327 rc=0 dur=0s
+1792070933 OBS stuckU=0 mounted=1
+1792070933 A n=328 rc=0 dur=0s
+1792070934 OBS stuckU=0 mounted=1
+1792070935 A n=329 rc=0 dur=0s
+1792070935 OBS stuckU=0 mounted=1
+1792070936 A n=330 rc=0 dur=0s
+1792070936 OBS stuckU=0 mounted=1
+1792070937 A n=331 rc=0 dur=0s
+1792070937 OBS stuckU=0 mounted=1
+1792070938 A n=332 rc=0 dur=0s
+1792070938 OBS stuckU=0 mounted=1
+1792070939 A n=333 rc=0 dur=0s
+1792070939 OBS stuckU=0 mounted=1
+1792070940 A n=334 rc=0 dur=0s
+1792070940 OBS stuckU=0 mounted=1
+1792070941 A n=335 rc=0 dur=0s
+1792070941 OBS stuckU=0 mounted=1
+1792070942 A n=336 rc=0 dur=0s
+1792070942 OBS stuckU=0 mounted=1
+1792070943 A n=337 rc=0 dur=0s
+1792070943 OBS stuckU=0 mounted=1
+1792070944 A n=338 rc=0 dur=0s
+1792070944 OBS stuckU=0 mounted=1
+1792070945 A n=339 rc=0 dur=0s
+1792070945 OBS stuckU=0 mounted=1
+1792070946 A n=340 rc=0 dur=0s
+1792070946 OBS stuckU=0 mounted=1
+1792070947 A n=341 rc=0 dur=0s
+1792070947 OBS stuckU=0 mounted=1
+1792070948 A n=342 rc=0 dur=0s
+1792070949 OBS stuckU=0 mounted=1
+1792070949 A n=343 rc=0 dur=0s
+1792070950 OBS stuckU=0 mounted=1
+1792070950 A n=344 rc=0 dur=0s
+1792070951 OBS stuckU=0 mounted=1
+1792070951 A n=345 rc=0 dur=0s
+1792070952 OBS stuckU=0 mounted=1
+1792070952 A n=346 rc=0 dur=0s
+1792070953 OBS stuckU=0 mounted=1
+1792070953 A n=347 rc=0 dur=0s
+1792070954 OBS stuckU=0 mounted=1
+1792070954 A n=348 rc=0 dur=0s
+1792070955 OBS stuckU=0 mounted=1
+1792070955 A n=349 rc=0 dur=0s
+1792070956 OBS stuckU=0 mounted=1
+1792070956 A n=350 rc=0 dur=0s
+1792070957 OBS stuckU=0 mounted=1
+1792070957 A n=351 rc=0 dur=0s
+1792070958 OBS stuckU=0 mounted=1
+1792070958 A n=352 rc=0 dur=0s
+1792070959 A n=353 rc=0 dur=0s
+1792070959 OBS stuckU=0 mounted=1
+1792070960 A n=354 rc=0 dur=0s
+1792070960 OBS stuckU=0 mounted=1
+1792070961 A n=355 rc=0 dur=0s
+1792070961 OBS stuckU=0 mounted=1
+1792070962 A n=356 rc=0 dur=0s
+1792070962 OBS stuckU=0 mounted=1
+1792070963 A n=357 rc=0 dur=0s
+1792070963 OBS stuckU=0 mounted=1
+1792070964 A n=358 rc=0 dur=0s
+1792070964 OBS stuckU=0 mounted=1
+1792070965 A n=359 rc=0 dur=0s
+1792070965 OBS stuckU=0 mounted=1
+1792070966 A n=360 rc=0 dur=0s
+1792070966 OBS stuckU=0 mounted=1
+1792070967 A n=361 rc=0 dur=0s
+1792070967 OBS stuckU=0 mounted=1
+1792070968 A n=362 rc=0 dur=0s
+1792070968 OBS stuckU=0 mounted=1
+1792070969 A n=363 rc=0 dur=0s
+1792070969 OBS stuckU=0 mounted=1
+1792070970 A n=364 rc=0 dur=0s
+1792070971 OBS stuckU=0 mounted=1
+1792070971 A n=365 rc=0 dur=0s
+1792070972 OBS stuckU=0 mounted=1
+1792070972 A n=366 rc=0 dur=0s
+1792070973 OBS stuckU=0 mounted=1
+1792070973 A n=367 rc=0 dur=0s
+1792070974 OBS stuckU=0 mounted=1
+1792070974 A n=368 rc=0 dur=0s
+1792070975 OBS stuckU=0 mounted=1
+1792070975 A n=369 rc=0 dur=0s
+1792070976 OBS stuckU=0 mounted=1
+1792070976 A n=370 rc=0 dur=0s
+1792070977 OBS stuckU=0 mounted=1
+1792070977 A n=371 rc=0 dur=0s
+1792070978 OBS stuckU=0 mounted=1
+1792070978 A n=372 rc=0 dur=0s
+1792070979 OBS stuckU=0 mounted=1
+1792070979 A n=373 rc=0 dur=0s
+1792070980 OBS stuckU=0 mounted=1
+1792070980 A n=374 rc=0 dur=0s
+1792070981 OBS stuckU=0 mounted=1
+1792070982 A n=375 rc=0 dur=1s
+1792070982 OBS stuckU=0 mounted=1
+1792070983 A n=376 rc=0 dur=0s
+1792070983 OBS stuckU=0 mounted=1
+1792070984 A n=377 rc=0 dur=0s
+1792070984 OBS stuckU=0 mounted=1
+1792070985 A n=378 rc=0 dur=0s
+1792070985 OBS stuckU=0 mounted=1
+1792070986 A n=379 rc=0 dur=0s
+1792070986 OBS stuckU=0 mounted=1
+1792070987 A n=380 rc=0 dur=0s
+1792070987 OBS stuckU=0 mounted=1
+1792070988 A n=381 rc=0 dur=0s
+1792070988 OBS stuckU=0 mounted=1
+1792070989 A n=382 rc=0 dur=0s
+1792070989 OBS stuckU=0 mounted=1
+1792070990 A n=383 rc=1 dur=0s
+1792070990 OBS stuckU=0 mounted=1
+1792070991 A n=384 rc=1 dur=0s
+1792070991 OBS stuckU=0 mounted=1
+1792070992 A n=385 rc=0 dur=0s
+1792070993 OBS stuckU=0 mounted=1
+1792070993 A n=386 rc=0 dur=0s
+1792070994 OBS stuckU=0 mounted=1
+1792070994 A n=387 rc=0 dur=0s
+1792070995 OBS stuckU=0 mounted=1
+1792070995 A n=388 rc=0 dur=0s
+1792070996 OBS stuckU=0 mounted=1
+1792070996 A n=389 rc=0 dur=0s
+1792070997 OBS stuckU=0 mounted=1
+1792070997 A n=390 rc=0 dur=0s
+1792070998 OBS stuckU=0 mounted=1
+1792070998 A n=391 rc=0 dur=0s
+1792070999 A n=392 rc=0 dur=0s
+1792070999 OBS stuckU=0 mounted=1
+1792071000 A n=393 rc=0 dur=0s
+1792071000 OBS stuckU=0 mounted=1
+1792071001 A n=394 rc=0 dur=0s
+1792071001 OBS stuckU=0 mounted=1
+1792071002 A n=395 rc=0 dur=0s
+1792071002 OBS stuckU=0 mounted=1
+1792071003 A n=396 rc=0 dur=0s
+1792071003 OBS stuckU=0 mounted=1
+1792071004 A n=397 rc=0 dur=0s
+1792071004 OBS stuckU=0 mounted=1
+1792071005 A n=398 rc=0 dur=0s
+1792071005 OBS stuckU=0 mounted=1
+1792071006 A n=399 rc=0 dur=0s
+1792071006 OBS stuckU=0 mounted=1
+1792071007 A n=400 rc=0 dur=0s
+1792071007 OBS stuckU=0 mounted=1
+1792071008 A n=401 rc=0 dur=0s
+1792071008 OBS stuckU=0 mounted=1
+1792071009 A n=402 rc=0 dur=0s
+1792071009 OBS stuckU=0 mounted=1
+1792071010 A n=403 rc=0 dur=0s
+1792071010 OBS stuckU=0 mounted=1
+1792071011 A n=404 rc=0 dur=0s
+1792071011 OBS stuckU=0 mounted=1
+1792071012 A n=405 rc=0 dur=0s
+1792071012 OBS stuckU=0 mounted=1
+1792071013 A n=406 rc=0 dur=0s
+1792071013 OBS stuckU=0 mounted=1
+1792071014 A n=407 rc=0 dur=0s
+1792071015 OBS stuckU=0 mounted=1
+1792071015 A n=408 rc=0 dur=0s
+1792071016 OBS stuckU=0 mounted=1
+1792071016 A n=409 rc=0 dur=0s
+1792071017 OBS stuckU=0 mounted=1
+1792071017 A n=410 rc=0 dur=0s
+1792071018 OBS stuckU=0 mounted=1
+1792071018 A n=411 rc=0 dur=0s
+1792071019 OBS stuckU=0 mounted=1
+1792071019 A n=412 rc=0 dur=0s
+1792071020 OBS stuckU=0 mounted=1
+1792071020 A n=413 rc=0 dur=0s
+1792071021 OBS stuckU=0 mounted=1
+1792071021 A n=414 rc=0 dur=0s
+1792071022 OBS stuckU=0 mounted=1
+1792071022 A n=415 rc=0 dur=0s
+1792071023 OBS stuckU=0 mounted=1
+1792071023 A n=416 rc=0 dur=0s
+1792071024 OBS stuckU=0 mounted=1
+1792071024 A n=417 rc=0 dur=0s
+1792071025 OBS stuckU=0 mounted=1
+1792071025 A n=418 rc=0 dur=0s
+1792071026 OBS stuckU=0 mounted=1
+1792071026 A n=419 rc=0 dur=0s
+1792071027 OBS stuckU=0 mounted=1
+1792071027 A n=420 rc=0 dur=0s
+1792071028 OBS stuckU=0 mounted=1
+1792071028 A n=421 rc=0 dur=0s
+1792071029 OBS stuckU=0 mounted=1
+1792071029 A n=422 rc=0 dur=0s
+1792071030 OBS stuckU=0 mounted=1
+1792071030 A n=423 rc=0 dur=0s
+1792071031 OBS stuckU=0 mounted=1
+1792071032 A n=424 rc=0 dur=0s
+1792071032 OBS stuckU=0 mounted=1
+1792071033 A n=425 rc=0 dur=0s
+1792071033 OBS stuckU=0 mounted=1
+1792071034 A n=426 rc=0 dur=0s
+1792071034 OBS stuckU=0 mounted=1
+1792071035 A n=427 rc=0 dur=0s
+1792071036 OBS stuckU=0 mounted=1
+1792071036 A n=428 rc=0 dur=0s
+1792071037 OBS stuckU=0 mounted=1
+1792071037 A n=429 rc=0 dur=0s
+1792071038 A n=430 rc=0 dur=0s
+1792071038 OBS stuckU=1 mounted=1
+1792071039 A n=431 rc=0 dur=0s
+1792071039 OBS stuckU=0 mounted=1
+1792071040 A n=432 rc=0 dur=0s
+1792071040 OBS stuckU=0 mounted=1
+1792071041 A n=433 rc=0 dur=0s
+1792071041 OBS stuckU=0 mounted=1
+1792071042 A n=434 rc=0 dur=0s
+1792071042 OBS stuckU=0 mounted=1
+1792071043 A n=435 rc=0 dur=0s
+1792071043 OBS stuckU=0 mounted=1
+1792071044 A n=436 rc=0 dur=0s
+1792071044 OBS stuckU=0 mounted=1
+1792071045 A n=437 rc=0 dur=0s
+1792071045 OBS stuckU=0 mounted=1
+1792071046 A n=438 rc=0 dur=0s
+1792071046 OBS stuckU=0 mounted=1
+1792071047 A n=439 rc=0 dur=0s
+1792071047 OBS stuckU=0 mounted=1
+1792071048 A n=440 rc=0 dur=0s
+1792071048 OBS stuckU=0 mounted=1
+1792071049 A n=441 rc=0 dur=0s
+1792071049 OBS stuckU=0 mounted=1
+1792071050 A n=442 rc=0 dur=0s
+1792071050 OBS stuckU=0 mounted=1
+1792071051 A n=443 rc=0 dur=0s
+1792071051 OBS stuckU=0 mounted=1
+1792071052 A n=444 rc=0 dur=0s
+1792071052 OBS stuckU=0 mounted=1
+1792071053 A n=445 rc=0 dur=0s
+1792071053 OBS stuckU=0 mounted=1
+1792071054 A n=446 rc=0 dur=0s
+1792071054 OBS stuckU=0 mounted=1
+1792071055 A n=447 rc=0 dur=0s
+1792071055 OBS stuckU=0 mounted=1
+1792071056 A n=448 rc=0 dur=0s
+1792071056 OBS stuckU=0 mounted=1
+1792071057 A n=449 rc=0 dur=0s
+1792071058 OBS stuckU=0 mounted=1
+1792071058 A n=450 rc=0 dur=0s
+1792071059 OBS stuckU=0 mounted=1
+1792071059 A n=451 rc=0 dur=0s
+1792071060 OBS stuckU=0 mounted=1
+1792071060 A n=452 rc=0 dur=0s
+1792071061 OBS stuckU=0 mounted=1
+1792071061 A n=453 rc=0 dur=0s
+1792071062 OBS stuckU=0 mounted=1
+1792071062 A n=454 rc=0 dur=0s
+1792071063 OBS stuckU=0 mounted=1
+1792071063 A n=455 rc=0 dur=0s
+1792071064 OBS stuckU=0 mounted=1
+1792071064 A n=456 rc=0 dur=0s
+1792071065 OBS stuckU=0 mounted=1
+1792071065 A n=457 rc=0 dur=0s
+1792071066 OBS stuckU=0 mounted=1
+1792071066 A n=458 rc=0 dur=0s
+1792071067 OBS stuckU=0 mounted=1
+1792071067 A n=459 rc=0 dur=0s
+1792071068 OBS stuckU=0 mounted=1
+1792071068 A n=460 rc=0 dur=0s
+1792071069 OBS stuckU=0 mounted=1
+1792071069 A n=461 rc=0 dur=0s
+1792071070 OBS stuckU=0 mounted=1
+1792071070 A n=462 rc=0 dur=0s
+1792071071 OBS stuckU=0 mounted=1
+1792071071 A n=463 rc=0 dur=0s
+1792071072 OBS stuckU=0 mounted=1
+1792071072 A n=464 rc=0 dur=0s
+1792071073 OBS stuckU=0 mounted=1
+1792071073 A n=465 rc=0 dur=0s
+1792071074 OBS stuckU=0 mounted=1
+1792071074 A n=466 rc=0 dur=0s
+1792071075 OBS stuckU=0 mounted=1
+1792071075 A n=467 rc=0 dur=0s
+1792071076 A n=468 rc=0 dur=0s
+1792071076 OBS stuckU=1 mounted=1
+1792071078 A n=469 rc=0 dur=0s
+1792071078 OBS stuckU=0 mounted=1
+1792071079 A n=470 rc=0 dur=0s
+1792071079 OBS stuckU=0 mounted=1
+1792071080 A n=471 rc=0 dur=0s
+1792071080 OBS stuckU=0 mounted=1
+1792071081 A n=472 rc=0 dur=0s
+1792071081 OBS stuckU=0 mounted=1
+1792071082 A n=473 rc=0 dur=0s
+1792071082 OBS stuckU=0 mounted=1
+1792071083 A n=474 rc=0 dur=0s
+1792071083 OBS stuckU=0 mounted=1
+1792071084 A n=475 rc=0 dur=0s
+1792071084 OBS stuckU=0 mounted=1
+1792071085 A n=476 rc=0 dur=0s
+1792071085 OBS stuckU=0 mounted=1
+1792071086 A n=477 rc=0 dur=0s
+1792071086 OBS stuckU=0 mounted=1
+1792071087 A n=478 rc=0 dur=0s
+1792071087 OBS stuckU=0 mounted=1
+1792071088 A n=479 rc=0 dur=0s
+1792071088 OBS stuckU=0 mounted=1
+1792071089 A n=480 rc=0 dur=0s
+1792071089 OBS stuckU=0 mounted=1
+1792071090 A n=481 rc=0 dur=0s
+1792071090 OBS stuckU=0 mounted=1
+1792071091 A n=482 rc=0 dur=0s
+1792071091 OBS stuckU=0 mounted=1
+1792071092 A n=483 rc=0 dur=0s
+1792071092 OBS stuckU=0 mounted=1
+1792071093 A n=484 rc=0 dur=0s
+1792071093 OBS stuckU=0 mounted=1
+1792071094 A n=485 rc=0 dur=0s
+1792071094 OBS stuckU=0 mounted=1
+1792071095 A n=486 rc=0 dur=0s
+1792071095 OBS stuckU=0 mounted=1
+1792071096 A n=487 rc=0 dur=0s
+1792071096 OBS stuckU=0 mounted=1
+1792071097 A n=488 rc=0 dur=0s
+1792071098 OBS stuckU=0 mounted=1
+1792071098 A n=489 rc=0 dur=0s
+1792071099 OBS stuckU=0 mounted=1
+1792071099 A n=490 rc=0 dur=0s
+1792071100 OBS stuckU=0 mounted=1
+1792071100 A n=491 rc=0 dur=0s
+1792071101 OBS stuckU=0 mounted=1
+1792071101 A n=492 rc=0 dur=0s
+1792071102 OBS stuckU=0 mounted=1
+1792071102 A n=493 rc=0 dur=0s
+1792071103 OBS stuckU=0 mounted=1
+1792071103 A n=494 rc=0 dur=0s
+1792071104 OBS stuckU=0 mounted=1
+1792071104 A n=495 rc=0 dur=0s
+1792071105 OBS stuckU=0 mounted=1
+1792071105 A n=496 rc=0 dur=0s
+1792071106 OBS stuckU=0 mounted=1
+1792071106 A n=497 rc=0 dur=0s
+1792071107 OBS stuckU=0 mounted=1
+1792071107 A n=498 rc=0 dur=0s
+1792071108 OBS stuckU=0 mounted=1
+1792071108 A n=499 rc=0 dur=0s
+1792071109 OBS stuckU=0 mounted=1
+1792071109 A n=500 rc=0 dur=0s
+1792071110 OBS stuckU=0 mounted=1
+1792071110 A n=501 rc=1 dur=0s
+1792071111 OBS stuckU=0 mounted=1
+1792071111 A n=502 rc=1 dur=0s
+1792071112 OBS stuckU=0 mounted=1
+1792071112 A n=503 rc=0 dur=0s
+1792071113 OBS stuckU=0 mounted=1
+1792071113 A n=504 rc=0 dur=0s
+1792071114 A n=505 rc=0 dur=0s
+1792071114 OBS stuckU=1 mounted=1
+1792071115 A n=506 rc=0 dur=0s
+1792071115 OBS stuckU=0 mounted=1
+1792071116 A n=507 rc=0 dur=0s
+1792071116 OBS stuckU=0 mounted=1
+1792071117 A n=508 rc=0 dur=0s
+1792071118 OBS stuckU=0 mounted=1
+1792071118 A n=509 rc=0 dur=0s
+1792071119 OBS stuckU=0 mounted=1
+1792071119 A n=510 rc=1 dur=0s
+1792071120 OBS stuckU=0 mounted=1
+1792071121 A n=511 rc=1 dur=0s
+1792071121 OBS stuckU=0 mounted=1
+1792071122 A n=512 rc=0 dur=0s
+1792071122 OBS stuckU=0 mounted=1
+1792071123 A n=513 rc=0 dur=0s
+1792071123 OBS stuckU=0 mounted=1
+1792071124 A n=514 rc=0 dur=0s
+1792071124 OBS stuckU=0 mounted=1
+1792071125 A n=515 rc=0 dur=0s
+1792071125 OBS stuckU=0 mounted=1
+1792071126 A n=516 rc=0 dur=0s
+1792071126 OBS stuckU=0 mounted=1
+1792071127 A n=517 rc=0 dur=0s
+1792071127 OBS stuckU=0 mounted=1
+1792071128 A n=518 rc=0 dur=0s
+1792071128 OBS stuckU=0 mounted=1
+1792071129 A n=519 rc=0 dur=0s
+1792071129 OBS stuckU=0 mounted=1
+1792071130 A n=520 rc=0 dur=0s
+1792071130 OBS stuckU=0 mounted=1
+1792071131 A n=521 rc=0 dur=0s
+1792071131 OBS stuckU=0 mounted=1
+1792071132 A n=522 rc=0 dur=0s
+1792071132 OBS stuckU=0 mounted=1
+1792071133 A n=523 rc=0 dur=0s
+1792071133 OBS stuckU=0 mounted=1
+1792071134 A n=524 rc=0 dur=0s
+1792071134 OBS stuckU=0 mounted=1
+1792071135 A n=525 rc=0 dur=0s
+1792071135 OBS stuckU=0 mounted=1
+1792071136 A n=526 rc=0 dur=0s
+1792071136 OBS stuckU=0 mounted=1
+1792071137 A n=527 rc=1 dur=0s
+1792071138 OBS stuckU=0 mounted=1
+1792071138 A n=528 rc=1 dur=0s
+1792071139 OBS stuckU=0 mounted=1
+1792071139 A n=529 rc=0 dur=0s
+1792071140 OBS stuckU=0 mounted=1
+1792071140 A n=530 rc=0 dur=0s
+1792071141 OBS stuckU=0 mounted=1
+1792071141 A n=531 rc=0 dur=0s
+1792071142 OBS stuckU=0 mounted=1
+1792071142 A n=532 rc=0 dur=0s
+1792071143 OBS stuckU=0 mounted=1
+1792071143 A n=533 rc=0 dur=0s
+1792071144 OBS stuckU=0 mounted=1
+1792071144 A n=534 rc=0 dur=0s
+1792071145 OBS stuckU=0 mounted=1
+1792071145 A n=535 rc=0 dur=0s
+1792071146 OBS stuckU=0 mounted=1
+1792071146 A n=536 rc=0 dur=0s
+1792071147 OBS stuckU=0 mounted=1
+1792071147 A n=537 rc=0 dur=0s
+1792071148 OBS stuckU=0 mounted=1
+1792071148 A n=538 rc=0 dur=0s
+1792071149 OBS stuckU=0 mounted=1
+1792071149 A n=539 rc=0 dur=0s
+1792071150 OBS stuckU=0 mounted=1
+1792071150 A n=540 rc=0 dur=0s
+1792071151 OBS stuckU=0 mounted=1
+1792071151 A n=541 rc=0 dur=0s
+1792071152 A n=542 rc=0 dur=0s
+1792071152 OBS stuckU=0 mounted=1
+1792071153 A n=543 rc=0 dur=0s
+1792071153 OBS stuckU=0 mounted=1
+1792071154 A n=544 rc=0 dur=0s
+1792071154 OBS stuckU=0 mounted=1
+1792071155 A n=545 rc=0 dur=0s
+1792071155 OBS stuckU=0 mounted=1
+1792071156 A n=546 rc=0 dur=0s
+1792071156 OBS stuckU=0 mounted=1
+1792071157 A n=547 rc=0 dur=0s
+1792071158 OBS stuckU=0 mounted=1
+1792071158 A n=548 rc=0 dur=0s
+1792071159 OBS stuckU=0 mounted=1
+1792071159 A n=549 rc=0 dur=0s
+1792071160 OBS stuckU=0 mounted=1
+1792071160 A n=550 rc=0 dur=0s
+1792071161 OBS stuckU=0 mounted=1
+1792071161 A n=551 rc=0 dur=0s
+1792071162 OBS stuckU=0 mounted=1
+1792071162 A n=552 rc=1 dur=0s
+1792071163 OBS stuckU=0 mounted=1
+1792071164 A n=553 rc=1 dur=0s
+1792071164 OBS stuckU=0 mounted=1
+1792071165 A n=554 rc=0 dur=0s
+1792071165 OBS stuckU=0 mounted=1
+1792071166 A n=555 rc=0 dur=0s
+1792071166 OBS stuckU=0 mounted=1
+1792071167 A n=556 rc=0 dur=0s
+1792071167 OBS stuckU=0 mounted=1
+1792071168 A n=557 rc=0 dur=0s
+1792071168 OBS stuckU=0 mounted=1
+1792071169 A n=558 rc=0 dur=0s
+1792071169 OBS stuckU=0 mounted=1
+1792071170 A n=559 rc=0 dur=0s
+1792071170 OBS stuckU=0 mounted=1
+1792071171 A n=560 rc=0 dur=0s
+1792071171 OBS stuckU=0 mounted=1
+1792071172 A n=561 rc=0 dur=0s
+1792071172 OBS stuckU=0 mounted=1
+1792071173 A n=562 rc=0 dur=0s
+1792071173 OBS stuckU=0 mounted=1
+1792071174 A n=563 rc=0 dur=0s
+1792071174 OBS stuckU=0 mounted=1
+1792071175 A n=564 rc=0 dur=0s
+1792071175 OBS stuckU=0 mounted=1
+1792071176 A n=565 rc=0 dur=0s
+1792071176 OBS stuckU=0 mounted=1
+1792071177 A n=566 rc=0 dur=0s
+1792071177 OBS stuckU=0 mounted=1
+1792071178 A n=567 rc=0 dur=0s
+1792071179 OBS stuckU=0 mounted=1
+1792071179 A n=568 rc=0 dur=0s
+1792071180 OBS stuckU=0 mounted=1
+1792071180 A n=569 rc=0 dur=0s
+1792071181 OBS stuckU=0 mounted=1
+1792071181 A n=570 rc=0 dur=0s
+1792071182 OBS stuckU=0 mounted=1
+1792071182 A n=571 rc=0 dur=0s
+1792071183 OBS stuckU=0 mounted=1
+1792071183 A n=572 rc=0 dur=0s
+1792071184 OBS stuckU=0 mounted=1
+1792071184 A n=573 rc=0 dur=0s
+1792071185 OBS stuckU=0 mounted=1
+1792071185 A n=574 rc=0 dur=0s
+1792071186 OBS stuckU=0 mounted=1
+1792071186 A n=575 rc=0 dur=0s
+1792071187 OBS stuckU=0 mounted=1
+1792071187 A n=576 rc=0 dur=0s
+1792071188 OBS stuckU=0 mounted=1
+1792071188 A n=577 rc=0 dur=0s
+1792071189 OBS stuckU=0 mounted=1
+1792071189 A n=578 rc=0 dur=0s
+1792071190 OBS stuckU=0 mounted=1
+1792071190 A n=579 rc=0 dur=0s
+1792071191 A n=580 rc=0 dur=0s
+1792071191 OBS stuckU=0 mounted=1
+1792071192 A n=581 rc=0 dur=0s
+1792071192 OBS stuckU=0 mounted=1
+1792071193 A n=582 rc=0 dur=0s
+1792071193 OBS stuckU=0 mounted=1
+1792071194 A n=583 rc=0 dur=0s
+1792071194 OBS stuckU=0 mounted=1
+1792071195 A n=584 rc=0 dur=0s
+1792071195 OBS stuckU=0 mounted=1
+1792071196 A n=585 rc=0 dur=0s
+1792071196 OBS stuckU=0 mounted=1
+1792071197 A n=586 rc=0 dur=0s
+1792071197 OBS stuckU=0 mounted=1
+1792071198 A n=587 rc=0 dur=0s
+1792071199 OBS stuckU=0 mounted=1
+1792071199 A n=588 rc=0 dur=0s
+1792071200 OBS stuckU=0 mounted=1
+1792071200 A n=589 rc=0 dur=0s
+1792071201 OBS stuckU=0 mounted=1
+1792071201 A n=590 rc=0 dur=0s
+1792071202 OBS stuckU=0 mounted=1
+1792071202 A n=591 rc=0 dur=0s
+1792071203 OBS stuckU=0 mounted=1
+1792071203 A n=592 rc=0 dur=0s
+1792071204 OBS stuckU=0 mounted=1
+1792071205 A n=593 rc=0 dur=0s
+1792071205 OBS stuckU=0 mounted=1
+1792071206 A n=594 rc=0 dur=0s
+1792071206 OBS stuckU=0 mounted=1
+1792071207 A n=595 rc=0 dur=0s
+1792071207 OBS stuckU=0 mounted=1
+1792071208 A n=596 rc=0 dur=0s
+1792071208 OBS stuckU=0 mounted=1
+1792071209 A n=597 rc=0 dur=0s
+1792071209 OBS stuckU=0 mounted=1
+1792071210 A n=598 rc=0 dur=0s
+1792071210 OBS stuckU=0 mounted=1
+1792071211 A n=599 rc=0 dur=0s
+1792071211 OBS stuckU=0 mounted=1
+1792071212 A n=600 rc=0 dur=0s
+1792071212 OBS stuckU=0 mounted=1
+1792071213 A n=601 rc=0 dur=0s
+1792071213 OBS stuckU=0 mounted=1
+1792071214 A n=602 rc=0 dur=0s
+1792071214 OBS stuckU=0 mounted=1
+1792071215 A n=603 rc=0 dur=0s
+1792071215 OBS stuckU=0 mounted=1
+1792071216 A n=604 rc=0 dur=0s
+1792071216 OBS stuckU=1 mounted=1
+1792071217 A n=605 rc=0 dur=0s
+1792071217 OBS stuckU=2 mounted=1
+1792071218 A n=606 rc=0 dur=0s
+1792071219 OBS stuckU=2 mounted=1
+1792071219 A n=607 rc=0 dur=0s
+1792071220 OBS stuckU=2 mounted=1
+1792071220 A n=608 rc=0 dur=0s
+1792071221 OBS stuckU=0 mounted=1
+1792071221 A n=609 rc=0 dur=0s
+1792071222 OBS stuckU=1 mounted=1
+1792071222 A n=610 rc=0 dur=0s
+1792071223 OBS stuckU=2 mounted=1
+1792071223 A n=611 rc=0 dur=0s
+1792071224 OBS stuckU=1 mounted=1
+1792071224 A n=612 rc=0 dur=0s
+1792071225 OBS stuckU=0 mounted=1
+1792071225 A n=613 rc=0 dur=0s
+1792071226 OBS stuckU=1 mounted=1
+1792071226 A n=614 rc=0 dur=0s
+1792071227 OBS stuckU=1 mounted=1
+1792071227 A n=615 rc=0 dur=0s
+1792071228 OBS stuckU=1 mounted=1
+1792071228 A n=616 rc=0 dur=0s
+1792071229 A n=617 rc=0 dur=0s
+1792071229 OBS stuckU=0 mounted=1
+1792071230 A n=618 rc=0 dur=0s
+1792071230 OBS stuckU=2 mounted=1
+1792071231 A n=619 rc=0 dur=0s
+1792071231 OBS stuckU=1 mounted=1
+1792071232 A n=620 rc=0 dur=0s
+1792071232 OBS stuckU=1 mounted=1
+1792071233 A n=621 rc=0 dur=0s
+1792071233 OBS stuckU=0 mounted=1
+1792071234 A n=622 rc=0 dur=0s
+1792071234 OBS stuckU=1 mounted=1
+1792071235 A n=623 rc=0 dur=0s
+1792071235 OBS stuckU=1 mounted=1
+1792071236 A n=624 rc=0 dur=0s
+1792071236 OBS stuckU=1 mounted=1
+1792071237 A n=625 rc=0 dur=0s
+1792071237 OBS stuckU=0 mounted=1
+1792071238 A n=626 rc=0 dur=0s
+1792071239 OBS stuckU=1 mounted=1
+1792071239 A n=627 rc=0 dur=0s
+1792071240 OBS stuckU=1 mounted=1
+1792071240 A n=628 rc=0 dur=0s
+1792071241 OBS stuckU=1 mounted=1
+1792071241 A n=629 rc=0 dur=0s
+1792071242 OBS stuckU=0 mounted=1
+1792071242 A n=630 rc=1 dur=0s
+1792071243 OBS stuckU=0 mounted=1
+1792071243 A n=631 rc=0 dur=0s
+1792071244 OBS stuckU=0 mounted=1
+1792071244 A n=632 rc=0 dur=0s
+1792071245 OBS stuckU=0 mounted=1
+1792071245 A n=633 rc=0 dur=0s
+1792071246 OBS stuckU=0 mounted=1
+1792071246 A n=634 rc=0 dur=1s
+1792071247 OBS stuckU=0 mounted=1
+1792071248 A n=635 rc=0 dur=0s
+1792071248 OBS stuckU=0 mounted=1
+1792071249 A n=636 rc=0 dur=0s
+1792071249 OBS stuckU=0 mounted=1
+1792071250 A n=637 rc=0 dur=0s
+1792071250 OBS stuckU=0 mounted=1
+1792071251 A n=638 rc=0 dur=0s
+1792071251 OBS stuckU=0 mounted=1
+1792071252 A n=639 rc=0 dur=0s
+1792071252 OBS stuckU=0 mounted=1
+1792071253 A n=640 rc=0 dur=0s
+1792071253 OBS stuckU=0 mounted=1
+1792071254 A n=641 rc=0 dur=0s
+1792071254 OBS stuckU=0 mounted=1
+1792071255 A n=642 rc=0 dur=0s
+1792071255 OBS stuckU=0 mounted=1
+1792071256 A n=643 rc=0 dur=0s
+1792071256 OBS stuckU=0 mounted=1
+1792071257 A n=644 rc=0 dur=0s
+1792071257 OBS stuckU=0 mounted=1
+1792071258 A n=645 rc=1 dur=0s
+1792071259 OBS stuckU=0 mounted=1
+1792071259 A n=646 rc=0 dur=0s
+1792071260 OBS stuckU=0 mounted=1
+1792071260 A n=647 rc=0 dur=0s
+1792071261 OBS stuckU=0 mounted=1
+1792071261 A n=648 rc=0 dur=0s
+1792071262 OBS stuckU=0 mounted=1
+1792071262 A n=649 rc=0 dur=0s
+1792071263 OBS stuckU=0 mounted=1
+1792071263 A n=650 rc=0 dur=0s
+1792071264 OBS stuckU=0 mounted=1
+1792071264 A n=651 rc=0 dur=0s
+1792071265 OBS stuckU=0 mounted=1
+1792071265 A n=652 rc=0 dur=0s
+1792071266 OBS stuckU=0 mounted=1
+1792071266 A n=653 rc=0 dur=0s
+1792071267 OBS stuckU=0 mounted=1
+1792071267 A n=654 rc=0 dur=0s
+1792071268 OBS stuckU=0 mounted=1
+1792071268 A n=655 rc=0 dur=0s
+1792071269 A n=656 rc=0 dur=0s
+1792071269 OBS stuckU=1 mounted=1
+1792071270 A n=657 rc=0 dur=0s
+1792071270 OBS stuckU=0 mounted=1
+1792071271 A n=658 rc=0 dur=0s
+1792071271 OBS stuckU=0 mounted=1
+1792071272 A n=659 rc=0 dur=0s
+1792071272 OBS stuckU=0 mounted=1
+1792071273 A n=660 rc=0 dur=0s
+1792071273 OBS stuckU=0 mounted=1
+1792071274 A n=661 rc=0 dur=0s
+1792071274 OBS stuckU=0 mounted=1
+1792071275 A n=662 rc=0 dur=0s
+1792071275 OBS stuckU=0 mounted=1
+1792071276 A n=663 rc=0 dur=0s
+1792071276 OBS stuckU=0 mounted=1
+1792071277 A n=664 rc=0 dur=0s
+1792071277 OBS stuckU=0 mounted=1
+1792071278 A n=665 rc=0 dur=0s
+1792071278 OBS stuckU=0 mounted=1
+1792071279 A n=666 rc=0 dur=0s
+1792071280 OBS stuckU=1 mounted=1
+1792071280 A n=667 rc=0 dur=0s
+1792071281 OBS stuckU=0 mounted=1
+1792071281 A n=668 rc=0 dur=0s
+1792071282 OBS stuckU=0 mounted=1
+1792071282 A n=669 rc=0 dur=0s
+1792071283 OBS stuckU=0 mounted=1
+1792071283 A n=670 rc=0 dur=0s
+1792071284 OBS stuckU=0 mounted=1
+1792071284 A n=671 rc=0 dur=0s
+1792071285 OBS stuckU=0 mounted=1
+1792071285 A n=672 rc=0 dur=0s
+1792071286 OBS stuckU=0 mounted=1
+1792071286 A n=673 rc=0 dur=0s
+1792071287 OBS stuckU=0 mounted=1
+1792071288 A n=674 rc=0 dur=1s
+1792071288 OBS stuckU=0 mounted=1
+1792071289 A n=675 rc=0 dur=0s
+1792071289 OBS stuckU=0 mounted=1
+1792071290 A n=676 rc=0 dur=0s
+1792071290 OBS stuckU=0 mounted=1
+1792071291 A n=677 rc=0 dur=0s
+1792071291 OBS stuckU=0 mounted=1
+1792071292 A n=678 rc=0 dur=0s
+1792071292 OBS stuckU=0 mounted=1
+1792071293 A n=679 rc=0 dur=0s
+1792071293 OBS stuckU=0 mounted=1
+1792071294 A n=680 rc=0 dur=0s
+1792071294 OBS stuckU=0 mounted=1
+1792071295 A n=681 rc=0 dur=0s
+1792071295 OBS stuckU=0 mounted=1
+1792071296 A n=682 rc=0 dur=0s
+1792071296 OBS stuckU=0 mounted=1
+1792071297 A n=683 rc=0 dur=0s
+1792071297 OBS stuckU=0 mounted=1
+1792071298 A n=684 rc=0 dur=0s
+1792071298 OBS stuckU=0 mounted=1
+1792071299 A n=685 rc=0 dur=0s
+1792071300 OBS stuckU=0 mounted=1
+1792071300 A n=686 rc=0 dur=0s
+1792071301 OBS stuckU=0 mounted=1
+1792071301 A n=687 rc=0 dur=0s
+1792071302 OBS stuckU=0 mounted=1
+1792071302 A n=688 rc=0 dur=0s
+1792071303 OBS stuckU=0 mounted=1
+1792071303 A n=689 rc=0 dur=0s
+1792071304 OBS stuckU=0 mounted=1
+1792071304 A n=690 rc=0 dur=0s
+1792071305 OBS stuckU=0 mounted=1
+1792071305 A n=691 rc=0 dur=0s
+1792071306 OBS stuckU=0 mounted=1
+1792071306 A n=692 rc=0 dur=0s
+1792071307 OBS stuckU=0 mounted=1
+1792071307 A n=693 rc=0 dur=0s
+1792071308 OBS stuckU=0 mounted=1
+1792071308 A n=694 rc=0 dur=0s
+1792071309 A n=695 rc=0 dur=0s
+1792071309 OBS stuckU=0 mounted=1
+1792071310 A n=696 rc=0 dur=0s
+1792071310 OBS stuckU=0 mounted=1
+1792071311 A n=697 rc=0 dur=0s
+1792071311 OBS stuckU=0 mounted=1
+1792071312 A n=698 rc=0 dur=0s
+1792071312 OBS stuckU=0 mounted=1
+1792071313 A n=699 rc=0 dur=0s
+1792071313 OBS stuckU=0 mounted=1
+1792071314 A n=700 rc=0 dur=0s
+1792071314 OBS stuckU=0 mounted=1
+1792071315 A n=701 rc=0 dur=0s
+1792071315 OBS stuckU=0 mounted=1
+1792071316 A n=702 rc=0 dur=0s
+1792071316 OBS stuckU=0 mounted=1
+1792071317 A n=703 rc=0 dur=0s
+1792071317 OBS stuckU=0 mounted=1
+1792071318 A n=704 rc=0 dur=0s
+1792071318 OBS stuckU=0 mounted=1
+1792071319 A n=705 rc=0 dur=0s
+1792071319 OBS stuckU=0 mounted=1
+1792071320 A n=706 rc=0 dur=0s
+1792071321 OBS stuckU=0 mounted=1
+1792071321 A n=707 rc=0 dur=0s
+1792071322 OBS stuckU=0 mounted=1
+1792071322 A n=708 rc=0 dur=0s
+1792071323 OBS stuckU=0 mounted=1
+1792071323 A n=709 rc=0 dur=0s
+1792071324 OBS stuckU=0 mounted=1
+1792071324 A n=710 rc=0 dur=0s
+1792071325 OBS stuckU=0 mounted=1
+1792071325 A n=711 rc=0 dur=0s
+1792071326 OBS stuckU=0 mounted=1
+1792071326 A n=712 rc=0 dur=0s
+1792071327 OBS stuckU=0 mounted=1
+1792071327 A n=713 rc=0 dur=0s
+1792071328 OBS stuckU=0 mounted=1
+1792071328 A n=714 rc=0 dur=0s
+1792071329 OBS stuckU=0 mounted=1
+1792071329 A n=715 rc=0 dur=0s
+1792071330 OBS stuckU=0 mounted=1
+1792071331 A n=716 rc=0 dur=0s
+1792071331 OBS stuckU=0 mounted=1
+1792071332 A n=717 rc=0 dur=0s
+1792071332 OBS stuckU=0 mounted=1
+1792071333 A n=718 rc=0 dur=0s
+1792071333 OBS stuckU=0 mounted=1
+1792071334 A n=719 rc=0 dur=0s
+1792071334 OBS stuckU=0 mounted=1
+1792071335 A n=720 rc=0 dur=0s
+1792071335 OBS stuckU=0 mounted=1
+1792071336 A n=721 rc=0 dur=0s
+1792071336 OBS stuckU=0 mounted=1
+1792071337 A n=722 rc=0 dur=0s
+1792071337 OBS stuckU=0 mounted=1
+1792071338 A n=723 rc=0 dur=0s
+1792071338 OBS stuckU=0 mounted=1
+1792071339 A n=724 rc=0 dur=0s
+1792071339 OBS stuckU=0 mounted=1
+1792071340 A n=725 rc=0 dur=0s
+1792071341 OBS stuckU=0 mounted=1
+1792071341 A n=726 rc=0 dur=0s
+1792071342 OBS stuckU=0 mounted=1
+1792071342 A n=727 rc=0 dur=0s
+1792071343 OBS stuckU=0 mounted=1
+1792071343 A n=728 rc=0 dur=0s
+1792071344 OBS stuckU=0 mounted=1
+1792071344 A n=729 rc=0 dur=0s
+1792071345 OBS stuckU=0 mounted=1
+1792071345 A n=730 rc=0 dur=0s
+1792071346 OBS stuckU=0 mounted=1
+1792071346 A n=731 rc=0 dur=0s
+1792071347 OBS stuckU=0 mounted=1
+1792071347 A n=732 rc=0 dur=0s
+1792071348 OBS stuckU=0 mounted=1
+1792071348 A n=733 rc=0 dur=0s
+1792071349 A n=734 rc=0 dur=0s
+1792071349 OBS stuckU=0 mounted=1
+1792071350 A n=735 rc=0 dur=0s
+1792071350 OBS stuckU=1 mounted=1
+1792071351 A n=736 rc=0 dur=0s
+1792071351 OBS stuckU=0 mounted=1
+1792071352 A n=737 rc=0 dur=0s
+1792071352 OBS stuckU=0 mounted=1
+1792071353 A n=738 rc=0 dur=0s
+1792071353 OBS stuckU=0 mounted=1
+1792071354 A n=739 rc=0 dur=0s
+1792071354 OBS stuckU=0 mounted=1
+1792071355 A n=740 rc=0 dur=0s
+1792071355 OBS stuckU=0 mounted=1
+1792071356 A n=741 rc=0 dur=0s
+1792071356 OBS stuckU=0 mounted=1
+1792071357 A n=742 rc=0 dur=0s
+1792071357 OBS stuckU=0 mounted=1
+1792071358 A n=743 rc=0 dur=0s
+1792071358 OBS stuckU=0 mounted=1
+1792071359 A n=744 rc=0 dur=0s
+1792071359 OBS stuckU=0 mounted=1
+1792071360 A n=745 rc=0 dur=0s
+1792071360 OBS stuckU=0 mounted=1
+1792071361 A n=746 rc=0 dur=0s
+1792071362 OBS stuckU=0 mounted=1
+1792071362 A n=747 rc=0 dur=0s
+1792071363 OBS stuckU=0 mounted=1
+1792071363 A n=748 rc=0 dur=0s
+1792071364 OBS stuckU=0 mounted=1
+1792071364 A n=749 rc=0 dur=0s
+1792071365 OBS stuckU=0 mounted=1
+1792071365 A n=750 rc=0 dur=0s
+1792071366 OBS stuckU=0 mounted=1
+1792071366 A n=751 rc=0 dur=0s
+1792071367 OBS stuckU=0 mounted=1
+1792071367 A n=752 rc=0 dur=0s
+1792071368 OBS stuckU=0 mounted=1
+1792071368 A n=753 rc=0 dur=0s
+1792071369 OBS stuckU=0 mounted=1
+1792071369 A n=754 rc=0 dur=0s
+1792071370 OBS stuckU=0 mounted=1
+1792071370 A n=755 rc=0 dur=0s
+1792071371 OBS stuckU=0 mounted=1
+1792071371 A n=756 rc=0 dur=0s
+1792071372 OBS stuckU=0 mounted=1
+1792071373 A n=757 rc=0 dur=0s
+1792071373 OBS stuckU=0 mounted=1
+1792071374 A n=758 rc=0 dur=0s
+1792071374 OBS stuckU=0 mounted=1
+1792071375 A n=759 rc=0 dur=0s
+1792071375 OBS stuckU=0 mounted=1
+1792071376 A n=760 rc=0 dur=0s
+1792071376 OBS stuckU=0 mounted=1
+1792071377 A n=761 rc=0 dur=0s
+1792071377 OBS stuckU=0 mounted=1
+1792071378 A n=762 rc=0 dur=0s
+1792071378 OBS stuckU=0 mounted=1
+1792071379 A n=763 rc=0 dur=0s
+1792071379 OBS stuckU=0 mounted=1
+1792071380 A n=764 rc=0 dur=0s
+1792071380 OBS stuckU=0 mounted=1
+1792071381 A n=765 rc=1 dur=0s
+1792071382 OBS stuckU=0 mounted=1
+1792071382 A n=766 rc=0 dur=0s
+1792071383 OBS stuckU=0 mounted=1
+1792071383 A n=767 rc=0 dur=0s
+1792071384 OBS stuckU=0 mounted=1
+1792071384 A n=768 rc=0 dur=0s
+1792071385 OBS stuckU=0 mounted=1
+1792071385 A n=769 rc=0 dur=0s
+1792071386 OBS stuckU=0 mounted=1
+1792071386 A n=770 rc=0 dur=0s
+1792071387 OBS stuckU=0 mounted=1
+1792071387 A n=771 rc=0 dur=0s
+1792071388 OBS stuckU=0 mounted=1
+1792071388 A n=772 rc=0 dur=0s
+1792071389 OBS stuckU=0 mounted=1
+1792071389 A n=773 rc=0 dur=0s
+1792071390 A n=774 rc=0 dur=0s
+1792071390 OBS stuckU=1 mounted=1
+1792071391 A n=775 rc=0 dur=0s
+1792071391 OBS stuckU=0 mounted=1
+1792071392 A n=776 rc=0 dur=0s
+1792071392 OBS stuckU=0 mounted=1
+1792071393 A n=777 rc=0 dur=0s
+1792071393 OBS stuckU=0 mounted=1
+1792071394 A n=778 rc=0 dur=0s
+1792071394 OBS stuckU=0 mounted=1
+1792071395 A n=779 rc=0 dur=0s
+1792071395 OBS stuckU=0 mounted=1
+1792071396 A n=780 rc=0 dur=0s
+1792071396 OBS stuckU=0 mounted=1
+1792071397 A n=781 rc=0 dur=0s
+1792071397 OBS stuckU=0 mounted=1
+1792071398 A n=782 rc=0 dur=0s
+1792071398 OBS stuckU=0 mounted=1
+1792071399 A n=783 rc=0 dur=0s
+1792071399 OBS stuckU=0 mounted=1
+1792071400 A n=784 rc=0 dur=0s
+1792071400 OBS stuckU=0 mounted=1
+1792071401 A n=785 rc=0 dur=0s
+1792071401 OBS stuckU=0 mounted=1
+1792071402 A n=786 rc=0 dur=0s
+1792071403 OBS stuckU=0 mounted=1
+1792071403 A n=787 rc=0 dur=0s
+1792071404 OBS stuckU=0 mounted=1
+1792071404 A n=788 rc=0 dur=0s
+1792071405 OBS stuckU=0 mounted=1
+1792071405 A n=789 rc=0 dur=0s
+1792071406 OBS stuckU=0 mounted=1
+1792071406 A n=790 rc=0 dur=0s
+1792071407 OBS stuckU=0 mounted=1
+1792071407 A n=791 rc=0 dur=0s
+1792071408 OBS stuckU=0 mounted=1
+1792071408 A n=792 rc=0 dur=0s
+1792071409 OBS stuckU=0 mounted=1
+1792071409 A n=793 rc=0 dur=0s
+1792071410 OBS stuckU=0 mounted=1
+1792071410 A n=794 rc=0 dur=0s
+1792071411 OBS stuckU=0 mounted=1
+1792071411 A n=795 rc=0 dur=0s
+1792071412 OBS stuckU=0 mounted=1
+1792071412 A n=796 rc=0 dur=0s
+1792071413 OBS stuckU=0 mounted=1
+1792071414 A n=797 rc=0 dur=0s
+1792071414 OBS stuckU=0 mounted=1
+1792071415 A n=798 rc=0 dur=0s
+1792071415 OBS stuckU=0 mounted=1
+1792071416 A n=799 rc=0 dur=0s
+1792071416 OBS stuckU=0 mounted=1
+1792071417 A n=800 rc=1 dur=0s
+1792071417 OBS stuckU=0 mounted=1
+1792071418 A n=801 rc=0 dur=0s
+1792071418 OBS stuckU=0 mounted=1
+1792071419 A n=802 rc=0 dur=0s
+1792071419 OBS stuckU=0 mounted=1
+1792071420 A n=803 rc=0 dur=0s
+1792071420 OBS stuckU=0 mounted=1
+1792071421 A n=804 rc=0 dur=0s
+1792071421 OBS stuckU=0 mounted=1
+1792071422 A n=805 rc=0 dur=0s
+1792071423 OBS stuckU=0 mounted=1
+1792071423 A n=806 rc=0 dur=0s
+1792071424 OBS stuckU=0 mounted=1
+1792071424 A n=807 rc=0 dur=0s
+1792071425 OBS stuckU=0 mounted=1
+1792071425 A n=808 rc=0 dur=0s
+1792071426 OBS stuckU=0 mounted=1
+1792071426 A n=809 rc=0 dur=0s
+1792071427 OBS stuckU=0 mounted=1
+1792071427 A n=810 rc=0 dur=0s
+1792071428 OBS stuckU=0 mounted=1
+1792071428 A n=811 rc=0 dur=0s
+1792071429 A n=812 rc=0 dur=0s
+1792071429 OBS stuckU=0 mounted=1
+1792071430 A n=813 rc=0 dur=0s
+1792071430 OBS stuckU=1 mounted=1
+1792071431 A n=814 rc=0 dur=0s
+1792071431 OBS stuckU=0 mounted=1
+1792071432 A n=815 rc=1 dur=0s
+1792071432 OBS stuckU=0 mounted=1
+1792071433 A n=816 rc=0 dur=0s
+1792071433 OBS stuckU=0 mounted=1
+1792071434 A n=817 rc=0 dur=0s
+1792071434 OBS stuckU=0 mounted=1
+1792071435 A n=818 rc=0 dur=0s
+1792071435 OBS stuckU=0 mounted=1
+1792071436 A n=819 rc=0 dur=0s
+1792071436 OBS stuckU=0 mounted=1
+1792071437 A n=820 rc=0 dur=0s
+1792071437 OBS stuckU=0 mounted=1
+1792071438 A n=821 rc=0 dur=0s
+1792071438 OBS stuckU=0 mounted=1
+1792071439 A n=822 rc=0 dur=0s
+1792071439 OBS stuckU=0 mounted=1
+1792071440 A n=823 rc=0 dur=0s
+1792071440 OBS stuckU=0 mounted=1
+1792071441 A n=824 rc=0 dur=0s
+1792071441 OBS stuckU=0 mounted=1
+1792071442 A n=825 rc=0 dur=0s
+1792071443 OBS stuckU=0 mounted=1
+1792071443 A n=826 rc=0 dur=0s
+1792071444 OBS stuckU=0 mounted=1
+1792071444 A n=827 rc=0 dur=0s
+1792071445 OBS stuckU=0 mounted=1
+1792071445 A n=828 rc=0 dur=0s
+1792071446 OBS stuckU=0 mounted=1
+1792071446 A n=829 rc=0 dur=0s
+1792071447 OBS stuckU=0 mounted=1
+1792071447 A n=830 rc=0 dur=0s
+1792071448 OBS stuckU=0 mounted=1
+1792071448 A n=831 rc=0 dur=0s
+1792071449 OBS stuckU=0 mounted=1
+1792071449 A n=832 rc=0 dur=0s
+1792071450 OBS stuckU=0 mounted=1
+1792071450 A n=833 rc=0 dur=0s
+1792071451 OBS stuckU=0 mounted=1
+1792071451 A n=834 rc=0 dur=0s
+1792071452 OBS stuckU=0 mounted=1
+1792071452 A n=835 rc=0 dur=0s
+1792071453 OBS stuckU=0 mounted=1
+1792071454 A n=836 rc=0 dur=1s
+1792071454 OBS stuckU=0 mounted=1
+1792071455 A n=837 rc=0 dur=0s
+1792071455 OBS stuckU=0 mounted=1
+1792071456 A n=838 rc=0 dur=0s
+1792071456 OBS stuckU=0 mounted=1
+1792071457 A n=839 rc=0 dur=0s
+1792071457 OBS stuckU=0 mounted=1
+1792071458 A n=840 rc=0 dur=0s
+1792071458 OBS stuckU=0 mounted=1
+1792071459 A n=841 rc=0 dur=0s
+1792071459 OBS stuckU=0 mounted=1
+1792071460 A n=842 rc=0 dur=0s
+1792071460 OBS stuckU=0 mounted=1
+1792071461 A n=843 rc=0 dur=0s
+1792071461 OBS stuckU=0 mounted=1
+1792071462 A n=844 rc=0 dur=0s
+1792071463 OBS stuckU=0 mounted=1
+1792071463 A n=845 rc=0 dur=0s
+1792071464 OBS stuckU=0 mounted=1
+1792071464 A n=846 rc=0 dur=0s
+1792071465 OBS stuckU=0 mounted=1
+1792071465 A n=847 rc=0 dur=0s
+1792071466 OBS stuckU=0 mounted=1
+1792071466 A n=848 rc=0 dur=0s
+1792071467 OBS stuckU=0 mounted=1
+1792071467 A n=849 rc=0 dur=0s
+1792071468 OBS stuckU=0 mounted=1
+1792071468 A n=850 rc=0 dur=0s
+1792071469 OBS stuckU=0 mounted=1
+1792071469 A n=851 rc=0 dur=0s
+1792071470 A n=852 rc=0 dur=0s
+1792071470 OBS stuckU=0 mounted=1
+1792071471 A n=853 rc=0 dur=0s
+1792071471 OBS stuckU=1 mounted=1
+1792071472 A n=854 rc=0 dur=0s
+1792071472 OBS stuckU=0 mounted=1
+1792071473 A n=855 rc=0 dur=0s
+1792071473 OBS stuckU=0 mounted=1
+1792071474 A n=856 rc=0 dur=0s
+1792071474 OBS stuckU=0 mounted=1
+1792071475 A n=857 rc=0 dur=0s
+1792071475 OBS stuckU=0 mounted=1
+1792071476 A n=858 rc=0 dur=0s
+1792071476 OBS stuckU=0 mounted=1
+1792071477 A n=859 rc=0 dur=0s
+1792071477 OBS stuckU=0 mounted=1
+1792071478 A n=860 rc=0 dur=0s
+1792071478 OBS stuckU=0 mounted=1
+1792071479 A n=861 rc=0 dur=0s
+1792071479 OBS stuckU=0 mounted=1
+1792071480 A n=862 rc=0 dur=0s
+1792071480 OBS stuckU=0 mounted=1
+1792071481 A n=863 rc=0 dur=0s
+1792071481 OBS stuckU=0 mounted=1
+1792071482 A n=864 rc=0 dur=0s
+1792071482 OBS stuckU=0 mounted=1
+1792071483 A n=865 rc=0 dur=0s
+1792071484 OBS stuckU=0 mounted=1
+1792071484 A n=866 rc=0 dur=0s
+1792071485 OBS stuckU=0 mounted=1
+1792071485 A n=867 rc=0 dur=0s
+1792071486 OBS stuckU=0 mounted=1
+1792071486 A n=868 rc=0 dur=0s
+1792071487 OBS stuckU=0 mounted=1
+1792071487 A n=869 rc=0 dur=0s
+1792071488 OBS stuckU=0 mounted=1
+1792071488 A n=870 rc=0 dur=0s
+1792071489 OBS stuckU=0 mounted=1
+1792071489 A n=871 rc=0 dur=0s
+1792071490 OBS stuckU=0 mounted=1
+1792071490 A n=872 rc=0 dur=0s
+1792071491 OBS stuckU=0 mounted=1
+1792071491 A n=873 rc=0 dur=0s
+1792071492 OBS stuckU=0 mounted=1
+1792071492 A n=874 rc=0 dur=0s
+1792071493 OBS stuckU=0 mounted=1
+1792071493 A n=875 rc=1 dur=0s
+1792071494 OBS stuckU=0 mounted=1
+1792071494 A n=876 rc=1 dur=0s
+1792071495 OBS stuckU=0 mounted=1
+1792071496 A n=877 rc=0 dur=1s
+1792071496 OBS stuckU=0 mounted=1
+1792071497 A n=878 rc=0 dur=0s
+1792071497 OBS stuckU=0 mounted=1
+1792071498 A n=879 rc=0 dur=0s
+1792071498 OBS stuckU=0 mounted=1
+1792071499 A n=880 rc=0 dur=0s
+1792071499 OBS stuckU=0 mounted=1
+1792071500 A n=881 rc=0 dur=0s
+1792071500 OBS stuckU=0 mounted=1
+1792071501 A n=882 rc=0 dur=0s
+1792071501 OBS stuckU=0 mounted=1
+1792071502 A n=883 rc=0 dur=0s
+1792071502 OBS stuckU=0 mounted=1
+1792071503 A n=884 rc=0 dur=0s
+1792071504 OBS stuckU=0 mounted=1
+1792071504 A n=885 rc=0 dur=0s
+1792071505 OBS stuckU=0 mounted=1
+1792071505 A n=886 rc=0 dur=0s
+1792071506 OBS stuckU=0 mounted=1
+1792071506 A n=887 rc=0 dur=0s
+1792071507 OBS stuckU=0 mounted=1
+1792071507 A n=888 rc=0 dur=0s
+1792071508 OBS stuckU=0 mounted=1
+1792071508 A n=889 rc=0 dur=0s
+1792071509 A n=890 rc=0 dur=0s
+1792071509 OBS stuckU=0 mounted=1
+1792071510 A n=891 rc=0 dur=0s
+1792071510 OBS stuckU=0 mounted=1
+1792071511 A n=892 rc=0 dur=0s
+1792071511 OBS stuckU=0 mounted=1
+1792071512 A n=893 rc=0 dur=0s
+1792071512 OBS stuckU=0 mounted=1
+1792071513 A n=894 rc=0 dur=0s
+1792071513 OBS stuckU=0 mounted=1
+1792071514 A n=895 rc=0 dur=0s
+1792071514 OBS stuckU=0 mounted=1
+1792071515 A n=896 rc=0 dur=0s
+1792071515 OBS stuckU=0 mounted=1
+1792071516 A n=897 rc=0 dur=0s
+1792071516 OBS stuckU=0 mounted=1
+1792071517 A n=898 rc=0 dur=0s
+1792071517 OBS stuckU=0 mounted=1
+1792071518 A n=899 rc=0 dur=0s
+1792071518 OBS stuckU=0 mounted=1
+1792071519 A n=900 rc=0 dur=0s
+1792071519 OBS stuckU=0 mounted=1
+1792071520 A n=901 rc=0 dur=0s
+1792071520 OBS stuckU=0 mounted=1
+1792071521 A n=902 rc=0 dur=0s
+1792071521 OBS stuckU=0 mounted=1
+1792071522 A n=903 rc=0 dur=0s
+1792071522 OBS stuckU=0 mounted=1
+1792071523 A n=904 rc=0 dur=0s
+1792071523 OBS stuckU=0 mounted=1
+1792071524 A n=905 rc=0 dur=0s
+1792071525 OBS stuckU=0 mounted=1
+1792071525 A n=906 rc=0 dur=0s
+1792071526 OBS stuckU=0 mounted=1
+1792071526 A n=907 rc=0 dur=0s
+1792071527 OBS stuckU=0 mounted=1
+1792071527 A n=908 rc=0 dur=0s
+1792071528 OBS stuckU=0 mounted=1
+1792071528 A n=909 rc=0 dur=0s
+1792071529 OBS stuckU=0 mounted=1
+1792071529 A n=910 rc=0 dur=0s
+1792071530 OBS stuckU=0 mounted=1
+1792071530 A n=911 rc=0 dur=0s
+1792071531 OBS stuckU=0 mounted=1
+1792071531 A n=912 rc=0 dur=0s
+1792071532 OBS stuckU=0 mounted=1
+1792071532 A n=913 rc=0 dur=0s
+1792071533 OBS stuckU=0 mounted=1
+1792071533 A n=914 rc=1 dur=0s
+1792071534 OBS stuckU=0 mounted=1
+1792071534 A n=915 rc=0 dur=0s
+1792071535 OBS stuckU=0 mounted=1
+1792071535 A n=916 rc=0 dur=0s
+1792071536 OBS stuckU=0 mounted=1
+1792071536 A n=917 rc=0 dur=0s
+1792071537 OBS stuckU=0 mounted=1
+1792071537 A n=918 rc=0 dur=0s
+1792071538 OBS stuckU=0 mounted=1
+1792071539 A n=919 rc=0 dur=1s
+1792071539 OBS stuckU=0 mounted=1
+1792071540 A n=920 rc=0 dur=0s
+1792071540 OBS stuckU=0 mounted=1
+1792071541 A n=921 rc=1 dur=0s
+1792071541 OBS stuckU=0 mounted=1
+1792071542 A n=922 rc=0 dur=0s
+1792071542 OBS stuckU=0 mounted=1
+1792071543 A n=923 rc=0 dur=0s
+1792071543 OBS stuckU=0 mounted=1
+1792071544 A n=924 rc=0 dur=0s
+1792071545 OBS stuckU=0 mounted=1
+1792071545 A n=925 rc=0 dur=0s
+1792071546 OBS stuckU=0 mounted=1
+1792071546 A n=926 rc=0 dur=0s
+1792071547 OBS stuckU=0 mounted=1
+1792071547 A n=927 rc=0 dur=0s
+1792071548 OBS stuckU=0 mounted=1
+1792071548 A n=928 rc=0 dur=0s
+1792071549 A n=929 rc=0 dur=0s
+1792071549 OBS stuckU=0 mounted=1
+1792071550 A n=930 rc=0 dur=0s
+1792071550 OBS stuckU=1 mounted=1
+1792071551 A n=931 rc=0 dur=0s
+1792071551 OBS stuckU=0 mounted=1
+1792071552 A n=932 rc=0 dur=0s
+1792071552 OBS stuckU=0 mounted=1
+1792071553 A n=933 rc=0 dur=0s
+1792071553 OBS stuckU=0 mounted=1
+1792071554 A n=934 rc=0 dur=0s
+1792071554 OBS stuckU=0 mounted=1
+1792071555 A n=935 rc=0 dur=0s
+1792071555 OBS stuckU=0 mounted=1
+1792071556 A n=936 rc=0 dur=0s
+1792071556 OBS stuckU=0 mounted=1
+1792071557 A n=937 rc=0 dur=0s
+1792071557 OBS stuckU=0 mounted=1
+1792071558 A n=938 rc=0 dur=0s
+1792071558 OBS stuckU=0 mounted=1
+1792071559 A n=939 rc=0 dur=0s
+1792071559 OBS stuckU=0 mounted=1
+1792071560 A n=940 rc=0 dur=0s
+1792071560 OBS stuckU=0 mounted=1
+1792071561 A n=941 rc=0 dur=0s
+1792071561 OBS stuckU=0 mounted=1
+1792071562 A n=942 rc=0 dur=0s
+1792071562 OBS stuckU=0 mounted=1
+1792071563 A n=943 rc=0 dur=0s
+1792071563 OBS stuckU=0 mounted=1
+1792071564 A n=944 rc=0 dur=0s
+1792071564 OBS stuckU=0 mounted=1
+1792071565 A n=945 rc=0 dur=0s
+1792071566 OBS stuckU=0 mounted=1
+1792071566 A n=946 rc=0 dur=0s
+1792071567 OBS stuckU=0 mounted=1
+1792071567 A n=947 rc=0 dur=0s
+1792071568 OBS stuckU=0 mounted=1
+1792071568 A n=948 rc=0 dur=0s
+1792071569 OBS stuckU=0 mounted=1
+1792071569 A n=949 rc=0 dur=0s
+1792071570 OBS stuckU=0 mounted=1
+1792071570 A n=950 rc=0 dur=0s
+1792071571 OBS stuckU=0 mounted=1
+1792071571 A n=951 rc=0 dur=0s
+1792071572 OBS stuckU=0 mounted=1
+1792071572 A n=952 rc=0 dur=0s
+1792071573 OBS stuckU=0 mounted=1
+1792071573 A n=953 rc=0 dur=0s
+1792071574 OBS stuckU=0 mounted=1
+1792071574 A n=954 rc=0 dur=0s
+1792071575 OBS stuckU=0 mounted=1
+1792071575 A n=955 rc=0 dur=0s
+1792071576 OBS stuckU=0 mounted=1
+1792071576 A n=956 rc=0 dur=0s
+1792071577 OBS stuckU=0 mounted=1
+1792071577 A n=957 rc=0 dur=0s
+1792071578 OBS stuckU=0 mounted=1
+1792071578 A n=958 rc=0 dur=0s
+1792071579 OBS stuckU=0 mounted=1
+1792071579 A n=959 rc=0 dur=0s
+1792071580 OBS stuckU=0 mounted=1
+1792071581 A n=960 rc=0 dur=1s
+1792071581 OBS stuckU=0 mounted=1
+1792071582 A n=961 rc=0 dur=0s
+1792071582 OBS stuckU=0 mounted=1
+1792071583 A n=962 rc=0 dur=0s
+1792071583 OBS stuckU=0 mounted=1
+1792071584 A n=963 rc=0 dur=0s
+1792071584 OBS stuckU=0 mounted=1
+1792071585 A n=964 rc=0 dur=0s
+1792071585 OBS stuckU=0 mounted=1
+1792071586 A n=965 rc=0 dur=0s
+1792071587 OBS stuckU=0 mounted=1
+1792071587 A n=966 rc=0 dur=0s
+1792071588 OBS stuckU=0 mounted=1
+1792071588 A n=967 rc=0 dur=0s
+1792071589 OBS stuckU=0 mounted=1
+1792071589 A n=968 rc=0 dur=0s
+1792071590 A n=969 rc=0 dur=0s
+1792071590 OBS stuckU=1 mounted=1
+1792071591 A n=970 rc=0 dur=0s
+1792071591 OBS stuckU=0 mounted=1
+1792071592 A n=971 rc=0 dur=0s
+1792071592 OBS stuckU=0 mounted=1
+1792071593 A n=972 rc=0 dur=0s
+1792071593 OBS stuckU=0 mounted=1
+1792071594 A n=973 rc=0 dur=0s
+1792071594 OBS stuckU=0 mounted=1
+1792071595 A n=974 rc=0 dur=0s
+1792071595 OBS stuckU=0 mounted=1
+1792071596 A n=975 rc=0 dur=0s
+1792071596 OBS stuckU=0 mounted=1
+1792071597 A n=976 rc=0 dur=0s
+1792071597 OBS stuckU=0 mounted=1
+1792071598 A n=977 rc=1 dur=0s
+1792071598 OBS stuckU=0 mounted=1
+1792071599 A n=978 rc=1 dur=0s
+1792071599 OBS stuckU=0 mounted=1
+1792071600 A n=979 rc=0 dur=0s
+1792071600 OBS stuckU=0 mounted=1
+1792071601 A n=980 rc=0 dur=0s
+1792071601 OBS stuckU=0 mounted=1
+1792071602 A n=981 rc=0 dur=0s
+1792071602 OBS stuckU=0 mounted=1
+1792071603 A n=982 rc=0 dur=0s
+1792071603 OBS stuckU=0 mounted=1
+1792071604 A n=983 rc=0 dur=0s
+1792071604 OBS stuckU=0 mounted=1
+1792071605 A n=984 rc=0 dur=0s
+1792071605 OBS stuckU=0 mounted=1
+1792071606 A n=985 rc=0 dur=0s
+1792071607 OBS stuckU=0 mounted=1
+1792071607 A n=986 rc=0 dur=0s
+1792071608 OBS stuckU=0 mounted=1
+1792071608 A n=987 rc=0 dur=0s
+1792071609 OBS stuckU=0 mounted=1
+1792071609 A n=988 rc=0 dur=0s
+1792071610 OBS stuckU=0 mounted=1
+1792071610 A n=989 rc=0 dur=0s
+1792071611 OBS stuckU=0 mounted=1
+1792071611 A n=990 rc=0 dur=0s
+1792071612 OBS stuckU=0 mounted=1
+1792071612 A n=991 rc=0 dur=0s
+1792071613 OBS stuckU=0 mounted=1
+1792071613 A n=992 rc=0 dur=0s
+1792071614 OBS stuckU=0 mounted=1
+1792071614 A n=993 rc=0 dur=0s
+1792071615 OBS stuckU=0 mounted=1
+1792071615 A n=994 rc=0 dur=0s
+1792071616 OBS stuckU=0 mounted=1
+1792071616 A n=995 rc=0 dur=0s
+1792071617 OBS stuckU=0 mounted=1
+1792071617 A n=996 rc=0 dur=0s
+1792071618 OBS stuckU=0 mounted=1
+1792071618 A n=997 rc=0 dur=0s
+1792071619 OBS stuckU=0 mounted=1
+1792071619 A n=998 rc=0 dur=0s
+1792071620 OBS stuckU=0 mounted=1
+1792071620 A n=999 rc=0 dur=0s
+1792071621 OBS stuckU=0 mounted=1
+1792071621 A n=1000 rc=0 dur=0s
+1792071622 OBS stuckU=0 mounted=1
+1792071622 A n=1001 rc=0 dur=0s
+1792071623 OBS stuckU=0 mounted=1
+1792071623 A n=1002 rc=0 dur=1s
+1792071624 OBS stuckU=0 mounted=1
+1792071625 A n=1003 rc=0 dur=0s
+1792071625 OBS stuckU=0 mounted=1
+1792071626 A n=1004 rc=0 dur=0s
+1792071627 OBS stuckU=0 mounted=1
+1792071627 A n=1005 rc=0 dur=0s
+1792071628 A n=1006 rc=0 dur=0s
+1792071628 OBS stuckU=0 mounted=1
+1792071629 A n=1007 rc=0 dur=0s
+1792071629 OBS stuckU=0 mounted=1
+1792071630 A n=1008 rc=0 dur=0s
+1792071630 OBS stuckU=0 mounted=1
+1792071631 A n=1009 rc=0 dur=0s
+1792071631 OBS stuckU=0 mounted=1
+1792071632 A n=1010 rc=1 dur=0s
+1792071632 OBS stuckU=0 mounted=1
+1792071633 A n=1011 rc=0 dur=0s
+1792071633 OBS stuckU=0 mounted=1
+1792071634 A n=1012 rc=0 dur=0s
+1792071634 OBS stuckU=0 mounted=1
+1792071635 A n=1013 rc=0 dur=0s
+1792071635 OBS stuckU=0 mounted=1
+1792071636 A n=1014 rc=0 dur=0s
+1792071636 OBS stuckU=0 mounted=1
+1792071637 A n=1015 rc=0 dur=0s
+1792071637 OBS stuckU=0 mounted=1
+1792071638 A n=1016 rc=0 dur=0s
+1792071638 OBS stuckU=0 mounted=1
+1792071639 A n=1017 rc=0 dur=0s
+1792071639 OBS stuckU=0 mounted=1
+1792071640 A n=1018 rc=0 dur=0s
+1792071640 OBS stuckU=0 mounted=1
+1792071641 A n=1019 rc=0 dur=0s
+1792071641 OBS stuckU=0 mounted=1
+1792071642 A n=1020 rc=0 dur=0s
+1792071642 OBS stuckU=0 mounted=1
+1792071643 A n=1021 rc=0 dur=0s
+1792071643 OBS stuckU=0 mounted=1
+1792071644 A n=1022 rc=0 dur=0s
+1792071644 OBS stuckU=0 mounted=1
+1792071645 A n=1023 rc=1 dur=0s
+1792071645 OBS stuckU=0 mounted=1
+1792071646 A n=1024 rc=0 dur=0s
+1792071646 OBS stuckU=0 mounted=1
+1792071647 A n=1025 rc=0 dur=0s
+1792071648 OBS stuckU=0 mounted=1
+1792071648 A n=1026 rc=0 dur=0s
+1792071649 OBS stuckU=0 mounted=1
+1792071649 A n=1027 rc=0 dur=0s
+1792071650 OBS stuckU=0 mounted=1
+1792071650 A n=1028 rc=0 dur=0s
+1792071651 OBS stuckU=0 mounted=1
+1792071651 A n=1029 rc=0 dur=0s
+1792071652 OBS stuckU=0 mounted=1
+1792071652 A n=1030 rc=0 dur=0s
+1792071653 OBS stuckU=0 mounted=1
+1792071653 A n=1031 rc=0 dur=0s
+1792071654 OBS stuckU=0 mounted=1
+1792071654 A n=1032 rc=0 dur=0s
+1792071655 OBS stuckU=0 mounted=1
+1792071655 A n=1033 rc=0 dur=0s
+1792071656 OBS stuckU=0 mounted=1
+1792071656 A n=1034 rc=0 dur=0s
+1792071657 OBS stuckU=0 mounted=1
+1792071657 A n=1035 rc=0 dur=0s
+1792071658 OBS stuckU=0 mounted=1
+1792071658 A n=1036 rc=0 dur=0s
+1792071659 OBS stuckU=0 mounted=1
+1792071659 A n=1037 rc=0 dur=0s
+1792071660 OBS stuckU=0 mounted=1
+1792071660 A n=1038 rc=0 dur=0s
+1792071661 OBS stuckU=0 mounted=1
+1792071661 A n=1039 rc=0 dur=0s
+1792071662 OBS stuckU=0 mounted=1
+1792071662 A n=1040 rc=0 dur=0s
+1792071663 OBS stuckU=0 mounted=1
+1792071663 A n=1041 rc=0 dur=0s
+1792071664 OBS stuckU=0 mounted=1
+1792071664 A n=1042 rc=0 dur=0s
+1792071665 OBS stuckU=0 mounted=1
+1792071665 A n=1043 rc=0 dur=0s
+1792071666 OBS stuckU=0 mounted=1
+1792071667 A n=1044 rc=0 dur=0s
+1792071668 A n=1045 rc=0 dur=0s
+1792071668 OBS stuckU=1 mounted=1
+1792071669 A n=1046 rc=0 dur=0s
+1792071669 OBS stuckU=0 mounted=1
+1792071670 A n=1047 rc=0 dur=0s
+1792071670 OBS stuckU=0 mounted=1
+1792071671 A n=1048 rc=0 dur=0s
+1792071671 OBS stuckU=0 mounted=1
+1792071672 A n=1049 rc=1 dur=0s
+1792071672 OBS stuckU=0 mounted=1
+1792071673 A n=1050 rc=0 dur=0s
+1792071673 OBS stuckU=0 mounted=1
+1792071674 A n=1051 rc=0 dur=0s
+1792071674 OBS stuckU=0 mounted=1
+1792071675 A n=1052 rc=0 dur=0s
+1792071675 OBS stuckU=0 mounted=1
+1792071676 A n=1053 rc=0 dur=0s
+1792071676 OBS stuckU=0 mounted=1
+1792071677 A n=1054 rc=0 dur=0s
+1792071677 OBS stuckU=0 mounted=1
+1792071678 A n=1055 rc=0 dur=0s
+1792071678 OBS stuckU=0 mounted=1
+1792071679 A n=1056 rc=0 dur=0s
+1792071679 OBS stuckU=0 mounted=1
+1792071680 A n=1057 rc=0 dur=0s
+1792071680 OBS stuckU=0 mounted=1
+1792071681 A n=1058 rc=0 dur=0s
+1792071681 OBS stuckU=0 mounted=1
+1792071682 A n=1059 rc=0 dur=0s
+1792071682 OBS stuckU=0 mounted=1
+1792071683 A n=1060 rc=0 dur=0s
+1792071683 OBS stuckU=0 mounted=1
+1792071684 A n=1061 rc=0 dur=0s
+1792071684 OBS stuckU=0 mounted=1
+1792071685 A n=1062 rc=1 dur=0s
+1792071685 OBS stuckU=0 mounted=1
+1792071686 A n=1063 rc=0 dur=0s
+1792071686 OBS stuckU=0 mounted=1
+1792071687 A n=1064 rc=0 dur=0s
+1792071688 OBS stuckU=0 mounted=1
+1792071688 A n=1065 rc=0 dur=0s
+1792071689 OBS stuckU=0 mounted=1
+1792071689 A n=1066 rc=0 dur=0s
+1792071690 OBS stuckU=0 mounted=1
+1792071690 A n=1067 rc=0 dur=0s
+1792071691 OBS stuckU=0 mounted=1
+1792071691 A n=1068 rc=0 dur=0s
+1792071692 OBS stuckU=0 mounted=1
+1792071692 A n=1069 rc=0 dur=0s
+1792071693 OBS stuckU=1 mounted=1
+1792071693 A n=1070 rc=0 dur=0s
+1792071694 OBS stuckU=0 mounted=1
+1792071694 A n=1071 rc=0 dur=0s
+1792071695 OBS stuckU=0 mounted=1
+1792071695 A n=1072 rc=0 dur=0s
+1792071696 OBS stuckU=0 mounted=1
+1792071696 A n=1073 rc=0 dur=0s
+1792071697 OBS stuckU=0 mounted=1
+1792071697 A n=1074 rc=0 dur=0s
+1792071698 OBS stuckU=0 mounted=1
+1792071698 A n=1075 rc=0 dur=0s
+1792071699 OBS stuckU=0 mounted=1
+1792071699 A n=1076 rc=0 dur=0s
+1792071700 OBS stuckU=0 mounted=1
+1792071700 A n=1077 rc=0 dur=0s
+1792071701 OBS stuckU=0 mounted=1
+1792071701 A n=1078 rc=0 dur=0s
+1792071702 OBS stuckU=0 mounted=1
+1792071702 A n=1079 rc=0 dur=0s
+1792071703 OBS stuckU=0 mounted=1
+1792071703 A n=1080 rc=0 dur=0s
+1792071704 OBS stuckU=0 mounted=1
+1792071704 A n=1081 rc=0 dur=0s
+1792071705 A n=1082 rc=0 dur=0s
+1792071705 OBS stuckU=0 mounted=1
+1792071706 A n=1083 rc=0 dur=0s
+1792071706 OBS stuckU=0 mounted=1
+1792071707 A n=1084 rc=0 dur=0s
+1792071708 OBS stuckU=0 mounted=1
+1792071708 A n=1085 rc=0 dur=1s
+1792071709 OBS stuckU=0 mounted=1
+1792071710 A n=1086 rc=0 dur=0s
+1792071710 OBS stuckU=0 mounted=1
+1792071711 A n=1087 rc=0 dur=0s
+1792071711 OBS stuckU=0 mounted=1
+1792071712 A n=1088 rc=0 dur=0s
+1792071712 OBS stuckU=0 mounted=1
+1792071713 A n=1089 rc=0 dur=0s
+1792071713 OBS stuckU=0 mounted=1
+1792071714 A n=1090 rc=0 dur=0s
+1792071714 OBS stuckU=0 mounted=1
+1792071715 A n=1091 rc=0 dur=0s
+1792071715 OBS stuckU=0 mounted=1
+1792071716 A n=1092 rc=0 dur=0s
+1792071716 OBS stuckU=0 mounted=1
+1792071717 A n=1093 rc=0 dur=0s
+1792071717 OBS stuckU=0 mounted=1
+1792071718 A n=1094 rc=0 dur=0s
+1792071718 OBS stuckU=0 mounted=1
+1792071719 A n=1095 rc=1 dur=0s
+1792071719 OBS stuckU=0 mounted=1
+1792071720 A n=1096 rc=0 dur=0s
+1792071720 OBS stuckU=0 mounted=1
+1792071721 A n=1097 rc=0 dur=0s
+1792071721 OBS stuckU=0 mounted=1
+1792071722 A n=1098 rc=0 dur=0s
+1792071722 OBS stuckU=0 mounted=1
+1792071723 A n=1099 rc=0 dur=0s
+1792071723 OBS stuckU=0 mounted=1
+1792071724 A n=1100 rc=0 dur=0s
+1792071724 OBS stuckU=0 mounted=1
+1792071725 A n=1101 rc=0 dur=0s
+1792071725 OBS stuckU=0 mounted=1
+1792071726 A n=1102 rc=0 dur=0s
+1792071726 OBS stuckU=0 mounted=1
+1792071727 A n=1103 rc=0 dur=0s
+1792071727 OBS stuckU=0 mounted=1
+1792071728 A n=1104 rc=0 dur=0s
+1792071729 OBS stuckU=0 mounted=1
+1792071729 A n=1105 rc=0 dur=0s
+1792071730 OBS stuckU=0 mounted=1
+1792071730 A n=1106 rc=0 dur=0s
+1792071731 OBS stuckU=0 mounted=1
+1792071731 A n=1107 rc=0 dur=0s
+1792071732 OBS stuckU=0 mounted=1
+1792071732 A n=1108 rc=0 dur=0s
+1792071733 OBS stuckU=0 mounted=1
+1792071733 A n=1109 rc=0 dur=0s
+1792071734 OBS stuckU=0 mounted=1
+1792071734 A n=1110 rc=0 dur=0s
+1792071735 OBS stuckU=0 mounted=1
+1792071735 A n=1111 rc=0 dur=0s
+1792071736 OBS stuckU=0 mounted=1
+1792071736 A n=1112 rc=1 dur=0s
+1792071737 OBS stuckU=0 mounted=1
+1792071737 A n=1113 rc=1 dur=0s
+1792071738 OBS stuckU=0 mounted=1
+1792071738 A n=1114 rc=0 dur=0s
+1792071739 OBS stuckU=0 mounted=1
+1792071739 A n=1115 rc=0 dur=0s
+1792071740 OBS stuckU=0 mounted=1
+1792071740 A n=1116 rc=0 dur=0s
+1792071741 OBS stuckU=0 mounted=1
+1792071741 A n=1117 rc=0 dur=0s
+1792071742 OBS stuckU=0 mounted=1
+1792071742 A n=1118 rc=0 dur=0s
+1792071743 OBS stuckU=0 mounted=1
+1792071743 A n=1119 rc=0 dur=0s
+1792071744 OBS stuckU=0 mounted=1
+1792071744 A n=1120 rc=0 dur=0s
+1792071745 OBS stuckU=0 mounted=1
+1792071745 A n=1121 rc=0 dur=0s
+1792071746 OBS stuckU=0 mounted=1
+1792071746 A n=1122 rc=0 dur=0s
+1792071747 A n=1123 rc=0 dur=0s
+1792071747 OBS stuckU=0 mounted=1
+1792071749 A n=1124 rc=0 dur=0s
+1792071749 OBS stuckU=0 mounted=1
+1792071750 A n=1125 rc=0 dur=0s
+1792071750 OBS stuckU=0 mounted=1
+1792071751 A n=1126 rc=0 dur=0s
+1792071751 OBS stuckU=0 mounted=1
+1792071752 A n=1127 rc=0 dur=0s
+1792071752 OBS stuckU=0 mounted=1
+1792071753 A n=1128 rc=0 dur=0s
+1792071753 OBS stuckU=0 mounted=1
+1792071754 A n=1129 rc=0 dur=0s
+1792071754 OBS stuckU=0 mounted=1
+1792071755 A n=1130 rc=0 dur=0s
+1792071755 OBS stuckU=0 mounted=1
+1792071756 A n=1131 rc=0 dur=0s
+1792071756 OBS stuckU=0 mounted=1
+1792071757 A n=1132 rc=0 dur=0s
+1792071757 OBS stuckU=0 mounted=1
+1792071758 A n=1133 rc=0 dur=0s
+1792071758 OBS stuckU=0 mounted=1
+1792071759 A n=1134 rc=0 dur=0s
+1792071759 OBS stuckU=0 mounted=1
+1792071760 A n=1135 rc=0 dur=0s
+1792071760 OBS stuckU=0 mounted=1
+1792071761 A n=1136 rc=0 dur=0s
+1792071761 OBS stuckU=0 mounted=1
+1792071762 A n=1137 rc=0 dur=0s
+1792071762 OBS stuckU=0 mounted=1
+1792071763 A n=1138 rc=0 dur=0s
+1792071763 OBS stuckU=0 mounted=1
+1792071764 A n=1139 rc=0 dur=0s
+1792071764 OBS stuckU=1 mounted=1
+1792071765 A n=1140 rc=0 dur=0s
+1792071765 OBS stuckU=0 mounted=1
+1792071766 A n=1141 rc=0 dur=0s
+1792071766 OBS stuckU=0 mounted=1
+1792071767 A n=1142 rc=0 dur=0s
+1792071767 OBS stuckU=0 mounted=1
+1792071768 A n=1143 rc=0 dur=0s
+1792071768 OBS stuckU=0 mounted=1
+1792071769 A n=1144 rc=0 dur=0s
+1792071770 OBS stuckU=0 mounted=1
+1792071770 A n=1145 rc=0 dur=0s
+1792071771 OBS stuckU=0 mounted=1
+1792071771 A n=1146 rc=0 dur=0s
+1792071772 OBS stuckU=0 mounted=1
+1792071772 A n=1147 rc=0 dur=0s
+1792071773 OBS stuckU=0 mounted=1
+1792071773 A n=1148 rc=0 dur=0s
+1792071774 OBS stuckU=0 mounted=1
+1792071774 A n=1149 rc=0 dur=0s
+1792071775 OBS stuckU=0 mounted=1
+1792071775 A n=1150 rc=0 dur=0s
+1792071776 OBS stuckU=0 mounted=1
+1792071776 A n=1151 rc=0 dur=0s
+1792071777 OBS stuckU=0 mounted=1
+1792071777 A n=1152 rc=0 dur=0s
+1792071778 OBS stuckU=0 mounted=1
+1792071778 A n=1153 rc=0 dur=0s
+1792071779 OBS stuckU=0 mounted=1
+1792071779 A n=1154 rc=0 dur=0s
+1792071780 OBS stuckU=0 mounted=1
+1792071780 A n=1155 rc=0 dur=0s
+1792071781 OBS stuckU=0 mounted=1
+1792071781 A n=1156 rc=0 dur=0s
+1792071782 OBS stuckU=0 mounted=1
+1792071782 A n=1157 rc=0 dur=0s
+1792071783 OBS stuckU=0 mounted=1
+1792071783 A n=1158 rc=0 dur=0s
+1792071784 OBS stuckU=0 mounted=1
+1792071784 A n=1159 rc=0 dur=0s
+1792071785 OBS stuckU=0 mounted=1
+1792071785 A n=1160 rc=0 dur=0s
+1792071786 OBS stuckU=0 mounted=1
+1792071786 A n=1161 rc=0 dur=0s
+1792071787 OBS stuckU=0 mounted=1
+1792071787 A n=1162 rc=0 dur=0s
+1792071788 OBS stuckU=0 mounted=1
+1792071789 A n=1163 rc=0 dur=0s
+1792071790 A n=1164 rc=0 dur=0s
+1792071790 OBS stuckU=1 mounted=1
+1792071791 A n=1165 rc=0 dur=0s
+1792071791 OBS stuckU=0 mounted=1
+1792071792 A n=1166 rc=0 dur=0s
+1792071792 OBS stuckU=0 mounted=1
+1792071793 A n=1167 rc=0 dur=0s
+1792071793 OBS stuckU=0 mounted=1
+1792071794 A n=1168 rc=0 dur=0s
+1792071794 OBS stuckU=0 mounted=1
+1792071795 A n=1169 rc=0 dur=0s
+1792071795 OBS stuckU=0 mounted=1
+1792071796 A n=1170 rc=0 dur=0s
+1792071796 OBS stuckU=0 mounted=1
+1792071797 A n=1171 rc=0 dur=0s
+1792071797 OBS stuckU=0 mounted=1
+1792071798 A n=1172 rc=0 dur=0s
+1792071798 OBS stuckU=0 mounted=1
+1792071799 A n=1173 rc=0 dur=0s
+1792071799 OBS stuckU=0 mounted=1
+1792071800 A n=1174 rc=0 dur=0s
+1792071800 OBS stuckU=0 mounted=1
+1792071801 A n=1175 rc=0 dur=0s
+1792071801 OBS stuckU=0 mounted=1
+1792071802 A n=1176 rc=0 dur=0s
+1792071802 OBS stuckU=0 mounted=1
+1792071803 A n=1177 rc=0 dur=0s
+1792071803 OBS stuckU=0 mounted=1
+1792071804 A n=1178 rc=0 dur=0s
+1792071804 OBS stuckU=0 mounted=1
+1792071805 A n=1179 rc=0 dur=0s
+1792071805 OBS stuckU=0 mounted=1
+1792071806 A n=1180 rc=0 dur=0s
+1792071806 OBS stuckU=0 mounted=1
+1792071807 A n=1181 rc=0 dur=0s
+1792071807 OBS stuckU=0 mounted=1
+1792071808 A n=1182 rc=0 dur=0s
+1792071808 OBS stuckU=0 mounted=1
+1792071809 A n=1183 rc=0 dur=0s
+1792071809 OBS stuckU=0 mounted=1
+1792071810 A n=1184 rc=1 dur=0s
+1792071811 OBS stuckU=0 mounted=1
+1792071811 A n=1185 rc=0 dur=0s
+1792071812 OBS stuckU=0 mounted=1
+1792071812 A n=1186 rc=0 dur=0s
+1792071813 OBS stuckU=0 mounted=1
+1792071813 A n=1187 rc=0 dur=0s
+1792071814 OBS stuckU=0 mounted=1
+1792071814 A n=1188 rc=0 dur=0s
+1792071815 OBS stuckU=0 mounted=1
+1792071815 A n=1189 rc=0 dur=0s
+1792071816 OBS stuckU=0 mounted=1
+1792071816 A n=1190 rc=0 dur=0s
+1792071817 OBS stuckU=0 mounted=1
+1792071817 A n=1191 rc=0 dur=0s
+1792071818 OBS stuckU=0 mounted=1
+1792071818 A n=1192 rc=0 dur=0s
+1792071819 OBS stuckU=0 mounted=1
+1792071819 A n=1193 rc=0 dur=0s
+1792071820 OBS stuckU=0 mounted=1
+1792071820 A n=1194 rc=0 dur=0s
+1792071821 OBS stuckU=0 mounted=1
+1792071821 A n=1195 rc=0 dur=0s
+1792071822 OBS stuckU=0 mounted=1
+1792071822 A n=1196 rc=0 dur=0s
+1792071823 OBS stuckU=0 mounted=1
+1792071823 A n=1197 rc=0 dur=0s
+1792071824 OBS stuckU=0 mounted=1
+1792071824 A n=1198 rc=0 dur=0s
+1792071825 OBS stuckU=0 mounted=1
+1792071825 A n=1199 rc=0 dur=0s
+1792071826 OBS stuckU=0 mounted=1
+1792071826 A n=1200 rc=0 dur=0s
+1792071827 OBS stuckU=0 mounted=1
+1792071827 A n=1201 rc=0 dur=0s
+1792071828 OBS stuckU=0 mounted=1
+1792071828 A n=1202 rc=0 dur=1s
+1792071829 OBS stuckU=0 mounted=1
+1792071830 A n=1203 rc=0 dur=0s
+1792071831 A n=1204 rc=0 dur=0s
+1792071831 OBS stuckU=1 mounted=1
+1792071832 A n=1205 rc=0 dur=0s
+1792071832 OBS stuckU=0 mounted=1
+1792071833 A n=1206 rc=0 dur=0s
+1792071833 OBS stuckU=0 mounted=1
+1792071834 A n=1207 rc=0 dur=0s
+1792071834 OBS stuckU=0 mounted=1
+1792071835 A n=1208 rc=0 dur=0s
+1792071835 OBS stuckU=0 mounted=1
+1792071836 A n=1209 rc=0 dur=0s
+1792071836 OBS stuckU=0 mounted=1
+1792071837 A n=1210 rc=0 dur=0s
+1792071837 OBS stuckU=0 mounted=1
+1792071838 A n=1211 rc=0 dur=0s
+1792071838 OBS stuckU=0 mounted=1
+1792071839 A n=1212 rc=0 dur=0s
+1792071839 OBS stuckU=0 mounted=1
+1792071840 A n=1213 rc=0 dur=0s
+1792071840 OBS stuckU=0 mounted=1
+1792071841 A n=1214 rc=0 dur=0s
+1792071841 OBS stuckU=0 mounted=1
+1792071842 A n=1215 rc=0 dur=0s
+1792071842 OBS stuckU=0 mounted=1
+1792071843 A n=1216 rc=0 dur=0s
+1792071843 OBS stuckU=0 mounted=1
+1792071844 A n=1217 rc=0 dur=0s
+1792071844 OBS stuckU=0 mounted=1
+1792071845 A n=1218 rc=0 dur=0s
+1792071845 OBS stuckU=0 mounted=1
+1792071846 A n=1219 rc=0 dur=0s
+1792071846 OBS stuckU=0 mounted=1
+1792071847 A n=1220 rc=0 dur=0s
+1792071847 OBS stuckU=0 mounted=1
+1792071848 A n=1221 rc=0 dur=0s
+1792071848 OBS stuckU=0 mounted=1
+1792071849 A n=1222 rc=0 dur=0s
+1792071849 OBS stuckU=0 mounted=1
+1792071850 A n=1223 rc=0 dur=0s
+1792071851 OBS stuckU=0 mounted=1
+1792071851 A n=1224 rc=0 dur=0s
+1792071852 OBS stuckU=0 mounted=1
+1792071852 A n=1225 rc=0 dur=0s
+1792071853 OBS stuckU=0 mounted=1
+1792071853 A n=1226 rc=0 dur=0s
+1792071854 OBS stuckU=0 mounted=1
+1792071854 A n=1227 rc=0 dur=0s
+1792071855 OBS stuckU=0 mounted=1
+1792071855 A n=1228 rc=0 dur=0s
+1792071856 OBS stuckU=0 mounted=1
+1792071856 A n=1229 rc=0 dur=0s
+1792071857 OBS stuckU=0 mounted=1
+1792071857 A n=1230 rc=0 dur=0s
+1792071858 OBS stuckU=0 mounted=1
+1792071858 A n=1231 rc=0 dur=0s
+1792071859 OBS stuckU=0 mounted=1
+1792071859 A n=1232 rc=0 dur=0s
+1792071860 OBS stuckU=0 mounted=1
+1792071860 A n=1233 rc=0 dur=0s
+1792071861 OBS stuckU=0 mounted=1
+1792071861 A n=1234 rc=0 dur=0s
+1792071862 OBS stuckU=0 mounted=1
+1792071862 A n=1235 rc=0 dur=0s
+1792071863 OBS stuckU=0 mounted=1
+1792071863 A n=1236 rc=0 dur=0s
+1792071864 OBS stuckU=0 mounted=1
+1792071864 A n=1237 rc=0 dur=0s
+1792071865 OBS stuckU=0 mounted=1
+1792071865 A n=1238 rc=0 dur=0s
+1792071866 OBS stuckU=0 mounted=1
+1792071866 A n=1239 rc=0 dur=0s
+1792071867 OBS stuckU=0 mounted=1
+1792071867 A n=1240 rc=0 dur=0s
+1792071868 OBS stuckU=0 mounted=1
+1792071868 A n=1241 rc=0 dur=0s
+1792071869 OBS stuckU=0 mounted=1
+1792071870 A n=1242 rc=0 dur=0s
+1792071870 OBS stuckU=0 mounted=1
+1792071871 A n=1243 rc=0 dur=0s
+1792071872 A n=1244 rc=0 dur=0s
+1792071872 OBS stuckU=0 mounted=1
+1792071873 A n=1245 rc=0 dur=0s
+1792071873 OBS stuckU=1 mounted=1
+1792071874 A n=1246 rc=0 dur=0s
+1792071874 OBS stuckU=0 mounted=1
+1792071875 A n=1247 rc=0 dur=0s
+1792071875 OBS stuckU=0 mounted=1
+1792071876 A n=1248 rc=0 dur=0s
+1792071876 OBS stuckU=0 mounted=1
+1792071877 A n=1249 rc=0 dur=0s
+1792071877 OBS stuckU=0 mounted=1
+1792071878 A n=1250 rc=0 dur=0s
+1792071878 OBS stuckU=0 mounted=1
+1792071879 A n=1251 rc=0 dur=0s
+1792071879 OBS stuckU=0 mounted=1
+1792071880 A n=1252 rc=0 dur=0s
+1792071880 OBS stuckU=0 mounted=1
+1792071881 A n=1253 rc=0 dur=0s
+1792071881 OBS stuckU=0 mounted=1
+1792071882 A n=1254 rc=0 dur=0s
+1792071882 OBS stuckU=0 mounted=1
+1792071883 A n=1255 rc=0 dur=0s
+1792071883 OBS stuckU=0 mounted=1
+1792071884 A n=1256 rc=0 dur=0s
+1792071884 OBS stuckU=0 mounted=1
+1792071885 A n=1257 rc=0 dur=0s
+1792071885 OBS stuckU=0 mounted=1
+1792071886 A n=1258 rc=0 dur=0s
+1792071886 OBS stuckU=0 mounted=1
+1792071887 A n=1259 rc=0 dur=0s
+1792071887 OBS stuckU=0 mounted=1
+1792071888 A n=1260 rc=0 dur=0s
+1792071888 OBS stuckU=0 mounted=1
+1792071889 A n=1261 rc=0 dur=0s
+1792071889 OBS stuckU=0 mounted=1
+1792071890 A n=1262 rc=0 dur=0s
+1792071890 OBS stuckU=0 mounted=1
+1792071891 A n=1263 rc=0 dur=0s
+1792071891 OBS stuckU=0 mounted=1
+1792071892 A n=1264 rc=0 dur=0s
+1792071893 OBS stuckU=0 mounted=1
+1792071893 A n=1265 rc=0 dur=0s
+1792071894 OBS stuckU=0 mounted=1
+1792071894 A n=1266 rc=0 dur=0s
+1792071895 OBS stuckU=0 mounted=1
+1792071895 A n=1267 rc=0 dur=0s
+1792071896 OBS stuckU=0 mounted=1
+1792071896 A n=1268 rc=0 dur=0s
+1792071897 OBS stuckU=0 mounted=1
+1792071897 A n=1269 rc=0 dur=0s
+1792071898 OBS stuckU=0 mounted=1
+1792071898 A n=1270 rc=0 dur=0s
+1792071899 OBS stuckU=0 mounted=1
+1792071899 A n=1271 rc=0 dur=0s
+1792071900 OBS stuckU=0 mounted=1
+1792071900 A n=1272 rc=0 dur=0s
+1792071901 OBS stuckU=0 mounted=1
+1792071901 A n=1273 rc=0 dur=0s
+1792071902 OBS stuckU=0 mounted=1
+1792071902 A n=1274 rc=0 dur=0s
+1792071903 OBS stuckU=0 mounted=1
+1792071903 A n=1275 rc=0 dur=0s
+1792071904 OBS stuckU=0 mounted=1
+1792071904 A n=1276 rc=0 dur=0s
+1792071905 OBS stuckU=0 mounted=1
+1792071905 A n=1277 rc=0 dur=0s
+1792071906 OBS stuckU=0 mounted=1
+1792071906 A n=1278 rc=0 dur=0s
+1792071907 OBS stuckU=0 mounted=1
+1792071907 A n=1279 rc=0 dur=0s
+1792071908 OBS stuckU=0 mounted=1
+1792071908 A n=1280 rc=0 dur=0s
+1792071909 OBS stuckU=0 mounted=1
+1792071909 A n=1281 rc=0 dur=0s
+1792071910 OBS stuckU=0 mounted=1
+1792071910 A n=1282 rc=0 dur=0s
+1792071911 OBS stuckU=0 mounted=1
+1792071912 A n=1283 rc=0 dur=0s
+1792071913 A n=1284 rc=0 dur=0s
+1792071913 OBS stuckU=0 mounted=1
+1792071914 A n=1285 rc=0 dur=0s
+1792071914 OBS stuckU=0 mounted=1
+1792071915 A n=1286 rc=0 dur=0s
+1792071915 OBS stuckU=0 mounted=1
+1792071916 A n=1287 rc=0 dur=0s
+1792071916 OBS stuckU=0 mounted=1
+1792071917 A n=1288 rc=0 dur=0s
+1792071917 OBS stuckU=0 mounted=1
+1792071918 A n=1289 rc=0 dur=0s
+1792071918 OBS stuckU=0 mounted=1
+1792071919 A n=1290 rc=0 dur=0s
+1792071919 OBS stuckU=0 mounted=1
+1792071920 A n=1291 rc=0 dur=0s
+1792071920 OBS stuckU=0 mounted=1
+1792071921 A n=1292 rc=0 dur=0s
+1792071921 OBS stuckU=0 mounted=1
+1792071922 A n=1293 rc=0 dur=0s
+1792071922 OBS stuckU=0 mounted=1
+1792071923 A n=1294 rc=0 dur=0s
+1792071923 OBS stuckU=0 mounted=1
+1792071924 A n=1295 rc=0 dur=0s
+1792071924 OBS stuckU=0 mounted=1
+1792071925 A n=1296 rc=0 dur=0s
+1792071925 OBS stuckU=0 mounted=1
+1792071926 A n=1297 rc=0 dur=0s
+1792071926 OBS stuckU=1 mounted=1
+1792071927 A n=1298 rc=0 dur=0s
+1792071927 OBS stuckU=1 mounted=1
+1792071928 A n=1299 rc=0 dur=0s
+1792071928 OBS stuckU=0 mounted=1
+1792071929 A n=1300 rc=0 dur=0s
+1792071929 OBS stuckU=0 mounted=1
+1792071930 A n=1301 rc=0 dur=0s
+1792071930 OBS stuckU=0 mounted=1
+1792071931 A n=1302 rc=0 dur=0s
+1792071931 OBS stuckU=0 mounted=1
+1792071932 A n=1303 rc=0 dur=0s
+1792071932 OBS stuckU=0 mounted=1
+1792071933 A n=1304 rc=0 dur=0s
+1792071934 OBS stuckU=0 mounted=1
+1792071934 A n=1305 rc=0 dur=0s
+1792071935 OBS stuckU=0 mounted=1
+1792071935 A n=1306 rc=0 dur=0s
+1792071936 OBS stuckU=0 mounted=1
+1792071936 A n=1307 rc=0 dur=0s
+1792071937 OBS stuckU=0 mounted=1
+1792071937 A n=1308 rc=0 dur=0s
+1792071938 OBS stuckU=0 mounted=1
+1792071938 A n=1309 rc=0 dur=0s
+1792071939 OBS stuckU=0 mounted=1
+1792071939 A n=1310 rc=0 dur=0s
+1792071940 OBS stuckU=0 mounted=1
+1792071940 A n=1311 rc=0 dur=0s
+1792071941 OBS stuckU=0 mounted=1
+1792071941 A n=1312 rc=0 dur=0s
+1792071942 OBS stuckU=0 mounted=1
+1792071942 A n=1313 rc=0 dur=0s
+1792071943 OBS stuckU=0 mounted=1
+1792071943 A n=1314 rc=0 dur=0s
+1792071944 OBS stuckU=0 mounted=1
+1792071944 A n=1315 rc=0 dur=0s
+1792071945 OBS stuckU=0 mounted=1
+1792071945 A n=1316 rc=0 dur=0s
+1792071946 OBS stuckU=0 mounted=1
+1792071946 A n=1317 rc=0 dur=0s
+1792071947 OBS stuckU=0 mounted=1
+1792071947 A n=1318 rc=0 dur=0s
+1792071948 OBS stuckU=0 mounted=1
+1792071948 A n=1319 rc=0 dur=0s
+1792071949 OBS stuckU=0 mounted=1
+1792071949 A n=1320 rc=0 dur=0s
+1792071950 OBS stuckU=0 mounted=1
+1792071950 A n=1321 rc=0 dur=0s
+1792071951 OBS stuckU=0 mounted=1
+1792071951 A n=1322 rc=0 dur=0s
+1792071952 A n=1323 rc=0 dur=0s
+1792071952 OBS stuckU=0 mounted=1
+1792071953 A n=1324 rc=0 dur=0s
+1792071953 OBS stuckU=0 mounted=1
+1792071954 A n=1325 rc=0 dur=0s
+1792071954 OBS stuckU=0 mounted=1
+1792071955 A n=1326 rc=0 dur=0s
+1792071956 OBS stuckU=0 mounted=1
+1792071957 A n=1327 rc=0 dur=0s
+1792071957 OBS stuckU=0 mounted=1
+1792071958 A n=1328 rc=0 dur=0s
+1792071958 OBS stuckU=0 mounted=1
+1792071959 A n=1329 rc=0 dur=0s
+1792071959 OBS stuckU=0 mounted=1
+1792071960 A n=1330 rc=0 dur=0s
+1792071960 OBS stuckU=0 mounted=1
+1792071961 A n=1331 rc=0 dur=0s
+1792071961 OBS stuckU=0 mounted=1
+1792071962 A n=1332 rc=0 dur=0s
+1792071962 OBS stuckU=0 mounted=1
+1792071963 A n=1333 rc=0 dur=0s
+1792071963 OBS stuckU=0 mounted=1
+1792071964 A n=1334 rc=0 dur=0s
+1792071964 OBS stuckU=0 mounted=1
+1792071965 A n=1335 rc=0 dur=0s
+1792071965 OBS stuckU=0 mounted=1
+1792071966 A n=1336 rc=0 dur=0s
+1792071966 OBS stuckU=0 mounted=1
+1792071967 A n=1337 rc=0 dur=0s
+1792071967 OBS stuckU=0 mounted=1
+1792071968 A n=1338 rc=0 dur=0s
+1792071968 OBS stuckU=0 mounted=1
+1792071969 A n=1339 rc=0 dur=0s
+1792071969 OBS stuckU=0 mounted=1
+1792071970 A n=1340 rc=0 dur=0s
+1792071970 OBS stuckU=0 mounted=1
+1792071971 A n=1341 rc=0 dur=0s
+1792071971 OBS stuckU=0 mounted=1
+1792071972 A n=1342 rc=0 dur=0s
+1792071972 OBS stuckU=0 mounted=1
+1792071973 A n=1343 rc=0 dur=0s
+1792071973 OBS stuckU=0 mounted=1
+1792071974 A n=1344 rc=0 dur=0s
+1792071974 OBS stuckU=0 mounted=1
+1792071975 A n=1345 rc=0 dur=0s
+1792071975 OBS stuckU=0 mounted=1
+1792071976 A n=1346 rc=0 dur=0s
+1792071977 OBS stuckU=0 mounted=1
+1792071977 A n=1347 rc=0 dur=0s
+1792071978 OBS stuckU=0 mounted=1
+1792071978 A n=1348 rc=0 dur=0s
+1792071979 OBS stuckU=0 mounted=1
+1792071979 A n=1349 rc=0 dur=0s
+1792071980 OBS stuckU=0 mounted=1
+1792071980 A n=1350 rc=0 dur=0s
+1792071981 OBS stuckU=0 mounted=1
+1792071981 A n=1351 rc=0 dur=0s
+1792071982 OBS stuckU=0 mounted=1
+1792071982 A n=1352 rc=0 dur=0s
+1792071983 OBS stuckU=0 mounted=1
+1792071983 A n=1353 rc=0 dur=0s
+1792071984 OBS stuckU=0 mounted=1
+1792071984 A n=1354 rc=0 dur=0s
+1792071985 OBS stuckU=0 mounted=1
+1792071985 A n=1355 rc=0 dur=0s
+1792071986 OBS stuckU=0 mounted=1
+1792071986 A n=1356 rc=0 dur=0s
+1792071987 OBS stuckU=0 mounted=1
+1792071987 A n=1357 rc=0 dur=0s
+1792071988 OBS stuckU=0 mounted=1
+1792071988 A n=1358 rc=0 dur=0s
+1792071989 OBS stuckU=0 mounted=1
+1792071989 A n=1359 rc=0 dur=0s
+1792071990 OBS stuckU=0 mounted=1
+1792071990 A n=1360 rc=0 dur=0s
+1792071991 OBS stuckU=0 mounted=1
+1792071991 A n=1361 rc=0 dur=0s
+1792071992 A n=1362 rc=0 dur=0s
+1792071992 OBS stuckU=0 mounted=1
+1792071993 A n=1363 rc=0 dur=0s
+1792071993 OBS stuckU=0 mounted=1
+1792071994 A n=1364 rc=0 dur=0s
+1792071994 OBS stuckU=0 mounted=1
+1792071995 A n=1365 rc=0 dur=0s
+1792071995 OBS stuckU=0 mounted=1
+1792071996 A n=1366 rc=0 dur=0s
+1792071996 OBS stuckU=0 mounted=1
+1792071997 A n=1367 rc=0 dur=0s
+1792071997 OBS stuckU=0 mounted=1
+1792071998 A n=1368 rc=0 dur=0s
+1792071999 OBS stuckU=0 mounted=1
+1792071999 A n=1369 rc=0 dur=0s
+1792072000 OBS stuckU=0 mounted=1
+1792072000 A n=1370 rc=0 dur=0s
+1792072001 OBS stuckU=0 mounted=1
+1792072001 A n=1371 rc=0 dur=0s
+1792072002 OBS stuckU=0 mounted=1
+1792072002 A n=1372 rc=0 dur=0s
+1792072003 OBS stuckU=0 mounted=1
+1792072004 A n=1373 rc=0 dur=1s
+1792072004 OBS stuckU=0 mounted=1
+1792072005 A n=1374 rc=0 dur=0s
+1792072005 OBS stuckU=0 mounted=1
+1792072006 A n=1375 rc=0 dur=0s
+1792072006 OBS stuckU=0 mounted=1
+1792072007 A n=1376 rc=0 dur=0s
+1792072007 OBS stuckU=0 mounted=1
+1792072008 A n=1377 rc=0 dur=0s
+1792072008 OBS stuckU=0 mounted=1
+1792072009 A n=1378 rc=0 dur=0s
+1792072009 OBS stuckU=0 mounted=1
+1792072010 A n=1379 rc=0 dur=0s
+1792072010 OBS stuckU=0 mounted=1
+1792072011 A n=1380 rc=0 dur=0s
+1792072011 OBS stuckU=0 mounted=1
+1792072012 A n=1381 rc=0 dur=0s
+1792072012 OBS stuckU=0 mounted=1
+1792072013 A n=1382 rc=0 dur=0s
+1792072013 OBS stuckU=0 mounted=1
+1792072014 A n=1383 rc=0 dur=0s
+1792072014 OBS stuckU=0 mounted=1
+1792072015 A n=1384 rc=0 dur=0s
+1792072015 OBS stuckU=0 mounted=1
+1792072016 A n=1385 rc=0 dur=0s
+1792072016 OBS stuckU=0 mounted=1
+1792072017 A n=1386 rc=0 dur=0s
+1792072017 OBS stuckU=0 mounted=1
+1792072018 A n=1387 rc=0 dur=0s
+1792072018 OBS stuckU=0 mounted=1
+1792072019 A n=1388 rc=0 dur=0s
+1792072019 OBS stuckU=0 mounted=1
+1792072020 A n=1389 rc=0 dur=0s
+1792072021 OBS stuckU=0 mounted=1
+1792072021 A n=1390 rc=0 dur=0s
+1792072022 OBS stuckU=0 mounted=1
+1792072022 A n=1391 rc=0 dur=0s
+1792072023 OBS stuckU=0 mounted=1
+1792072023 A n=1392 rc=0 dur=0s
+1792072024 OBS stuckU=0 mounted=1
+1792072024 A n=1393 rc=0 dur=0s
+1792072025 OBS stuckU=0 mounted=1
+1792072025 A n=1394 rc=0 dur=0s
+1792072026 OBS stuckU=0 mounted=1
+1792072026 A n=1395 rc=0 dur=0s
+1792072027 OBS stuckU=0 mounted=1
+1792072027 A n=1396 rc=0 dur=0s
+1792072028 OBS stuckU=0 mounted=1
+1792072028 A n=1397 rc=0 dur=0s
+1792072029 OBS stuckU=0 mounted=1
+1792072029 A n=1398 rc=0 dur=0s
+1792072030 OBS stuckU=0 mounted=1
+1792072030 A n=1399 rc=0 dur=0s
+1792072031 OBS stuckU=0 mounted=1
+1792072031 A n=1400 rc=0 dur=0s
+1792072032 OBS stuckU=0 mounted=1
+1792072032 A n=1401 rc=0 dur=0s
+1792072033 OBS stuckU=0 mounted=1
+1792072033 A n=1402 rc=0 dur=0s
+1792072034 A n=1403 rc=0 dur=0s
+1792072034 OBS stuckU=1 mounted=1
+1792072035 A n=1404 rc=0 dur=0s
+1792072035 OBS stuckU=0 mounted=1
+1792072036 A n=1405 rc=0 dur=0s
+1792072036 OBS stuckU=0 mounted=1
+1792072037 A n=1406 rc=0 dur=0s
+1792072037 OBS stuckU=0 mounted=1
+1792072038 A n=1407 rc=0 dur=0s
+1792072038 OBS stuckU=0 mounted=1
+1792072039 A n=1408 rc=0 dur=0s
+1792072039 OBS stuckU=0 mounted=1
+1792072040 A n=1409 rc=0 dur=0s
+1792072040 OBS stuckU=0 mounted=1
+1792072041 A n=1410 rc=0 dur=0s
+1792072041 OBS stuckU=0 mounted=1
+1792072042 A n=1411 rc=0 dur=0s
+1792072043 OBS stuckU=0 mounted=1
+1792072043 A n=1412 rc=0 dur=0s
+1792072044 OBS stuckU=0 mounted=1
+1792072044 A n=1413 rc=0 dur=0s
+1792072045 OBS stuckU=0 mounted=1
+1792072045 A n=1414 rc=0 dur=0s
+1792072046 OBS stuckU=0 mounted=1
+1792072046 A n=1415 rc=0 dur=0s
+1792072047 OBS stuckU=0 mounted=1
+1792072047 A n=1416 rc=0 dur=0s
+1792072048 OBS stuckU=0 mounted=1
+1792072048 A n=1417 rc=0 dur=0s
+1792072049 OBS stuckU=0 mounted=1
+1792072049 A n=1418 rc=0 dur=0s
+1792072050 OBS stuckU=0 mounted=1
+1792072051 A n=1419 rc=0 dur=1s
+1792072051 OBS stuckU=0 mounted=1
+1792072052 A n=1420 rc=0 dur=0s
+1792072052 OBS stuckU=0 mounted=1
+1792072053 A n=1421 rc=0 dur=0s
+1792072053 OBS stuckU=0 mounted=1
+1792072054 A n=1422 rc=0 dur=0s
+1792072054 OBS stuckU=0 mounted=1
+1792072055 A n=1423 rc=0 dur=0s
+1792072055 OBS stuckU=0 mounted=1
+1792072056 A n=1424 rc=0 dur=0s
+1792072056 OBS stuckU=0 mounted=1
+1792072057 A n=1425 rc=0 dur=0s
+1792072057 OBS stuckU=0 mounted=1
+1792072058 A n=1426 rc=0 dur=0s
+1792072058 OBS stuckU=0 mounted=1
+1792072059 A n=1427 rc=0 dur=0s
+1792072059 OBS stuckU=0 mounted=1
+1792072060 A n=1428 rc=0 dur=0s
+1792072060 OBS stuckU=0 mounted=1
+1792072061 A n=1429 rc=0 dur=0s
+1792072061 OBS stuckU=0 mounted=1
+1792072062 A n=1430 rc=0 dur=0s
+1792072062 OBS stuckU=0 mounted=1
+1792072063 A n=1431 rc=0 dur=0s
+1792072064 OBS stuckU=0 mounted=1
+1792072064 A n=1432 rc=0 dur=0s
+1792072065 OBS stuckU=0 mounted=1
+1792072065 A n=1433 rc=0 dur=0s
+1792072066 OBS stuckU=0 mounted=1
+1792072066 A n=1434 rc=0 dur=0s
+1792072067 OBS stuckU=0 mounted=1
+1792072067 A n=1435 rc=0 dur=0s
+1792072068 OBS stuckU=0 mounted=1
+1792072068 A n=1436 rc=0 dur=0s
+1792072069 OBS stuckU=0 mounted=1
+1792072069 A n=1437 rc=0 dur=0s
+1792072070 OBS stuckU=0 mounted=1
+1792072070 A n=1438 rc=0 dur=0s
+1792072071 OBS stuckU=0 mounted=1
+1792072071 A n=1439 rc=0 dur=0s
+1792072072 OBS stuckU=0 mounted=1
+1792072072 A n=1440 rc=0 dur=0s
+1792072073 A n=1441 rc=0 dur=0s
+1792072073 OBS stuckU=0 mounted=1
+1792072074 A n=1442 rc=0 dur=0s
+1792072074 OBS stuckU=0 mounted=1
+1792072075 A n=1443 rc=0 dur=0s
+1792072075 OBS stuckU=0 mounted=1
+1792072076 A n=1444 rc=0 dur=0s
+1792072076 OBS stuckU=0 mounted=1
+1792072077 A n=1445 rc=0 dur=0s
+1792072077 OBS stuckU=0 mounted=1
+1792072078 A n=1446 rc=0 dur=0s
+1792072078 OBS stuckU=0 mounted=1
+1792072079 A n=1447 rc=0 dur=0s
+1792072079 OBS stuckU=0 mounted=1
+1792072080 A n=1448 rc=0 dur=0s
+1792072080 OBS stuckU=0 mounted=1
+1792072081 A n=1449 rc=0 dur=0s
+1792072081 OBS stuckU=0 mounted=1
+1792072082 A n=1450 rc=0 dur=0s
+1792072082 OBS stuckU=0 mounted=1
+1792072083 A n=1451 rc=0 dur=0s
+1792072083 OBS stuckU=0 mounted=1
+1792072084 A n=1452 rc=0 dur=0s
+1792072084 OBS stuckU=0 mounted=1
+1792072085 A n=1453 rc=0 dur=0s
+1792072086 OBS stuckU=0 mounted=1
+1792072086 A n=1454 rc=0 dur=0s
+1792072087 OBS stuckU=0 mounted=1
+1792072087 A n=1455 rc=0 dur=0s
+1792072088 OBS stuckU=0 mounted=1
+1792072088 A n=1456 rc=0 dur=0s
+1792072089 OBS stuckU=0 mounted=1
+1792072089 A n=1457 rc=0 dur=0s
+1792072090 OBS stuckU=0 mounted=1
+1792072090 A n=1458 rc=0 dur=0s
+1792072091 OBS stuckU=0 mounted=1
+1792072091 A n=1459 rc=0 dur=0s
+1792072092 OBS stuckU=0 mounted=1
+1792072092 A n=1460 rc=0 dur=0s
+1792072093 OBS stuckU=0 mounted=1
+1792072093 A n=1461 rc=0 dur=0s
+1792072094 OBS stuckU=0 mounted=1
+1792072094 A n=1462 rc=0 dur=0s
+1792072095 OBS stuckU=0 mounted=1
+1792072095 A n=1463 rc=0 dur=0s
+1792072096 OBS stuckU=0 mounted=1
+1792072097 A n=1464 rc=0 dur=1s
+1792072097 OBS stuckU=0 mounted=1
+1792072098 A n=1465 rc=0 dur=0s
+1792072098 OBS stuckU=0 mounted=1
+1792072099 A n=1466 rc=0 dur=0s
+1792072099 OBS stuckU=0 mounted=1
+1792072100 A n=1467 rc=0 dur=0s
+1792072100 OBS stuckU=0 mounted=1
+1792072101 A n=1468 rc=0 dur=0s
+1792072101 OBS stuckU=0 mounted=1
+1792072102 A n=1469 rc=0 dur=0s
+1792072102 OBS stuckU=0 mounted=1
+1792072103 A n=1470 rc=0 dur=0s
+1792072103 OBS stuckU=0 mounted=1
+1792072104 A n=1471 rc=0 dur=0s
+1792072104 OBS stuckU=0 mounted=1
+1792072105 A n=1472 rc=0 dur=0s
+1792072105 OBS stuckU=0 mounted=1
+1792072106 A n=1473 rc=0 dur=0s
+1792072106 OBS stuckU=0 mounted=1
+1792072107 A n=1474 rc=0 dur=0s
+1792072108 OBS stuckU=0 mounted=1
+1792072108 A n=1475 rc=0 dur=0s
+1792072109 OBS stuckU=0 mounted=1
+1792072109 A n=1476 rc=0 dur=0s
+1792072110 OBS stuckU=0 mounted=1
+1792072110 A n=1477 rc=0 dur=0s
+1792072111 OBS stuckU=0 mounted=1
+1792072111 A n=1478 rc=0 dur=0s
+1792072112 OBS stuckU=0 mounted=1
+1792072112 A n=1479 rc=0 dur=0s
+1792072113 OBS stuckU=0 mounted=1
+1792072113 A n=1480 rc=0 dur=0s
+1792072114 A n=1481 rc=0 dur=0s
+1792072114 OBS stuckU=0 mounted=1
+1792072115 A n=1482 rc=0 dur=0s
+1792072115 OBS stuckU=0 mounted=1
+1792072116 A n=1483 rc=0 dur=0s
+1792072116 OBS stuckU=0 mounted=1
+1792072117 A n=1484 rc=0 dur=0s
+1792072117 OBS stuckU=0 mounted=1
+1792072118 A n=1485 rc=0 dur=0s
+1792072118 OBS stuckU=0 mounted=1
+1792072119 A n=1486 rc=0 dur=0s
+1792072119 OBS stuckU=0 mounted=1
+1792072120 A n=1487 rc=0 dur=0s
+1792072120 OBS stuckU=0 mounted=1
+1792072121 A n=1488 rc=0 dur=0s
+1792072121 OBS stuckU=0 mounted=1
+1792072122 A n=1489 rc=0 dur=0s
+1792072122 OBS stuckU=0 mounted=1
+1792072123 A n=1490 rc=0 dur=0s
+1792072123 OBS stuckU=0 mounted=1
+1792072124 A n=1491 rc=0 dur=0s
+1792072124 OBS stuckU=0 mounted=1
+1792072125 A n=1492 rc=0 dur=0s
+1792072125 OBS stuckU=0 mounted=1
+1792072126 A n=1493 rc=0 dur=0s
+1792072126 OBS stuckU=0 mounted=1
+1792072127 A n=1494 rc=0 dur=0s
+1792072127 OBS stuckU=0 mounted=1
+1792072128 A n=1495 rc=0 dur=0s
+1792072129 OBS stuckU=0 mounted=1
+1792072129 A n=1496 rc=0 dur=0s
+1792072130 OBS stuckU=0 mounted=1
+1792072130 A n=1497 rc=0 dur=0s
+1792072131 OBS stuckU=0 mounted=1
+1792072131 A n=1498 rc=0 dur=0s
+1792072132 OBS stuckU=0 mounted=1
+1792072132 A n=1499 rc=0 dur=0s
+1792072133 OBS stuckU=0 mounted=1
+1792072133 A n=1500 rc=0 dur=0s
+1792072134 OBS stuckU=0 mounted=1
+1792072134 A n=1501 rc=0 dur=0s
+1792072135 OBS stuckU=0 mounted=1
+1792072135 A n=1502 rc=0 dur=0s
+1792072136 OBS stuckU=0 mounted=1
+1792072136 A n=1503 rc=0 dur=0s
+1792072137 OBS stuckU=0 mounted=1
+1792072137 A n=1504 rc=0 dur=0s
+1792072138 OBS stuckU=0 mounted=1
+1792072138 A n=1505 rc=0 dur=0s
+1792072139 OBS stuckU=0 mounted=1
+1792072139 A n=1506 rc=0 dur=0s
+1792072140 OBS stuckU=0 mounted=1
+1792072140 A n=1507 rc=0 dur=0s
+1792072141 OBS stuckU=0 mounted=1
+1792072141 A n=1508 rc=0 dur=0s
+1792072142 OBS stuckU=0 mounted=1
+1792072142 A n=1509 rc=0 dur=0s
+1792072143 OBS stuckU=0 mounted=1
+1792072144 A n=1510 rc=0 dur=1s
+1792072144 OBS stuckU=0 mounted=1
+1792072145 A n=1511 rc=0 dur=0s
+1792072145 OBS stuckU=0 mounted=1
+1792072146 A n=1512 rc=0 dur=0s
+1792072146 OBS stuckU=0 mounted=1
+1792072147 A n=1513 rc=0 dur=0s
+1792072147 OBS stuckU=0 mounted=1
+1792072148 A n=1514 rc=0 dur=0s
+1792072148 OBS stuckU=0 mounted=1
+1792072149 A n=1515 rc=0 dur=0s
+1792072149 OBS stuckU=0 mounted=1
+1792072150 A n=1516 rc=0 dur=0s
+1792072151 OBS stuckU=0 mounted=1
+1792072151 A n=1517 rc=0 dur=0s
+1792072152 OBS stuckU=0 mounted=1
+1792072152 A n=1518 rc=0 dur=0s
+1792072153 OBS stuckU=0 mounted=1
+1792072153 A n=1519 rc=0 dur=0s
+1792072154 OBS stuckU=0 mounted=1
+1792072154 A n=1520 rc=0 dur=0s
+1792072155 A n=1521 rc=0 dur=0s
+1792072155 OBS stuckU=0 mounted=1
+1792072156 A n=1522 rc=0 dur=0s
+1792072156 OBS stuckU=0 mounted=1
+1792072157 A n=1523 rc=0 dur=0s
+1792072157 OBS stuckU=0 mounted=1
+1792072158 A n=1524 rc=0 dur=0s
+1792072158 OBS stuckU=0 mounted=1
+1792072159 A n=1525 rc=0 dur=0s
+1792072159 OBS stuckU=0 mounted=1
+1792072160 A n=1526 rc=0 dur=0s
+1792072160 OBS stuckU=0 mounted=1
+1792072161 A n=1527 rc=0 dur=0s
+1792072161 OBS stuckU=0 mounted=1
+1792072162 A n=1528 rc=0 dur=0s
+1792072162 OBS stuckU=0 mounted=1
+1792072163 A n=1529 rc=0 dur=0s
+1792072163 OBS stuckU=0 mounted=1
+1792072164 A n=1530 rc=0 dur=0s
+1792072164 OBS stuckU=0 mounted=1
+1792072165 A n=1531 rc=0 dur=0s
+1792072165 OBS stuckU=0 mounted=1
+1792072166 A n=1532 rc=0 dur=0s
+1792072166 OBS stuckU=0 mounted=1
+1792072167 A n=1533 rc=0 dur=0s
+1792072167 OBS stuckU=0 mounted=1
+1792072168 A n=1534 rc=0 dur=0s
+1792072168 OBS stuckU=0 mounted=1
+1792072169 A n=1535 rc=0 dur=0s
+1792072169 OBS stuckU=0 mounted=1
+1792072170 A n=1536 rc=0 dur=0s
+1792072170 OBS stuckU=0 mounted=1
+1792072171 A n=1537 rc=0 dur=0s
+1792072171 OBS stuckU=0 mounted=1
+1792072172 A n=1538 rc=0 dur=0s
+1792072173 OBS stuckU=0 mounted=1
+1792072173 A n=1539 rc=0 dur=0s
+1792072174 OBS stuckU=0 mounted=1
+1792072174 A n=1540 rc=0 dur=0s
+1792072175 OBS stuckU=0 mounted=1
+1792072175 A n=1541 rc=0 dur=0s
+1792072176 OBS stuckU=0 mounted=1
+1792072176 A n=1542 rc=0 dur=0s
+1792072177 OBS stuckU=0 mounted=1
+1792072177 A n=1543 rc=0 dur=0s
+1792072178 OBS stuckU=0 mounted=1
+1792072178 A n=1544 rc=0 dur=0s
+1792072179 OBS stuckU=0 mounted=1
+1792072179 A n=1545 rc=0 dur=0s
+1792072180 OBS stuckU=0 mounted=1
+1792072180 A n=1546 rc=0 dur=0s
+1792072181 OBS stuckU=0 mounted=1
+1792072181 A n=1547 rc=0 dur=0s
+1792072182 OBS stuckU=0 mounted=1
+1792072182 A n=1548 rc=0 dur=0s
+1792072183 OBS stuckU=0 mounted=1
+1792072183 A n=1549 rc=0 dur=0s
+1792072184 OBS stuckU=0 mounted=1
+1792072184 A n=1550 rc=0 dur=0s
+1792072185 OBS stuckU=0 mounted=1
+1792072185 A n=1551 rc=0 dur=0s
+1792072186 OBS stuckU=0 mounted=1
+1792072186 A n=1552 rc=0 dur=0s
+1792072187 OBS stuckU=0 mounted=1
+1792072187 A n=1553 rc=0 dur=0s
+1792072188 OBS stuckU=0 mounted=1
+1792072188 A n=1554 rc=0 dur=0s
+1792072189 OBS stuckU=0 mounted=1
+1792072189 A n=1555 rc=0 dur=0s
+1792072190 OBS stuckU=0 mounted=1
+1792072191 A n=1556 rc=0 dur=1s
+1792072191 OBS stuckU=0 mounted=1
+1792072192 A n=1557 rc=0 dur=0s
+1792072192 OBS stuckU=0 mounted=1
+1792072193 A n=1558 rc=0 dur=0s
+1792072193 OBS stuckU=0 mounted=1
+1792072194 A n=1559 rc=0 dur=0s
+1792072195 OBS stuckU=0 mounted=1
+1792072195 A n=1560 rc=0 dur=0s
+1792072196 A n=1561 rc=0 dur=0s
+1792072196 OBS stuckU=0 mounted=1
+1792072197 A n=1562 rc=0 dur=0s
+1792072197 OBS stuckU=1 mounted=1
+1792072198 A n=1563 rc=0 dur=0s
+1792072198 OBS stuckU=0 mounted=1
+1792072199 A n=1564 rc=0 dur=0s
+1792072199 OBS stuckU=0 mounted=1
+1792072200 A n=1565 rc=0 dur=0s
+1792072200 OBS stuckU=0 mounted=1
+1792072201 A n=1566 rc=0 dur=0s
+1792072201 OBS stuckU=0 mounted=1
+1792072202 A n=1567 rc=0 dur=0s
+1792072202 OBS stuckU=0 mounted=1
+1792072203 A n=1568 rc=0 dur=0s
+1792072203 OBS stuckU=0 mounted=1
+1792072204 A n=1569 rc=0 dur=0s
+1792072204 OBS stuckU=0 mounted=1
+1792072205 A n=1570 rc=0 dur=0s
+1792072205 OBS stuckU=0 mounted=1
+1792072206 A n=1571 rc=0 dur=0s
+1792072206 OBS stuckU=0 mounted=1
+1792072207 A n=1572 rc=0 dur=0s
+1792072207 OBS stuckU=0 mounted=1
+1792072208 A n=1573 rc=0 dur=0s
+1792072208 OBS stuckU=0 mounted=1
+1792072209 A n=1574 rc=0 dur=0s
+1792072209 OBS stuckU=0 mounted=1
+1792072210 A n=1575 rc=0 dur=0s
+1792072210 OBS stuckU=0 mounted=1
+1792072211 A n=1576 rc=0 dur=0s
+1792072211 OBS stuckU=0 mounted=1
+1792072212 A n=1577 rc=0 dur=0s
+1792072212 OBS stuckU=0 mounted=1
+1792072213 A n=1578 rc=0 dur=0s
+1792072213 OBS stuckU=0 mounted=1
+1792072214 A n=1579 rc=0 dur=0s
+1792072214 OBS stuckU=0 mounted=1
+1792072215 A n=1580 rc=0 dur=0s
+1792072215 OBS stuckU=0 mounted=1
+1792072216 A n=1581 rc=0 dur=0s
+1792072217 OBS stuckU=0 mounted=1
+1792072217 A n=1582 rc=0 dur=0s
+1792072218 OBS stuckU=0 mounted=1
+1792072218 A n=1583 rc=0 dur=0s
+1792072219 OBS stuckU=0 mounted=1
+1792072219 A n=1584 rc=0 dur=0s
+1792072220 OBS stuckU=0 mounted=1
+1792072220 A n=1585 rc=0 dur=0s
+1792072221 OBS stuckU=0 mounted=1
+1792072221 A n=1586 rc=0 dur=0s
+1792072222 OBS stuckU=0 mounted=1
+1792072222 A n=1587 rc=0 dur=0s
+1792072223 OBS stuckU=0 mounted=1
+1792072223 A n=1588 rc=0 dur=0s
+1792072224 OBS stuckU=0 mounted=1
+1792072224 A n=1589 rc=0 dur=0s
+1792072225 OBS stuckU=0 mounted=1
+1792072225 A n=1590 rc=0 dur=0s
+1792072226 OBS stuckU=0 mounted=1
+1792072226 A n=1591 rc=0 dur=0s
+1792072227 OBS stuckU=0 mounted=1
+1792072227 A n=1592 rc=0 dur=0s
+1792072228 OBS stuckU=0 mounted=1
+1792072228 A n=1593 rc=0 dur=0s
+1792072229 OBS stuckU=0 mounted=1
+1792072229 A n=1594 rc=0 dur=0s
+1792072230 OBS stuckU=0 mounted=1
+1792072230 A n=1595 rc=0 dur=0s
+1792072231 OBS stuckU=0 mounted=1
+1792072231 A n=1596 rc=0 dur=0s
+1792072232 OBS stuckU=0 mounted=1
+1792072232 A n=1597 rc=0 dur=0s
+1792072233 OBS stuckU=0 mounted=1
+1792072233 A n=1598 rc=0 dur=0s
+1792072234 OBS stuckU=0 mounted=1
+1792072234 A n=1599 rc=0 dur=0s
+1792072235 A n=1600 rc=0 dur=0s
+1792072235 OBS stuckU=0 mounted=1
+1792072236 A n=1601 rc=0 dur=0s
+1792072236 OBS stuckU=0 mounted=1
+1792072237 A n=1602 rc=0 dur=0s
+1792072238 OBS stuckU=0 mounted=1
+1792072239 A n=1603 rc=0 dur=0s
+1792072239 OBS stuckU=0 mounted=1
+1792072240 A n=1604 rc=0 dur=0s
+1792072240 OBS stuckU=0 mounted=1
+1792072241 A n=1605 rc=0 dur=0s
+1792072241 OBS stuckU=0 mounted=1
+1792072242 A n=1606 rc=0 dur=0s
+1792072242 OBS stuckU=0 mounted=1
+1792072243 A n=1607 rc=0 dur=0s
+1792072243 OBS stuckU=0 mounted=1
+1792072244 A n=1608 rc=0 dur=0s
+1792072244 OBS stuckU=0 mounted=1
+1792072245 A n=1609 rc=0 dur=0s
+1792072245 OBS stuckU=0 mounted=1
+1792072246 A n=1610 rc=0 dur=0s
+1792072246 OBS stuckU=0 mounted=1
+1792072247 A n=1611 rc=0 dur=0s
+1792072247 OBS stuckU=0 mounted=1
+1792072248 A n=1612 rc=0 dur=0s
+1792072248 OBS stuckU=0 mounted=1
+1792072249 A n=1613 rc=0 dur=0s
+1792072249 OBS stuckU=0 mounted=1
+1792072250 A n=1614 rc=0 dur=0s
+1792072250 OBS stuckU=0 mounted=1
+1792072251 A n=1615 rc=0 dur=0s
+1792072251 OBS stuckU=0 mounted=1
+1792072252 A n=1616 rc=0 dur=0s
+1792072252 OBS stuckU=0 mounted=1
+1792072253 A n=1617 rc=0 dur=0s
+1792072253 OBS stuckU=0 mounted=1
+1792072254 A n=1618 rc=0 dur=0s
+1792072254 OBS stuckU=0 mounted=1
+1792072255 A n=1619 rc=0 dur=0s
+1792072255 OBS stuckU=0 mounted=1
+1792072256 A n=1620 rc=0 dur=0s
+1792072256 OBS stuckU=0 mounted=1
+1792072257 A n=1621 rc=0 dur=0s
+1792072257 OBS stuckU=0 mounted=1
+1792072258 A n=1622 rc=0 dur=0s
+1792072259 OBS stuckU=0 mounted=1
+1792072259 A n=1623 rc=0 dur=0s
+1792072260 OBS stuckU=0 mounted=1
+1792072260 A n=1624 rc=0 dur=0s
+1792072261 OBS stuckU=0 mounted=1
+1792072261 A n=1625 rc=0 dur=0s
+1792072262 OBS stuckU=0 mounted=1
+1792072262 A n=1626 rc=0 dur=0s
+1792072263 OBS stuckU=0 mounted=1
+1792072263 A n=1627 rc=0 dur=0s
+1792072264 OBS stuckU=0 mounted=1
+1792072264 A n=1628 rc=0 dur=0s
+1792072265 OBS stuckU=0 mounted=1
+1792072265 A n=1629 rc=0 dur=0s
+1792072266 OBS stuckU=0 mounted=1
+1792072266 A n=1630 rc=0 dur=0s
+1792072267 OBS stuckU=0 mounted=1
+1792072267 A n=1631 rc=0 dur=0s
+1792072268 OBS stuckU=0 mounted=1
+1792072268 A n=1632 rc=0 dur=0s
+1792072269 OBS stuckU=0 mounted=1
+1792072269 A n=1633 rc=0 dur=0s
+1792072270 OBS stuckU=0 mounted=1
+1792072270 A n=1634 rc=0 dur=0s
+1792072271 OBS stuckU=0 mounted=1
+1792072271 A n=1635 rc=0 dur=0s
+1792072272 OBS stuckU=0 mounted=1
+1792072272 A n=1636 rc=0 dur=0s
+1792072273 OBS stuckU=0 mounted=1
+1792072273 A n=1637 rc=0 dur=0s
+1792072274 OBS stuckU=0 mounted=1
+1792072274 A n=1638 rc=0 dur=0s
+1792072275 OBS stuckU=0 mounted=1
+1792072275 A n=1639 rc=0 dur=0s
+1792072276 A n=1640 rc=0 dur=0s
+1792072276 OBS stuckU=1 mounted=1
+1792072277 A n=1641 rc=0 dur=0s
+1792072277 OBS stuckU=0 mounted=1
+1792072278 A n=1642 rc=0 dur=0s
+1792072278 OBS stuckU=0 mounted=1
+1792072279 A n=1643 rc=0 dur=0s
+1792072279 OBS stuckU=0 mounted=1
+1792072280 A n=1644 rc=0 dur=0s
+1792072281 OBS stuckU=0 mounted=1
+1792072281 A n=1645 rc=0 dur=0s
+1792072282 OBS stuckU=0 mounted=1
+1792072282 A n=1646 rc=0 dur=0s
+1792072283 OBS stuckU=0 mounted=1
+1792072283 A n=1647 rc=0 dur=0s
+1792072284 OBS stuckU=0 mounted=1
+1792072285 A n=1648 rc=0 dur=1s
+1792072285 OBS stuckU=0 mounted=1
+1792072286 A n=1649 rc=0 dur=0s
+1792072286 OBS stuckU=0 mounted=1
+1792072287 A n=1650 rc=0 dur=0s
+1792072287 OBS stuckU=0 mounted=1
+1792072288 A n=1651 rc=0 dur=0s
+1792072288 OBS stuckU=0 mounted=1
+1792072289 A n=1652 rc=0 dur=0s
+1792072289 OBS stuckU=0 mounted=1
+1792072290 A n=1653 rc=0 dur=0s
+1792072290 OBS stuckU=0 mounted=1
+1792072291 A n=1654 rc=0 dur=0s
+1792072291 OBS stuckU=0 mounted=1
+1792072292 A n=1655 rc=0 dur=0s
+1792072292 OBS stuckU=0 mounted=1
+1792072293 A n=1656 rc=0 dur=0s
+1792072293 OBS stuckU=0 mounted=1
+1792072294 A n=1657 rc=0 dur=0s
+1792072294 OBS stuckU=0 mounted=1
+1792072295 A n=1658 rc=0 dur=0s
+1792072295 OBS stuckU=0 mounted=1
+1792072296 A n=1659 rc=0 dur=0s
+1792072296 OBS stuckU=0 mounted=1
+1792072297 A n=1660 rc=0 dur=0s
+1792072297 OBS stuckU=0 mounted=1
+1792072298 A n=1661 rc=0 dur=0s
+1792072298 OBS stuckU=0 mounted=1
+1792072299 A n=1662 rc=0 dur=0s
+1792072299 OBS stuckU=0 mounted=1
+1792072300 A n=1663 rc=0 dur=0s
+1792072300 OBS stuckU=0 mounted=1
+1792072301 A n=1664 rc=0 dur=0s
+1792072301 OBS stuckU=0 mounted=1
+1792072302 A n=1665 rc=0 dur=0s
+1792072303 OBS stuckU=0 mounted=1
+1792072303 A n=1666 rc=0 dur=0s
+1792072304 OBS stuckU=0 mounted=1
+1792072304 A n=1667 rc=0 dur=0s
+1792072305 OBS stuckU=0 mounted=1
+1792072305 A n=1668 rc=0 dur=0s
+1792072306 OBS stuckU=0 mounted=1
+1792072306 A n=1669 rc=0 dur=0s
+1792072307 OBS stuckU=0 mounted=1
+1792072307 A n=1670 rc=0 dur=0s
+1792072308 OBS stuckU=0 mounted=1
+1792072308 A n=1671 rc=0 dur=0s
+1792072309 OBS stuckU=0 mounted=1
+1792072309 A n=1672 rc=0 dur=0s
+1792072310 OBS stuckU=0 mounted=1
+1792072310 A n=1673 rc=0 dur=0s
+1792072311 OBS stuckU=0 mounted=1
+1792072311 A n=1674 rc=0 dur=0s
+1792072312 OBS stuckU=0 mounted=1
+1792072312 A n=1675 rc=0 dur=0s
+1792072313 OBS stuckU=0 mounted=1
+1792072313 A n=1676 rc=0 dur=0s
+1792072314 OBS stuckU=0 mounted=1
+1792072314 A n=1677 rc=0 dur=0s
+1792072315 OBS stuckU=0 mounted=1
+1792072315 A n=1678 rc=0 dur=0s
+1792072316 OBS stuckU=0 mounted=1
+1792072316 A n=1679 rc=0 dur=0s
+1792072317 A n=1680 rc=0 dur=0s
+1792072317 OBS stuckU=1 mounted=1
+1792072318 A n=1681 rc=0 dur=0s
+1792072318 OBS stuckU=0 mounted=1
+1792072319 A n=1682 rc=0 dur=0s
+1792072319 OBS stuckU=0 mounted=1
+1792072320 A n=1683 rc=0 dur=0s
+1792072320 OBS stuckU=0 mounted=1
+1792072321 A n=1684 rc=0 dur=0s
+1792072321 OBS stuckU=0 mounted=1
+1792072322 A n=1685 rc=0 dur=0s
+1792072322 OBS stuckU=0 mounted=1
+1792072323 A n=1686 rc=0 dur=0s
+1792072323 OBS stuckU=0 mounted=1
+1792072324 A n=1687 rc=0 dur=0s
+1792072325 OBS stuckU=0 mounted=1
+1792072325 A n=1688 rc=0 dur=0s
+1792072326 OBS stuckU=0 mounted=1
+1792072326 A n=1689 rc=0 dur=0s
+1792072327 OBS stuckU=0 mounted=1
+1792072327 A n=1690 rc=0 dur=0s
+1792072328 OBS stuckU=0 mounted=1
+1792072328 A n=1691 rc=0 dur=0s
+1792072329 OBS stuckU=0 mounted=1
+1792072329 A n=1692 rc=0 dur=0s
+1792072330 OBS stuckU=0 mounted=1
+1792072330 A n=1693 rc=0 dur=0s
+1792072331 OBS stuckU=0 mounted=1
+1792072332 A n=1694 rc=0 dur=0s
+1792072332 OBS stuckU=0 mounted=1
+1792072333 A n=1695 rc=0 dur=0s
+1792072333 OBS stuckU=0 mounted=1
+1792072334 A n=1696 rc=0 dur=0s
+1792072334 OBS stuckU=0 mounted=1
+1792072335 A n=1697 rc=0 dur=0s
+1792072335 OBS stuckU=0 mounted=1
+1792072336 A n=1698 rc=0 dur=0s
+1792072336 OBS stuckU=0 mounted=1
+1792072337 A n=1699 rc=0 dur=0s
+1792072337 OBS stuckU=0 mounted=1
+1792072338 A n=1700 rc=0 dur=0s
+1792072338 OBS stuckU=0 mounted=1
+1792072339 A n=1701 rc=0 dur=0s
+1792072339 OBS stuckU=0 mounted=1
+1792072340 A n=1702 rc=0 dur=0s
+1792072340 OBS stuckU=0 mounted=1
+1792072341 A n=1703 rc=0 dur=0s
+1792072341 OBS stuckU=0 mounted=1
+1792072342 A n=1704 rc=0 dur=0s
+1792072342 OBS stuckU=0 mounted=1
+1792072343 A n=1705 rc=0 dur=0s
+1792072343 OBS stuckU=0 mounted=1
+1792072344 A n=1706 rc=0 dur=0s
+1792072344 OBS stuckU=0 mounted=1
+1792072345 A n=1707 rc=0 dur=0s
+1792072346 OBS stuckU=0 mounted=1
+1792072346 A n=1708 rc=0 dur=0s
+1792072347 OBS stuckU=0 mounted=1
+1792072347 A n=1709 rc=0 dur=0s
+1792072348 OBS stuckU=0 mounted=1
+1792072348 A n=1710 rc=0 dur=0s
+1792072349 OBS stuckU=0 mounted=1
+1792072349 A n=1711 rc=0 dur=0s
+1792072350 OBS stuckU=0 mounted=1
+1792072350 A n=1712 rc=0 dur=0s
+1792072351 OBS stuckU=0 mounted=1
+1792072351 A n=1713 rc=0 dur=0s
+1792072352 OBS stuckU=0 mounted=1
+1792072352 A n=1714 rc=0 dur=0s
+1792072353 OBS stuckU=0 mounted=1
+1792072353 A n=1715 rc=0 dur=0s
+1792072354 OBS stuckU=0 mounted=1
+1792072354 A n=1716 rc=0 dur=0s
+1792072355 OBS stuckU=0 mounted=1
+1792072355 A n=1717 rc=0 dur=0s
+1792072356 OBS stuckU=0 mounted=1
+1792072356 A n=1718 rc=0 dur=0s
+1792072357 OBS stuckU=0 mounted=1
+1792072357 A n=1719 rc=0 dur=0s
+1792072358 A n=1720 rc=0 dur=0s
+1792072358 OBS stuckU=0 mounted=1
+1792072359 A n=1721 rc=0 dur=0s
+1792072359 OBS stuckU=1 mounted=1
+1792072360 A n=1722 rc=0 dur=0s
+1792072360 OBS stuckU=0 mounted=1
+1792072361 A n=1723 rc=0 dur=0s
+1792072361 OBS stuckU=0 mounted=1
+1792072362 A n=1724 rc=0 dur=0s
+1792072362 OBS stuckU=0 mounted=1
+1792072363 A n=1725 rc=0 dur=0s
+1792072363 OBS stuckU=0 mounted=1
+1792072364 A n=1726 rc=0 dur=0s
+1792072364 OBS stuckU=0 mounted=1
+1792072365 A n=1727 rc=0 dur=0s
+1792072365 OBS stuckU=0 mounted=1
+1792072366 A n=1728 rc=0 dur=0s
+1792072366 OBS stuckU=0 mounted=1
+1792072367 A n=1729 rc=0 dur=0s
+1792072368 OBS stuckU=0 mounted=1
+1792072368 A n=1730 rc=0 dur=0s
+1792072369 OBS stuckU=0 mounted=1
+1792072369 A n=1731 rc=0 dur=0s
+1792072370 OBS stuckU=0 mounted=1
+1792072370 A n=1732 rc=0 dur=0s
+1792072371 OBS stuckU=0 mounted=1
+1792072371 A n=1733 rc=0 dur=0s
+1792072372 OBS stuckU=0 mounted=1
+1792072372 A n=1734 rc=0 dur=0s
+1792072373 OBS stuckU=0 mounted=1
+1792072373 A n=1735 rc=0 dur=0s
+1792072374 OBS stuckU=0 mounted=1
+1792072374 A n=1736 rc=0 dur=0s
+1792072375 OBS stuckU=0 mounted=1
+1792072375 A n=1737 rc=0 dur=0s
+1792072376 OBS stuckU=0 mounted=1
+1792072377 A n=1738 rc=0 dur=1s
+1792072377 OBS stuckU=0 mounted=1
+1792072378 A n=1739 rc=0 dur=0s
+1792072378 OBS stuckU=0 mounted=1
+1792072379 A n=1740 rc=0 dur=0s
+1792072379 OBS stuckU=0 mounted=1
+1792072380 A n=1741 rc=0 dur=0s
+1792072380 OBS stuckU=0 mounted=1
+1792072381 A n=1742 rc=0 dur=0s
+1792072381 OBS stuckU=0 mounted=1
+1792072382 A n=1743 rc=0 dur=0s
+1792072382 OBS stuckU=0 mounted=1
+1792072383 A n=1744 rc=0 dur=0s
+1792072383 OBS stuckU=0 mounted=1
+1792072384 A n=1745 rc=0 dur=0s
+1792072384 OBS stuckU=0 mounted=1
+1792072385 A n=1746 rc=0 dur=0s
+1792072385 OBS stuckU=0 mounted=1
+1792072386 A n=1747 rc=0 dur=0s
+1792072386 OBS stuckU=0 mounted=1
+1792072387 A n=1748 rc=0 dur=0s
+1792072387 OBS stuckU=1 mounted=1
+1792072388 A n=1749 rc=0 dur=0s
+1792072388 OBS stuckU=0 mounted=1
+1792072389 A n=1750 rc=0 dur=0s
+1792072390 OBS stuckU=0 mounted=1
+1792072390 A n=1751 rc=0 dur=0s
+1792072391 OBS stuckU=0 mounted=1
+1792072391 A n=1752 rc=0 dur=0s
+1792072392 OBS stuckU=0 mounted=1
+1792072392 A n=1753 rc=0 dur=0s
+1792072393 OBS stuckU=0 mounted=1
+1792072393 A n=1754 rc=0 dur=0s
+1792072394 OBS stuckU=0 mounted=1
+1792072394 A n=1755 rc=0 dur=0s
+1792072395 OBS stuckU=0 mounted=1
+1792072395 A n=1756 rc=0 dur=0s
+1792072396 OBS stuckU=0 mounted=1
+1792072396 A n=1757 rc=0 dur=0s
+1792072397 OBS stuckU=0 mounted=1
+1792072397 A n=1758 rc=0 dur=0s
+1792072398 OBS stuckU=0 mounted=1
+1792072398 A n=1759 rc=0 dur=0s
+1792072399 A n=1760 rc=0 dur=0s
+1792072399 OBS stuckU=1 mounted=1
+1792072400 A n=1761 rc=0 dur=0s
+1792072400 OBS stuckU=0 mounted=1
+1792072401 A n=1762 rc=0 dur=0s
+1792072401 OBS stuckU=0 mounted=1
+1792072402 A n=1763 rc=0 dur=0s
+1792072402 OBS stuckU=2 mounted=1
+1792072403 A n=1764 rc=0 dur=0s
+1792072403 OBS stuckU=2 mounted=1
+1792072404 A n=1765 rc=0 dur=0s
+1792072404 OBS stuckU=0 mounted=1
+1792072405 A n=1766 rc=1 dur=0s
+1792072405 OBS stuckU=0 mounted=1
