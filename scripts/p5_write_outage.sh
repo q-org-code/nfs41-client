@@ -10,11 +10,11 @@ T=$M/.nfs41_w; mkdir -p $T; dd if=/dev/urandom of=/tmp/w_big bs=1m count=20 2>/d
 ( n=0; while :; do n=$((n+1)); s=$(now); printf 'line %06d\n' $n >> $T/append.txt 2>/dev/null; rc=$?; echo "$(now) A n=$n rc=$rc dur=$(( $(now)-s ))s" >> $L; sleep 1; done ) & AP=$!
 ( while :; do echo "$(now) OBS stuckU=$(ps -axo stat,comm | awk '$1 ~ /U/' | wc -l | tr -d ' ') mounted=$(mount | grep -c mnt_w)" >> $L; sleep 1; done ) & OP=$!
 sleep 10; echo "$(now) FAULT-START (dialog)" >> $L
-( while ! grep -q '^blocked' $O.fault 2>/dev/null; do sleep 0.5; done; echo "$(now) BLOCK-START" >> $L; sleep 10; s=$(now); cp /tmp/w_big $T/big_during 2>>$L; rc=$?; echo "$(now) B cp-during rc=$rc dur=$(( $(now)-s ))s" >> $L ) &
+( while ! grep -q '^blocked' $O.fault 2>/dev/null; do sleep 0.5; done; echo "$(now) BLOCK-START" >> $L; sleep 10; s=$(now); cp /tmp/w_big $T/big_during 2>>$L; rc=$?; echo "$(now) B cp-during rc=$rc dur=$(( $(now)-s ))s" >> $L ) & CP=$!
 FAULT=${FAULT_CMD:-"/bin/sh $R/scripts/fault.sh 60"}
 osascript -e "do shell script \"$FAULT > $O.fault 2>&1\" with administrator privileges" >> $L 2>&1
 echo "$(now) FAULT-END" >> $L
-sleep 40; kill $AP $OP 2>/dev/null; wait 2>/dev/null
+sleep 40; kill $AP $OP 2>/dev/null; wait $AP $OP $CP 2>/dev/null
 rm -f $T/big_during; s=$(now); cp /tmp/w_big $T/big_after 2>>$L; rc=$?; echo "$(now) B cp-after rc=$rc dur=$(( $(now)-s ))s" >> $L
 [ $rc -ne 0 ] && { sleep 10; rm -f $T/big_after; s=$(now); cp /tmp/w_big $T/big_after 2>>$L; rc=$?; echo "$(now) B cp-after-retry rc=$rc dur=$(( $(now)-s ))s" >> $L; }
 sleep 3

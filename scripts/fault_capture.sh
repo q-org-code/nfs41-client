@@ -7,6 +7,6 @@ TP=$!
 sleep 1
 /bin/sh "$(dirname "$0")/fault.sh" "$DUR"
 sleep 3
-kill $TP 2>/dev/null; wait $TP 2>/dev/null
+kill $TP 2>/dev/null; sleep 1; kill -0 $TP 2>/dev/null && kill -KILL $TP 2>/dev/null; wait $TP 2>/dev/null
 chmod 644 "$OUT"
 echo "pcap: $(ls -l "$OUT" | awk '{print $5}') bytes"
