@@ -1,0 +1,5212 @@
+1
+1792008924 READ rc=0 dur=0s
+1792008924 OBS stuckU=0 mounted=1 fusenfs=1
+1792008925 READ rc=0 dur=0s
+1792008925 OBS stuckU=0 mounted=1 fusenfs=1
+1792008926 READ rc=0 dur=0s
+1792008926 OBS stuckU=0 mounted=1 fusenfs=1
+1792008927 READ rc=0 dur=0s
+1792008927 OBS stuckU=0 mounted=1 fusenfs=1
+1792008928 READ rc=0 dur=0s
+1792008929 OBS stuckU=0 mounted=1 fusenfs=1
+1792008929 READ rc=0 dur=0s
+1792008930 OBS stuckU=0 mounted=1 fusenfs=1
+1792008930 READ rc=0 dur=0s
+1792008931 OBS stuckU=0 mounted=1 fusenfs=1
+1792008931 READ rc=0 dur=0s
+1792008932 OBS stuckU=0 mounted=1 fusenfs=1
+1792008932 READ rc=0 dur=0s
+1792008933 OBS stuckU=0 mounted=1 fusenfs=1
+1792008933 READ rc=0 dur=0s
+1792008934 FAULT-START
+1792008934 OBS stuckU=0 mounted=1 fusenfs=1
+1792008935 READ rc=0 dur=0s
+1792008935 OBS stuckU=0 mounted=1 fusenfs=1
+1792008936 READ rc=0 dur=0s
+1792008936 OBS stuckU=0 mounted=1 fusenfs=1
+1792008937 READ rc=0 dur=0s
+1792008937 OBS stuckU=0 mounted=1 fusenfs=1
+1792008938 READ rc=0 dur=0s
+1792008939 OBS stuckU=0 mounted=1 fusenfs=1
+1792008939 READ rc=0 dur=0s
+1792008940 READ rc=0 dur=0s
+1792008940 OBS stuckU=0 mounted=1 fusenfs=1
+1792008941 READ rc=0 dur=0s
+1792008941 OBS stuckU=0 mounted=1 fusenfs=1
+1792008942 READ rc=0 dur=0s
+1792008942 OBS stuckU=0 mounted=1 fusenfs=1
+1792008943 READ rc=0 dur=0s
+1792008943 OBS stuckU=0 mounted=1 fusenfs=1
+1792008944 READ rc=0 dur=0s
+1792008944 OBS stuckU=0 mounted=1 fusenfs=1
+1792008945 READ rc=0 dur=0s
+1792008945 OBS stuckU=0 mounted=1 fusenfs=1
+1792008946 READ rc=0 dur=0s
+1792008946 OBS stuckU=0 mounted=1 fusenfs=1
+1792008947 READ rc=0 dur=0s
+1792008947 OBS stuckU=0 mounted=1 fusenfs=1
+1792008948 READ rc=0 dur=0s
+1792008948 OBS stuckU=0 mounted=1 fusenfs=1
+1792008949 READ rc=0 dur=0s
+1792008950 OBS stuckU=0 mounted=1 fusenfs=1
+1792008950 READ rc=0 dur=0s
+1792008951 OBS stuckU=0 mounted=1 fusenfs=1
+1792008951 READ rc=0 dur=0s
+1792008952 OBS stuckU=0 mounted=1 fusenfs=1
+1792008952 READ rc=0 dur=0s
+1792008953 OBS stuckU=0 mounted=1 fusenfs=1
+1792008953 READ rc=0 dur=0s
+1792008954 OBS stuckU=0 mounted=1 fusenfs=1
+1792008954 READ rc=0 dur=0s
+1792008955 READ rc=0 dur=0s
+1792008955 OBS stuckU=0 mounted=1 fusenfs=1
+1792008956 READ rc=0 dur=0s
+1792008956 OBS stuckU=0 mounted=1 fusenfs=1
+1792008957 READ rc=0 dur=0s
+1792008957 OBS stuckU=0 mounted=1 fusenfs=1
+1792008958 READ rc=0 dur=0s
+1792008958 OBS stuckU=0 mounted=1 fusenfs=1
+1792008959 READ rc=0 dur=0s
+1792008959 OBS stuckU=0 mounted=1 fusenfs=1
+1792008960 READ rc=0 dur=0s
+1792008961 OBS stuckU=0 mounted=1 fusenfs=1
+1792008961 READ rc=0 dur=0s
+1792008962 OBS stuckU=0 mounted=1 fusenfs=1
+1792008962 READ rc=0 dur=0s
+1792008963 OBS stuckU=0 mounted=1 fusenfs=1
+1792008963 READ rc=0 dur=0s
+1792008964 OBS stuckU=0 mounted=1 fusenfs=1
+1792008964 READ rc=0 dur=0s
+1792008965 OBS stuckU=0 mounted=1 fusenfs=1
+1792008965 READ rc=0 dur=0s
+1792008966 OBS stuckU=0 mounted=1 fusenfs=1
+1792008966 READ rc=0 dur=0s
+1792008967 OBS stuckU=0 mounted=1 fusenfs=1
+1792008967 READ rc=0 dur=0s
+1792008968 OBS stuckU=0 mounted=1 fusenfs=1
+1792008969 READ rc=0 dur=0s
+1792008969 OBS stuckU=0 mounted=1 fusenfs=1
+1792008970 READ rc=0 dur=0s
+1792008971 READ rc=0 dur=0s
+1792008971 OBS stuckU=0 mounted=1 fusenfs=1
+1792008972 READ rc=0 dur=0s
+1792008972 OBS stuckU=0 mounted=1 fusenfs=1
+1792008973 READ rc=0 dur=0s
+1792008973 OBS stuckU=0 mounted=1 fusenfs=1
+1792008974 READ rc=0 dur=0s
+1792008974 OBS stuckU=0 mounted=1 fusenfs=1
+1792008975 READ rc=0 dur=0s
+1792008975 OBS stuckU=0 mounted=1 fusenfs=1
+1792008976 READ rc=0 dur=0s
+1792008976 OBS stuckU=0 mounted=1 fusenfs=1
+1792008977 READ rc=0 dur=0s
+1792008977 OBS stuckU=0 mounted=1 fusenfs=1
+1792008978 READ rc=0 dur=0s
+1792008978 OBS stuckU=0 mounted=1 fusenfs=1
+1792008979 READ rc=0 dur=0s
+1792008979 OBS stuckU=0 mounted=1 fusenfs=1
+1792008980 READ rc=0 dur=0s
+1792008980 OBS stuckU=0 mounted=1 fusenfs=1
+1792008981 READ rc=0 dur=0s
+1792008982 OBS stuckU=0 mounted=1 fusenfs=1
+1792008982 READ rc=0 dur=0s
+1792008983 OBS stuckU=0 mounted=1 fusenfs=1
+1792008983 READ rc=0 dur=0s
+1792008984 OBS stuckU=0 mounted=1 fusenfs=1
+1792008984 READ rc=0 dur=0s
+1792008985 OBS stuckU=0 mounted=1 fusenfs=1
+1792008985 READ rc=0 dur=0s
+1792008986 READ rc=0 dur=0s
+1792008986 OBS stuckU=0 mounted=1 fusenfs=1
+1792008987 READ rc=0 dur=0s
+1792008987 OBS stuckU=0 mounted=1 fusenfs=1
+1792008988 READ rc=0 dur=0s
+1792008988 OBS stuckU=0 mounted=1 fusenfs=1
+1792008989 READ rc=0 dur=0s
+1792008989 OBS stuckU=0 mounted=1 fusenfs=1
+1792008990 READ rc=0 dur=0s
+1792008990 OBS stuckU=0 mounted=1 fusenfs=1
+1792008991 READ rc=0 dur=0s
+1792008991 OBS stuckU=0 mounted=1 fusenfs=1
+1792008992 READ rc=0 dur=0s
+1792008993 OBS stuckU=0 mounted=1 fusenfs=1
+1792008993 READ rc=0 dur=0s
+1792008994 OBS stuckU=0 mounted=1 fusenfs=1
+1792008994 READ rc=0 dur=0s
+1792008995 OBS stuckU=0 mounted=1 fusenfs=1
+1792008995 READ rc=0 dur=0s
+1792008996 OBS stuckU=0 mounted=1 fusenfs=1
+1792008996 READ rc=0 dur=0s
+1792008997 OBS stuckU=0 mounted=1 fusenfs=1
+1792008997 READ rc=0 dur=0s
+1792008998 OBS stuckU=0 mounted=1 fusenfs=1
+1792008998 READ rc=0 dur=0s
+1792008999 OBS stuckU=0 mounted=1 fusenfs=1
+1792008999 READ rc=0 dur=0s
+1792009000 OBS stuckU=0 mounted=1 fusenfs=1
+1792009000 READ rc=0 dur=0s
+1792009001 READ rc=0 dur=0s
+1792009001 OBS stuckU=0 mounted=1 fusenfs=1
+1792009003 READ rc=0 dur=0s
+1792009003 OBS stuckU=0 mounted=1 fusenfs=1
+1792009004 READ rc=0 dur=0s
+1792009004 OBS stuckU=0 mounted=1 fusenfs=1
+1792009005 READ rc=0 dur=0s
+1792009005 OBS stuckU=0 mounted=1 fusenfs=1
+1792009006 READ rc=0 dur=0s
+1792009006 OBS stuckU=0 mounted=1 fusenfs=1
+1792009007 READ rc=0 dur=0s
+1792009007 OBS stuckU=0 mounted=1 fusenfs=1
+1792009008 READ rc=0 dur=0s
+1792009008 OBS stuckU=0 mounted=1 fusenfs=1
+1792009009 READ rc=0 dur=0s
+1792009009 OBS stuckU=0 mounted=1 fusenfs=1
+1792009010 READ rc=0 dur=0s
+1792009010 OBS stuckU=0 mounted=1 fusenfs=1
+1792009011 READ rc=0 dur=0s
+1792009011 OBS stuckU=0 mounted=1 fusenfs=1
+1792009012 READ rc=0 dur=0s
+1792009013 OBS stuckU=0 mounted=1 fusenfs=1
+1792009013 READ rc=0 dur=0s
+1792009014 OBS stuckU=0 mounted=1 fusenfs=1
+1792009014 READ rc=0 dur=0s
+1792009015 OBS stuckU=0 mounted=1 fusenfs=1
+1792009015 READ rc=0 dur=0s
+1792009016 OBS stuckU=0 mounted=1 fusenfs=1
+1792009016 READ rc=0 dur=0s
+1792009017 READ rc=0 dur=0s
+1792009017 OBS stuckU=0 mounted=1 fusenfs=1
+1792009018 READ rc=0 dur=0s
+1792009018 OBS stuckU=0 mounted=1 fusenfs=1
+1792009019 READ rc=0 dur=0s
+1792009019 OBS stuckU=0 mounted=1 fusenfs=1
+1792009020 READ rc=0 dur=0s
+1792009020 OBS stuckU=0 mounted=1 fusenfs=1
+1792009021 READ rc=0 dur=0s
+1792009021 OBS stuckU=0 mounted=1 fusenfs=1
+1792009022 READ rc=0 dur=0s
+1792009022 OBS stuckU=0 mounted=1 fusenfs=1
+1792009023 READ rc=0 dur=0s
+1792009024 OBS stuckU=0 mounted=1 fusenfs=1
+1792009024 READ rc=0 dur=0s
+1792009025 OBS stuckU=0 mounted=1 fusenfs=1
+1792009025 READ rc=0 dur=0s
+1792009026 OBS stuckU=0 mounted=1 fusenfs=1
+1792009026 READ rc=0 dur=0s
+1792009027 OBS stuckU=0 mounted=1 fusenfs=1
+1792009027 READ rc=0 dur=0s
+1792009028 OBS stuckU=0 mounted=1 fusenfs=1
+1792009028 READ rc=0 dur=0s
+1792009029 OBS stuckU=0 mounted=1 fusenfs=1
+1792009029 READ rc=0 dur=0s
+1792009030 OBS stuckU=0 mounted=1 fusenfs=1
+1792009030 READ rc=0 dur=0s
+1792009031 OBS stuckU=1 mounted=1 fusenfs=1
+1792009031 READ rc=0 dur=0s
+1792009032 READ rc=0 dur=0s
+1792009032 OBS stuckU=0 mounted=1 fusenfs=1
+1792009033 READ rc=0 dur=0s
+1792009034 OBS stuckU=0 mounted=1 fusenfs=1
+1792009034 READ rc=0 dur=0s
+1792009035 OBS stuckU=0 mounted=1 fusenfs=1
+1792009036 READ rc=0 dur=0s
+1792009036 OBS stuckU=0 mounted=1 fusenfs=1
+1792009037 READ rc=0 dur=0s
+1792009037 OBS stuckU=0 mounted=1 fusenfs=1
+1792009038 READ rc=0 dur=0s
+1792009038 OBS stuckU=0 mounted=1 fusenfs=1
+1792009039 READ rc=0 dur=0s
+1792009039 OBS stuckU=0 mounted=1 fusenfs=1
+1792009040 READ rc=0 dur=0s
+1792009040 OBS stuckU=0 mounted=1 fusenfs=1
+1792009041 READ rc=0 dur=0s
+1792009041 OBS stuckU=0 mounted=1 fusenfs=1
+1792009042 READ rc=0 dur=0s
+1792009042 OBS stuckU=0 mounted=1 fusenfs=1
+1792009043 READ rc=0 dur=0s
+1792009043 OBS stuckU=0 mounted=1 fusenfs=1
+1792009044 READ rc=0 dur=0s
+1792009045 OBS stuckU=0 mounted=1 fusenfs=1
+1792009045 READ rc=0 dur=0s
+1792009046 OBS stuckU=0 mounted=1 fusenfs=1
+1792009046 READ rc=0 dur=0s
+1792009047 READ rc=0 dur=0s
+1792009047 OBS stuckU=0 mounted=1 fusenfs=1
+1792009048 READ rc=0 dur=0s
+1792009048 OBS stuckU=0 mounted=1 fusenfs=1
+1792009049 READ rc=0 dur=0s
+1792009049 OBS stuckU=0 mounted=1 fusenfs=1
+1792009050 READ rc=0 dur=0s
+1792009050 OBS stuckU=0 mounted=1 fusenfs=1
+1792009051 READ rc=0 dur=0s
+1792009051 OBS stuckU=0 mounted=1 fusenfs=1
+1792009052 READ rc=0 dur=0s
+1792009052 OBS stuckU=0 mounted=1 fusenfs=1
+1792009053 READ rc=0 dur=0s
+1792009053 OBS stuckU=0 mounted=1 fusenfs=1
+1792009054 READ rc=0 dur=0s
+1792009055 OBS stuckU=0 mounted=1 fusenfs=1
+1792009055 READ rc=0 dur=0s
+1792009056 OBS stuckU=0 mounted=1 fusenfs=1
+1792009056 READ rc=0 dur=0s
+1792009057 OBS stuckU=0 mounted=1 fusenfs=1
+1792009057 READ rc=0 dur=0s
+1792009058 OBS stuckU=0 mounted=1 fusenfs=1
+1792009058 READ rc=0 dur=0s
+1792009059 OBS stuckU=0 mounted=1 fusenfs=1
+1792009059 READ rc=0 dur=0s
+1792009060 OBS stuckU=0 mounted=1 fusenfs=1
+1792009060 READ rc=0 dur=0s
+1792009061 OBS stuckU=0 mounted=1 fusenfs=1
+1792009061 READ rc=0 dur=0s
+1792009062 READ rc=0 dur=0s
+1792009062 OBS stuckU=0 mounted=1 fusenfs=1
+1792009063 READ rc=0 dur=0s
+1792009063 OBS stuckU=0 mounted=1 fusenfs=1
+1792009064 READ rc=0 dur=0s
+1792009064 OBS stuckU=0 mounted=1 fusenfs=1
+1792009065 READ rc=0 dur=0s
+1792009066 OBS stuckU=0 mounted=1 fusenfs=1
+1792009066 READ rc=0 dur=0s
+1792009067 OBS stuckU=0 mounted=1 fusenfs=1
+1792009067 READ rc=0 dur=0s
+1792009068 OBS stuckU=0 mounted=1 fusenfs=1
+1792009069 READ rc=0 dur=1s
+1792009069 OBS stuckU=0 mounted=1 fusenfs=1
+1792009070 READ rc=0 dur=0s
+1792009070 OBS stuckU=0 mounted=1 fusenfs=1
+1792009071 READ rc=0 dur=0s
+1792009071 OBS stuckU=0 mounted=1 fusenfs=1
+1792009072 READ rc=0 dur=0s
+1792009072 OBS stuckU=0 mounted=1 fusenfs=1
+1792009073 READ rc=0 dur=0s
+1792009073 OBS stuckU=0 mounted=1 fusenfs=1
+1792009074 READ rc=0 dur=0s
+1792009074 OBS stuckU=0 mounted=1 fusenfs=1
+1792009075 READ rc=0 dur=0s
+1792009076 OBS stuckU=0 mounted=1 fusenfs=1
+1792009076 READ rc=0 dur=0s
+1792009077 OBS stuckU=0 mounted=1 fusenfs=1
+1792009077 READ rc=0 dur=0s
+1792009078 READ rc=0 dur=0s
+1792009078 OBS stuckU=0 mounted=1 fusenfs=1
+1792009079 READ rc=0 dur=0s
+1792009079 OBS stuckU=0 mounted=1 fusenfs=1
+1792009080 READ rc=0 dur=0s
+1792009080 OBS stuckU=0 mounted=1 fusenfs=1
+1792009081 READ rc=0 dur=0s
+1792009081 OBS stuckU=0 mounted=1 fusenfs=1
+1792009082 READ rc=0 dur=0s
+1792009082 OBS stuckU=0 mounted=1 fusenfs=1
+1792009083 READ rc=0 dur=0s
+1792009083 OBS stuckU=0 mounted=1 fusenfs=1
+1792009084 READ rc=0 dur=0s
+1792009084 OBS stuckU=0 mounted=1 fusenfs=1
+1792009085 READ rc=0 dur=0s
+1792009085 OBS stuckU=0 mounted=1 fusenfs=1
+1792009086 READ rc=0 dur=0s
+1792009087 OBS stuckU=0 mounted=1 fusenfs=1
+1792009087 READ rc=0 dur=0s
+1792009088 OBS stuckU=0 mounted=1 fusenfs=1
+1792009088 READ rc=0 dur=0s
+1792009089 OBS stuckU=0 mounted=1 fusenfs=1
+1792009089 READ rc=0 dur=0s
+1792009090 OBS stuckU=0 mounted=1 fusenfs=1
+1792009090 READ rc=0 dur=0s
+1792009091 OBS stuckU=0 mounted=1 fusenfs=1
+1792009091 READ rc=0 dur=0s
+1792009092 READ rc=0 dur=0s
+1792009092 OBS stuckU=0 mounted=1 fusenfs=1
+1792009093 READ rc=0 dur=0s
+1792009093 OBS stuckU=0 mounted=1 fusenfs=1
+1792009094 READ rc=0 dur=0s
+1792009094 OBS stuckU=0 mounted=1 fusenfs=1
+1792009095 READ rc=0 dur=0s
+1792009095 OBS stuckU=0 mounted=1 fusenfs=1
+1792009096 READ rc=0 dur=0s
+1792009097 OBS stuckU=0 mounted=1 fusenfs=1
+1792009097 READ rc=0 dur=0s
+1792009098 OBS stuckU=0 mounted=1 fusenfs=1
+1792009098 READ rc=0 dur=0s
+1792009099 OBS stuckU=0 mounted=1 fusenfs=1
+1792009099 READ rc=0 dur=0s
+1792009100 OBS stuckU=1 mounted=1 fusenfs=1
+1792009100 READ rc=0 dur=0s
+1792009101 OBS stuckU=0 mounted=1 fusenfs=1
+1792009101 READ rc=0 dur=0s
+1792009102 OBS stuckU=0 mounted=1 fusenfs=1
+1792009102 READ rc=0 dur=0s
+1792009103 OBS stuckU=0 mounted=1 fusenfs=1
+1792009104 READ rc=0 dur=0s
+1792009104 OBS stuckU=0 mounted=1 fusenfs=1
+1792009105 READ rc=0 dur=0s
+1792009105 OBS stuckU=0 mounted=1 fusenfs=1
+1792009106 READ rc=0 dur=0s
+1792009106 OBS stuckU=0 mounted=1 fusenfs=1
+1792009107 READ rc=0 dur=0s
+1792009108 READ rc=0 dur=0s
+1792009108 OBS stuckU=0 mounted=1 fusenfs=1
+1792009109 READ rc=0 dur=0s
+1792009109 OBS stuckU=0 mounted=1 fusenfs=1
+1792009110 READ rc=0 dur=0s
+1792009110 OBS stuckU=0 mounted=1 fusenfs=1
+1792009111 READ rc=0 dur=0s
+1792009111 OBS stuckU=0 mounted=1 fusenfs=1
+1792009112 READ rc=0 dur=0s
+1792009112 OBS stuckU=0 mounted=1 fusenfs=1
+1792009113 READ rc=0 dur=0s
+1792009113 OBS stuckU=0 mounted=1 fusenfs=1
+1792009114 READ rc=0 dur=0s
+1792009114 OBS stuckU=0 mounted=1 fusenfs=1
+1792009115 READ rc=0 dur=0s
+1792009115 OBS stuckU=0 mounted=1 fusenfs=1
+1792009116 READ rc=0 dur=0s
+1792009116 OBS stuckU=0 mounted=1 fusenfs=1
+1792009117 READ rc=0 dur=0s
+1792009118 OBS stuckU=0 mounted=1 fusenfs=1
+1792009118 READ rc=0 dur=0s
+1792009119 OBS stuckU=0 mounted=1 fusenfs=1
+1792009119 READ rc=0 dur=0s
+1792009120 OBS stuckU=0 mounted=1 fusenfs=1
+1792009120 READ rc=0 dur=0s
+1792009121 OBS stuckU=0 mounted=1 fusenfs=1
+1792009121 READ rc=0 dur=0s
+1792009122 OBS stuckU=0 mounted=1 fusenfs=1
+1792009122 READ rc=0 dur=0s
+1792009123 READ rc=0 dur=0s
+1792009123 OBS stuckU=0 mounted=1 fusenfs=1
+1792009124 READ rc=0 dur=0s
+1792009124 OBS stuckU=0 mounted=1 fusenfs=1
+1792009125 READ rc=0 dur=0s
+1792009125 OBS stuckU=0 mounted=1 fusenfs=1
+1792009126 READ rc=0 dur=0s
+1792009126 OBS stuckU=0 mounted=1 fusenfs=1
+1792009127 READ rc=0 dur=0s
+1792009127 OBS stuckU=0 mounted=1 fusenfs=1
+1792009128 READ rc=0 dur=0s
+1792009129 OBS stuckU=0 mounted=1 fusenfs=1
+1792009129 READ rc=0 dur=0s
+1792009130 OBS stuckU=0 mounted=1 fusenfs=1
+1792009130 READ rc=0 dur=0s
+1792009131 OBS stuckU=0 mounted=1 fusenfs=1
+1792009131 READ rc=0 dur=0s
+1792009132 OBS stuckU=0 mounted=1 fusenfs=1
+1792009132 READ rc=0 dur=0s
+1792009133 OBS stuckU=0 mounted=1 fusenfs=1
+1792009133 READ rc=0 dur=0s
+1792009134 OBS stuckU=0 mounted=1 fusenfs=1
+1792009134 READ rc=0 dur=0s
+1792009135 OBS stuckU=0 mounted=1 fusenfs=1
+1792009135 READ rc=0 dur=0s
+1792009136 OBS stuckU=0 mounted=1 fusenfs=1
+1792009137 READ rc=0 dur=0s
+1792009137 OBS stuckU=0 mounted=1 fusenfs=1
+1792009138 READ rc=0 dur=0s
+1792009139 READ rc=0 dur=0s
+1792009139 OBS stuckU=0 mounted=1 fusenfs=1
+1792009140 READ rc=0 dur=0s
+1792009140 OBS stuckU=0 mounted=1 fusenfs=1
+1792009141 READ rc=0 dur=0s
+1792009141 OBS stuckU=0 mounted=1 fusenfs=1
+1792009142 READ rc=0 dur=0s
+1792009142 OBS stuckU=0 mounted=1 fusenfs=1
+1792009143 READ rc=0 dur=0s
+1792009143 OBS stuckU=1 mounted=1 fusenfs=1
+1792009144 READ rc=0 dur=0s
+1792009144 OBS stuckU=0 mounted=1 fusenfs=1
+1792009145 READ rc=0 dur=0s
+1792009145 OBS stuckU=0 mounted=1 fusenfs=1
+1792009146 READ rc=0 dur=0s
+1792009146 OBS stuckU=0 mounted=1 fusenfs=1
+1792009147 READ rc=0 dur=0s
+1792009147 OBS stuckU=0 mounted=1 fusenfs=1
+1792009148 READ rc=0 dur=0s
+1792009148 OBS stuckU=0 mounted=1 fusenfs=1
+1792009149 READ rc=0 dur=0s
+1792009150 OBS stuckU=1 mounted=1 fusenfs=1
+1792009150 READ rc=0 dur=0s
+1792009151 OBS stuckU=0 mounted=1 fusenfs=1
+1792009151 READ rc=0 dur=0s
+1792009152 OBS stuckU=0 mounted=1 fusenfs=1
+1792009152 READ rc=0 dur=0s
+1792009153 OBS stuckU=0 mounted=1 fusenfs=1
+1792009153 READ rc=0 dur=0s
+1792009154 READ rc=0 dur=0s
+1792009154 OBS stuckU=0 mounted=1 fusenfs=1
+1792009155 READ rc=0 dur=0s
+1792009155 OBS stuckU=0 mounted=1 fusenfs=1
+1792009156 READ rc=0 dur=0s
+1792009156 OBS stuckU=0 mounted=1 fusenfs=1
+1792009157 READ rc=0 dur=0s
+1792009157 OBS stuckU=0 mounted=1 fusenfs=1
+1792009158 READ rc=0 dur=0s
+1792009158 OBS stuckU=0 mounted=1 fusenfs=1
+1792009159 READ rc=0 dur=0s
+1792009159 OBS stuckU=0 mounted=1 fusenfs=1
+1792009160 READ rc=0 dur=0s
+1792009161 OBS stuckU=0 mounted=1 fusenfs=1
+1792009161 READ rc=0 dur=0s
+1792009162 OBS stuckU=0 mounted=1 fusenfs=1
+1792009162 READ rc=0 dur=0s
+1792009163 OBS stuckU=0 mounted=1 fusenfs=1
+1792009163 READ rc=0 dur=0s
+1792009164 OBS stuckU=0 mounted=1 fusenfs=1
+1792009164 READ rc=0 dur=0s
+1792009165 OBS stuckU=0 mounted=1 fusenfs=1
+1792009165 READ rc=0 dur=0s
+1792009166 OBS stuckU=0 mounted=1 fusenfs=1
+1792009166 READ rc=0 dur=0s
+1792009167 OBS stuckU=0 mounted=1 fusenfs=1
+1792009167 READ rc=0 dur=0s
+1792009168 OBS stuckU=0 mounted=1 fusenfs=1
+1792009168 READ rc=0 dur=0s
+1792009169 READ rc=0 dur=0s
+1792009169 OBS stuckU=0 mounted=1 fusenfs=1
+1792009170 READ rc=0 dur=0s
+1792009171 OBS stuckU=0 mounted=1 fusenfs=1
+1792009172 READ rc=0 dur=0s
+1792009172 OBS stuckU=0 mounted=1 fusenfs=1
+1792009173 READ rc=0 dur=0s
+1792009173 OBS stuckU=0 mounted=1 fusenfs=1
+1792009174 READ rc=0 dur=0s
+1792009174 OBS stuckU=0 mounted=1 fusenfs=1
+1792009175 READ rc=0 dur=0s
+1792009175 OBS stuckU=0 mounted=1 fusenfs=1
+1792009176 READ rc=0 dur=0s
+1792009176 OBS stuckU=0 mounted=1 fusenfs=1
+1792009177 READ rc=0 dur=0s
+1792009177 OBS stuckU=0 mounted=1 fusenfs=1
+1792009178 READ rc=0 dur=0s
+1792009178 OBS stuckU=1 mounted=1 fusenfs=1
+1792009179 READ rc=0 dur=0s
+1792009179 OBS stuckU=0 mounted=1 fusenfs=1
+1792009180 READ rc=0 dur=0s
+1792009180 OBS stuckU=0 mounted=1 fusenfs=1
+1792009181 READ rc=0 dur=0s
+1792009182 OBS stuckU=0 mounted=1 fusenfs=1
+1792009182 READ rc=0 dur=0s
+1792009183 OBS stuckU=0 mounted=1 fusenfs=1
+1792009183 READ rc=0 dur=0s
+1792009184 OBS stuckU=0 mounted=1 fusenfs=1
+1792009184 READ rc=0 dur=0s
+1792009185 READ rc=0 dur=0s
+1792009185 OBS stuckU=0 mounted=1 fusenfs=1
+1792009186 READ rc=0 dur=0s
+1792009186 OBS stuckU=0 mounted=1 fusenfs=1
+1792009187 READ rc=0 dur=0s
+1792009187 OBS stuckU=0 mounted=1 fusenfs=1
+1792009188 READ rc=0 dur=0s
+1792009188 OBS stuckU=0 mounted=1 fusenfs=1
+1792009189 READ rc=0 dur=0s
+1792009189 OBS stuckU=0 mounted=1 fusenfs=1
+1792009190 READ rc=0 dur=0s
+1792009190 OBS stuckU=0 mounted=1 fusenfs=1
+1792009191 READ rc=0 dur=0s
+1792009191 OBS stuckU=0 mounted=1 fusenfs=1
+1792009192 READ rc=0 dur=0s
+1792009193 OBS stuckU=0 mounted=1 fusenfs=1
+1792009193 READ rc=0 dur=0s
+1792009194 OBS stuckU=0 mounted=1 fusenfs=1
+1792009194 READ rc=0 dur=0s
+1792009195 OBS stuckU=0 mounted=1 fusenfs=1
+1792009195 READ rc=0 dur=0s
+1792009196 OBS stuckU=0 mounted=1 fusenfs=1
+1792009196 READ rc=0 dur=0s
+1792009197 OBS stuckU=0 mounted=1 fusenfs=1
+1792009197 READ rc=0 dur=0s
+1792009198 OBS stuckU=0 mounted=1 fusenfs=1
+1792009198 READ rc=0 dur=0s
+1792009199 OBS stuckU=0 mounted=1 fusenfs=1
+1792009199 READ rc=0 dur=0s
+1792009200 READ rc=0 dur=0s
+1792009200 OBS stuckU=0 mounted=1 fusenfs=1
+1792009201 READ rc=0 dur=0s
+1792009201 OBS stuckU=0 mounted=1 fusenfs=1
+1792009202 READ rc=0 dur=0s
+1792009203 OBS stuckU=0 mounted=1 fusenfs=1
+1792009203 READ rc=0 dur=0s
+1792009204 OBS stuckU=0 mounted=1 fusenfs=1
+1792009204 READ rc=0 dur=0s
+1792009205 OBS stuckU=0 mounted=1 fusenfs=1
+1792009206 READ rc=0 dur=1s
+1792009206 OBS stuckU=0 mounted=1 fusenfs=1
+1792009207 READ rc=0 dur=0s
+1792009207 OBS stuckU=0 mounted=1 fusenfs=1
+1792009208 READ rc=0 dur=0s
+1792009208 OBS stuckU=0 mounted=1 fusenfs=1
+1792009209 READ rc=0 dur=0s
+1792009209 OBS stuckU=0 mounted=1 fusenfs=1
+1792009210 READ rc=0 dur=0s
+1792009210 OBS stuckU=0 mounted=1 fusenfs=1
+1792009211 READ rc=0 dur=0s
+1792009211 OBS stuckU=0 mounted=1 fusenfs=1
+1792009212 READ rc=0 dur=0s
+1792009212 OBS stuckU=0 mounted=1 fusenfs=1
+1792009213 READ rc=0 dur=0s
+1792009214 OBS stuckU=0 mounted=1 fusenfs=1
+1792009214 READ rc=0 dur=0s
+1792009215 OBS stuckU=0 mounted=1 fusenfs=1
+1792009215 READ rc=0 dur=0s
+1792009216 READ rc=0 dur=0s
+1792009216 OBS stuckU=0 mounted=1 fusenfs=1
+1792009217 READ rc=0 dur=0s
+1792009217 OBS stuckU=0 mounted=1 fusenfs=1
+1792009218 READ rc=0 dur=0s
+1792009218 OBS stuckU=0 mounted=1 fusenfs=1
+1792009219 READ rc=0 dur=0s
+1792009219 OBS stuckU=0 mounted=1 fusenfs=1
+1792009220 READ rc=0 dur=0s
+1792009220 OBS stuckU=0 mounted=1 fusenfs=1
+1792009221 READ rc=0 dur=0s
+1792009221 OBS stuckU=0 mounted=1 fusenfs=1
+1792009222 READ rc=0 dur=0s
+1792009222 OBS stuckU=0 mounted=1 fusenfs=1
+1792009223 READ rc=0 dur=0s
+1792009224 OBS stuckU=0 mounted=1 fusenfs=1
+1792009224 READ rc=0 dur=0s
+1792009225 OBS stuckU=0 mounted=1 fusenfs=1
+1792009225 READ rc=0 dur=0s
+1792009226 OBS stuckU=0 mounted=1 fusenfs=1
+1792009226 READ rc=0 dur=0s
+1792009227 OBS stuckU=0 mounted=1 fusenfs=1
+1792009227 READ rc=0 dur=0s
+1792009228 OBS stuckU=0 mounted=1 fusenfs=1
+1792009228 READ rc=0 dur=0s
+1792009229 OBS stuckU=1 mounted=1 fusenfs=1
+1792009229 READ rc=0 dur=0s
+1792009230 OBS stuckU=0 mounted=1 fusenfs=1
+1792009230 READ rc=0 dur=0s
+1792009231 READ rc=0 dur=0s
+1792009231 OBS stuckU=0 mounted=1 fusenfs=1
+1792009232 READ rc=0 dur=0s
+1792009232 OBS stuckU=0 mounted=1 fusenfs=1
+1792009233 READ rc=0 dur=0s
+1792009233 OBS stuckU=0 mounted=1 fusenfs=1
+1792009234 READ rc=0 dur=0s
+1792009235 OBS stuckU=0 mounted=1 fusenfs=1
+1792009235 READ rc=0 dur=0s
+1792009236 OBS stuckU=0 mounted=1 fusenfs=1
+1792009236 READ rc=0 dur=0s
+1792009237 OBS stuckU=0 mounted=1 fusenfs=1
+1792009237 READ rc=0 dur=0s
+1792009238 OBS stuckU=0 mounted=1 fusenfs=1
+1792009239 READ rc=0 dur=1s
+1792009239 OBS stuckU=0 mounted=1 fusenfs=1
+1792009240 READ rc=0 dur=0s
+1792009240 OBS stuckU=0 mounted=1 fusenfs=1
+1792009241 READ rc=0 dur=0s
+1792009241 OBS stuckU=0 mounted=1 fusenfs=1
+1792009242 READ rc=0 dur=0s
+1792009242 OBS stuckU=0 mounted=1 fusenfs=1
+1792009243 READ rc=0 dur=0s
+1792009243 OBS stuckU=0 mounted=1 fusenfs=1
+1792009244 READ rc=0 dur=0s
+1792009245 OBS stuckU=1 mounted=1 fusenfs=1
+1792009245 READ rc=0 dur=0s
+1792009246 OBS stuckU=0 mounted=1 fusenfs=1
+1792009246 READ rc=0 dur=0s
+1792009247 READ rc=0 dur=0s
+1792009247 OBS stuckU=0 mounted=1 fusenfs=1
+1792009248 READ rc=0 dur=0s
+1792009248 OBS stuckU=0 mounted=1 fusenfs=1
+1792009249 READ rc=0 dur=0s
+1792009249 OBS stuckU=0 mounted=1 fusenfs=1
+1792009250 READ rc=0 dur=0s
+1792009250 OBS stuckU=0 mounted=1 fusenfs=1
+1792009251 READ rc=0 dur=0s
+1792009251 OBS stuckU=0 mounted=1 fusenfs=1
+1792009252 READ rc=0 dur=0s
+1792009252 OBS stuckU=0 mounted=1 fusenfs=1
+1792009253 READ rc=0 dur=0s
+1792009253 OBS stuckU=0 mounted=1 fusenfs=1
+1792009254 READ rc=0 dur=0s
+1792009254 OBS stuckU=0 mounted=1 fusenfs=1
+1792009255 READ rc=0 dur=0s
+1792009256 OBS stuckU=0 mounted=1 fusenfs=1
+1792009256 READ rc=0 dur=0s
+1792009257 OBS stuckU=0 mounted=1 fusenfs=1
+1792009257 READ rc=0 dur=0s
+1792009258 OBS stuckU=0 mounted=1 fusenfs=1
+1792009258 READ rc=0 dur=0s
+1792009259 OBS stuckU=0 mounted=1 fusenfs=1
+1792009259 READ rc=0 dur=0s
+1792009260 OBS stuckU=0 mounted=1 fusenfs=1
+1792009260 READ rc=0 dur=0s
+1792009261 READ rc=0 dur=0s
+1792009261 OBS stuckU=0 mounted=1 fusenfs=1
+1792009262 READ rc=0 dur=0s
+1792009262 OBS stuckU=0 mounted=1 fusenfs=1
+1792009263 READ rc=0 dur=0s
+1792009263 OBS stuckU=0 mounted=1 fusenfs=1
+1792009264 READ rc=0 dur=0s
+1792009264 OBS stuckU=0 mounted=1 fusenfs=1
+1792009265 READ rc=0 dur=0s
+1792009266 OBS stuckU=0 mounted=1 fusenfs=1
+1792009266 READ rc=0 dur=0s
+1792009267 OBS stuckU=0 mounted=1 fusenfs=1
+1792009267 READ rc=0 dur=0s
+1792009268 OBS stuckU=0 mounted=1 fusenfs=1
+1792009268 READ rc=0 dur=0s
+1792009269 OBS stuckU=0 mounted=1 fusenfs=1
+1792009269 READ rc=0 dur=0s
+1792009270 OBS stuckU=0 mounted=1 fusenfs=1
+1792009270 READ rc=0 dur=0s
+1792009271 OBS stuckU=0 mounted=1 fusenfs=1
+1792009272 READ rc=0 dur=0s
+1792009272 OBS stuckU=0 mounted=1 fusenfs=1
+1792009273 READ rc=0 dur=0s
+1792009273 OBS stuckU=0 mounted=1 fusenfs=1
+1792009274 READ rc=0 dur=0s
+1792009274 OBS stuckU=0 mounted=1 fusenfs=1
+1792009275 READ rc=0 dur=0s
+1792009275 OBS stuckU=0 mounted=1 fusenfs=1
+1792009276 READ rc=0 dur=0s
+1792009277 READ rc=0 dur=0s
+1792009277 OBS stuckU=0 mounted=1 fusenfs=1
+1792009278 READ rc=0 dur=0s
+1792009278 OBS stuckU=0 mounted=1 fusenfs=1
+1792009279 READ rc=0 dur=0s
+1792009279 OBS stuckU=0 mounted=1 fusenfs=1
+1792009280 READ rc=0 dur=0s
+1792009280 OBS stuckU=0 mounted=1 fusenfs=1
+1792009281 READ rc=0 dur=0s
+1792009281 OBS stuckU=0 mounted=1 fusenfs=1
+1792009282 READ rc=0 dur=0s
+1792009282 OBS stuckU=1 mounted=1 fusenfs=1
+1792009283 READ rc=0 dur=0s
+1792009283 OBS stuckU=0 mounted=1 fusenfs=1
+1792009284 READ rc=0 dur=0s
+1792009284 OBS stuckU=0 mounted=1 fusenfs=1
+1792009285 READ rc=0 dur=0s
+1792009285 OBS stuckU=0 mounted=1 fusenfs=1
+1792009286 READ rc=0 dur=0s
+1792009287 OBS stuckU=0 mounted=1 fusenfs=1
+1792009287 READ rc=0 dur=0s
+1792009288 OBS stuckU=0 mounted=1 fusenfs=1
+1792009288 READ rc=0 dur=0s
+1792009289 OBS stuckU=0 mounted=1 fusenfs=1
+1792009289 READ rc=0 dur=0s
+1792009290 OBS stuckU=0 mounted=1 fusenfs=1
+1792009290 READ rc=0 dur=0s
+1792009291 OBS stuckU=0 mounted=1 fusenfs=1
+1792009291 READ rc=0 dur=0s
+1792009292 READ rc=0 dur=0s
+1792009292 OBS stuckU=0 mounted=1 fusenfs=1
+1792009293 READ rc=0 dur=0s
+1792009293 OBS stuckU=0 mounted=1 fusenfs=1
+1792009294 READ rc=0 dur=0s
+1792009294 OBS stuckU=0 mounted=1 fusenfs=1
+1792009295 READ rc=0 dur=0s
+1792009295 OBS stuckU=0 mounted=1 fusenfs=1
+1792009296 READ rc=0 dur=0s
+1792009296 OBS stuckU=0 mounted=1 fusenfs=1
+1792009297 READ rc=0 dur=0s
+1792009298 OBS stuckU=0 mounted=1 fusenfs=1
+1792009298 READ rc=0 dur=0s
+1792009299 OBS stuckU=0 mounted=1 fusenfs=1
+1792009299 READ rc=0 dur=0s
+1792009300 OBS stuckU=0 mounted=1 fusenfs=1
+1792009300 READ rc=0 dur=0s
+1792009301 OBS stuckU=0 mounted=1 fusenfs=1
+1792009301 READ rc=0 dur=0s
+1792009302 OBS stuckU=0 mounted=1 fusenfs=1
+1792009302 READ rc=0 dur=0s
+1792009303 OBS stuckU=0 mounted=1 fusenfs=1
+1792009303 READ rc=0 dur=0s
+1792009304 OBS stuckU=0 mounted=1 fusenfs=1
+1792009305 READ rc=0 dur=1s
+1792009305 OBS stuckU=0 mounted=1 fusenfs=1
+1792009306 READ rc=0 dur=0s
+1792009306 OBS stuckU=0 mounted=1 fusenfs=1
+1792009307 READ rc=0 dur=0s
+1792009308 READ rc=0 dur=0s
+1792009308 OBS stuckU=0 mounted=1 fusenfs=1
+1792009309 READ rc=0 dur=0s
+1792009309 OBS stuckU=0 mounted=1 fusenfs=1
+1792009310 READ rc=0 dur=0s
+1792009310 OBS stuckU=0 mounted=1 fusenfs=1
+1792009311 READ rc=0 dur=0s
+1792009311 OBS stuckU=0 mounted=1 fusenfs=1
+1792009312 READ rc=0 dur=0s
+1792009312 OBS stuckU=0 mounted=1 fusenfs=1
+1792009313 READ rc=0 dur=0s
+1792009313 OBS stuckU=0 mounted=1 fusenfs=1
+1792009314 READ rc=0 dur=0s
+1792009314 OBS stuckU=0 mounted=1 fusenfs=1
+1792009315 READ rc=0 dur=0s
+1792009315 OBS stuckU=0 mounted=1 fusenfs=1
+1792009316 READ rc=0 dur=0s
+1792009316 OBS stuckU=0 mounted=1 fusenfs=1
+1792009317 READ rc=0 dur=0s
+1792009317 OBS stuckU=0 mounted=1 fusenfs=1
+1792009318 READ rc=0 dur=0s
+1792009319 OBS stuckU=0 mounted=1 fusenfs=1
+1792009319 READ rc=0 dur=0s
+1792009320 OBS stuckU=0 mounted=1 fusenfs=1
+1792009320 READ rc=0 dur=0s
+1792009321 OBS stuckU=0 mounted=1 fusenfs=1
+1792009321 READ rc=0 dur=0s
+1792009322 OBS stuckU=0 mounted=1 fusenfs=1
+1792009322 READ rc=0 dur=0s
+1792009323 OBS stuckU=0 mounted=1 fusenfs=1
+1792009323 READ rc=0 dur=0s
+1792009324 READ rc=0 dur=0s
+1792009324 OBS stuckU=0 mounted=1 fusenfs=1
+1792009325 READ rc=0 dur=0s
+1792009325 OBS stuckU=0 mounted=1 fusenfs=1
+1792009326 READ rc=0 dur=0s
+1792009326 OBS stuckU=0 mounted=1 fusenfs=1
+1792009327 READ rc=0 dur=0s
+1792009327 OBS stuckU=0 mounted=1 fusenfs=1
+1792009328 READ rc=0 dur=0s
+1792009328 OBS stuckU=0 mounted=1 fusenfs=1
+1792009329 READ rc=0 dur=0s
+1792009330 OBS stuckU=0 mounted=1 fusenfs=1
+1792009330 READ rc=0 dur=0s
+1792009331 OBS stuckU=0 mounted=1 fusenfs=1
+1792009331 READ rc=0 dur=0s
+1792009332 OBS stuckU=0 mounted=1 fusenfs=1
+1792009332 READ rc=0 dur=0s
+1792009333 OBS stuckU=0 mounted=1 fusenfs=1
+1792009333 READ rc=0 dur=0s
+1792009334 OBS stuckU=0 mounted=1 fusenfs=1
+1792009334 READ rc=0 dur=0s
+1792009335 OBS stuckU=0 mounted=1 fusenfs=1
+1792009335 READ rc=0 dur=0s
+1792009336 OBS stuckU=0 mounted=1 fusenfs=1
+1792009336 READ rc=0 dur=0s
+1792009337 OBS stuckU=0 mounted=1 fusenfs=1
+1792009337 READ rc=0 dur=0s
+1792009338 READ rc=0 dur=0s
+1792009338 OBS stuckU=0 mounted=1 fusenfs=1
+1792009339 READ rc=0 dur=0s
+1792009340 OBS stuckU=0 mounted=1 fusenfs=1
+1792009341 READ rc=0 dur=0s
+1792009341 OBS stuckU=0 mounted=1 fusenfs=1
+1792009342 READ rc=0 dur=0s
+1792009342 OBS stuckU=0 mounted=1 fusenfs=1
+1792009343 READ rc=0 dur=0s
+1792009343 OBS stuckU=0 mounted=1 fusenfs=1
+1792009344 READ rc=0 dur=0s
+1792009344 OBS stuckU=0 mounted=1 fusenfs=1
+1792009345 READ rc=0 dur=0s
+1792009345 OBS stuckU=0 mounted=1 fusenfs=1
+1792009346 READ rc=0 dur=0s
+1792009346 OBS stuckU=0 mounted=1 fusenfs=1
+1792009347 READ rc=0 dur=0s
+1792009347 OBS stuckU=0 mounted=1 fusenfs=1
+1792009348 READ rc=0 dur=0s
+1792009348 OBS stuckU=0 mounted=1 fusenfs=1
+1792009349 READ rc=0 dur=0s
+1792009349 OBS stuckU=0 mounted=1 fusenfs=1
+1792009350 READ rc=0 dur=0s
+1792009351 OBS stuckU=0 mounted=1 fusenfs=1
+1792009351 READ rc=0 dur=0s
+1792009352 OBS stuckU=0 mounted=1 fusenfs=1
+1792009352 READ rc=0 dur=0s
+1792009353 OBS stuckU=0 mounted=1 fusenfs=1
+1792009353 READ rc=0 dur=0s
+1792009354 READ rc=0 dur=0s
+1792009354 OBS stuckU=0 mounted=1 fusenfs=1
+1792009355 READ rc=0 dur=0s
+1792009355 OBS stuckU=0 mounted=1 fusenfs=1
+1792009356 READ rc=0 dur=0s
+1792009356 OBS stuckU=0 mounted=1 fusenfs=1
+1792009357 READ rc=0 dur=0s
+1792009357 OBS stuckU=0 mounted=1 fusenfs=1
+1792009358 READ rc=0 dur=0s
+1792009358 OBS stuckU=0 mounted=1 fusenfs=1
+1792009359 READ rc=0 dur=0s
+1792009359 OBS stuckU=0 mounted=1 fusenfs=1
+1792009360 READ rc=0 dur=0s
+1792009360 OBS stuckU=0 mounted=1 fusenfs=1
+1792009361 READ rc=0 dur=0s
+1792009362 OBS stuckU=0 mounted=1 fusenfs=1
+1792009362 READ rc=0 dur=0s
+1792009363 OBS stuckU=0 mounted=1 fusenfs=1
+1792009363 READ rc=0 dur=0s
+1792009364 OBS stuckU=0 mounted=1 fusenfs=1
+1792009364 READ rc=0 dur=0s
+1792009365 OBS stuckU=0 mounted=1 fusenfs=1
+1792009365 READ rc=0 dur=0s
+1792009366 OBS stuckU=0 mounted=1 fusenfs=1
+1792009366 READ rc=0 dur=0s
+1792009367 OBS stuckU=0 mounted=1 fusenfs=1
+1792009367 READ rc=0 dur=0s
+1792009368 OBS stuckU=0 mounted=1 fusenfs=1
+1792009368 READ rc=0 dur=0s
+1792009369 READ rc=0 dur=0s
+1792009369 OBS stuckU=0 mounted=1 fusenfs=1
+1792009370 READ rc=0 dur=0s
+1792009370 OBS stuckU=0 mounted=1 fusenfs=1
+1792009371 READ rc=0 dur=0s
+1792009372 OBS stuckU=1 mounted=1 fusenfs=1
+1792009372 READ rc=0 dur=0s
+1792009373 OBS stuckU=0 mounted=1 fusenfs=1
+1792009374 READ rc=0 dur=0s
+1792009374 OBS stuckU=0 mounted=1 fusenfs=1
+1792009375 READ rc=0 dur=0s
+1792009375 OBS stuckU=0 mounted=1 fusenfs=1
+1792009376 READ rc=0 dur=0s
+1792009376 OBS stuckU=0 mounted=1 fusenfs=1
+1792009377 READ rc=0 dur=0s
+1792009377 OBS stuckU=0 mounted=1 fusenfs=1
+1792009378 READ rc=0 dur=0s
+1792009378 OBS stuckU=1 mounted=1 fusenfs=1
+1792009379 READ rc=0 dur=0s
+1792009379 OBS stuckU=0 mounted=1 fusenfs=1
+1792009380 READ rc=0 dur=0s
+1792009380 OBS stuckU=0 mounted=1 fusenfs=1
+1792009381 READ rc=0 dur=0s
+1792009381 OBS stuckU=0 mounted=1 fusenfs=1
+1792009382 READ rc=0 dur=0s
+1792009383 OBS stuckU=0 mounted=1 fusenfs=1
+1792009383 READ rc=0 dur=0s
+1792009384 OBS stuckU=0 mounted=1 fusenfs=1
+1792009384 READ rc=0 dur=0s
+1792009385 READ rc=0 dur=0s
+1792009385 OBS stuckU=0 mounted=1 fusenfs=1
+1792009386 READ rc=0 dur=0s
+1792009386 OBS stuckU=0 mounted=1 fusenfs=1
+1792009387 READ rc=0 dur=0s
+1792009387 OBS stuckU=0 mounted=1 fusenfs=1
+1792009388 READ rc=0 dur=0s
+1792009388 OBS stuckU=0 mounted=1 fusenfs=1
+1792009389 READ rc=0 dur=0s
+1792009389 OBS stuckU=0 mounted=1 fusenfs=1
+1792009390 READ rc=0 dur=0s
+1792009390 OBS stuckU=0 mounted=1 fusenfs=1
+1792009391 READ rc=0 dur=0s
+1792009391 OBS stuckU=0 mounted=1 fusenfs=1
+1792009392 READ rc=0 dur=0s
+1792009393 OBS stuckU=0 mounted=1 fusenfs=1
+1792009393 READ rc=0 dur=0s
+1792009394 OBS stuckU=0 mounted=1 fusenfs=1
+1792009394 READ rc=0 dur=0s
+1792009395 OBS stuckU=0 mounted=1 fusenfs=1
+1792009395 READ rc=0 dur=0s
+1792009396 OBS stuckU=0 mounted=1 fusenfs=1
+1792009396 READ rc=0 dur=0s
+1792009397 OBS stuckU=0 mounted=1 fusenfs=1
+1792009397 READ rc=0 dur=0s
+1792009398 OBS stuckU=0 mounted=1 fusenfs=1
+1792009398 READ rc=0 dur=0s
+1792009399 OBS stuckU=0 mounted=1 fusenfs=1
+1792009399 READ rc=0 dur=0s
+1792009400 OBS stuckU=0 mounted=1 fusenfs=1
+1792009400 READ rc=0 dur=0s
+1792009401 READ rc=0 dur=0s
+1792009401 OBS stuckU=0 mounted=1 fusenfs=1
+1792009402 READ rc=0 dur=0s
+1792009402 OBS stuckU=0 mounted=1 fusenfs=1
+1792009403 READ rc=0 dur=0s
+1792009404 OBS stuckU=0 mounted=1 fusenfs=1
+1792009405 READ rc=0 dur=1s
+1792009405 OBS stuckU=0 mounted=1 fusenfs=1
+1792009406 READ rc=0 dur=0s
+1792009406 OBS stuckU=0 mounted=1 fusenfs=1
+1792009407 READ rc=0 dur=0s
+1792009407 OBS stuckU=0 mounted=1 fusenfs=1
+1792009408 READ rc=0 dur=0s
+1792009408 OBS stuckU=0 mounted=1 fusenfs=1
+1792009409 READ rc=0 dur=0s
+1792009409 OBS stuckU=0 mounted=1 fusenfs=1
+1792009410 READ rc=0 dur=0s
+1792009410 OBS stuckU=0 mounted=1 fusenfs=1
+1792009411 READ rc=0 dur=0s
+1792009411 OBS stuckU=0 mounted=1 fusenfs=1
+1792009412 READ rc=0 dur=0s
+1792009412 OBS stuckU=0 mounted=1 fusenfs=1
+1792009413 READ rc=0 dur=0s
+1792009414 OBS stuckU=0 mounted=1 fusenfs=1
+1792009414 READ rc=0 dur=0s
+1792009415 OBS stuckU=0 mounted=1 fusenfs=1
+1792009415 READ rc=0 dur=0s
+1792009416 READ rc=0 dur=0s
+1792009416 OBS stuckU=0 mounted=1 fusenfs=1
+1792009417 READ rc=0 dur=0s
+1792009417 OBS stuckU=0 mounted=1 fusenfs=1
+1792009418 READ rc=0 dur=0s
+1792009418 OBS stuckU=0 mounted=1 fusenfs=1
+1792009419 READ rc=0 dur=0s
+1792009419 OBS stuckU=0 mounted=1 fusenfs=1
+1792009420 READ rc=0 dur=0s
+1792009420 OBS stuckU=0 mounted=1 fusenfs=1
+1792009421 READ rc=0 dur=0s
+1792009421 OBS stuckU=0 mounted=1 fusenfs=1
+1792009422 READ rc=0 dur=0s
+1792009422 OBS stuckU=0 mounted=1 fusenfs=1
+1792009423 READ rc=0 dur=0s
+1792009423 OBS stuckU=0 mounted=1 fusenfs=1
+1792009424 READ rc=0 dur=0s
+1792009425 OBS stuckU=0 mounted=1 fusenfs=1
+1792009425 READ rc=0 dur=0s
+1792009426 OBS stuckU=0 mounted=1 fusenfs=1
+1792009426 READ rc=0 dur=0s
+1792009427 OBS stuckU=0 mounted=1 fusenfs=1
+1792009427 READ rc=0 dur=0s
+1792009428 OBS stuckU=0 mounted=1 fusenfs=1
+1792009428 READ rc=0 dur=0s
+1792009429 OBS stuckU=0 mounted=1 fusenfs=1
+1792009429 READ rc=0 dur=0s
+1792009430 OBS stuckU=0 mounted=1 fusenfs=1
+1792009430 READ rc=0 dur=0s
+1792009431 READ rc=0 dur=0s
+1792009431 OBS stuckU=0 mounted=1 fusenfs=1
+1792009432 READ rc=0 dur=0s
+1792009432 OBS stuckU=0 mounted=1 fusenfs=1
+1792009433 READ rc=0 dur=0s
+1792009433 OBS stuckU=0 mounted=1 fusenfs=1
+1792009434 READ rc=0 dur=0s
+1792009435 OBS stuckU=0 mounted=1 fusenfs=1
+1792009435 READ rc=0 dur=0s
+1792009436 OBS stuckU=0 mounted=1 fusenfs=1
+1792009436 READ rc=0 dur=0s
+1792009437 OBS stuckU=0 mounted=1 fusenfs=1
+1792009438 READ rc=0 dur=0s
+1792009438 OBS stuckU=0 mounted=1 fusenfs=1
+1792009439 READ rc=0 dur=0s
+1792009439 OBS stuckU=0 mounted=1 fusenfs=1
+1792009440 READ rc=0 dur=0s
+1792009440 OBS stuckU=0 mounted=1 fusenfs=1
+1792009441 READ rc=0 dur=0s
+1792009441 OBS stuckU=0 mounted=1 fusenfs=1
+1792009442 READ rc=0 dur=0s
+1792009442 OBS stuckU=0 mounted=1 fusenfs=1
+1792009443 READ rc=0 dur=0s
+1792009443 OBS stuckU=0 mounted=1 fusenfs=1
+1792009444 READ rc=0 dur=0s
+1792009445 OBS stuckU=0 mounted=1 fusenfs=1
+1792009445 READ rc=0 dur=0s
+1792009446 OBS stuckU=0 mounted=1 fusenfs=1
+1792009446 READ rc=0 dur=0s
+1792009447 READ rc=0 dur=0s
+1792009447 OBS stuckU=0 mounted=1 fusenfs=1
+1792009448 READ rc=0 dur=0s
+1792009448 OBS stuckU=0 mounted=1 fusenfs=1
+1792009449 READ rc=0 dur=0s
+1792009449 OBS stuckU=0 mounted=1 fusenfs=1
+1792009450 READ rc=0 dur=0s
+1792009450 OBS stuckU=0 mounted=1 fusenfs=1
+1792009451 READ rc=0 dur=0s
+1792009451 OBS stuckU=0 mounted=1 fusenfs=1
+1792009452 READ rc=0 dur=0s
+1792009452 OBS stuckU=0 mounted=1 fusenfs=1
+1792009453 READ rc=0 dur=0s
+1792009453 OBS stuckU=0 mounted=1 fusenfs=1
+1792009454 READ rc=0 dur=0s
+1792009454 OBS stuckU=0 mounted=1 fusenfs=1
+1792009455 READ rc=0 dur=0s
+1792009456 OBS stuckU=0 mounted=1 fusenfs=1
+1792009456 READ rc=0 dur=0s
+1792009457 OBS stuckU=0 mounted=1 fusenfs=1
+1792009457 READ rc=0 dur=0s
+1792009458 OBS stuckU=0 mounted=1 fusenfs=1
+1792009458 READ rc=0 dur=0s
+1792009459 OBS stuckU=0 mounted=1 fusenfs=1
+1792009459 READ rc=0 dur=0s
+1792009460 OBS stuckU=0 mounted=1 fusenfs=1
+1792009460 READ rc=0 dur=0s
+1792009461 OBS stuckU=0 mounted=1 fusenfs=1
+1792009461 READ rc=0 dur=0s
+1792009462 READ rc=0 dur=0s
+1792009462 OBS stuckU=0 mounted=1 fusenfs=1
+1792009463 READ rc=0 dur=0s
+1792009463 OBS stuckU=0 mounted=1 fusenfs=1
+1792009464 READ rc=0 dur=0s
+1792009464 OBS stuckU=0 mounted=1 fusenfs=1
+1792009465 READ rc=0 dur=0s
+1792009465 OBS stuckU=0 mounted=1 fusenfs=1
+1792009466 READ rc=0 dur=0s
+1792009467 OBS stuckU=0 mounted=1 fusenfs=1
+1792009467 READ rc=0 dur=0s
+1792009468 OBS stuckU=0 mounted=1 fusenfs=1
+1792009468 READ rc=0 dur=0s
+1792009469 OBS stuckU=0 mounted=1 fusenfs=1
+1792009469 READ rc=0 dur=0s
+1792009470 OBS stuckU=0 mounted=1 fusenfs=1
+1792009471 READ rc=0 dur=1s
+1792009471 OBS stuckU=0 mounted=1 fusenfs=1
+1792009472 READ rc=0 dur=0s
+1792009472 OBS stuckU=0 mounted=1 fusenfs=1
+1792009473 READ rc=0 dur=0s
+1792009473 OBS stuckU=0 mounted=1 fusenfs=1
+1792009474 READ rc=0 dur=0s
+1792009474 OBS stuckU=0 mounted=1 fusenfs=1
+1792009475 READ rc=0 dur=0s
+1792009475 OBS stuckU=0 mounted=1 fusenfs=1
+1792009476 READ rc=0 dur=0s
+1792009477 OBS stuckU=0 mounted=1 fusenfs=1
+1792009477 READ rc=0 dur=0s
+1792009478 READ rc=0 dur=0s
+1792009478 OBS stuckU=0 mounted=1 fusenfs=1
+1792009479 READ rc=0 dur=0s
+1792009479 OBS stuckU=0 mounted=1 fusenfs=1
+1792009480 READ rc=0 dur=0s
+1792009480 OBS stuckU=0 mounted=1 fusenfs=1
+1792009481 READ rc=0 dur=0s
+1792009481 OBS stuckU=0 mounted=1 fusenfs=1
+1792009482 READ rc=0 dur=0s
+1792009482 OBS stuckU=0 mounted=1 fusenfs=1
+1792009483 READ rc=0 dur=0s
+1792009483 OBS stuckU=0 mounted=1 fusenfs=1
+1792009484 READ rc=0 dur=0s
+1792009484 OBS stuckU=0 mounted=1 fusenfs=1
+1792009485 READ rc=0 dur=0s
+1792009485 OBS stuckU=0 mounted=1 fusenfs=1
+1792009486 READ rc=0 dur=0s
+1792009486 OBS stuckU=0 mounted=1 fusenfs=1
+1792009487 READ rc=0 dur=0s
+1792009488 OBS stuckU=0 mounted=1 fusenfs=1
+1792009488 READ rc=0 dur=0s
+1792009489 OBS stuckU=0 mounted=1 fusenfs=1
+1792009489 READ rc=0 dur=0s
+1792009490 OBS stuckU=0 mounted=1 fusenfs=1
+1792009490 READ rc=0 dur=0s
+1792009491 OBS stuckU=0 mounted=1 fusenfs=1
+1792009491 READ rc=0 dur=0s
+1792009492 OBS stuckU=0 mounted=1 fusenfs=1
+1792009492 READ rc=0 dur=0s
+1792009493 READ rc=0 dur=0s
+1792009493 OBS stuckU=0 mounted=1 fusenfs=1
+1792009494 READ rc=0 dur=0s
+1792009494 OBS stuckU=0 mounted=1 fusenfs=1
+1792009495 READ rc=0 dur=0s
+1792009495 OBS stuckU=0 mounted=1 fusenfs=1
+1792009496 READ rc=0 dur=0s
+1792009496 OBS stuckU=0 mounted=1 fusenfs=1
+1792009497 READ rc=0 dur=0s
+1792009497 OBS stuckU=0 mounted=1 fusenfs=1
+1792009498 READ rc=0 dur=0s
+1792009499 OBS stuckU=0 mounted=1 fusenfs=1
+1792009499 READ rc=0 dur=0s
+1792009500 OBS stuckU=0 mounted=1 fusenfs=1
+1792009500 READ rc=0 dur=0s
+1792009501 OBS stuckU=0 mounted=1 fusenfs=1
+1792009501 READ rc=0 dur=0s
+1792009502 OBS stuckU=0 mounted=1 fusenfs=1
+1792009502 READ rc=0 dur=0s
+1792009503 OBS stuckU=0 mounted=1 fusenfs=1
+1792009503 READ rc=0 dur=0s
+1792009504 OBS stuckU=0 mounted=1 fusenfs=1
+1792009504 READ rc=0 dur=0s
+1792009505 OBS stuckU=0 mounted=1 fusenfs=1
+1792009506 READ rc=0 dur=0s
+1792009506 OBS stuckU=0 mounted=1 fusenfs=1
+1792009507 READ rc=0 dur=0s
+1792009507 OBS stuckU=0 mounted=1 fusenfs=1
+1792009508 READ rc=0 dur=0s
+1792009508 OBS stuckU=0 mounted=1 fusenfs=1
+1792009509 READ rc=0 dur=0s
+1792009510 READ rc=0 dur=0s
+1792009510 OBS stuckU=0 mounted=1 fusenfs=1
+1792009511 READ rc=0 dur=0s
+1792009511 OBS stuckU=0 mounted=1 fusenfs=1
+1792009512 READ rc=0 dur=0s
+1792009512 OBS stuckU=0 mounted=1 fusenfs=1
+1792009513 READ rc=0 dur=0s
+1792009513 OBS stuckU=0 mounted=1 fusenfs=1
+1792009514 READ rc=0 dur=0s
+1792009514 OBS stuckU=1 mounted=1 fusenfs=1
+1792009515 READ rc=0 dur=0s
+1792009515 OBS stuckU=0 mounted=1 fusenfs=1
+1792009516 READ rc=0 dur=0s
+1792009516 OBS stuckU=0 mounted=1 fusenfs=1
+1792009517 READ rc=0 dur=0s
+1792009517 OBS stuckU=0 mounted=1 fusenfs=1
+1792009518 READ rc=0 dur=0s
+1792009518 OBS stuckU=0 mounted=1 fusenfs=1
+1792009519 READ rc=0 dur=0s
+1792009519 OBS stuckU=0 mounted=1 fusenfs=1
+1792009520 READ rc=0 dur=0s
+1792009521 OBS stuckU=0 mounted=1 fusenfs=1
+1792009521 READ rc=0 dur=0s
+1792009522 OBS stuckU=0 mounted=1 fusenfs=1
+1792009522 READ rc=0 dur=0s
+1792009523 OBS stuckU=0 mounted=1 fusenfs=1
+1792009523 READ rc=0 dur=0s
+1792009524 OBS stuckU=0 mounted=1 fusenfs=1
+1792009524 READ rc=0 dur=0s
+1792009525 READ rc=0 dur=0s
+1792009525 OBS stuckU=0 mounted=1 fusenfs=1
+1792009526 READ rc=0 dur=0s
+1792009526 OBS stuckU=0 mounted=1 fusenfs=1
+1792009527 READ rc=0 dur=0s
+1792009527 OBS stuckU=0 mounted=1 fusenfs=1
+1792009528 READ rc=0 dur=0s
+1792009528 OBS stuckU=0 mounted=1 fusenfs=1
+1792009529 READ rc=0 dur=0s
+1792009529 OBS stuckU=0 mounted=1 fusenfs=1
+1792009530 READ rc=0 dur=0s
+1792009531 OBS stuckU=0 mounted=1 fusenfs=1
+1792009531 READ rc=0 dur=0s
+1792009532 OBS stuckU=0 mounted=1 fusenfs=1
+1792009532 READ rc=0 dur=0s
+1792009533 OBS stuckU=0 mounted=1 fusenfs=1
+1792009533 READ rc=0 dur=0s
+1792009534 OBS stuckU=0 mounted=1 fusenfs=1
+1792009534 READ rc=0 dur=0s
+1792009535 OBS stuckU=0 mounted=1 fusenfs=1
+1792009535 READ rc=0 dur=0s
+1792009536 OBS stuckU=0 mounted=1 fusenfs=1
+1792009536 READ rc=0 dur=0s
+1792009537 OBS stuckU=0 mounted=1 fusenfs=1
+1792009538 READ rc=0 dur=1s
+1792009538 OBS stuckU=0 mounted=1 fusenfs=1
+1792009539 READ rc=0 dur=0s
+1792009539 OBS stuckU=0 mounted=1 fusenfs=1
+1792009540 READ rc=0 dur=0s
+1792009541 READ rc=0 dur=0s
+1792009541 OBS stuckU=0 mounted=1 fusenfs=1
+1792009542 READ rc=0 dur=0s
+1792009542 OBS stuckU=0 mounted=1 fusenfs=1
+1792009543 READ rc=0 dur=0s
+1792009543 OBS stuckU=0 mounted=1 fusenfs=1
+1792009544 READ rc=0 dur=0s
+1792009544 OBS stuckU=0 mounted=1 fusenfs=1
+1792009545 READ rc=0 dur=0s
+1792009545 OBS stuckU=0 mounted=1 fusenfs=1
+1792009546 READ rc=0 dur=0s
+1792009546 OBS stuckU=0 mounted=1 fusenfs=1
+1792009547 READ rc=0 dur=0s
+1792009547 OBS stuckU=0 mounted=1 fusenfs=1
+1792009548 READ rc=0 dur=0s
+1792009548 OBS stuckU=0 mounted=1 fusenfs=1
+1792009549 READ rc=0 dur=0s
+1792009549 OBS stuckU=0 mounted=1 fusenfs=1
+1792009550 READ rc=0 dur=0s
+1792009551 OBS stuckU=0 mounted=1 fusenfs=1
+1792009551 READ rc=0 dur=0s
+1792009552 OBS stuckU=0 mounted=1 fusenfs=1
+1792009552 READ rc=0 dur=0s
+1792009553 OBS stuckU=0 mounted=1 fusenfs=1
+1792009553 READ rc=0 dur=0s
+1792009554 OBS stuckU=0 mounted=1 fusenfs=1
+1792009554 READ rc=0 dur=0s
+1792009555 OBS stuckU=0 mounted=1 fusenfs=1
+1792009555 READ rc=0 dur=0s
+1792009556 READ rc=0 dur=0s
+1792009556 OBS stuckU=0 mounted=1 fusenfs=1
+1792009557 READ rc=0 dur=0s
+1792009557 OBS stuckU=0 mounted=1 fusenfs=1
+1792009558 READ rc=0 dur=0s
+1792009558 OBS stuckU=0 mounted=1 fusenfs=1
+1792009559 READ rc=0 dur=0s
+1792009559 OBS stuckU=0 mounted=1 fusenfs=1
+1792009560 READ rc=0 dur=0s
+1792009561 OBS stuckU=0 mounted=1 fusenfs=1
+1792009561 READ rc=0 dur=0s
+1792009562 OBS stuckU=0 mounted=1 fusenfs=1
+1792009562 READ rc=0 dur=0s
+1792009563 OBS stuckU=0 mounted=1 fusenfs=1
+1792009563 READ rc=0 dur=0s
+1792009564 OBS stuckU=0 mounted=1 fusenfs=1
+1792009564 READ rc=0 dur=0s
+1792009565 OBS stuckU=0 mounted=1 fusenfs=1
+1792009565 READ rc=0 dur=0s
+1792009566 OBS stuckU=0 mounted=1 fusenfs=1
+1792009566 READ rc=0 dur=0s
+1792009567 OBS stuckU=0 mounted=1 fusenfs=1
+1792009567 READ rc=0 dur=0s
+1792009568 OBS stuckU=0 mounted=1 fusenfs=1
+1792009569 READ rc=0 dur=1s
+1792009569 OBS stuckU=0 mounted=1 fusenfs=1
+1792009570 READ rc=0 dur=0s
+1792009571 READ rc=0 dur=0s
+1792009571 OBS stuckU=0 mounted=1 fusenfs=1
+1792009572 READ rc=0 dur=0s
+1792009572 OBS stuckU=0 mounted=1 fusenfs=1
+1792009573 READ rc=0 dur=0s
+1792009573 OBS stuckU=0 mounted=1 fusenfs=1
+1792009574 READ rc=0 dur=0s
+1792009574 OBS stuckU=0 mounted=1 fusenfs=1
+1792009575 READ rc=0 dur=0s
+1792009575 OBS stuckU=0 mounted=1 fusenfs=1
+1792009576 READ rc=0 dur=0s
+1792009576 OBS stuckU=0 mounted=1 fusenfs=1
+1792009577 READ rc=0 dur=0s
+1792009577 OBS stuckU=0 mounted=1 fusenfs=1
+1792009578 READ rc=0 dur=0s
+1792009578 OBS stuckU=0 mounted=1 fusenfs=1
+1792009579 READ rc=0 dur=0s
+1792009579 OBS stuckU=0 mounted=1 fusenfs=1
+1792009580 READ rc=0 dur=0s
+1792009581 OBS stuckU=0 mounted=1 fusenfs=1
+1792009581 READ rc=0 dur=0s
+1792009582 OBS stuckU=0 mounted=1 fusenfs=1
+1792009582 READ rc=0 dur=0s
+1792009583 OBS stuckU=0 mounted=1 fusenfs=1
+1792009583 READ rc=0 dur=0s
+1792009584 OBS stuckU=0 mounted=1 fusenfs=1
+1792009584 READ rc=0 dur=0s
+1792009585 READ rc=0 dur=0s
+1792009585 OBS stuckU=0 mounted=1 fusenfs=1
+1792009586 READ rc=0 dur=0s
+1792009586 OBS stuckU=0 mounted=1 fusenfs=1
+1792009587 READ rc=0 dur=0s
+1792009587 OBS stuckU=0 mounted=1 fusenfs=1
+1792009588 READ rc=0 dur=0s
+1792009588 OBS stuckU=0 mounted=1 fusenfs=1
+1792009589 READ rc=0 dur=0s
+1792009589 OBS stuckU=0 mounted=1 fusenfs=1
+1792009590 READ rc=0 dur=0s
+1792009591 OBS stuckU=0 mounted=1 fusenfs=1
+1792009591 READ rc=0 dur=0s
+1792009592 OBS stuckU=0 mounted=1 fusenfs=1
+1792009592 READ rc=0 dur=0s
+1792009593 OBS stuckU=0 mounted=1 fusenfs=1
+1792009593 READ rc=0 dur=0s
+1792009594 OBS stuckU=0 mounted=1 fusenfs=1
+1792009594 READ rc=0 dur=0s
+1792009595 OBS stuckU=0 mounted=1 fusenfs=1
+1792009595 READ rc=0 dur=0s
+1792009596 OBS stuckU=0 mounted=1 fusenfs=1
+1792009596 READ rc=0 dur=0s
+1792009597 OBS stuckU=0 mounted=1 fusenfs=1
+1792009597 READ rc=0 dur=0s
+1792009598 OBS stuckU=0 mounted=1 fusenfs=1
+1792009598 READ rc=0 dur=0s
+1792009599 OBS stuckU=0 mounted=1 fusenfs=1
+1792009600 READ rc=0 dur=0s
+1792009601 READ rc=0 dur=0s
+1792009601 OBS stuckU=0 mounted=1 fusenfs=1
+1792009602 READ rc=0 dur=0s
+1792009602 OBS stuckU=0 mounted=1 fusenfs=1
+1792009603 READ rc=0 dur=0s
+1792009603 OBS stuckU=0 mounted=1 fusenfs=1
+1792009604 READ rc=0 dur=0s
+1792009604 OBS stuckU=0 mounted=1 fusenfs=1
+1792009605 READ rc=0 dur=0s
+1792009605 OBS stuckU=0 mounted=1 fusenfs=1
+1792009606 READ rc=0 dur=0s
+1792009606 OBS stuckU=0 mounted=1 fusenfs=1
+1792009607 READ rc=0 dur=0s
+1792009607 OBS stuckU=0 mounted=1 fusenfs=1
+1792009608 READ rc=0 dur=0s
+1792009608 OBS stuckU=0 mounted=1 fusenfs=1
+1792009609 READ rc=0 dur=0s
+1792009609 OBS stuckU=0 mounted=1 fusenfs=1
+1792009610 READ rc=0 dur=0s
+1792009611 OBS stuckU=0 mounted=1 fusenfs=1
+1792009611 READ rc=0 dur=0s
+1792009612 OBS stuckU=0 mounted=1 fusenfs=1
+1792009612 READ rc=0 dur=0s
+1792009613 OBS stuckU=0 mounted=1 fusenfs=1
+1792009613 READ rc=0 dur=0s
+1792009614 OBS stuckU=0 mounted=1 fusenfs=1
+1792009614 READ rc=0 dur=0s
+1792009615 READ rc=0 dur=0s
+1792009615 OBS stuckU=0 mounted=1 fusenfs=1
+1792009616 READ rc=0 dur=0s
+1792009616 OBS stuckU=0 mounted=1 fusenfs=1
+1792009617 READ rc=0 dur=0s
+1792009617 OBS stuckU=0 mounted=1 fusenfs=1
+1792009618 READ rc=0 dur=0s
+1792009618 OBS stuckU=0 mounted=1 fusenfs=1
+1792009619 READ rc=0 dur=0s
+1792009619 OBS stuckU=0 mounted=1 fusenfs=1
+1792009620 READ rc=0 dur=0s
+1792009621 OBS stuckU=0 mounted=1 fusenfs=1
+1792009621 READ rc=0 dur=0s
+1792009622 OBS stuckU=0 mounted=1 fusenfs=1
+1792009622 READ rc=0 dur=0s
+1792009623 OBS stuckU=0 mounted=1 fusenfs=1
+1792009623 READ rc=0 dur=0s
+1792009624 OBS stuckU=0 mounted=1 fusenfs=1
+1792009624 READ rc=0 dur=0s
+1792009625 OBS stuckU=0 mounted=1 fusenfs=1
+1792009625 READ rc=0 dur=0s
+1792009626 OBS stuckU=0 mounted=1 fusenfs=1
+1792009626 READ rc=0 dur=0s
+1792009627 OBS stuckU=0 mounted=1 fusenfs=1
+1792009627 READ rc=0 dur=0s
+1792009628 OBS stuckU=0 mounted=1 fusenfs=1
+1792009629 READ rc=0 dur=0s
+1792009629 OBS stuckU=0 mounted=1 fusenfs=1
+1792009630 READ rc=0 dur=0s
+1792009631 READ rc=0 dur=0s
+1792009631 OBS stuckU=0 mounted=1 fusenfs=1
+1792009632 READ rc=0 dur=0s
+1792009632 OBS stuckU=0 mounted=1 fusenfs=1
+1792009633 READ rc=0 dur=0s
+1792009633 OBS stuckU=0 mounted=1 fusenfs=1
+1792009634 READ rc=0 dur=0s
+1792009634 OBS stuckU=0 mounted=1 fusenfs=1
+1792009635 READ rc=0 dur=0s
+1792009635 OBS stuckU=0 mounted=1 fusenfs=1
+1792009636 READ rc=0 dur=0s
+1792009636 OBS stuckU=0 mounted=1 fusenfs=1
+1792009637 READ rc=0 dur=0s
+1792009637 OBS stuckU=0 mounted=1 fusenfs=1
+1792009638 READ rc=0 dur=0s
+1792009638 OBS stuckU=0 mounted=1 fusenfs=1
+1792009639 READ rc=0 dur=0s
+1792009639 OBS stuckU=0 mounted=1 fusenfs=1
+1792009640 READ rc=0 dur=0s
+1792009640 OBS stuckU=0 mounted=1 fusenfs=1
+1792009641 READ rc=0 dur=0s
+1792009642 OBS stuckU=0 mounted=1 fusenfs=1
+1792009642 READ rc=0 dur=0s
+1792009643 OBS stuckU=0 mounted=1 fusenfs=1
+1792009643 READ rc=0 dur=0s
+1792009644 OBS stuckU=0 mounted=1 fusenfs=1
+1792009644 READ rc=0 dur=0s
+1792009645 READ rc=0 dur=0s
+1792009645 OBS stuckU=0 mounted=1 fusenfs=1
+1792009646 READ rc=0 dur=0s
+1792009646 OBS stuckU=0 mounted=1 fusenfs=1
+1792009647 READ rc=0 dur=0s
+1792009647 OBS stuckU=0 mounted=1 fusenfs=1
+1792009648 READ rc=0 dur=0s
+1792009648 OBS stuckU=0 mounted=1 fusenfs=1
+1792009649 READ rc=0 dur=0s
+1792009649 OBS stuckU=0 mounted=1 fusenfs=1
+1792009650 READ rc=0 dur=0s
+1792009650 OBS stuckU=0 mounted=1 fusenfs=1
+1792009651 READ rc=0 dur=0s
+1792009652 OBS stuckU=0 mounted=1 fusenfs=1
+1792009652 READ rc=0 dur=0s
+1792009653 OBS stuckU=0 mounted=1 fusenfs=1
+1792009653 READ rc=0 dur=0s
+1792009654 OBS stuckU=0 mounted=1 fusenfs=1
+1792009654 READ rc=0 dur=0s
+1792009655 OBS stuckU=0 mounted=1 fusenfs=1
+1792009655 READ rc=0 dur=0s
+1792009656 OBS stuckU=0 mounted=1 fusenfs=1
+1792009656 READ rc=0 dur=0s
+1792009657 OBS stuckU=0 mounted=1 fusenfs=1
+1792009657 READ rc=0 dur=0s
+1792009658 OBS stuckU=0 mounted=1 fusenfs=1
+1792009658 READ rc=0 dur=0s
+1792009659 OBS stuckU=0 mounted=1 fusenfs=1
+1792009660 READ rc=0 dur=0s
+1792009661 READ rc=0 dur=0s
+1792009661 OBS stuckU=0 mounted=1 fusenfs=1
+1792009662 READ rc=0 dur=0s
+1792009662 OBS stuckU=0 mounted=1 fusenfs=1
+1792009663 READ rc=0 dur=0s
+1792009663 OBS stuckU=0 mounted=1 fusenfs=1
+1792009664 READ rc=0 dur=0s
+1792009664 OBS stuckU=0 mounted=1 fusenfs=1
+1792009665 READ rc=0 dur=0s
+1792009665 OBS stuckU=0 mounted=1 fusenfs=1
+1792009666 READ rc=0 dur=0s
+1792009666 OBS stuckU=0 mounted=1 fusenfs=1
+1792009667 READ rc=0 dur=0s
+1792009667 OBS stuckU=0 mounted=1 fusenfs=1
+1792009668 READ rc=0 dur=0s
+1792009668 OBS stuckU=0 mounted=1 fusenfs=1
+1792009669 READ rc=0 dur=0s
+1792009669 OBS stuckU=0 mounted=1 fusenfs=1
+1792009670 READ rc=0 dur=0s
+1792009670 OBS stuckU=0 mounted=1 fusenfs=1
+1792009671 READ rc=0 dur=0s
+1792009672 OBS stuckU=0 mounted=1 fusenfs=1
+1792009672 READ rc=0 dur=0s
+1792009673 OBS stuckU=0 mounted=1 fusenfs=1
+1792009673 READ rc=0 dur=0s
+1792009674 OBS stuckU=0 mounted=1 fusenfs=1
+1792009674 READ rc=0 dur=0s
+1792009675 READ rc=0 dur=0s
+1792009675 OBS stuckU=0 mounted=1 fusenfs=1
+1792009676 READ rc=0 dur=0s
+1792009676 OBS stuckU=0 mounted=1 fusenfs=1
+1792009677 READ rc=0 dur=0s
+1792009677 OBS stuckU=0 mounted=1 fusenfs=1
+1792009678 READ rc=0 dur=0s
+1792009678 OBS stuckU=0 mounted=1 fusenfs=1
+1792009679 READ rc=0 dur=0s
+1792009679 OBS stuckU=0 mounted=1 fusenfs=1
+1792009680 READ rc=0 dur=0s
+1792009680 OBS stuckU=0 mounted=1 fusenfs=1
+1792009681 READ rc=0 dur=0s
+1792009682 OBS stuckU=0 mounted=1 fusenfs=1
+1792009682 READ rc=0 dur=0s
+1792009683 OBS stuckU=0 mounted=1 fusenfs=1
+1792009683 READ rc=0 dur=0s
+1792009684 OBS stuckU=0 mounted=1 fusenfs=1
+1792009684 READ rc=0 dur=0s
+1792009685 OBS stuckU=0 mounted=1 fusenfs=1
+1792009685 READ rc=0 dur=0s
+1792009686 OBS stuckU=0 mounted=1 fusenfs=1
+1792009686 READ rc=0 dur=0s
+1792009687 OBS stuckU=0 mounted=1 fusenfs=1
+1792009687 READ rc=0 dur=0s
+1792009688 OBS stuckU=0 mounted=1 fusenfs=1
+1792009688 READ rc=0 dur=0s
+1792009689 OBS stuckU=0 mounted=1 fusenfs=1
+1792009689 READ rc=0 dur=0s
+1792009691 READ rc=0 dur=1s
+1792009690 OBS stuckU=0 mounted=1 fusenfs=1
+1792009692 READ rc=0 dur=0s
+1792009692 OBS stuckU=0 mounted=1 fusenfs=1
+1792009693 READ rc=0 dur=0s
+1792009693 OBS stuckU=0 mounted=1 fusenfs=1
+1792009694 READ rc=0 dur=0s
+1792009694 OBS stuckU=0 mounted=1 fusenfs=1
+1792009695 READ rc=0 dur=0s
+1792009695 OBS stuckU=0 mounted=1 fusenfs=1
+1792009696 READ rc=0 dur=0s
+1792009696 OBS stuckU=0 mounted=1 fusenfs=1
+1792009697 READ rc=0 dur=0s
+1792009697 OBS stuckU=0 mounted=1 fusenfs=1
+1792009698 READ rc=0 dur=0s
+1792009698 OBS stuckU=0 mounted=1 fusenfs=1
+1792009699 READ rc=0 dur=0s
+1792009699 OBS stuckU=0 mounted=1 fusenfs=1
+1792009700 READ rc=0 dur=0s
+1792009700 OBS stuckU=0 mounted=1 fusenfs=1
+1792009701 READ rc=0 dur=0s
+1792009702 OBS stuckU=0 mounted=1 fusenfs=1
+1792009702 READ rc=0 dur=0s
+1792009703 OBS stuckU=0 mounted=1 fusenfs=1
+1792009703 READ rc=0 dur=0s
+1792009704 OBS stuckU=0 mounted=1 fusenfs=1
+1792009704 READ rc=0 dur=0s
+1792009705 READ rc=0 dur=0s
+1792009705 OBS stuckU=0 mounted=1 fusenfs=1
+1792009706 READ rc=0 dur=0s
+1792009706 OBS stuckU=0 mounted=1 fusenfs=1
+1792009707 READ rc=0 dur=0s
+1792009707 OBS stuckU=0 mounted=1 fusenfs=1
+1792009708 READ rc=0 dur=0s
+1792009708 OBS stuckU=0 mounted=1 fusenfs=1
+1792009709 READ rc=0 dur=0s
+1792009709 OBS stuckU=0 mounted=1 fusenfs=1
+1792009710 READ rc=0 dur=0s
+1792009710 OBS stuckU=0 mounted=1 fusenfs=1
+1792009711 READ rc=0 dur=0s
+1792009712 OBS stuckU=0 mounted=1 fusenfs=1
+1792009712 READ rc=0 dur=0s
+1792009713 OBS stuckU=0 mounted=1 fusenfs=1
+1792009713 READ rc=0 dur=0s
+1792009714 OBS stuckU=0 mounted=1 fusenfs=1
+1792009714 READ rc=0 dur=0s
+1792009715 OBS stuckU=0 mounted=1 fusenfs=1
+1792009715 READ rc=0 dur=0s
+1792009716 OBS stuckU=0 mounted=1 fusenfs=1
+1792009716 READ rc=0 dur=0s
+1792009717 OBS stuckU=0 mounted=1 fusenfs=1
+1792009717 READ rc=0 dur=0s
+1792009718 OBS stuckU=0 mounted=1 fusenfs=1
+1792009718 READ rc=0 dur=0s
+1792009719 OBS stuckU=0 mounted=1 fusenfs=1
+1792009719 READ rc=0 dur=0s
+1792009720 READ rc=0 dur=0s
+1792009720 OBS stuckU=0 mounted=1 fusenfs=1
+1792009722 READ rc=0 dur=0s
+1792009722 OBS stuckU=0 mounted=1 fusenfs=1
+1792009723 READ rc=0 dur=0s
+1792009723 OBS stuckU=0 mounted=1 fusenfs=1
+1792009724 READ rc=0 dur=0s
+1792009724 OBS stuckU=0 mounted=1 fusenfs=1
+1792009725 READ rc=0 dur=0s
+1792009725 OBS stuckU=0 mounted=1 fusenfs=1
+1792009726 READ rc=0 dur=0s
+1792009726 OBS stuckU=0 mounted=1 fusenfs=1
+1792009727 READ rc=0 dur=0s
+1792009727 OBS stuckU=0 mounted=1 fusenfs=1
+1792009728 READ rc=0 dur=0s
+1792009728 OBS stuckU=0 mounted=1 fusenfs=1
+1792009729 READ rc=0 dur=0s
+1792009729 OBS stuckU=0 mounted=1 fusenfs=1
+1792009730 READ rc=0 dur=0s
+1792009730 OBS stuckU=0 mounted=1 fusenfs=1
+1792009731 READ rc=0 dur=0s
+1792009732 OBS stuckU=0 mounted=1 fusenfs=1
+1792009732 READ rc=0 dur=0s
+1792009733 OBS stuckU=0 mounted=1 fusenfs=1
+1792009733 READ rc=0 dur=0s
+1792009734 OBS stuckU=0 mounted=1 fusenfs=1
+1792009734 READ rc=0 dur=0s
+1792009735 READ rc=0 dur=0s
+1792009735 OBS stuckU=0 mounted=1 fusenfs=1
+1792009736 READ rc=0 dur=0s
+1792009736 OBS stuckU=0 mounted=1 fusenfs=1
+1792009737 READ rc=0 dur=0s
+1792009737 OBS stuckU=0 mounted=1 fusenfs=1
+1792009738 READ rc=0 dur=0s
+1792009738 OBS stuckU=0 mounted=1 fusenfs=1
+1792009739 READ rc=0 dur=0s
+1792009739 OBS stuckU=0 mounted=1 fusenfs=1
+1792009740 READ rc=0 dur=0s
+1792009740 OBS stuckU=0 mounted=1 fusenfs=1
+1792009741 READ rc=0 dur=0s
+1792009742 OBS stuckU=0 mounted=1 fusenfs=1
+1792009742 READ rc=0 dur=0s
+1792009743 OBS stuckU=0 mounted=1 fusenfs=1
+1792009743 READ rc=0 dur=0s
+1792009744 OBS stuckU=0 mounted=1 fusenfs=1
+1792009744 READ rc=0 dur=0s
+1792009745 OBS stuckU=0 mounted=1 fusenfs=1
+1792009745 READ rc=0 dur=0s
+1792009746 OBS stuckU=0 mounted=1 fusenfs=1
+1792009746 READ rc=0 dur=0s
+1792009747 OBS stuckU=0 mounted=1 fusenfs=1
+1792009747 READ rc=0 dur=0s
+1792009748 OBS stuckU=0 mounted=1 fusenfs=1
+1792009748 READ rc=0 dur=0s
+1792009749 OBS stuckU=0 mounted=1 fusenfs=1
+1792009749 READ rc=0 dur=0s
+1792009750 READ rc=0 dur=0s
+1792009750 OBS stuckU=0 mounted=1 fusenfs=1
+1792009752 READ rc=0 dur=1s
+1792009752 OBS stuckU=0 mounted=1 fusenfs=1
+1792009753 READ rc=0 dur=0s
+1792009753 OBS stuckU=0 mounted=1 fusenfs=1
+1792009754 READ rc=0 dur=0s
+1792009754 OBS stuckU=0 mounted=1 fusenfs=1
+1792009755 READ rc=0 dur=0s
+1792009755 OBS stuckU=0 mounted=1 fusenfs=1
+1792009756 READ rc=0 dur=0s
+1792009756 OBS stuckU=0 mounted=1 fusenfs=1
+1792009757 READ rc=0 dur=0s
+1792009757 OBS stuckU=0 mounted=1 fusenfs=1
+1792009758 READ rc=0 dur=0s
+1792009758 OBS stuckU=0 mounted=1 fusenfs=1
+1792009759 READ rc=0 dur=0s
+1792009759 OBS stuckU=0 mounted=1 fusenfs=1
+1792009760 READ rc=0 dur=0s
+1792009760 OBS stuckU=0 mounted=1 fusenfs=1
+1792009761 READ rc=0 dur=0s
+1792009762 OBS stuckU=0 mounted=1 fusenfs=1
+1792009762 READ rc=0 dur=0s
+1792009763 OBS stuckU=0 mounted=1 fusenfs=1
+1792009763 READ rc=0 dur=0s
+1792009764 OBS stuckU=0 mounted=1 fusenfs=1
+1792009764 READ rc=0 dur=0s
+1792009765 READ rc=0 dur=0s
+1792009765 OBS stuckU=0 mounted=1 fusenfs=1
+1792009766 READ rc=0 dur=0s
+1792009766 OBS stuckU=0 mounted=1 fusenfs=1
+1792009767 READ rc=0 dur=0s
+1792009767 OBS stuckU=0 mounted=1 fusenfs=1
+1792009768 READ rc=0 dur=0s
+1792009768 OBS stuckU=0 mounted=1 fusenfs=1
+1792009769 READ rc=0 dur=0s
+1792009769 OBS stuckU=0 mounted=1 fusenfs=1
+1792009770 READ rc=0 dur=0s
+1792009770 OBS stuckU=0 mounted=1 fusenfs=1
+1792009771 READ rc=0 dur=0s
+1792009772 OBS stuckU=0 mounted=1 fusenfs=1
+1792009772 READ rc=0 dur=0s
+1792009773 OBS stuckU=0 mounted=1 fusenfs=1
+1792009773 READ rc=0 dur=0s
+1792009774 OBS stuckU=0 mounted=1 fusenfs=1
+1792009774 READ rc=0 dur=0s
+1792009775 OBS stuckU=0 mounted=1 fusenfs=1
+1792009775 READ rc=0 dur=0s
+1792009776 OBS stuckU=0 mounted=1 fusenfs=1
+1792009776 READ rc=0 dur=0s
+1792009777 OBS stuckU=0 mounted=1 fusenfs=1
+1792009777 READ rc=0 dur=0s
+1792009778 OBS stuckU=0 mounted=1 fusenfs=1
+1792009778 READ rc=0 dur=0s
+1792009779 READ rc=0 dur=0s
+1792009779 OBS stuckU=0 mounted=1 fusenfs=1
+1792009780 READ rc=0 dur=0s
+1792009780 OBS stuckU=0 mounted=1 fusenfs=1
+1792009781 READ rc=0 dur=0s
+1792009782 OBS stuckU=0 mounted=1 fusenfs=1
+1792009783 READ rc=0 dur=0s
+1792009783 OBS stuckU=0 mounted=1 fusenfs=1
+1792009784 READ rc=0 dur=0s
+1792009784 OBS stuckU=0 mounted=1 fusenfs=1
+1792009785 READ rc=0 dur=0s
+1792009785 OBS stuckU=0 mounted=1 fusenfs=1
+1792009786 READ rc=0 dur=0s
+1792009786 OBS stuckU=0 mounted=1 fusenfs=1
+1792009787 READ rc=0 dur=0s
+1792009787 OBS stuckU=0 mounted=1 fusenfs=1
+1792009788 READ rc=0 dur=0s
+1792009788 OBS stuckU=0 mounted=1 fusenfs=1
+1792009789 READ rc=0 dur=0s
+1792009789 OBS stuckU=0 mounted=1 fusenfs=1
+1792009790 READ rc=0 dur=0s
+1792009790 OBS stuckU=0 mounted=1 fusenfs=1
+1792009791 READ rc=0 dur=0s
+1792009792 OBS stuckU=0 mounted=1 fusenfs=1
+1792009792 READ rc=0 dur=0s
+1792009793 OBS stuckU=0 mounted=1 fusenfs=1
+1792009793 READ rc=0 dur=0s
+1792009794 OBS stuckU=0 mounted=1 fusenfs=1
+1792009794 READ rc=0 dur=0s
+1792009795 READ rc=0 dur=0s
+1792009795 OBS stuckU=0 mounted=1 fusenfs=1
+1792009796 READ rc=0 dur=0s
+1792009796 OBS stuckU=0 mounted=1 fusenfs=1
+1792009797 READ rc=0 dur=0s
+1792009797 OBS stuckU=0 mounted=1 fusenfs=1
+1792009798 READ rc=0 dur=0s
+1792009798 OBS stuckU=0 mounted=1 fusenfs=1
+1792009799 READ rc=0 dur=0s
+1792009799 OBS stuckU=0 mounted=1 fusenfs=1
+1792009800 READ rc=0 dur=0s
+1792009800 OBS stuckU=0 mounted=1 fusenfs=1
+1792009801 READ rc=0 dur=0s
+1792009802 OBS stuckU=0 mounted=1 fusenfs=1
+1792009802 READ rc=0 dur=0s
+1792009803 OBS stuckU=0 mounted=1 fusenfs=1
+1792009803 READ rc=0 dur=0s
+1792009804 OBS stuckU=0 mounted=1 fusenfs=1
+1792009804 READ rc=0 dur=0s
+1792009805 OBS stuckU=0 mounted=1 fusenfs=1
+1792009805 READ rc=0 dur=0s
+1792009806 OBS stuckU=0 mounted=1 fusenfs=1
+1792009806 READ rc=0 dur=0s
+1792009807 OBS stuckU=0 mounted=1 fusenfs=1
+1792009807 READ rc=0 dur=0s
+1792009808 OBS stuckU=0 mounted=1 fusenfs=1
+1792009808 READ rc=0 dur=0s
+1792009809 OBS stuckU=0 mounted=1 fusenfs=1
+1792009809 READ rc=0 dur=0s
+1792009810 READ rc=0 dur=0s
+1792009810 OBS stuckU=0 mounted=1 fusenfs=1
+1792009811 READ rc=0 dur=0s
+1792009811 OBS stuckU=0 mounted=1 fusenfs=1
+1792009813 READ rc=0 dur=1s
+1792009813 OBS stuckU=0 mounted=1 fusenfs=1
+1792009814 READ rc=0 dur=0s
+1792009814 OBS stuckU=0 mounted=1 fusenfs=1
+1792009815 READ rc=0 dur=0s
+1792009815 OBS stuckU=0 mounted=1 fusenfs=1
+1792009816 READ rc=0 dur=0s
+1792009816 OBS stuckU=0 mounted=1 fusenfs=1
+1792009817 READ rc=0 dur=0s
+1792009817 OBS stuckU=0 mounted=1 fusenfs=1
+1792009818 READ rc=0 dur=0s
+1792009818 OBS stuckU=0 mounted=1 fusenfs=1
+1792009819 READ rc=0 dur=0s
+1792009819 OBS stuckU=0 mounted=1 fusenfs=1
+1792009820 READ rc=0 dur=0s
+1792009820 OBS stuckU=0 mounted=1 fusenfs=1
+1792009821 READ rc=0 dur=0s
+1792009821 OBS stuckU=0 mounted=1 fusenfs=1
+1792009822 READ rc=0 dur=0s
+1792009823 OBS stuckU=0 mounted=1 fusenfs=1
+1792009823 READ rc=0 dur=0s
+1792009824 OBS stuckU=0 mounted=1 fusenfs=1
+1792009824 READ rc=0 dur=0s
+1792009825 READ rc=0 dur=0s
+1792009825 OBS stuckU=0 mounted=1 fusenfs=1
+1792009826 READ rc=0 dur=0s
+1792009826 OBS stuckU=0 mounted=1 fusenfs=1
+1792009827 READ rc=0 dur=0s
+1792009827 OBS stuckU=0 mounted=1 fusenfs=1
+1792009828 READ rc=0 dur=0s
+1792009828 OBS stuckU=0 mounted=1 fusenfs=1
+1792009829 READ rc=0 dur=0s
+1792009829 OBS stuckU=0 mounted=1 fusenfs=1
+1792009830 READ rc=0 dur=0s
+1792009830 OBS stuckU=0 mounted=1 fusenfs=1
+1792009831 READ rc=0 dur=0s
+1792009831 OBS stuckU=0 mounted=1 fusenfs=1
+1792009832 READ rc=0 dur=0s
+1792009833 OBS stuckU=0 mounted=1 fusenfs=1
+1792009833 READ rc=0 dur=0s
+1792009834 OBS stuckU=0 mounted=1 fusenfs=1
+1792009834 READ rc=0 dur=0s
+1792009835 OBS stuckU=0 mounted=1 fusenfs=1
+1792009835 READ rc=0 dur=0s
+1792009836 OBS stuckU=0 mounted=1 fusenfs=1
+1792009836 READ rc=0 dur=0s
+1792009837 OBS stuckU=0 mounted=1 fusenfs=1
+1792009837 READ rc=0 dur=0s
+1792009838 OBS stuckU=0 mounted=1 fusenfs=1
+1792009838 READ rc=0 dur=0s
+1792009839 OBS stuckU=0 mounted=1 fusenfs=1
+1792009839 READ rc=0 dur=0s
+1792009840 READ rc=0 dur=0s
+1792009840 OBS stuckU=0 mounted=1 fusenfs=1
+1792009841 READ rc=0 dur=0s
+1792009841 OBS stuckU=0 mounted=1 fusenfs=1
+1792009842 READ rc=0 dur=0s
+1792009843 OBS stuckU=0 mounted=1 fusenfs=1
+1792009844 READ rc=0 dur=0s
+1792009844 OBS stuckU=0 mounted=1 fusenfs=1
+1792009845 READ rc=0 dur=0s
+1792009845 OBS stuckU=0 mounted=1 fusenfs=1
+1792009846 READ rc=0 dur=0s
+1792009846 OBS stuckU=0 mounted=1 fusenfs=1
+1792009847 READ rc=0 dur=0s
+1792009847 OBS stuckU=0 mounted=1 fusenfs=1
+1792009848 READ rc=0 dur=0s
+1792009848 OBS stuckU=0 mounted=1 fusenfs=1
+1792009849 READ rc=0 dur=0s
+1792009849 OBS stuckU=0 mounted=1 fusenfs=1
+1792009850 READ rc=0 dur=0s
+1792009850 OBS stuckU=0 mounted=1 fusenfs=1
+1792009851 READ rc=0 dur=0s
+1792009851 OBS stuckU=0 mounted=1 fusenfs=1
+1792009852 READ rc=0 dur=0s
+1792009853 OBS stuckU=0 mounted=1 fusenfs=1
+1792009853 READ rc=0 dur=0s
+1792009854 OBS stuckU=0 mounted=1 fusenfs=1
+1792009854 READ rc=0 dur=0s
+1792009855 OBS stuckU=0 mounted=1 fusenfs=1
+1792009855 READ rc=0 dur=0s
+1792009856 READ rc=0 dur=0s
+1792009856 OBS stuckU=0 mounted=1 fusenfs=1
+1792009857 READ rc=0 dur=0s
+1792009857 OBS stuckU=0 mounted=1 fusenfs=1
+1792009858 READ rc=0 dur=0s
+1792009858 OBS stuckU=0 mounted=1 fusenfs=1
+1792009859 READ rc=0 dur=0s
+1792009859 OBS stuckU=0 mounted=1 fusenfs=1
+1792009860 READ rc=0 dur=0s
+1792009860 OBS stuckU=0 mounted=1 fusenfs=1
+1792009861 READ rc=0 dur=0s
+1792009861 OBS stuckU=0 mounted=1 fusenfs=1
+1792009862 READ rc=0 dur=0s
+1792009863 OBS stuckU=0 mounted=1 fusenfs=1
+1792009863 READ rc=0 dur=0s
+1792009864 OBS stuckU=0 mounted=1 fusenfs=1
+1792009864 READ rc=0 dur=0s
+1792009865 OBS stuckU=0 mounted=1 fusenfs=1
+1792009865 READ rc=0 dur=0s
+1792009866 OBS stuckU=0 mounted=1 fusenfs=1
+1792009866 READ rc=0 dur=0s
+1792009867 OBS stuckU=0 mounted=1 fusenfs=1
+1792009867 READ rc=0 dur=0s
+1792009868 OBS stuckU=0 mounted=1 fusenfs=1
+1792009868 READ rc=0 dur=0s
+1792009869 OBS stuckU=0 mounted=1 fusenfs=1
+1792009869 READ rc=0 dur=0s
+1792009870 READ rc=0 dur=0s
+1792009870 OBS stuckU=0 mounted=1 fusenfs=1
+1792009871 READ rc=0 dur=0s
+1792009871 OBS stuckU=0 mounted=1 fusenfs=1
+1792009872 READ rc=0 dur=0s
+1792009873 OBS stuckU=0 mounted=1 fusenfs=1
+1792009873 READ rc=0 dur=0s
+1792009874 OBS stuckU=0 mounted=1 fusenfs=1
+1792009875 READ rc=0 dur=1s
+1792009875 OBS stuckU=0 mounted=1 fusenfs=1
+1792009876 READ rc=0 dur=0s
+1792009876 OBS stuckU=0 mounted=1 fusenfs=1
+1792009877 READ rc=0 dur=0s
+1792009877 OBS stuckU=0 mounted=1 fusenfs=1
+1792009878 READ rc=0 dur=0s
+1792009878 OBS stuckU=0 mounted=1 fusenfs=1
+1792009879 READ rc=0 dur=0s
+1792009879 OBS stuckU=0 mounted=1 fusenfs=1
+1792009880 READ rc=0 dur=0s
+1792009880 OBS stuckU=0 mounted=1 fusenfs=1
+1792009881 READ rc=0 dur=0s
+1792009881 OBS stuckU=0 mounted=1 fusenfs=1
+1792009882 READ rc=0 dur=0s
+1792009883 OBS stuckU=0 mounted=1 fusenfs=1
+1792009883 READ rc=0 dur=0s
+1792009884 OBS stuckU=0 mounted=1 fusenfs=1
+1792009884 READ rc=0 dur=0s
+1792009885 READ rc=0 dur=0s
+1792009885 OBS stuckU=0 mounted=1 fusenfs=1
+1792009886 READ rc=0 dur=0s
+1792009886 OBS stuckU=0 mounted=1 fusenfs=1
+1792009887 READ rc=0 dur=0s
+1792009887 OBS stuckU=0 mounted=1 fusenfs=1
+1792009888 READ rc=0 dur=0s
+1792009888 OBS stuckU=0 mounted=1 fusenfs=1
+1792009889 READ rc=0 dur=0s
+1792009889 OBS stuckU=0 mounted=1 fusenfs=1
+1792009890 READ rc=0 dur=0s
+1792009890 OBS stuckU=0 mounted=1 fusenfs=1
+1792009891 READ rc=0 dur=0s
+1792009891 OBS stuckU=0 mounted=1 fusenfs=1
+1792009892 READ rc=0 dur=0s
+1792009893 OBS stuckU=0 mounted=1 fusenfs=1
+1792009893 READ rc=0 dur=0s
+1792009894 OBS stuckU=0 mounted=1 fusenfs=1
+1792009894 READ rc=0 dur=0s
+1792009895 OBS stuckU=0 mounted=1 fusenfs=1
+1792009895 READ rc=0 dur=0s
+1792009896 OBS stuckU=0 mounted=1 fusenfs=1
+1792009896 READ rc=0 dur=0s
+1792009897 OBS stuckU=0 mounted=1 fusenfs=1
+1792009897 READ rc=0 dur=0s
+1792009898 OBS stuckU=0 mounted=1 fusenfs=1
+1792009898 READ rc=0 dur=0s
+1792009899 OBS stuckU=0 mounted=1 fusenfs=1
+1792009899 READ rc=0 dur=0s
+1792009900 READ rc=0 dur=0s
+1792009900 OBS stuckU=0 mounted=1 fusenfs=1
+1792009901 READ rc=0 dur=0s
+1792009901 OBS stuckU=0 mounted=1 fusenfs=1
+1792009902 READ rc=0 dur=0s
+1792009902 OBS stuckU=0 mounted=1 fusenfs=1
+1792009903 READ rc=0 dur=0s
+1792009904 OBS stuckU=0 mounted=1 fusenfs=1
+1792009904 READ rc=0 dur=0s
+1792009905 OBS stuckU=0 mounted=1 fusenfs=1
+1792009906 READ rc=0 dur=0s
+1792009906 OBS stuckU=0 mounted=1 fusenfs=1
+1792009907 READ rc=0 dur=0s
+1792009907 OBS stuckU=0 mounted=1 fusenfs=1
+1792009908 READ rc=0 dur=0s
+1792009908 OBS stuckU=0 mounted=1 fusenfs=1
+1792009909 READ rc=0 dur=0s
+1792009909 OBS stuckU=0 mounted=1 fusenfs=1
+1792009910 READ rc=0 dur=0s
+1792009910 OBS stuckU=0 mounted=1 fusenfs=1
+1792009911 READ rc=0 dur=0s
+1792009911 OBS stuckU=0 mounted=1 fusenfs=1
+1792009912 READ rc=0 dur=0s
+1792009913 OBS stuckU=0 mounted=1 fusenfs=1
+1792009913 READ rc=0 dur=0s
+1792009914 OBS stuckU=0 mounted=1 fusenfs=1
+1792009914 READ rc=0 dur=0s
+1792009915 OBS stuckU=0 mounted=1 fusenfs=1
+1792009915 READ rc=0 dur=0s
+1792009916 READ rc=0 dur=0s
+1792009916 OBS stuckU=0 mounted=1 fusenfs=1
+1792009917 READ rc=0 dur=0s
+1792009917 OBS stuckU=0 mounted=1 fusenfs=1
+1792009918 READ rc=0 dur=0s
+1792009918 OBS stuckU=0 mounted=1 fusenfs=1
+1792009919 READ rc=0 dur=0s
+1792009919 OBS stuckU=0 mounted=1 fusenfs=1
+1792009920 READ rc=0 dur=0s
+1792009920 OBS stuckU=0 mounted=1 fusenfs=1
+1792009921 READ rc=0 dur=0s
+1792009921 OBS stuckU=0 mounted=1 fusenfs=1
+1792009922 READ rc=0 dur=0s
+1792009922 OBS stuckU=0 mounted=1 fusenfs=1
+1792009923 READ rc=0 dur=0s
+1792009924 OBS stuckU=0 mounted=1 fusenfs=1
+1792009924 READ rc=0 dur=0s
+1792009925 OBS stuckU=0 mounted=1 fusenfs=1
+1792009925 READ rc=0 dur=0s
+1792009926 OBS stuckU=0 mounted=1 fusenfs=1
+1792009926 READ rc=0 dur=0s
+1792009927 OBS stuckU=0 mounted=1 fusenfs=1
+1792009927 READ rc=0 dur=0s
+1792009928 OBS stuckU=0 mounted=1 fusenfs=1
+1792009928 READ rc=0 dur=0s
+1792009929 OBS stuckU=0 mounted=1 fusenfs=1
+1792009929 READ rc=0 dur=0s
+1792009930 READ rc=0 dur=0s
+1792009930 OBS stuckU=0 mounted=1 fusenfs=1
+1792009931 READ rc=0 dur=0s
+1792009931 OBS stuckU=0 mounted=1 fusenfs=1
+1792009932 READ rc=0 dur=0s
+1792009932 OBS stuckU=0 mounted=1 fusenfs=1
+1792009933 READ rc=0 dur=0s
+1792009934 OBS stuckU=0 mounted=1 fusenfs=1
+1792009934 READ rc=0 dur=0s
+1792009935 OBS stuckU=0 mounted=1 fusenfs=1
+1792009936 READ rc=0 dur=1s
+1792009936 OBS stuckU=0 mounted=1 fusenfs=1
+1792009937 READ rc=0 dur=0s
+1792009937 OBS stuckU=0 mounted=1 fusenfs=1
+1792009938 READ rc=0 dur=0s
+1792009938 OBS stuckU=0 mounted=1 fusenfs=1
+1792009939 READ rc=0 dur=0s
+1792009939 OBS stuckU=0 mounted=1 fusenfs=1
+1792009940 READ rc=0 dur=0s
+1792009940 OBS stuckU=0 mounted=1 fusenfs=1
+1792009941 READ rc=0 dur=0s
+1792009941 OBS stuckU=0 mounted=1 fusenfs=1
+1792009942 READ rc=0 dur=0s
+1792009942 OBS stuckU=0 mounted=1 fusenfs=1
+1792009943 READ rc=0 dur=0s
+1792009944 OBS stuckU=0 mounted=1 fusenfs=1
+1792009944 READ rc=0 dur=0s
+1792009945 OBS stuckU=0 mounted=1 fusenfs=1
+1792009945 READ rc=0 dur=0s
+1792009946 READ rc=0 dur=0s
+1792009946 OBS stuckU=0 mounted=1 fusenfs=1
+1792009947 READ rc=0 dur=0s
+1792009947 OBS stuckU=0 mounted=1 fusenfs=1
+1792009948 READ rc=0 dur=0s
+1792009948 OBS stuckU=0 mounted=1 fusenfs=1
+1792009949 READ rc=0 dur=0s
+1792009949 OBS stuckU=0 mounted=1 fusenfs=1
+1792009950 READ rc=0 dur=0s
+1792009950 OBS stuckU=0 mounted=1 fusenfs=1
+1792009951 READ rc=0 dur=0s
+1792009951 OBS stuckU=0 mounted=1 fusenfs=1
+1792009952 READ rc=0 dur=0s
+1792009952 OBS stuckU=0 mounted=1 fusenfs=1
+1792009953 READ rc=0 dur=0s
+1792009954 OBS stuckU=0 mounted=1 fusenfs=1
+1792009954 READ rc=0 dur=0s
+1792009955 OBS stuckU=0 mounted=1 fusenfs=1
+1792009955 READ rc=0 dur=0s
+1792009956 OBS stuckU=0 mounted=1 fusenfs=1
+1792009956 READ rc=0 dur=0s
+1792009957 OBS stuckU=0 mounted=1 fusenfs=1
+1792009957 READ rc=0 dur=0s
+1792009958 OBS stuckU=0 mounted=1 fusenfs=1
+1792009958 READ rc=0 dur=0s
+1792009959 OBS stuckU=0 mounted=1 fusenfs=1
+1792009959 READ rc=0 dur=0s
+1792009960 READ rc=0 dur=0s
+1792009960 OBS stuckU=0 mounted=1 fusenfs=1
+1792009961 READ rc=0 dur=0s
+1792009961 OBS stuckU=0 mounted=1 fusenfs=1
+1792009962 READ rc=0 dur=0s
+1792009962 OBS stuckU=0 mounted=1 fusenfs=1
+1792009963 READ rc=0 dur=0s
+1792009964 OBS stuckU=0 mounted=1 fusenfs=1
+1792009964 READ rc=0 dur=0s
+1792009965 OBS stuckU=0 mounted=1 fusenfs=1
+1792009966 READ rc=0 dur=1s
+1792009966 OBS stuckU=0 mounted=1 fusenfs=1
+1792009967 READ rc=0 dur=0s
+1792009967 OBS stuckU=0 mounted=1 fusenfs=1
+1792009968 READ rc=0 dur=0s
+1792009968 OBS stuckU=0 mounted=1 fusenfs=1
+1792009969 READ rc=0 dur=0s
+1792009969 OBS stuckU=0 mounted=1 fusenfs=1
+1792009970 READ rc=0 dur=0s
+1792009970 OBS stuckU=0 mounted=1 fusenfs=1
+1792009971 READ rc=0 dur=0s
+1792009971 OBS stuckU=0 mounted=1 fusenfs=1
+1792009972 READ rc=0 dur=0s
+1792009972 OBS stuckU=0 mounted=1 fusenfs=1
+1792009973 READ rc=0 dur=0s
+1792009974 OBS stuckU=0 mounted=1 fusenfs=1
+1792009974 READ rc=0 dur=0s
+1792009975 OBS stuckU=0 mounted=1 fusenfs=1
+1792009975 READ rc=0 dur=0s
+1792009976 READ rc=0 dur=0s
+1792009976 OBS stuckU=0 mounted=1 fusenfs=1
+1792009977 READ rc=0 dur=0s
+1792009977 OBS stuckU=0 mounted=1 fusenfs=1
+1792009978 READ rc=0 dur=0s
+1792009978 OBS stuckU=0 mounted=1 fusenfs=1
+1792009979 READ rc=0 dur=0s
+1792009979 OBS stuckU=0 mounted=1 fusenfs=1
+1792009980 READ rc=0 dur=0s
+1792009980 OBS stuckU=0 mounted=1 fusenfs=1
+1792009981 READ rc=0 dur=0s
+1792009981 OBS stuckU=0 mounted=1 fusenfs=1
+1792009982 READ rc=0 dur=0s
+1792009982 OBS stuckU=0 mounted=1 fusenfs=1
+1792009983 READ rc=0 dur=0s
+1792009984 OBS stuckU=0 mounted=1 fusenfs=1
+1792009984 READ rc=0 dur=0s
+1792009985 OBS stuckU=0 mounted=1 fusenfs=1
+1792009985 READ rc=0 dur=0s
+1792009986 OBS stuckU=0 mounted=1 fusenfs=1
+1792009986 READ rc=0 dur=0s
+1792009987 OBS stuckU=0 mounted=1 fusenfs=1
+1792009987 READ rc=0 dur=0s
+1792009988 OBS stuckU=0 mounted=1 fusenfs=1
+1792009988 READ rc=0 dur=0s
+1792009989 OBS stuckU=0 mounted=1 fusenfs=1
+1792009989 READ rc=0 dur=0s
+1792009990 READ rc=0 dur=0s
+1792009990 OBS stuckU=0 mounted=1 fusenfs=1
+1792009991 READ rc=0 dur=0s
+1792009991 OBS stuckU=0 mounted=1 fusenfs=1
+1792009992 READ rc=0 dur=0s
+1792009992 OBS stuckU=0 mounted=1 fusenfs=1
+1792009993 READ rc=0 dur=0s
+1792009994 OBS stuckU=0 mounted=1 fusenfs=1
+1792009994 READ rc=0 dur=0s
+1792009995 OBS stuckU=0 mounted=1 fusenfs=1
+1792009995 READ rc=0 dur=0s
+1792009996 OBS stuckU=0 mounted=1 fusenfs=1
+1792009997 READ rc=0 dur=1s
+1792009997 OBS stuckU=0 mounted=1 fusenfs=1
+1792009998 READ rc=0 dur=0s
+1792009998 OBS stuckU=0 mounted=1 fusenfs=1
+1792009999 READ rc=0 dur=0s
+1792009999 OBS stuckU=0 mounted=1 fusenfs=1
+1792010000 READ rc=0 dur=0s
+1792010000 OBS stuckU=0 mounted=1 fusenfs=1
+1792010001 READ rc=0 dur=0s
+1792010001 OBS stuckU=0 mounted=1 fusenfs=1
+1792010002 READ rc=0 dur=0s
+1792010002 OBS stuckU=0 mounted=1 fusenfs=1
+1792010003 READ rc=0 dur=0s
+1792010004 OBS stuckU=0 mounted=1 fusenfs=1
+1792010004 READ rc=0 dur=0s
+1792010005 READ rc=0 dur=0s
+1792010005 OBS stuckU=0 mounted=1 fusenfs=1
+1792010006 READ rc=0 dur=0s
+1792010006 OBS stuckU=0 mounted=1 fusenfs=1
+1792010007 READ rc=0 dur=0s
+1792010007 OBS stuckU=0 mounted=1 fusenfs=1
+1792010008 READ rc=0 dur=0s
+1792010008 OBS stuckU=0 mounted=1 fusenfs=1
+1792010009 READ rc=0 dur=0s
+1792010009 OBS stuckU=0 mounted=1 fusenfs=1
+1792010010 READ rc=0 dur=0s
+1792010010 OBS stuckU=0 mounted=1 fusenfs=1
+1792010011 READ rc=0 dur=0s
+1792010011 OBS stuckU=0 mounted=1 fusenfs=1
+1792010012 READ rc=0 dur=0s
+1792010012 OBS stuckU=0 mounted=1 fusenfs=1
+1792010013 READ rc=0 dur=0s
+1792010014 OBS stuckU=0 mounted=1 fusenfs=1
+1792010014 READ rc=0 dur=0s
+1792010015 OBS stuckU=0 mounted=1 fusenfs=1
+1792010015 READ rc=0 dur=0s
+1792010016 OBS stuckU=0 mounted=1 fusenfs=1
+1792010016 READ rc=0 dur=0s
+1792010017 OBS stuckU=0 mounted=1 fusenfs=1
+1792010017 READ rc=0 dur=0s
+1792010018 OBS stuckU=0 mounted=1 fusenfs=1
+1792010018 READ rc=0 dur=0s
+1792010019 OBS stuckU=0 mounted=1 fusenfs=1
+1792010019 READ rc=0 dur=0s
+1792010020 READ rc=0 dur=0s
+1792010020 OBS stuckU=0 mounted=1 fusenfs=1
+1792010021 READ rc=0 dur=0s
+1792010021 OBS stuckU=0 mounted=1 fusenfs=1
+1792010022 READ rc=0 dur=0s
+1792010022 OBS stuckU=0 mounted=1 fusenfs=1
+1792010023 READ rc=0 dur=0s
+1792010024 OBS stuckU=0 mounted=1 fusenfs=1
+1792010024 READ rc=0 dur=0s
+1792010025 OBS stuckU=0 mounted=1 fusenfs=1
+1792010025 READ rc=0 dur=0s
+1792010026 OBS stuckU=0 mounted=1 fusenfs=1
+1792010026 READ rc=0 dur=0s
+1792010027 OBS stuckU=0 mounted=1 fusenfs=1
+1792010028 READ rc=0 dur=0s
+1792010028 OBS stuckU=0 mounted=1 fusenfs=1
+1792010029 READ rc=0 dur=0s
+1792010029 OBS stuckU=0 mounted=1 fusenfs=1
+1792010030 READ rc=0 dur=0s
+1792010030 OBS stuckU=0 mounted=1 fusenfs=1
+1792010031 READ rc=0 dur=0s
+1792010031 OBS stuckU=0 mounted=1 fusenfs=1
+1792010032 READ rc=0 dur=0s
+1792010032 OBS stuckU=0 mounted=1 fusenfs=1
+1792010033 READ rc=0 dur=0s
+1792010034 OBS stuckU=0 mounted=1 fusenfs=1
+1792010034 READ rc=0 dur=0s
+1792010035 OBS stuckU=0 mounted=1 fusenfs=1
+1792010035 READ rc=0 dur=0s
+1792010036 READ rc=0 dur=0s
+1792010036 OBS stuckU=0 mounted=1 fusenfs=1
+1792010037 READ rc=0 dur=0s
+1792010037 OBS stuckU=0 mounted=1 fusenfs=1
+1792010038 READ rc=0 dur=0s
+1792010038 OBS stuckU=0 mounted=1 fusenfs=1
+1792010039 READ rc=0 dur=0s
+1792010039 OBS stuckU=0 mounted=1 fusenfs=1
+1792010040 READ rc=0 dur=0s
+1792010040 OBS stuckU=0 mounted=1 fusenfs=1
+1792010041 READ rc=0 dur=0s
+1792010041 OBS stuckU=0 mounted=1 fusenfs=1
+1792010042 READ rc=0 dur=0s
+1792010042 OBS stuckU=0 mounted=1 fusenfs=1
+1792010043 READ rc=0 dur=0s
+1792010044 OBS stuckU=0 mounted=1 fusenfs=1
+1792010044 READ rc=0 dur=0s
+1792010045 OBS stuckU=0 mounted=1 fusenfs=1
+1792010045 READ rc=0 dur=0s
+1792010046 OBS stuckU=0 mounted=1 fusenfs=1
+1792010046 READ rc=0 dur=0s
+1792010047 OBS stuckU=0 mounted=1 fusenfs=1
+1792010047 READ rc=0 dur=0s
+1792010048 OBS stuckU=0 mounted=1 fusenfs=1
+1792010048 READ rc=0 dur=0s
+1792010049 OBS stuckU=0 mounted=1 fusenfs=1
+1792010049 READ rc=0 dur=0s
+1792010050 READ rc=0 dur=0s
+1792010050 OBS stuckU=0 mounted=1 fusenfs=1
+1792010051 READ rc=0 dur=0s
+1792010051 OBS stuckU=0 mounted=1 fusenfs=1
+1792010052 READ rc=0 dur=0s
+1792010052 OBS stuckU=0 mounted=1 fusenfs=1
+1792010053 READ rc=0 dur=0s
+1792010054 OBS stuckU=0 mounted=1 fusenfs=1
+1792010054 READ rc=0 dur=0s
+1792010055 OBS stuckU=0 mounted=1 fusenfs=1
+1792010055 READ rc=0 dur=0s
+1792010056 OBS stuckU=0 mounted=1 fusenfs=1
+1792010056 READ rc=0 dur=0s
+1792010057 OBS stuckU=0 mounted=1 fusenfs=1
+1792010057 READ rc=0 dur=0s
+1792010058 OBS stuckU=0 mounted=1 fusenfs=1
+1792010059 READ rc=0 dur=1s
+1792010059 OBS stuckU=0 mounted=1 fusenfs=1
+1792010060 READ rc=0 dur=0s
+1792010060 OBS stuckU=0 mounted=1 fusenfs=1
+1792010061 READ rc=0 dur=0s
+1792010061 OBS stuckU=0 mounted=1 fusenfs=1
+1792010062 READ rc=0 dur=0s
+1792010062 OBS stuckU=0 mounted=1 fusenfs=1
+1792010063 READ rc=0 dur=0s
+1792010064 OBS stuckU=0 mounted=1 fusenfs=1
+1792010064 READ rc=0 dur=0s
+1792010065 READ rc=0 dur=0s
+1792010065 OBS stuckU=0 mounted=1 fusenfs=1
+1792010066 READ rc=0 dur=0s
+1792010066 OBS stuckU=0 mounted=1 fusenfs=1
+1792010067 READ rc=0 dur=0s
+1792010067 OBS stuckU=0 mounted=1 fusenfs=1
+1792010068 READ rc=0 dur=0s
+1792010068 OBS stuckU=0 mounted=1 fusenfs=1
+1792010069 READ rc=0 dur=0s
+1792010069 OBS stuckU=0 mounted=1 fusenfs=1
+1792010070 READ rc=0 dur=0s
+1792010070 OBS stuckU=0 mounted=1 fusenfs=1
+1792010071 READ rc=0 dur=0s
+1792010071 OBS stuckU=0 mounted=1 fusenfs=1
+1792010072 READ rc=0 dur=0s
+1792010072 OBS stuckU=0 mounted=1 fusenfs=1
+1792010073 READ rc=0 dur=0s
+1792010074 OBS stuckU=0 mounted=1 fusenfs=1
+1792010074 READ rc=0 dur=0s
+1792010075 OBS stuckU=0 mounted=1 fusenfs=1
+1792010075 READ rc=0 dur=0s
+1792010076 OBS stuckU=0 mounted=1 fusenfs=1
+1792010076 READ rc=0 dur=0s
+1792010077 OBS stuckU=0 mounted=1 fusenfs=1
+1792010077 READ rc=0 dur=0s
+1792010078 OBS stuckU=0 mounted=1 fusenfs=1
+1792010078 READ rc=0 dur=0s
+1792010079 READ rc=0 dur=0s
+1792010079 OBS stuckU=0 mounted=1 fusenfs=1
+1792010080 READ rc=0 dur=0s
+1792010080 OBS stuckU=0 mounted=1 fusenfs=1
+1792010081 READ rc=0 dur=0s
+1792010081 OBS stuckU=0 mounted=1 fusenfs=1
+1792010082 READ rc=0 dur=0s
+1792010082 OBS stuckU=0 mounted=1 fusenfs=1
+1792010083 READ rc=0 dur=0s
+1792010083 OBS stuckU=0 mounted=1 fusenfs=1
+1792010084 READ rc=0 dur=0s
+1792010085 OBS stuckU=0 mounted=1 fusenfs=1
+1792010085 READ rc=0 dur=0s
+1792010086 OBS stuckU=0 mounted=1 fusenfs=1
+1792010086 READ rc=0 dur=0s
+1792010087 OBS stuckU=0 mounted=1 fusenfs=1
+1792010087 READ rc=0 dur=0s
+1792010088 OBS stuckU=0 mounted=1 fusenfs=1
+1792010088 READ rc=0 dur=0s
+1792010089 OBS stuckU=0 mounted=1 fusenfs=1
+1792010090 READ rc=0 dur=0s
+1792010090 OBS stuckU=0 mounted=1 fusenfs=1
+1792010091 READ rc=0 dur=0s
+1792010091 OBS stuckU=0 mounted=1 fusenfs=1
+1792010092 READ rc=0 dur=0s
+1792010092 OBS stuckU=0 mounted=1 fusenfs=1
+1792010093 READ rc=0 dur=0s
+1792010094 OBS stuckU=0 mounted=1 fusenfs=1
+1792010094 READ rc=0 dur=0s
+1792010095 READ rc=0 dur=0s
+1792010095 OBS stuckU=0 mounted=1 fusenfs=1
+1792010096 READ rc=0 dur=0s
+1792010096 OBS stuckU=0 mounted=1 fusenfs=1
+1792010097 READ rc=0 dur=0s
+1792010097 OBS stuckU=0 mounted=1 fusenfs=1
+1792010098 READ rc=0 dur=0s
+1792010098 OBS stuckU=0 mounted=1 fusenfs=1
+1792010099 READ rc=0 dur=0s
+1792010099 OBS stuckU=0 mounted=1 fusenfs=1
+1792010100 READ rc=0 dur=0s
+1792010100 OBS stuckU=0 mounted=1 fusenfs=1
+1792010101 READ rc=0 dur=0s
+1792010101 OBS stuckU=0 mounted=1 fusenfs=1
+1792010102 READ rc=0 dur=0s
+1792010102 OBS stuckU=0 mounted=1 fusenfs=1
+1792010103 READ rc=0 dur=0s
+1792010104 OBS stuckU=0 mounted=1 fusenfs=1
+1792010104 READ rc=0 dur=0s
+1792010105 OBS stuckU=0 mounted=1 fusenfs=1
+1792010105 READ rc=0 dur=0s
+1792010106 OBS stuckU=0 mounted=1 fusenfs=1
+1792010106 READ rc=0 dur=0s
+1792010107 OBS stuckU=0 mounted=1 fusenfs=1
+1792010107 READ rc=0 dur=0s
+1792010108 OBS stuckU=0 mounted=1 fusenfs=1
+1792010108 READ rc=0 dur=0s
+1792010109 READ rc=0 dur=0s
+1792010109 OBS stuckU=0 mounted=1 fusenfs=1
+1792010110 READ rc=0 dur=0s
+1792010110 OBS stuckU=0 mounted=1 fusenfs=1
+1792010111 READ rc=0 dur=0s
+1792010111 OBS stuckU=0 mounted=1 fusenfs=1
+1792010112 READ rc=0 dur=0s
+1792010112 OBS stuckU=0 mounted=1 fusenfs=1
+1792010113 READ rc=0 dur=0s
+1792010113 OBS stuckU=0 mounted=1 fusenfs=1
+1792010114 READ rc=0 dur=0s
+1792010115 OBS stuckU=0 mounted=1 fusenfs=1
+1792010115 READ rc=0 dur=0s
+1792010116 OBS stuckU=0 mounted=1 fusenfs=1
+1792010116 READ rc=0 dur=0s
+1792010117 OBS stuckU=0 mounted=1 fusenfs=1
+1792010117 READ rc=0 dur=0s
+1792010118 OBS stuckU=0 mounted=1 fusenfs=1
+1792010118 READ rc=0 dur=0s
+1792010119 OBS stuckU=0 mounted=1 fusenfs=1
+1792010120 READ rc=0 dur=0s
+1792010120 OBS stuckU=0 mounted=1 fusenfs=1
+1792010121 READ rc=0 dur=0s
+1792010121 OBS stuckU=0 mounted=1 fusenfs=1
+1792010122 READ rc=0 dur=0s
+1792010122 OBS stuckU=0 mounted=1 fusenfs=1
+1792010123 READ rc=0 dur=0s
+1792010123 OBS stuckU=0 mounted=1 fusenfs=1
+1792010124 READ rc=0 dur=0s
+1792010125 READ rc=0 dur=0s
+1792010125 OBS stuckU=0 mounted=1 fusenfs=1
+1792010126 READ rc=0 dur=0s
+1792010126 OBS stuckU=0 mounted=1 fusenfs=1
+1792010127 READ rc=0 dur=0s
+1792010127 OBS stuckU=0 mounted=1 fusenfs=1
+1792010128 READ rc=0 dur=0s
+1792010128 OBS stuckU=0 mounted=1 fusenfs=1
+1792010129 READ rc=0 dur=0s
+1792010129 OBS stuckU=0 mounted=1 fusenfs=1
+1792010130 READ rc=0 dur=0s
+1792010130 OBS stuckU=0 mounted=1 fusenfs=1
+1792010131 READ rc=0 dur=0s
+1792010131 OBS stuckU=0 mounted=1 fusenfs=1
+1792010132 READ rc=0 dur=0s
+1792010132 OBS stuckU=0 mounted=1 fusenfs=1
+1792010133 READ rc=0 dur=0s
+1792010133 OBS stuckU=0 mounted=1 fusenfs=1
+1792010134 READ rc=0 dur=0s
+1792010135 OBS stuckU=0 mounted=1 fusenfs=1
+1792010135 READ rc=0 dur=0s
+1792010136 OBS stuckU=0 mounted=1 fusenfs=1
+1792010136 READ rc=0 dur=0s
+1792010137 OBS stuckU=0 mounted=1 fusenfs=1
+1792010137 READ rc=0 dur=0s
+1792010138 OBS stuckU=0 mounted=1 fusenfs=1
+1792010138 READ rc=0 dur=0s
+1792010139 READ rc=0 dur=0s
+1792010139 OBS stuckU=0 mounted=1 fusenfs=1
+1792010140 READ rc=0 dur=0s
+1792010140 OBS stuckU=0 mounted=1 fusenfs=1
+1792010141 READ rc=0 dur=0s
+1792010141 OBS stuckU=0 mounted=1 fusenfs=1
+1792010142 READ rc=0 dur=0s
+1792010142 OBS stuckU=0 mounted=1 fusenfs=1
+1792010143 READ rc=0 dur=0s
+1792010143 OBS stuckU=0 mounted=1 fusenfs=1
+1792010144 READ rc=0 dur=0s
+1792010145 OBS stuckU=0 mounted=1 fusenfs=1
+1792010145 READ rc=0 dur=0s
+1792010146 OBS stuckU=0 mounted=1 fusenfs=1
+1792010146 READ rc=0 dur=0s
+1792010147 OBS stuckU=0 mounted=1 fusenfs=1
+1792010147 READ rc=0 dur=0s
+1792010148 OBS stuckU=0 mounted=1 fusenfs=1
+1792010148 READ rc=0 dur=0s
+1792010149 OBS stuckU=0 mounted=1 fusenfs=1
+1792010149 READ rc=0 dur=0s
+1792010150 OBS stuckU=0 mounted=1 fusenfs=1
+1792010151 READ rc=0 dur=0s
+1792010151 OBS stuckU=0 mounted=1 fusenfs=1
+1792010152 READ rc=0 dur=0s
+1792010152 OBS stuckU=0 mounted=1 fusenfs=1
+1792010153 READ rc=0 dur=0s
+1792010153 OBS stuckU=0 mounted=1 fusenfs=1
+1792010154 READ rc=0 dur=0s
+1792010155 READ rc=0 dur=0s
+1792010155 OBS stuckU=0 mounted=1 fusenfs=1
+1792010156 READ rc=0 dur=0s
+1792010156 OBS stuckU=0 mounted=1 fusenfs=1
+1792010157 READ rc=0 dur=0s
+1792010157 OBS stuckU=0 mounted=1 fusenfs=1
+1792010158 READ rc=0 dur=0s
+1792010158 OBS stuckU=0 mounted=1 fusenfs=1
+1792010159 READ rc=0 dur=0s
+1792010159 OBS stuckU=0 mounted=1 fusenfs=1
+1792010160 READ rc=0 dur=0s
+1792010160 OBS stuckU=0 mounted=1 fusenfs=1
+1792010161 READ rc=0 dur=0s
+1792010161 OBS stuckU=0 mounted=1 fusenfs=1
+1792010162 READ rc=0 dur=0s
+1792010162 OBS stuckU=0 mounted=1 fusenfs=1
+1792010163 READ rc=0 dur=0s
+1792010163 OBS stuckU=0 mounted=1 fusenfs=1
+1792010164 READ rc=0 dur=0s
+1792010165 OBS stuckU=0 mounted=1 fusenfs=1
+1792010165 READ rc=0 dur=0s
+1792010166 OBS stuckU=0 mounted=1 fusenfs=1
+1792010166 READ rc=0 dur=0s
+1792010167 OBS stuckU=0 mounted=1 fusenfs=1
+1792010167 READ rc=0 dur=0s
+1792010168 OBS stuckU=0 mounted=1 fusenfs=1
+1792010168 READ rc=0 dur=0s
+1792010169 OBS stuckU=0 mounted=1 fusenfs=1
+1792010169 READ rc=0 dur=0s
+1792010170 READ rc=0 dur=0s
+1792010170 OBS stuckU=0 mounted=1 fusenfs=1
+1792010171 READ rc=0 dur=0s
+1792010171 OBS stuckU=0 mounted=1 fusenfs=1
+1792010172 READ rc=0 dur=0s
+1792010172 OBS stuckU=0 mounted=1 fusenfs=1
+1792010173 READ rc=0 dur=0s
+1792010173 OBS stuckU=0 mounted=1 fusenfs=1
+1792010174 READ rc=0 dur=0s
+1792010175 OBS stuckU=0 mounted=1 fusenfs=1
+1792010175 READ rc=0 dur=0s
+1792010176 OBS stuckU=0 mounted=1 fusenfs=1
+1792010176 READ rc=0 dur=0s
+1792010177 OBS stuckU=0 mounted=1 fusenfs=1
+1792010177 READ rc=0 dur=0s
+1792010178 OBS stuckU=0 mounted=1 fusenfs=1
+1792010178 READ rc=0 dur=0s
+1792010179 OBS stuckU=0 mounted=1 fusenfs=1
+1792010179 READ rc=0 dur=0s
+1792010180 OBS stuckU=0 mounted=1 fusenfs=1
+1792010180 READ rc=0 dur=0s
+1792010181 OBS stuckU=0 mounted=1 fusenfs=1
+1792010182 READ rc=0 dur=0s
+1792010182 OBS stuckU=0 mounted=1 fusenfs=1
+1792010183 READ rc=0 dur=0s
+1792010183 OBS stuckU=0 mounted=1 fusenfs=1
+1792010184 READ rc=0 dur=0s
+1792010185 READ rc=0 dur=0s
+1792010185 OBS stuckU=0 mounted=1 fusenfs=1
+1792010186 READ rc=0 dur=0s
+1792010186 OBS stuckU=0 mounted=1 fusenfs=1
+1792010187 READ rc=0 dur=0s
+1792010187 OBS stuckU=0 mounted=1 fusenfs=1
+1792010188 READ rc=0 dur=0s
+1792010188 OBS stuckU=0 mounted=1 fusenfs=1
+1792010189 READ rc=0 dur=0s
+1792010189 OBS stuckU=0 mounted=1 fusenfs=1
+1792010190 READ rc=0 dur=0s
+1792010190 OBS stuckU=0 mounted=1 fusenfs=1
+1792010191 READ rc=0 dur=0s
+1792010191 OBS stuckU=0 mounted=1 fusenfs=1
+1792010192 READ rc=0 dur=0s
+1792010192 OBS stuckU=0 mounted=1 fusenfs=1
+1792010193 READ rc=0 dur=0s
+1792010193 OBS stuckU=0 mounted=1 fusenfs=1
+1792010194 READ rc=0 dur=0s
+1792010195 OBS stuckU=0 mounted=1 fusenfs=1
+1792010195 READ rc=0 dur=0s
+1792010196 OBS stuckU=0 mounted=1 fusenfs=1
+1792010196 READ rc=0 dur=0s
+1792010197 OBS stuckU=0 mounted=1 fusenfs=1
+1792010197 READ rc=0 dur=0s
+1792010198 OBS stuckU=0 mounted=1 fusenfs=1
+1792010198 READ rc=0 dur=0s
+1792010199 READ rc=0 dur=0s
+1792010199 OBS stuckU=0 mounted=1 fusenfs=1
+1792010200 READ rc=0 dur=0s
+1792010200 OBS stuckU=0 mounted=1 fusenfs=1
+1792010201 READ rc=0 dur=0s
+1792010201 OBS stuckU=0 mounted=1 fusenfs=1
+1792010202 READ rc=0 dur=0s
+1792010202 OBS stuckU=0 mounted=1 fusenfs=1
+1792010203 READ rc=0 dur=0s
+1792010203 OBS stuckU=0 mounted=1 fusenfs=1
+1792010204 READ rc=0 dur=0s
+1792010205 OBS stuckU=0 mounted=1 fusenfs=1
+1792010205 READ rc=0 dur=0s
+1792010206 OBS stuckU=0 mounted=1 fusenfs=1
+1792010206 READ rc=0 dur=0s
+1792010207 OBS stuckU=0 mounted=1 fusenfs=1
+1792010207 READ rc=0 dur=0s
+1792010208 OBS stuckU=0 mounted=1 fusenfs=1
+1792010208 READ rc=0 dur=0s
+1792010209 OBS stuckU=0 mounted=1 fusenfs=1
+1792010209 READ rc=0 dur=0s
+1792010210 OBS stuckU=0 mounted=1 fusenfs=1
+1792010210 READ rc=0 dur=0s
+1792010211 OBS stuckU=0 mounted=1 fusenfs=1
+1792010212 READ rc=0 dur=1s
+1792010212 OBS stuckU=0 mounted=1 fusenfs=1
+1792010213 READ rc=0 dur=0s
+1792010213 OBS stuckU=0 mounted=1 fusenfs=1
+1792010214 READ rc=0 dur=0s
+1792010215 READ rc=0 dur=0s
+1792010215 OBS stuckU=0 mounted=1 fusenfs=1
+1792010216 READ rc=0 dur=0s
+1792010216 OBS stuckU=0 mounted=1 fusenfs=1
+1792010217 READ rc=0 dur=0s
+1792010217 OBS stuckU=0 mounted=1 fusenfs=1
+1792010218 READ rc=0 dur=0s
+1792010218 OBS stuckU=0 mounted=1 fusenfs=1
+1792010219 READ rc=0 dur=0s
+1792010219 OBS stuckU=0 mounted=1 fusenfs=1
+1792010220 READ rc=0 dur=0s
+1792010220 OBS stuckU=0 mounted=1 fusenfs=1
+1792010221 READ rc=0 dur=0s
+1792010221 OBS stuckU=0 mounted=1 fusenfs=1
+1792010222 READ rc=0 dur=0s
+1792010222 OBS stuckU=0 mounted=1 fusenfs=1
+1792010223 READ rc=0 dur=0s
+1792010223 OBS stuckU=0 mounted=1 fusenfs=1
+1792010224 READ rc=0 dur=0s
+1792010225 OBS stuckU=0 mounted=1 fusenfs=1
+1792010225 READ rc=0 dur=0s
+1792010226 OBS stuckU=0 mounted=1 fusenfs=1
+1792010226 READ rc=0 dur=0s
+1792010227 OBS stuckU=0 mounted=1 fusenfs=1
+1792010227 READ rc=0 dur=0s
+1792010228 OBS stuckU=0 mounted=1 fusenfs=1
+1792010228 READ rc=0 dur=0s
+1792010229 READ rc=0 dur=0s
+1792010229 OBS stuckU=0 mounted=1 fusenfs=1
+1792010230 READ rc=0 dur=0s
+1792010230 OBS stuckU=0 mounted=1 fusenfs=1
+1792010231 READ rc=0 dur=0s
+1792010231 OBS stuckU=0 mounted=1 fusenfs=1
+1792010232 READ rc=0 dur=0s
+1792010232 OBS stuckU=0 mounted=1 fusenfs=1
+1792010233 READ rc=0 dur=0s
+1792010233 OBS stuckU=0 mounted=1 fusenfs=1
+1792010234 READ rc=0 dur=0s
+1792010235 OBS stuckU=0 mounted=1 fusenfs=1
+1792010235 READ rc=0 dur=0s
+1792010236 OBS stuckU=0 mounted=1 fusenfs=1
+1792010236 READ rc=0 dur=0s
+1792010237 OBS stuckU=0 mounted=1 fusenfs=1
+1792010237 READ rc=0 dur=0s
+1792010238 OBS stuckU=0 mounted=1 fusenfs=1
+1792010238 READ rc=0 dur=0s
+1792010239 OBS stuckU=0 mounted=1 fusenfs=1
+1792010239 READ rc=0 dur=0s
+1792010240 OBS stuckU=0 mounted=1 fusenfs=1
+1792010240 READ rc=0 dur=0s
+1792010241 OBS stuckU=0 mounted=1 fusenfs=1
+1792010241 READ rc=0 dur=0s
+1792010242 OBS stuckU=0 mounted=1 fusenfs=1
+1792010243 READ rc=0 dur=1s
+1792010243 OBS stuckU=0 mounted=1 fusenfs=1
+1792010244 READ rc=0 dur=0s
+1792010245 READ rc=0 dur=0s
+1792010245 OBS stuckU=0 mounted=1 fusenfs=1
+1792010246 READ rc=0 dur=0s
+1792010246 OBS stuckU=0 mounted=1 fusenfs=1
+1792010247 READ rc=0 dur=0s
+1792010247 OBS stuckU=0 mounted=1 fusenfs=1
+1792010248 READ rc=0 dur=0s
+1792010248 OBS stuckU=0 mounted=1 fusenfs=1
+1792010249 READ rc=0 dur=0s
+1792010249 OBS stuckU=0 mounted=1 fusenfs=1
+1792010250 READ rc=0 dur=0s
+1792010250 OBS stuckU=0 mounted=1 fusenfs=1
+1792010251 READ rc=0 dur=0s
+1792010251 OBS stuckU=0 mounted=1 fusenfs=1
+1792010252 READ rc=0 dur=0s
+1792010252 OBS stuckU=0 mounted=1 fusenfs=1
+1792010253 READ rc=0 dur=0s
+1792010253 OBS stuckU=0 mounted=1 fusenfs=1
+1792010254 READ rc=0 dur=0s
+1792010255 OBS stuckU=0 mounted=1 fusenfs=1
+1792010255 READ rc=0 dur=0s
+1792010256 OBS stuckU=0 mounted=1 fusenfs=1
+1792010256 READ rc=0 dur=0s
+1792010257 OBS stuckU=0 mounted=1 fusenfs=1
+1792010257 READ rc=0 dur=0s
+1792010258 OBS stuckU=0 mounted=1 fusenfs=1
+1792010258 READ rc=0 dur=0s
+1792010259 OBS stuckU=0 mounted=1 fusenfs=1
+1792010259 READ rc=0 dur=0s
+1792010260 READ rc=0 dur=0s
+1792010260 OBS stuckU=0 mounted=1 fusenfs=1
+1792010261 READ rc=0 dur=0s
+1792010261 OBS stuckU=0 mounted=1 fusenfs=1
+1792010262 READ rc=0 dur=0s
+1792010262 OBS stuckU=0 mounted=1 fusenfs=1
+1792010263 READ rc=0 dur=0s
+1792010263 OBS stuckU=0 mounted=1 fusenfs=1
+1792010264 READ rc=0 dur=0s
+1792010264 OBS stuckU=0 mounted=1 fusenfs=1
+1792010265 READ rc=0 dur=0s
+1792010266 OBS stuckU=0 mounted=1 fusenfs=1
+1792010266 READ rc=0 dur=0s
+1792010267 OBS stuckU=0 mounted=1 fusenfs=1
+1792010267 READ rc=0 dur=0s
+1792010268 OBS stuckU=0 mounted=1 fusenfs=1
+1792010268 READ rc=0 dur=0s
+1792010269 OBS stuckU=0 mounted=1 fusenfs=1
+1792010269 READ rc=0 dur=0s
+1792010270 OBS stuckU=0 mounted=1 fusenfs=1
+1792010270 READ rc=0 dur=0s
+1792010271 OBS stuckU=0 mounted=1 fusenfs=1
+1792010271 READ rc=0 dur=0s
+1792010272 OBS stuckU=0 mounted=1 fusenfs=1
+1792010272 READ rc=0 dur=0s
+1792010273 OBS stuckU=0 mounted=1 fusenfs=1
+1792010274 READ rc=0 dur=0s
+1792010275 READ rc=0 dur=0s
+1792010274 OBS stuckU=0 mounted=1 fusenfs=1
+1792010276 READ rc=0 dur=0s
+1792010276 OBS stuckU=0 mounted=1 fusenfs=1
+1792010277 READ rc=0 dur=0s
+1792010277 OBS stuckU=0 mounted=1 fusenfs=1
+1792010278 READ rc=0 dur=0s
+1792010278 OBS stuckU=0 mounted=1 fusenfs=1
+1792010279 READ rc=0 dur=0s
+1792010279 OBS stuckU=0 mounted=1 fusenfs=1
+1792010280 READ rc=0 dur=0s
+1792010280 OBS stuckU=0 mounted=1 fusenfs=1
+1792010281 READ rc=0 dur=0s
+1792010281 OBS stuckU=0 mounted=1 fusenfs=1
+1792010282 READ rc=0 dur=0s
+1792010282 OBS stuckU=0 mounted=1 fusenfs=1
+1792010283 READ rc=0 dur=0s
+1792010283 OBS stuckU=0 mounted=1 fusenfs=1
+1792010284 READ rc=0 dur=0s
+1792010284 OBS stuckU=0 mounted=1 fusenfs=1
+1792010285 READ rc=0 dur=0s
+1792010286 OBS stuckU=0 mounted=1 fusenfs=1
+1792010286 READ rc=0 dur=0s
+1792010287 OBS stuckU=0 mounted=1 fusenfs=1
+1792010287 READ rc=0 dur=0s
+1792010288 OBS stuckU=0 mounted=1 fusenfs=1
+1792010288 READ rc=0 dur=0s
+1792010289 OBS stuckU=0 mounted=1 fusenfs=1
+1792010289 READ rc=0 dur=0s
+1792010290 READ rc=0 dur=0s
+1792010290 OBS stuckU=0 mounted=1 fusenfs=1
+1792010291 READ rc=0 dur=0s
+1792010291 OBS stuckU=0 mounted=1 fusenfs=1
+1792010292 READ rc=0 dur=0s
+1792010292 OBS stuckU=0 mounted=1 fusenfs=1
+1792010293 READ rc=0 dur=0s
+1792010293 OBS stuckU=0 mounted=1 fusenfs=1
+1792010294 READ rc=0 dur=0s
+1792010294 OBS stuckU=0 mounted=1 fusenfs=1
+1792010295 READ rc=0 dur=0s
+1792010296 OBS stuckU=0 mounted=1 fusenfs=1
+1792010296 READ rc=0 dur=0s
+1792010297 OBS stuckU=0 mounted=1 fusenfs=1
+1792010297 READ rc=0 dur=0s
+1792010298 OBS stuckU=0 mounted=1 fusenfs=1
+1792010298 READ rc=0 dur=0s
+1792010299 OBS stuckU=0 mounted=1 fusenfs=1
+1792010299 READ rc=0 dur=0s
+1792010300 OBS stuckU=0 mounted=1 fusenfs=1
+1792010300 READ rc=0 dur=0s
+1792010301 OBS stuckU=0 mounted=1 fusenfs=1
+1792010301 READ rc=0 dur=0s
+1792010302 OBS stuckU=0 mounted=1 fusenfs=1
+1792010303 READ rc=0 dur=0s
+1792010303 OBS stuckU=0 mounted=1 fusenfs=1
+1792010304 READ rc=0 dur=0s
+1792010304 OBS stuckU=0 mounted=1 fusenfs=1
+1792010305 READ rc=0 dur=0s
+1792010306 READ rc=0 dur=0s
+1792010306 OBS stuckU=0 mounted=1 fusenfs=1
+1792010307 READ rc=0 dur=0s
+1792010307 OBS stuckU=0 mounted=1 fusenfs=1
+1792010308 READ rc=0 dur=0s
+1792010308 OBS stuckU=0 mounted=1 fusenfs=1
+1792010309 READ rc=0 dur=0s
+1792010309 OBS stuckU=0 mounted=1 fusenfs=1
+1792010310 READ rc=0 dur=0s
+1792010310 OBS stuckU=0 mounted=1 fusenfs=1
+1792010311 READ rc=0 dur=0s
+1792010311 OBS stuckU=0 mounted=1 fusenfs=1
+1792010312 READ rc=0 dur=0s
+1792010312 OBS stuckU=0 mounted=1 fusenfs=1
+1792010313 READ rc=0 dur=0s
+1792010313 OBS stuckU=0 mounted=1 fusenfs=1
+1792010314 READ rc=0 dur=0s
+1792010314 OBS stuckU=0 mounted=1 fusenfs=1
+1792010315 READ rc=0 dur=0s
+1792010316 OBS stuckU=0 mounted=1 fusenfs=1
+1792010316 READ rc=0 dur=0s
+1792010317 OBS stuckU=0 mounted=1 fusenfs=1
+1792010317 READ rc=0 dur=0s
+1792010318 OBS stuckU=0 mounted=1 fusenfs=1
+1792010318 READ rc=0 dur=0s
+1792010319 OBS stuckU=0 mounted=1 fusenfs=1
+1792010319 READ rc=0 dur=0s
+1792010320 READ rc=0 dur=0s
+1792010320 OBS stuckU=0 mounted=1 fusenfs=1
+1792010321 READ rc=0 dur=0s
+1792010321 OBS stuckU=0 mounted=1 fusenfs=1
+1792010322 READ rc=0 dur=0s
+1792010322 OBS stuckU=0 mounted=1 fusenfs=1
+1792010323 READ rc=0 dur=0s
+1792010323 OBS stuckU=0 mounted=1 fusenfs=1
+1792010324 READ rc=0 dur=0s
+1792010324 OBS stuckU=0 mounted=1 fusenfs=1
+1792010325 READ rc=0 dur=0s
+1792010326 OBS stuckU=0 mounted=1 fusenfs=1
+1792010326 READ rc=0 dur=0s
+1792010327 OBS stuckU=0 mounted=1 fusenfs=1
+1792010327 READ rc=0 dur=0s
+1792010328 OBS stuckU=0 mounted=1 fusenfs=1
+1792010328 READ rc=0 dur=0s
+1792010329 OBS stuckU=0 mounted=1 fusenfs=1
+1792010329 READ rc=0 dur=0s
+1792010330 OBS stuckU=0 mounted=1 fusenfs=1
+1792010330 READ rc=0 dur=0s
+1792010331 OBS stuckU=0 mounted=1 fusenfs=1
+1792010331 READ rc=0 dur=0s
+1792010332 OBS stuckU=0 mounted=1 fusenfs=1
+1792010332 READ rc=0 dur=0s
+1792010333 OBS stuckU=0 mounted=1 fusenfs=1
+1792010334 READ rc=0 dur=0s
+1792010334 OBS stuckU=0 mounted=1 fusenfs=1
+1792010335 READ rc=0 dur=0s
+1792010336 READ rc=0 dur=0s
+1792010336 OBS stuckU=0 mounted=1 fusenfs=1
+1792010337 READ rc=0 dur=0s
+1792010337 OBS stuckU=0 mounted=1 fusenfs=1
+1792010338 READ rc=0 dur=0s
+1792010338 OBS stuckU=0 mounted=1 fusenfs=1
+1792010339 READ rc=0 dur=0s
+1792010339 OBS stuckU=0 mounted=1 fusenfs=1
+1792010340 READ rc=0 dur=0s
+1792010340 OBS stuckU=0 mounted=1 fusenfs=1
+1792010341 READ rc=0 dur=0s
+1792010341 OBS stuckU=0 mounted=1 fusenfs=1
+1792010342 READ rc=0 dur=0s
+1792010342 OBS stuckU=0 mounted=1 fusenfs=1
+1792010343 READ rc=0 dur=0s
+1792010343 OBS stuckU=0 mounted=1 fusenfs=1
+1792010344 READ rc=0 dur=0s
+1792010344 OBS stuckU=0 mounted=1 fusenfs=1
+1792010345 READ rc=0 dur=0s
+1792010346 OBS stuckU=0 mounted=1 fusenfs=1
+1792010346 READ rc=0 dur=0s
+1792010347 OBS stuckU=0 mounted=1 fusenfs=1
+1792010347 READ rc=0 dur=0s
+1792010348 OBS stuckU=0 mounted=1 fusenfs=1
+1792010348 READ rc=0 dur=0s
+1792010349 OBS stuckU=0 mounted=1 fusenfs=1
+1792010349 READ rc=0 dur=0s
+1792010350 OBS stuckU=0 mounted=1 fusenfs=1
+1792010350 READ rc=0 dur=0s
+1792010351 READ rc=0 dur=0s
+1792010351 OBS stuckU=0 mounted=1 fusenfs=1
+1792010352 READ rc=0 dur=0s
+1792010352 OBS stuckU=0 mounted=1 fusenfs=1
+1792010353 READ rc=0 dur=0s
+1792010353 OBS stuckU=0 mounted=1 fusenfs=1
+1792010354 READ rc=0 dur=0s
+1792010354 OBS stuckU=0 mounted=1 fusenfs=1
+1792010355 READ rc=0 dur=0s
+1792010355 OBS stuckU=0 mounted=1 fusenfs=1
+1792010356 READ rc=0 dur=0s
+1792010357 OBS stuckU=0 mounted=1 fusenfs=1
+1792010357 READ rc=0 dur=0s
+1792010358 OBS stuckU=0 mounted=1 fusenfs=1
+1792010358 READ rc=0 dur=0s
+1792010359 OBS stuckU=0 mounted=1 fusenfs=1
+1792010359 READ rc=0 dur=0s
+1792010360 OBS stuckU=0 mounted=1 fusenfs=1
+1792010360 READ rc=0 dur=0s
+1792010361 OBS stuckU=0 mounted=1 fusenfs=1
+1792010361 READ rc=0 dur=0s
+1792010362 OBS stuckU=0 mounted=1 fusenfs=1
+1792010362 READ rc=0 dur=0s
+1792010363 OBS stuckU=0 mounted=1 fusenfs=1
+1792010364 READ rc=0 dur=1s
+1792010364 OBS stuckU=0 mounted=1 fusenfs=1
+1792010365 READ rc=0 dur=0s
+1792010366 READ rc=0 dur=0s
+1792010366 OBS stuckU=0 mounted=1 fusenfs=1
+1792010367 READ rc=0 dur=0s
+1792010367 OBS stuckU=0 mounted=1 fusenfs=1
+1792010368 READ rc=0 dur=0s
+1792010368 OBS stuckU=0 mounted=1 fusenfs=1
+1792010369 READ rc=0 dur=0s
+1792010369 OBS stuckU=0 mounted=1 fusenfs=1
+1792010370 READ rc=0 dur=0s
+1792010370 OBS stuckU=0 mounted=1 fusenfs=1
+1792010371 READ rc=0 dur=0s
+1792010371 OBS stuckU=0 mounted=1 fusenfs=1
+1792010372 READ rc=0 dur=0s
+1792010372 OBS stuckU=0 mounted=1 fusenfs=1
+1792010373 READ rc=0 dur=0s
+1792010373 OBS stuckU=0 mounted=1 fusenfs=1
+1792010374 READ rc=0 dur=0s
+1792010374 OBS stuckU=0 mounted=1 fusenfs=1
+1792010375 READ rc=0 dur=0s
+1792010375 OBS stuckU=0 mounted=1 fusenfs=1
+1792010376 READ rc=0 dur=0s
+1792010377 OBS stuckU=0 mounted=1 fusenfs=1
+1792010377 READ rc=0 dur=0s
+1792010378 OBS stuckU=0 mounted=1 fusenfs=1
+1792010378 READ rc=0 dur=0s
+1792010379 OBS stuckU=0 mounted=1 fusenfs=1
+1792010379 READ rc=0 dur=0s
+1792010380 READ rc=0 dur=0s
+1792010380 OBS stuckU=0 mounted=1 fusenfs=1
+1792010381 READ rc=0 dur=0s
+1792010381 OBS stuckU=0 mounted=1 fusenfs=1
+1792010382 READ rc=0 dur=0s
+1792010382 OBS stuckU=0 mounted=1 fusenfs=1
+1792010383 READ rc=0 dur=0s
+1792010383 OBS stuckU=0 mounted=1 fusenfs=1
+1792010384 READ rc=0 dur=0s
+1792010384 OBS stuckU=0 mounted=1 fusenfs=1
+1792010385 READ rc=0 dur=0s
+1792010385 OBS stuckU=0 mounted=1 fusenfs=1
+1792010386 READ rc=0 dur=0s
+1792010387 OBS stuckU=0 mounted=1 fusenfs=1
+1792010387 READ rc=0 dur=0s
+1792010388 OBS stuckU=0 mounted=1 fusenfs=1
+1792010388 READ rc=0 dur=0s
+1792010389 OBS stuckU=0 mounted=1 fusenfs=1
+1792010389 READ rc=0 dur=0s
+1792010390 OBS stuckU=0 mounted=1 fusenfs=1
+1792010390 READ rc=0 dur=0s
+1792010391 OBS stuckU=0 mounted=1 fusenfs=1
+1792010391 READ rc=0 dur=0s
+1792010392 OBS stuckU=0 mounted=1 fusenfs=1
+1792010392 READ rc=0 dur=0s
+1792010393 OBS stuckU=0 mounted=1 fusenfs=1
+1792010393 READ rc=0 dur=0s
+1792010394 OBS stuckU=0 mounted=1 fusenfs=1
+1792010395 READ rc=0 dur=0s
+1792010396 READ rc=0 dur=0s
+1792010395 OBS stuckU=0 mounted=1 fusenfs=1
+1792010397 READ rc=0 dur=0s
+1792010397 OBS stuckU=0 mounted=1 fusenfs=1
+1792010398 READ rc=0 dur=0s
+1792010398 OBS stuckU=0 mounted=1 fusenfs=1
+1792010399 READ rc=0 dur=0s
+1792010399 OBS stuckU=0 mounted=1 fusenfs=1
+1792010400 READ rc=0 dur=0s
+1792010400 OBS stuckU=0 mounted=1 fusenfs=1
+1792010401 READ rc=0 dur=0s
+1792010401 OBS stuckU=0 mounted=1 fusenfs=1
+1792010402 READ rc=0 dur=0s
+1792010402 OBS stuckU=0 mounted=1 fusenfs=1
+1792010403 READ rc=0 dur=0s
+1792010403 OBS stuckU=0 mounted=1 fusenfs=1
+1792010404 READ rc=0 dur=0s
+1792010404 OBS stuckU=0 mounted=1 fusenfs=1
+1792010405 READ rc=0 dur=0s
+1792010405 OBS stuckU=0 mounted=1 fusenfs=1
+1792010406 READ rc=0 dur=0s
+1792010407 OBS stuckU=0 mounted=1 fusenfs=1
+1792010407 READ rc=0 dur=0s
+1792010408 OBS stuckU=0 mounted=1 fusenfs=1
+1792010408 READ rc=0 dur=0s
+1792010409 OBS stuckU=0 mounted=1 fusenfs=1
+1792010409 READ rc=0 dur=0s
+1792010410 READ rc=0 dur=0s
+1792010410 OBS stuckU=0 mounted=1 fusenfs=1
+1792010411 READ rc=0 dur=0s
+1792010411 OBS stuckU=0 mounted=1 fusenfs=1
+1792010412 READ rc=0 dur=0s
+1792010412 OBS stuckU=0 mounted=1 fusenfs=1
+1792010413 READ rc=0 dur=0s
+1792010413 OBS stuckU=0 mounted=1 fusenfs=1
+1792010414 READ rc=0 dur=0s
+1792010414 OBS stuckU=0 mounted=1 fusenfs=1
+1792010415 READ rc=0 dur=0s
+1792010415 OBS stuckU=0 mounted=1 fusenfs=1
+1792010416 READ rc=0 dur=0s
+1792010417 OBS stuckU=0 mounted=1 fusenfs=1
+1792010417 READ rc=0 dur=0s
+1792010418 OBS stuckU=0 mounted=1 fusenfs=1
+1792010418 READ rc=0 dur=0s
+1792010419 OBS stuckU=0 mounted=1 fusenfs=1
+1792010419 READ rc=0 dur=0s
+1792010420 OBS stuckU=0 mounted=1 fusenfs=1
+1792010420 READ rc=0 dur=0s
+1792010421 OBS stuckU=0 mounted=1 fusenfs=1
+1792010421 READ rc=0 dur=0s
+1792010422 OBS stuckU=0 mounted=1 fusenfs=1
+1792010422 READ rc=0 dur=0s
+1792010423 OBS stuckU=0 mounted=1 fusenfs=1
+1792010423 READ rc=0 dur=0s
+1792010424 OBS stuckU=0 mounted=1 fusenfs=1
+1792010424 READ rc=0 dur=0s
+1792010426 READ rc=0 dur=0s
+1792010425 OBS stuckU=0 mounted=1 fusenfs=1
+1792010427 READ rc=0 dur=0s
+1792010427 OBS stuckU=0 mounted=1 fusenfs=1
+1792010428 READ rc=0 dur=0s
+1792010428 OBS stuckU=0 mounted=1 fusenfs=1
+1792010429 READ rc=0 dur=0s
+1792010429 OBS stuckU=0 mounted=1 fusenfs=1
+1792010430 READ rc=0 dur=0s
+1792010430 OBS stuckU=0 mounted=1 fusenfs=1
+1792010431 READ rc=0 dur=0s
+1792010431 OBS stuckU=0 mounted=1 fusenfs=1
+1792010432 READ rc=0 dur=0s
+1792010432 OBS stuckU=0 mounted=1 fusenfs=1
+1792010433 READ rc=0 dur=0s
+1792010433 OBS stuckU=0 mounted=1 fusenfs=1
+1792010434 READ rc=0 dur=0s
+1792010434 OBS stuckU=0 mounted=1 fusenfs=1
+1792010435 READ rc=0 dur=0s
+1792010435 OBS stuckU=0 mounted=1 fusenfs=1
+1792010436 READ rc=0 dur=0s
+1792010437 OBS stuckU=0 mounted=1 fusenfs=1
+1792010437 READ rc=0 dur=0s
+1792010438 OBS stuckU=0 mounted=1 fusenfs=1
+1792010438 READ rc=0 dur=0s
+1792010439 OBS stuckU=0 mounted=1 fusenfs=1
+1792010439 READ rc=0 dur=0s
+1792010440 OBS stuckU=0 mounted=1 fusenfs=1
+1792010440 READ rc=0 dur=0s
+1792010441 READ rc=0 dur=0s
+1792010441 OBS stuckU=0 mounted=1 fusenfs=1
+1792010442 READ rc=0 dur=0s
+1792010442 OBS stuckU=0 mounted=1 fusenfs=1
+1792010443 READ rc=0 dur=0s
+1792010443 OBS stuckU=0 mounted=1 fusenfs=1
+1792010444 READ rc=0 dur=0s
+1792010444 OBS stuckU=0 mounted=1 fusenfs=1
+1792010445 READ rc=0 dur=0s
+1792010445 OBS stuckU=0 mounted=1 fusenfs=1
+1792010446 READ rc=0 dur=0s
+1792010446 OBS stuckU=0 mounted=1 fusenfs=1
+1792010447 READ rc=0 dur=0s
+1792010448 OBS stuckU=0 mounted=1 fusenfs=1
+1792010448 READ rc=0 dur=0s
+1792010449 OBS stuckU=0 mounted=1 fusenfs=1
+1792010449 READ rc=0 dur=0s
+1792010450 OBS stuckU=0 mounted=1 fusenfs=1
+1792010450 READ rc=0 dur=0s
+1792010451 OBS stuckU=0 mounted=1 fusenfs=1
+1792010451 READ rc=0 dur=0s
+1792010452 OBS stuckU=0 mounted=1 fusenfs=1
+1792010452 READ rc=0 dur=0s
+1792010453 OBS stuckU=0 mounted=1 fusenfs=1
+1792010453 READ rc=0 dur=0s
+1792010454 OBS stuckU=0 mounted=1 fusenfs=1
+1792010454 READ rc=0 dur=0s
+1792010455 READ rc=0 dur=0s
+1792010455 OBS stuckU=0 mounted=1 fusenfs=1
+1792010457 READ rc=0 dur=1s
+1792010456 OBS stuckU=0 mounted=1 fusenfs=1
+1792010458 READ rc=0 dur=0s
+1792010458 OBS stuckU=1 mounted=1 fusenfs=1
+1792010459 READ rc=0 dur=0s
+1792010459 OBS stuckU=0 mounted=1 fusenfs=1
+1792010460 READ rc=0 dur=0s
+1792010460 OBS stuckU=0 mounted=1 fusenfs=1
+1792010461 READ rc=0 dur=0s
+1792010461 OBS stuckU=0 mounted=1 fusenfs=1
+1792010462 READ rc=0 dur=0s
+1792010462 OBS stuckU=0 mounted=1 fusenfs=1
+1792010463 READ rc=0 dur=0s
+1792010463 OBS stuckU=0 mounted=1 fusenfs=1
+1792010464 READ rc=0 dur=0s
+1792010464 OBS stuckU=0 mounted=1 fusenfs=1
+1792010465 READ rc=0 dur=0s
+1792010465 OBS stuckU=0 mounted=1 fusenfs=1
+1792010466 READ rc=0 dur=0s
+1792010466 OBS stuckU=0 mounted=1 fusenfs=1
+1792010467 READ rc=0 dur=0s
+1792010468 OBS stuckU=0 mounted=1 fusenfs=1
+1792010468 READ rc=0 dur=0s
+1792010469 OBS stuckU=0 mounted=1 fusenfs=1
+1792010469 READ rc=0 dur=0s
+1792010470 OBS stuckU=0 mounted=1 fusenfs=1
+1792010470 READ rc=0 dur=0s
+1792010471 READ rc=0 dur=0s
+1792010471 OBS stuckU=0 mounted=1 fusenfs=1
+1792010472 READ rc=0 dur=0s
+1792010472 OBS stuckU=0 mounted=1 fusenfs=1
+1792010473 READ rc=0 dur=0s
+1792010473 OBS stuckU=0 mounted=1 fusenfs=1
+1792010474 READ rc=0 dur=0s
+1792010474 OBS stuckU=0 mounted=1 fusenfs=1
+1792010475 READ rc=0 dur=0s
+1792010475 OBS stuckU=0 mounted=1 fusenfs=1
+1792010476 READ rc=0 dur=0s
+1792010476 OBS stuckU=0 mounted=1 fusenfs=1
+1792010477 READ rc=0 dur=0s
+1792010478 OBS stuckU=0 mounted=1 fusenfs=1
+1792010478 READ rc=0 dur=0s
+1792010479 OBS stuckU=0 mounted=1 fusenfs=1
+1792010479 READ rc=0 dur=0s
+1792010480 OBS stuckU=0 mounted=1 fusenfs=1
+1792010480 READ rc=0 dur=0s
+1792010481 OBS stuckU=0 mounted=1 fusenfs=1
+1792010481 READ rc=0 dur=0s
+1792010482 OBS stuckU=0 mounted=1 fusenfs=1
+1792010482 READ rc=0 dur=0s
+1792010483 OBS stuckU=0 mounted=1 fusenfs=1
+1792010483 READ rc=0 dur=0s
+1792010484 OBS stuckU=0 mounted=1 fusenfs=1
+1792010484 READ rc=0 dur=0s
+1792010485 OBS stuckU=0 mounted=1 fusenfs=1
+1792010485 READ rc=0 dur=0s
+1792010486 READ rc=0 dur=0s
+1792010486 OBS stuckU=0 mounted=1 fusenfs=1
+1792010488 READ rc=0 dur=0s
+1792010488 OBS stuckU=0 mounted=1 fusenfs=1
+1792010489 READ rc=0 dur=0s
+1792010489 OBS stuckU=0 mounted=1 fusenfs=1
+1792010490 READ rc=0 dur=0s
+1792010490 OBS stuckU=0 mounted=1 fusenfs=1
+1792010491 READ rc=0 dur=0s
+1792010491 OBS stuckU=0 mounted=1 fusenfs=1
+1792010492 READ rc=0 dur=0s
+1792010492 OBS stuckU=0 mounted=1 fusenfs=1
+1792010493 READ rc=0 dur=0s
+1792010493 OBS stuckU=0 mounted=1 fusenfs=1
+1792010494 READ rc=0 dur=0s
+1792010494 OBS stuckU=0 mounted=1 fusenfs=1
+1792010495 READ rc=0 dur=0s
+1792010495 OBS stuckU=0 mounted=1 fusenfs=1
+1792010496 READ rc=0 dur=0s
+1792010496 OBS stuckU=0 mounted=1 fusenfs=1
+1792010497 READ rc=0 dur=0s
+1792010498 OBS stuckU=0 mounted=1 fusenfs=1
+1792010498 READ rc=0 dur=0s
+1792010499 OBS stuckU=0 mounted=1 fusenfs=1
+1792010499 READ rc=0 dur=0s
+1792010500 OBS stuckU=0 mounted=1 fusenfs=1
+1792010500 READ rc=0 dur=0s
+1792010501 READ rc=0 dur=0s
+1792010501 OBS stuckU=0 mounted=1 fusenfs=1
+1792010502 READ rc=0 dur=0s
+1792010502 OBS stuckU=0 mounted=1 fusenfs=1
+1792010503 READ rc=0 dur=0s
+1792010503 OBS stuckU=0 mounted=1 fusenfs=1
+1792010504 READ rc=0 dur=0s
+1792010504 OBS stuckU=0 mounted=1 fusenfs=1
+1792010505 READ rc=0 dur=0s
+1792010505 OBS stuckU=0 mounted=1 fusenfs=1
+1792010506 READ rc=0 dur=0s
+1792010506 OBS stuckU=0 mounted=1 fusenfs=1
+1792010507 READ rc=0 dur=0s
+1792010508 OBS stuckU=0 mounted=1 fusenfs=1
+1792010508 READ rc=0 dur=0s
+1792010509 OBS stuckU=0 mounted=1 fusenfs=1
+1792010509 READ rc=0 dur=0s
+1792010510 OBS stuckU=0 mounted=1 fusenfs=1
+1792010510 READ rc=0 dur=0s
+1792010511 OBS stuckU=0 mounted=1 fusenfs=1
+1792010511 READ rc=0 dur=0s
+1792010512 OBS stuckU=0 mounted=1 fusenfs=1
+1792010512 READ rc=0 dur=0s
+1792010513 OBS stuckU=0 mounted=1 fusenfs=1
+1792010513 READ rc=0 dur=0s
+1792010514 OBS stuckU=0 mounted=1 fusenfs=1
+1792010514 READ rc=0 dur=0s
+1792010515 OBS stuckU=0 mounted=1 fusenfs=1
+1792010515 READ rc=0 dur=0s
+1792010516 READ rc=0 dur=0s
+1792010516 OBS stuckU=0 mounted=1 fusenfs=1
+1792010518 READ rc=0 dur=0s
+1792010518 OBS stuckU=0 mounted=1 fusenfs=1
+1792010519 READ rc=0 dur=0s
+1792010519 OBS stuckU=0 mounted=1 fusenfs=1
+1792010520 READ rc=0 dur=0s
+1792010520 OBS stuckU=0 mounted=1 fusenfs=1
+1792010521 READ rc=0 dur=0s
+1792010521 OBS stuckU=0 mounted=1 fusenfs=1
+1792010522 READ rc=0 dur=0s
+1792010522 OBS stuckU=0 mounted=1 fusenfs=1
+1792010523 READ rc=0 dur=0s
+1792010523 OBS stuckU=0 mounted=1 fusenfs=1
+1792010524 READ rc=0 dur=0s
+1792010524 OBS stuckU=0 mounted=1 fusenfs=1
+1792010525 READ rc=0 dur=0s
+1792010525 OBS stuckU=0 mounted=1 fusenfs=1
+1792010526 READ rc=0 dur=0s
+1792010526 OBS stuckU=0 mounted=1 fusenfs=1
+1792010527 READ rc=0 dur=0s
+1792010528 OBS stuckU=0 mounted=1 fusenfs=1
+1792010528 READ rc=0 dur=0s
+1792010529 OBS stuckU=0 mounted=1 fusenfs=1
+1792010529 READ rc=0 dur=0s
+1792010530 OBS stuckU=0 mounted=1 fusenfs=1
+1792010530 READ rc=0 dur=0s
+1792010531 READ rc=0 dur=0s
+1792010531 OBS stuckU=0 mounted=1 fusenfs=1
+1792010532 READ rc=0 dur=0s
+1792010532 OBS stuckU=0 mounted=1 fusenfs=1
+1792010533 READ rc=0 dur=0s
+1792010533 OBS stuckU=0 mounted=1 fusenfs=1
+1792010534 READ rc=0 dur=0s
+1792010534 OBS stuckU=0 mounted=1 fusenfs=1
+1792010535 READ rc=0 dur=0s
+1792010535 OBS stuckU=0 mounted=1 fusenfs=1
+1792010536 READ rc=0 dur=0s
+1792010536 OBS stuckU=0 mounted=1 fusenfs=1
+1792010537 READ rc=0 dur=0s
+1792010538 OBS stuckU=0 mounted=1 fusenfs=1
+1792010538 READ rc=0 dur=0s
+1792010539 OBS stuckU=0 mounted=1 fusenfs=1
+1792010539 READ rc=0 dur=0s
+1792010540 OBS stuckU=0 mounted=1 fusenfs=1
+1792010540 READ rc=0 dur=0s
+1792010541 OBS stuckU=0 mounted=1 fusenfs=1
+1792010541 READ rc=0 dur=0s
+1792010542 OBS stuckU=0 mounted=1 fusenfs=1
+1792010542 READ rc=0 dur=0s
+1792010543 OBS stuckU=0 mounted=1 fusenfs=1
+1792010543 READ rc=0 dur=0s
+1792010544 OBS stuckU=0 mounted=1 fusenfs=1
+1792010544 READ rc=0 dur=0s
+1792010545 OBS stuckU=0 mounted=1 fusenfs=1
+1792010545 READ rc=0 dur=0s
+1792010546 READ rc=0 dur=0s
+1792010546 OBS stuckU=0 mounted=1 fusenfs=1
+1792010548 READ rc=0 dur=1s
+1792010548 OBS stuckU=0 mounted=1 fusenfs=1
+1792010549 READ rc=0 dur=0s
+1792010549 OBS stuckU=0 mounted=1 fusenfs=1
+1792010550 READ rc=0 dur=0s
+1792010550 OBS stuckU=0 mounted=1 fusenfs=1
+1792010551 READ rc=0 dur=0s
+1792010551 OBS stuckU=1 mounted=1 fusenfs=1
+1792010552 READ rc=0 dur=0s
+1792010552 OBS stuckU=0 mounted=1 fusenfs=1
+1792010553 READ rc=0 dur=0s
+1792010553 OBS stuckU=0 mounted=1 fusenfs=1
+1792010554 READ rc=0 dur=0s
+1792010554 OBS stuckU=0 mounted=1 fusenfs=1
+1792010555 READ rc=0 dur=0s
+1792010555 OBS stuckU=0 mounted=1 fusenfs=1
+1792010556 READ rc=0 dur=0s
+1792010556 OBS stuckU=0 mounted=1 fusenfs=1
+1792010557 READ rc=0 dur=0s
+1792010558 OBS stuckU=0 mounted=1 fusenfs=1
+1792010558 READ rc=0 dur=0s
+1792010559 OBS stuckU=0 mounted=1 fusenfs=1
+1792010559 READ rc=0 dur=0s
+1792010560 OBS stuckU=0 mounted=1 fusenfs=1
+1792010560 READ rc=0 dur=0s
+1792010561 READ rc=0 dur=0s
+1792010561 OBS stuckU=0 mounted=1 fusenfs=1
+1792010562 READ rc=0 dur=0s
+1792010562 OBS stuckU=0 mounted=1 fusenfs=1
+1792010563 READ rc=0 dur=0s
+1792010563 OBS stuckU=0 mounted=1 fusenfs=1
+1792010564 READ rc=0 dur=0s
+1792010564 OBS stuckU=0 mounted=1 fusenfs=1
+1792010565 READ rc=0 dur=0s
+1792010565 OBS stuckU=0 mounted=1 fusenfs=1
+1792010566 READ rc=0 dur=0s
+1792010566 OBS stuckU=0 mounted=1 fusenfs=1
+1792010567 READ rc=0 dur=0s
+1792010568 OBS stuckU=0 mounted=1 fusenfs=1
+1792010568 READ rc=0 dur=0s
+1792010569 OBS stuckU=0 mounted=1 fusenfs=1
+1792010569 READ rc=0 dur=0s
+1792010570 OBS stuckU=0 mounted=1 fusenfs=1
+1792010570 READ rc=0 dur=0s
+1792010571 OBS stuckU=0 mounted=1 fusenfs=1
+1792010571 READ rc=0 dur=0s
+1792010572 OBS stuckU=0 mounted=1 fusenfs=1
+1792010572 READ rc=0 dur=0s
+1792010573 OBS stuckU=0 mounted=1 fusenfs=1
+1792010573 READ rc=0 dur=0s
+1792010574 OBS stuckU=0 mounted=1 fusenfs=1
+1792010574 READ rc=0 dur=0s
+1792010575 OBS stuckU=0 mounted=1 fusenfs=1
+1792010575 READ rc=0 dur=0s
+1792010576 READ rc=0 dur=0s
+1792010576 OBS stuckU=0 mounted=1 fusenfs=1
+1792010577 READ rc=0 dur=0s
+1792010578 OBS stuckU=0 mounted=1 fusenfs=1
+1792010578 READ rc=0 dur=0s
+1792010579 OBS stuckU=0 mounted=1 fusenfs=1
+1792010580 READ rc=0 dur=0s
+1792010580 OBS stuckU=0 mounted=1 fusenfs=1
+1792010581 READ rc=0 dur=0s
+1792010581 OBS stuckU=1 mounted=1 fusenfs=1
+1792010582 READ rc=0 dur=0s
+1792010582 OBS stuckU=0 mounted=1 fusenfs=1
+1792010583 READ rc=0 dur=0s
+1792010583 OBS stuckU=0 mounted=1 fusenfs=1
+1792010584 READ rc=0 dur=0s
+1792010584 OBS stuckU=0 mounted=1 fusenfs=1
+1792010585 READ rc=0 dur=0s
+1792010585 OBS stuckU=0 mounted=1 fusenfs=1
+1792010586 READ rc=0 dur=0s
+1792010586 OBS stuckU=0 mounted=1 fusenfs=1
+1792010587 READ rc=0 dur=0s
+1792010588 OBS stuckU=0 mounted=1 fusenfs=1
+1792010588 READ rc=0 dur=0s
+1792010589 OBS stuckU=0 mounted=1 fusenfs=1
+1792010589 READ rc=0 dur=0s
+1792010590 OBS stuckU=0 mounted=1 fusenfs=1
+1792010590 READ rc=0 dur=0s
+1792010591 READ rc=0 dur=0s
+1792010591 OBS stuckU=0 mounted=1 fusenfs=1
+1792010592 READ rc=0 dur=0s
+1792010592 OBS stuckU=0 mounted=1 fusenfs=1
+1792010593 READ rc=0 dur=0s
+1792010593 OBS stuckU=0 mounted=1 fusenfs=1
+1792010594 READ rc=0 dur=0s
+1792010594 OBS stuckU=0 mounted=1 fusenfs=1
+1792010595 READ rc=0 dur=0s
+1792010595 OBS stuckU=0 mounted=1 fusenfs=1
+1792010596 READ rc=0 dur=0s
+1792010596 OBS stuckU=0 mounted=1 fusenfs=1
+1792010597 READ rc=0 dur=0s
+1792010598 OBS stuckU=0 mounted=1 fusenfs=1
+1792010598 READ rc=0 dur=0s
+1792010599 OBS stuckU=0 mounted=1 fusenfs=1
+1792010599 READ rc=0 dur=0s
+1792010600 OBS stuckU=0 mounted=1 fusenfs=1
+1792010600 READ rc=0 dur=0s
+1792010601 OBS stuckU=0 mounted=1 fusenfs=1
+1792010601 READ rc=0 dur=0s
+1792010602 OBS stuckU=0 mounted=1 fusenfs=1
+1792010602 READ rc=0 dur=0s
+1792010603 OBS stuckU=0 mounted=1 fusenfs=1
+1792010603 READ rc=0 dur=0s
+1792010604 OBS stuckU=0 mounted=1 fusenfs=1
+1792010604 READ rc=0 dur=0s
+1792010605 READ rc=0 dur=0s
+1792010605 OBS stuckU=0 mounted=1 fusenfs=1
+1792010606 READ rc=0 dur=0s
+1792010606 OBS stuckU=0 mounted=1 fusenfs=1
+1792010607 READ rc=0 dur=0s
+1792010607 OBS stuckU=0 mounted=1 fusenfs=1
+1792010608 READ rc=0 dur=0s
+1792010609 OBS stuckU=0 mounted=1 fusenfs=1
+1792010610 READ rc=0 dur=1s
+1792010610 OBS stuckU=0 mounted=1 fusenfs=1
+1792010611 READ rc=0 dur=0s
+1792010611 OBS stuckU=0 mounted=1 fusenfs=1
+1792010612 READ rc=0 dur=0s
+1792010612 OBS stuckU=0 mounted=1 fusenfs=1
+1792010613 READ rc=0 dur=0s
+1792010613 OBS stuckU=0 mounted=1 fusenfs=1
+1792010614 READ rc=0 dur=0s
+1792010614 OBS stuckU=0 mounted=1 fusenfs=1
+1792010615 READ rc=0 dur=0s
+1792010615 OBS stuckU=0 mounted=1 fusenfs=1
+1792010616 READ rc=0 dur=0s
+1792010616 OBS stuckU=0 mounted=1 fusenfs=1
+1792010617 READ rc=0 dur=0s
+1792010617 OBS stuckU=0 mounted=1 fusenfs=1
+1792010618 READ rc=0 dur=0s
+1792010619 OBS stuckU=0 mounted=1 fusenfs=1
+1792010619 READ rc=0 dur=0s
+1792010620 OBS stuckU=0 mounted=1 fusenfs=1
+1792010620 READ rc=0 dur=0s
+1792010621 READ rc=0 dur=0s
+1792010621 OBS stuckU=0 mounted=1 fusenfs=1
+1792010622 READ rc=0 dur=0s
+1792010622 OBS stuckU=0 mounted=1 fusenfs=1
+1792010623 READ rc=0 dur=0s
+1792010623 OBS stuckU=0 mounted=1 fusenfs=1
+1792010624 READ rc=0 dur=0s
+1792010624 OBS stuckU=0 mounted=1 fusenfs=1
+1792010625 READ rc=0 dur=0s
+1792010625 OBS stuckU=0 mounted=1 fusenfs=1
+1792010626 READ rc=0 dur=0s
+1792010626 OBS stuckU=0 mounted=1 fusenfs=1
+1792010627 READ rc=0 dur=0s
+1792010627 OBS stuckU=0 mounted=1 fusenfs=1
+1792010628 READ rc=0 dur=0s
+1792010629 OBS stuckU=0 mounted=1 fusenfs=1
+1792010629 READ rc=0 dur=0s
+1792010630 OBS stuckU=0 mounted=1 fusenfs=1
+1792010630 READ rc=0 dur=0s
+1792010631 OBS stuckU=0 mounted=1 fusenfs=1
+1792010631 READ rc=0 dur=0s
+1792010632 OBS stuckU=0 mounted=1 fusenfs=1
+1792010632 READ rc=0 dur=0s
+1792010633 OBS stuckU=0 mounted=1 fusenfs=1
+1792010633 READ rc=0 dur=0s
+1792010634 OBS stuckU=0 mounted=1 fusenfs=1
+1792010634 READ rc=0 dur=0s
+1792010635 READ rc=0 dur=0s
+1792010635 OBS stuckU=0 mounted=1 fusenfs=1
+1792010636 READ rc=0 dur=0s
+1792010636 OBS stuckU=0 mounted=1 fusenfs=1
+1792010637 READ rc=0 dur=0s
+1792010637 OBS stuckU=0 mounted=1 fusenfs=1
+1792010638 READ rc=0 dur=0s
+1792010639 OBS stuckU=0 mounted=1 fusenfs=1
+1792010640 READ rc=0 dur=1s
+1792010640 OBS stuckU=0 mounted=1 fusenfs=1
+1792010641 READ rc=0 dur=0s
+1792010641 OBS stuckU=0 mounted=1 fusenfs=1
+1792010642 READ rc=0 dur=0s
+1792010642 OBS stuckU=0 mounted=1 fusenfs=1
+1792010643 READ rc=0 dur=0s
+1792010643 OBS stuckU=0 mounted=1 fusenfs=1
+1792010644 READ rc=0 dur=0s
+1792010644 OBS stuckU=0 mounted=1 fusenfs=1
+1792010645 READ rc=0 dur=0s
+1792010645 OBS stuckU=0 mounted=1 fusenfs=1
+1792010646 READ rc=0 dur=0s
+1792010646 OBS stuckU=0 mounted=1 fusenfs=1
+1792010647 READ rc=0 dur=0s
+1792010647 OBS stuckU=0 mounted=1 fusenfs=1
+1792010648 READ rc=0 dur=0s
+1792010649 OBS stuckU=0 mounted=1 fusenfs=1
+1792010649 READ rc=0 dur=0s
+1792010650 OBS stuckU=0 mounted=1 fusenfs=1
+1792010650 READ rc=0 dur=0s
+1792010651 READ rc=0 dur=0s
+1792010651 OBS stuckU=0 mounted=1 fusenfs=1
+1792010652 READ rc=0 dur=0s
+1792010652 OBS stuckU=0 mounted=1 fusenfs=1
+1792010653 READ rc=0 dur=0s
+1792010653 OBS stuckU=0 mounted=1 fusenfs=1
+1792010654 READ rc=0 dur=0s
+1792010654 OBS stuckU=0 mounted=1 fusenfs=1
+1792010655 READ rc=0 dur=0s
+1792010655 OBS stuckU=0 mounted=1 fusenfs=1
+1792010656 READ rc=0 dur=0s
+1792010656 OBS stuckU=0 mounted=1 fusenfs=1
+1792010657 READ rc=0 dur=0s
+1792010658 OBS stuckU=0 mounted=1 fusenfs=1
+1792010658 READ rc=0 dur=0s
+1792010659 OBS stuckU=0 mounted=1 fusenfs=1
+1792010659 READ rc=0 dur=0s
+1792010660 OBS stuckU=0 mounted=1 fusenfs=1
+1792010660 READ rc=0 dur=0s
+1792010661 OBS stuckU=1 mounted=1 fusenfs=1
+1792010661 READ rc=0 dur=0s
+1792010662 OBS stuckU=1 mounted=1 fusenfs=1
+1792010662 READ rc=0 dur=0s
+1792010663 OBS stuckU=1 mounted=1 fusenfs=1
+1792010663 READ rc=0 dur=0s
+1792010664 OBS stuckU=1 mounted=1 fusenfs=1
+1792010664 READ rc=0 dur=0s
+1792010665 READ rc=0 dur=0s
+1792010665 OBS stuckU=1 mounted=1 fusenfs=1
+1792010666 READ rc=0 dur=0s
+1792010666 OBS stuckU=1 mounted=1 fusenfs=1
+1792010667 READ rc=0 dur=0s
+1792010667 OBS stuckU=0 mounted=1 fusenfs=1
+1792010668 READ rc=0 dur=0s
+1792010669 OBS stuckU=1 mounted=1 fusenfs=1
+1792010669 READ rc=0 dur=0s
+1792010670 OBS stuckU=0 mounted=1 fusenfs=1
+1792010671 READ rc=0 dur=0s
+1792010671 OBS stuckU=1 mounted=1 fusenfs=1
+1792010672 READ rc=0 dur=0s
+1792010672 OBS stuckU=1 mounted=1 fusenfs=1
+1792010673 READ rc=0 dur=0s
+1792010673 OBS stuckU=1 mounted=1 fusenfs=1
+1792010674 READ rc=0 dur=0s
+1792010674 OBS stuckU=1 mounted=1 fusenfs=1
+1792010675 READ rc=0 dur=0s
+1792010675 OBS stuckU=1 mounted=1 fusenfs=1
+1792010676 READ rc=0 dur=0s
+1792010676 OBS stuckU=1 mounted=1 fusenfs=1
+1792010677 READ rc=0 dur=0s
+1792010678 OBS stuckU=1 mounted=1 fusenfs=1
+1792010678 READ rc=0 dur=0s
+1792010679 OBS stuckU=1 mounted=1 fusenfs=1
+1792010679 READ rc=0 dur=0s
+1792010680 READ rc=0 dur=0s
+1792010680 OBS stuckU=1 mounted=1 fusenfs=1
+1792010681 READ rc=0 dur=0s
+1792010681 OBS stuckU=1 mounted=1 fusenfs=1
+1792010682 READ rc=0 dur=0s
+1792010682 OBS stuckU=1 mounted=1 fusenfs=1
+1792010683 READ rc=0 dur=0s
+1792010683 OBS stuckU=0 mounted=1 fusenfs=1
+1792010684 READ rc=0 dur=0s
+1792010684 OBS stuckU=0 mounted=1 fusenfs=1
+1792010685 READ rc=0 dur=0s
+1792010685 OBS stuckU=0 mounted=1 fusenfs=1
+1792010686 READ rc=0 dur=0s
+1792010686 OBS stuckU=0 mounted=1 fusenfs=1
+1792010687 READ rc=0 dur=0s
+1792010688 OBS stuckU=0 mounted=1 fusenfs=1
+1792010688 READ rc=0 dur=0s
+1792010689 OBS stuckU=0 mounted=1 fusenfs=1
+1792010689 READ rc=0 dur=0s
+1792010690 OBS stuckU=0 mounted=1 fusenfs=1
+1792010690 READ rc=0 dur=0s
+1792010691 OBS stuckU=0 mounted=1 fusenfs=1
+1792010691 READ rc=0 dur=0s
+1792010692 OBS stuckU=0 mounted=1 fusenfs=1
+1792010692 READ rc=0 dur=0s
+1792010693 OBS stuckU=0 mounted=1 fusenfs=1
+1792010693 READ rc=0 dur=0s
+1792010694 OBS stuckU=0 mounted=1 fusenfs=1
+1792010694 READ rc=0 dur=0s
+1792010695 READ rc=0 dur=0s
+1792010695 OBS stuckU=0 mounted=1 fusenfs=1
+1792010696 READ rc=0 dur=0s
+1792010696 OBS stuckU=0 mounted=1 fusenfs=1
+1792010697 READ rc=0 dur=0s
+1792010697 OBS stuckU=0 mounted=1 fusenfs=1
+1792010698 READ rc=0 dur=0s
+1792010699 OBS stuckU=0 mounted=1 fusenfs=1
+1792010699 READ rc=0 dur=0s
+1792010700 OBS stuckU=0 mounted=1 fusenfs=1
+1792010701 READ rc=0 dur=0s
+1792010701 OBS stuckU=0 mounted=1 fusenfs=1
+1792010702 READ rc=0 dur=0s
+1792010702 OBS stuckU=0 mounted=1 fusenfs=1
+1792010703 READ rc=0 dur=0s
+1792010703 OBS stuckU=0 mounted=1 fusenfs=1
+1792010704 READ rc=0 dur=0s
+1792010704 OBS stuckU=0 mounted=1 fusenfs=1
+1792010705 READ rc=0 dur=0s
+1792010705 OBS stuckU=0 mounted=1 fusenfs=1
+1792010706 READ rc=0 dur=0s
+1792010706 OBS stuckU=0 mounted=1 fusenfs=1
+1792010707 READ rc=0 dur=0s
+1792010707 OBS stuckU=0 mounted=1 fusenfs=1
+1792010708 READ rc=0 dur=0s
+1792010709 OBS stuckU=0 mounted=1 fusenfs=1
+1792010709 READ rc=0 dur=0s
+1792010710 OBS stuckU=0 mounted=1 fusenfs=1
+1792010710 READ rc=0 dur=0s
+1792010711 READ rc=0 dur=0s
+1792010711 OBS stuckU=0 mounted=1 fusenfs=1
+1792010712 READ rc=0 dur=0s
+1792010712 OBS stuckU=0 mounted=1 fusenfs=1
+1792010713 READ rc=0 dur=0s
+1792010713 OBS stuckU=0 mounted=1 fusenfs=1
+1792010714 READ rc=0 dur=0s
+1792010714 OBS stuckU=0 mounted=1 fusenfs=1
+1792010715 READ rc=0 dur=0s
+1792010715 OBS stuckU=0 mounted=1 fusenfs=1
+1792010716 READ rc=0 dur=0s
+1792010716 OBS stuckU=0 mounted=1 fusenfs=1
+1792010717 READ rc=0 dur=0s
+1792010717 OBS stuckU=0 mounted=1 fusenfs=1
+1792010718 READ rc=0 dur=0s
+1792010719 OBS stuckU=0 mounted=1 fusenfs=1
+1792010719 READ rc=0 dur=0s
+1792010720 OBS stuckU=0 mounted=1 fusenfs=1
+1792010720 READ rc=0 dur=0s
+1792010721 OBS stuckU=0 mounted=1 fusenfs=1
+1792010721 READ rc=0 dur=0s
+1792010722 OBS stuckU=0 mounted=1 fusenfs=1
+1792010722 READ rc=0 dur=0s
+1792010723 OBS stuckU=0 mounted=1 fusenfs=1
+1792010723 READ rc=0 dur=0s
+1792010724 OBS stuckU=0 mounted=1 fusenfs=1
+1792010724 READ rc=0 dur=0s
+1792010725 READ rc=0 dur=0s
+1792010725 OBS stuckU=0 mounted=1 fusenfs=1
+1792010726 READ rc=0 dur=0s
+1792010726 OBS stuckU=0 mounted=1 fusenfs=1
+1792010727 READ rc=0 dur=0s
+1792010727 OBS stuckU=0 mounted=1 fusenfs=1
+1792010728 READ rc=0 dur=0s
+1792010729 OBS stuckU=0 mounted=1 fusenfs=1
+1792010729 READ rc=0 dur=0s
+1792010730 OBS stuckU=0 mounted=1 fusenfs=1
+1792010730 READ rc=0 dur=0s
+1792010731 OBS stuckU=0 mounted=1 fusenfs=1
+1792010732 READ rc=0 dur=0s
+1792010732 OBS stuckU=0 mounted=1 fusenfs=1
+1792010733 READ rc=0 dur=0s
+1792010733 OBS stuckU=0 mounted=1 fusenfs=1
+1792010734 READ rc=0 dur=0s
+1792010734 OBS stuckU=0 mounted=1 fusenfs=1
+1792010735 READ rc=0 dur=0s
+1792010735 OBS stuckU=0 mounted=1 fusenfs=1
+1792010736 READ rc=0 dur=0s
+1792010736 OBS stuckU=0 mounted=1 fusenfs=1
+1792010737 READ rc=0 dur=0s
+1792010737 OBS stuckU=0 mounted=1 fusenfs=1
+1792010738 READ rc=0 dur=0s
+1792010739 OBS stuckU=0 mounted=1 fusenfs=1
+1792010739 READ rc=0 dur=0s
+1792010740 READ rc=0 dur=0s
+1792010740 OBS stuckU=0 mounted=1 fusenfs=1
+1792010741 READ rc=0 dur=0s
+1792010741 OBS stuckU=0 mounted=1 fusenfs=1
+1792010742 READ rc=0 dur=0s
+1792010742 OBS stuckU=0 mounted=1 fusenfs=1
+1792010743 READ rc=0 dur=0s
+1792010743 OBS stuckU=0 mounted=1 fusenfs=1
+1792010744 READ rc=0 dur=0s
+1792010744 OBS stuckU=0 mounted=1 fusenfs=1
+1792010745 READ rc=0 dur=0s
+1792010745 OBS stuckU=0 mounted=1 fusenfs=1
+1792010746 READ rc=0 dur=0s
+1792010746 OBS stuckU=0 mounted=1 fusenfs=1
+1792010747 READ rc=0 dur=0s
+1792010747 OBS stuckU=0 mounted=1 fusenfs=1
+1792010748 READ rc=0 dur=0s
+1792010749 OBS stuckU=0 mounted=1 fusenfs=1
+1792010749 READ rc=0 dur=0s
+1792010750 OBS stuckU=0 mounted=1 fusenfs=1
+1792010750 READ rc=0 dur=0s
+1792010751 OBS stuckU=0 mounted=1 fusenfs=1
+1792010751 READ rc=0 dur=0s
+1792010752 OBS stuckU=0 mounted=1 fusenfs=1
+1792010752 READ rc=0 dur=0s
+1792010753 OBS stuckU=0 mounted=1 fusenfs=1
+1792010753 READ rc=0 dur=0s
+1792010754 OBS stuckU=0 mounted=1 fusenfs=1
+1792010754 READ rc=0 dur=0s
+1792010755 READ rc=0 dur=0s
+1792010755 OBS stuckU=0 mounted=1 fusenfs=1
+1792010756 READ rc=0 dur=0s
+1792010756 OBS stuckU=0 mounted=1 fusenfs=1
+1792010757 READ rc=0 dur=0s
+1792010757 OBS stuckU=0 mounted=1 fusenfs=1
+1792010758 READ rc=0 dur=0s
+1792010759 OBS stuckU=0 mounted=1 fusenfs=1
+1792010759 READ rc=0 dur=0s
+1792010760 OBS stuckU=0 mounted=1 fusenfs=1
+1792010760 READ rc=0 dur=0s
+1792010761 OBS stuckU=0 mounted=1 fusenfs=1
+1792010762 READ rc=0 dur=0s
+1792010762 OBS stuckU=0 mounted=1 fusenfs=1
+1792010763 READ rc=0 dur=0s
+1792010763 OBS stuckU=0 mounted=1 fusenfs=1
+1792010764 READ rc=0 dur=0s
+1792010764 OBS stuckU=0 mounted=1 fusenfs=1
+1792010765 READ rc=0 dur=0s
+1792010765 OBS stuckU=0 mounted=1 fusenfs=1
+1792010766 READ rc=0 dur=0s
+1792010766 OBS stuckU=0 mounted=1 fusenfs=1
+1792010767 READ rc=0 dur=0s
+1792010767 OBS stuckU=0 mounted=1 fusenfs=1
+1792010768 READ rc=0 dur=0s
+1792010769 OBS stuckU=0 mounted=1 fusenfs=1
+1792010769 READ rc=0 dur=0s
+1792010770 OBS stuckU=0 mounted=1 fusenfs=1
+1792010770 READ rc=0 dur=0s
+1792010771 READ rc=0 dur=0s
+1792010771 OBS stuckU=0 mounted=1 fusenfs=1
+1792010772 READ rc=0 dur=0s
+1792010772 OBS stuckU=0 mounted=1 fusenfs=1
+1792010773 READ rc=0 dur=0s
+1792010773 OBS stuckU=0 mounted=1 fusenfs=1
+1792010774 READ rc=0 dur=0s
+1792010774 OBS stuckU=0 mounted=1 fusenfs=1
+1792010775 READ rc=0 dur=0s
+1792010775 OBS stuckU=0 mounted=1 fusenfs=1
+1792010776 READ rc=0 dur=0s
+1792010776 OBS stuckU=0 mounted=1 fusenfs=1
+1792010777 READ rc=0 dur=0s
+1792010777 OBS stuckU=0 mounted=1 fusenfs=1
+1792010778 READ rc=0 dur=0s
+1792010779 OBS stuckU=0 mounted=1 fusenfs=1
+1792010779 READ rc=0 dur=0s
+1792010780 OBS stuckU=0 mounted=1 fusenfs=1
+1792010780 READ rc=0 dur=0s
+1792010781 OBS stuckU=0 mounted=1 fusenfs=1
+1792010781 READ rc=0 dur=0s
+1792010782 OBS stuckU=0 mounted=1 fusenfs=1
+1792010782 READ rc=0 dur=0s
+1792010783 OBS stuckU=0 mounted=1 fusenfs=1
+1792010783 READ rc=0 dur=0s
+1792010784 OBS stuckU=0 mounted=1 fusenfs=1
+1792010784 READ rc=0 dur=0s
+1792010785 READ rc=0 dur=0s
+1792010785 OBS stuckU=0 mounted=1 fusenfs=1
+1792010786 READ rc=0 dur=0s
+1792010786 OBS stuckU=0 mounted=1 fusenfs=1
+1792010787 READ rc=0 dur=0s
+1792010787 OBS stuckU=0 mounted=1 fusenfs=1
+1792010788 READ rc=0 dur=0s
+1792010789 OBS stuckU=0 mounted=1 fusenfs=1
+1792010789 READ rc=0 dur=0s
+1792010790 OBS stuckU=0 mounted=1 fusenfs=1
+1792010790 READ rc=0 dur=0s
+1792010791 OBS stuckU=0 mounted=1 fusenfs=1
+1792010792 READ rc=0 dur=0s
+1792010792 OBS stuckU=0 mounted=1 fusenfs=1
+1792010793 READ rc=0 dur=0s
+1792010793 OBS stuckU=0 mounted=1 fusenfs=1
+1792010794 READ rc=0 dur=0s
+1792010794 OBS stuckU=0 mounted=1 fusenfs=1
+1792010795 READ rc=0 dur=0s
+1792010795 OBS stuckU=0 mounted=1 fusenfs=1
+1792010796 READ rc=0 dur=0s
+1792010796 OBS stuckU=0 mounted=1 fusenfs=1
+1792010797 READ rc=0 dur=0s
+1792010797 OBS stuckU=0 mounted=1 fusenfs=1
+1792010798 READ rc=0 dur=0s
+1792010799 OBS stuckU=0 mounted=1 fusenfs=1
+1792010799 READ rc=0 dur=0s
+1792010800 OBS stuckU=0 mounted=1 fusenfs=1
+1792010800 READ rc=0 dur=0s
+1792010801 READ rc=0 dur=0s
+1792010801 OBS stuckU=0 mounted=1 fusenfs=1
+1792010802 READ rc=0 dur=0s
+1792010802 OBS stuckU=0 mounted=1 fusenfs=1
+1792010803 READ rc=0 dur=0s
+1792010803 OBS stuckU=0 mounted=1 fusenfs=1
+1792010804 READ rc=0 dur=0s
+1792010804 OBS stuckU=0 mounted=1 fusenfs=1
+1792010805 READ rc=0 dur=0s
+1792010805 OBS stuckU=0 mounted=1 fusenfs=1
+1792010806 READ rc=0 dur=0s
+1792010806 OBS stuckU=0 mounted=1 fusenfs=1
+1792010807 READ rc=0 dur=0s
+1792010807 OBS stuckU=0 mounted=1 fusenfs=1
+1792010808 READ rc=0 dur=0s
+1792010809 OBS stuckU=0 mounted=1 fusenfs=1
+1792010809 READ rc=0 dur=0s
+1792010810 OBS stuckU=0 mounted=1 fusenfs=1
+1792010810 READ rc=0 dur=0s
+1792010811 OBS stuckU=0 mounted=1 fusenfs=1
+1792010811 READ rc=0 dur=0s
+1792010812 OBS stuckU=0 mounted=1 fusenfs=1
+1792010812 READ rc=0 dur=0s
+1792010813 OBS stuckU=0 mounted=1 fusenfs=1
+1792010813 READ rc=0 dur=0s
+1792010814 OBS stuckU=0 mounted=1 fusenfs=1
+1792010814 READ rc=0 dur=0s
+1792010815 READ rc=0 dur=0s
+1792010815 OBS stuckU=0 mounted=1 fusenfs=1
+1792010816 READ rc=0 dur=0s
+1792010816 OBS stuckU=0 mounted=1 fusenfs=1
+1792010817 READ rc=0 dur=0s
+1792010817 OBS stuckU=0 mounted=1 fusenfs=1
+1792010818 READ rc=0 dur=0s
+1792010819 OBS stuckU=0 mounted=1 fusenfs=1
+1792010819 READ rc=0 dur=0s
+1792010820 OBS stuckU=0 mounted=1 fusenfs=1
+1792010820 READ rc=0 dur=0s
+1792010821 OBS stuckU=0 mounted=1 fusenfs=1
+1792010822 READ rc=0 dur=0s
+1792010822 OBS stuckU=0 mounted=1 fusenfs=1
+1792010823 READ rc=0 dur=0s
+1792010823 OBS stuckU=0 mounted=1 fusenfs=1
+1792010824 READ rc=0 dur=0s
+1792010824 OBS stuckU=0 mounted=1 fusenfs=1
+1792010825 READ rc=0 dur=0s
+1792010825 OBS stuckU=0 mounted=1 fusenfs=1
+1792010826 READ rc=0 dur=0s
+1792010826 OBS stuckU=0 mounted=1 fusenfs=1
+1792010827 READ rc=0 dur=0s
+1792010827 OBS stuckU=1 mounted=1 fusenfs=1
+1792010828 READ rc=0 dur=0s
+1792010829 OBS stuckU=0 mounted=1 fusenfs=1
+1792010829 READ rc=0 dur=0s
+1792010830 OBS stuckU=0 mounted=1 fusenfs=1
+1792010830 READ rc=0 dur=0s
+1792010831 READ rc=0 dur=0s
+1792010831 OBS stuckU=0 mounted=1 fusenfs=1
+1792010832 READ rc=0 dur=0s
+1792010832 OBS stuckU=0 mounted=1 fusenfs=1
+1792010833 READ rc=0 dur=0s
+1792010833 OBS stuckU=0 mounted=1 fusenfs=1
+1792010834 READ rc=0 dur=0s
+1792010834 OBS stuckU=0 mounted=1 fusenfs=1
+1792010835 READ rc=0 dur=0s
+1792010835 OBS stuckU=0 mounted=1 fusenfs=1
+1792010836 READ rc=0 dur=0s
+1792010836 OBS stuckU=0 mounted=1 fusenfs=1
+1792010837 READ rc=0 dur=0s
+1792010837 OBS stuckU=0 mounted=1 fusenfs=1
+1792010838 READ rc=0 dur=0s
+1792010839 OBS stuckU=0 mounted=1 fusenfs=1
+1792010839 READ rc=0 dur=0s
+1792010840 OBS stuckU=0 mounted=1 fusenfs=1
+1792010840 READ rc=0 dur=0s
+1792010841 OBS stuckU=0 mounted=1 fusenfs=1
+1792010841 READ rc=0 dur=0s
+1792010842 OBS stuckU=0 mounted=1 fusenfs=1
+1792010842 READ rc=0 dur=0s
+1792010843 OBS stuckU=0 mounted=1 fusenfs=1
+1792010843 READ rc=0 dur=0s
+1792010844 OBS stuckU=0 mounted=1 fusenfs=1
+1792010844 READ rc=0 dur=0s
+1792010845 READ rc=0 dur=0s
+1792010845 OBS stuckU=0 mounted=1 fusenfs=1
+1792010846 READ rc=0 dur=0s
+1792010846 OBS stuckU=1 mounted=1 fusenfs=1
+1792010847 READ rc=0 dur=0s
+1792010847 OBS stuckU=0 mounted=1 fusenfs=1
+1792010848 READ rc=0 dur=0s
+1792010849 OBS stuckU=0 mounted=1 fusenfs=1
+1792010849 READ rc=0 dur=0s
+1792010850 OBS stuckU=0 mounted=1 fusenfs=1
+1792010850 READ rc=0 dur=0s
+1792010851 OBS stuckU=0 mounted=1 fusenfs=1
+1792010852 READ rc=0 dur=1s
+1792010852 OBS stuckU=0 mounted=1 fusenfs=1
+1792010853 READ rc=0 dur=0s
+1792010853 OBS stuckU=0 mounted=1 fusenfs=1
+1792010854 READ rc=0 dur=0s
+1792010854 OBS stuckU=0 mounted=1 fusenfs=1
+1792010855 READ rc=0 dur=0s
+1792010855 OBS stuckU=0 mounted=1 fusenfs=1
+1792010856 READ rc=0 dur=0s
+1792010856 OBS stuckU=0 mounted=1 fusenfs=1
+1792010857 READ rc=0 dur=0s
+1792010857 OBS stuckU=0 mounted=1 fusenfs=1
+1792010858 READ rc=0 dur=0s
+1792010859 OBS stuckU=0 mounted=1 fusenfs=1
+1792010859 READ rc=0 dur=0s
+1792010860 READ rc=0 dur=0s
+1792010860 OBS stuckU=0 mounted=1 fusenfs=1
+1792010861 READ rc=0 dur=0s
+1792010861 OBS stuckU=0 mounted=1 fusenfs=1
+1792010862 READ rc=0 dur=0s
+1792010862 OBS stuckU=0 mounted=1 fusenfs=1
+1792010863 READ rc=0 dur=0s
+1792010863 OBS stuckU=0 mounted=1 fusenfs=1
+1792010864 READ rc=0 dur=0s
+1792010864 OBS stuckU=0 mounted=1 fusenfs=1
+1792010865 READ rc=0 dur=0s
+1792010865 OBS stuckU=0 mounted=1 fusenfs=1
+1792010866 READ rc=0 dur=0s
+1792010866 OBS stuckU=0 mounted=1 fusenfs=1
+1792010867 READ rc=0 dur=0s
+1792010867 OBS stuckU=0 mounted=1 fusenfs=1
+1792010868 READ rc=0 dur=0s
+1792010869 OBS stuckU=0 mounted=1 fusenfs=1
+1792010869 READ rc=0 dur=0s
+1792010870 OBS stuckU=0 mounted=1 fusenfs=1
+1792010870 READ rc=0 dur=0s
+1792010871 OBS stuckU=0 mounted=1 fusenfs=1
+1792010871 READ rc=0 dur=0s
+1792010872 OBS stuckU=0 mounted=1 fusenfs=1
+1792010872 READ rc=0 dur=0s
+1792010873 OBS stuckU=0 mounted=1 fusenfs=1
+1792010873 READ rc=0 dur=0s
+1792010874 OBS stuckU=0 mounted=1 fusenfs=1
+1792010874 READ rc=0 dur=0s
+1792010875 READ rc=0 dur=0s
+1792010875 OBS stuckU=0 mounted=1 fusenfs=1
+1792010876 READ rc=0 dur=0s
+1792010876 OBS stuckU=0 mounted=1 fusenfs=1
+1792010877 READ rc=0 dur=0s
+1792010877 OBS stuckU=0 mounted=1 fusenfs=1
+1792010878 READ rc=0 dur=0s
+1792010879 OBS stuckU=0 mounted=1 fusenfs=1
+1792010879 READ rc=0 dur=0s
+1792010880 OBS stuckU=0 mounted=1 fusenfs=1
+1792010880 READ rc=0 dur=0s
+1792010881 OBS stuckU=0 mounted=1 fusenfs=1
+1792010881 READ rc=0 dur=0s
+1792010882 OBS stuckU=0 mounted=1 fusenfs=1
+1792010883 READ rc=0 dur=0s
+1792010883 OBS stuckU=0 mounted=1 fusenfs=1
+1792010884 READ rc=0 dur=0s
+1792010884 OBS stuckU=0 mounted=1 fusenfs=1
+1792010885 READ rc=0 dur=0s
+1792010885 OBS stuckU=0 mounted=1 fusenfs=1
+1792010886 READ rc=0 dur=0s
+1792010886 OBS stuckU=0 mounted=1 fusenfs=1
+1792010887 READ rc=0 dur=0s
+1792010887 OBS stuckU=0 mounted=1 fusenfs=1
+1792010888 READ rc=0 dur=0s
+1792010889 OBS stuckU=0 mounted=1 fusenfs=1
+1792010889 READ rc=0 dur=0s
+1792010890 OBS stuckU=0 mounted=1 fusenfs=1
+1792010890 READ rc=0 dur=0s
+1792010891 READ rc=0 dur=0s
+1792010891 OBS stuckU=0 mounted=1 fusenfs=1
+1792010892 READ rc=0 dur=0s
+1792010892 OBS stuckU=0 mounted=1 fusenfs=1
+1792010893 READ rc=0 dur=0s
+1792010893 OBS stuckU=0 mounted=1 fusenfs=1
+1792010894 READ rc=0 dur=0s
+1792010894 OBS stuckU=0 mounted=1 fusenfs=1
+1792010895 READ rc=0 dur=0s
+1792010895 OBS stuckU=0 mounted=1 fusenfs=1
+1792010896 READ rc=0 dur=0s
+1792010896 OBS stuckU=0 mounted=1 fusenfs=1
+1792010897 READ rc=0 dur=0s
+1792010897 OBS stuckU=0 mounted=1 fusenfs=1
+1792010898 READ rc=0 dur=0s
+1792010899 OBS stuckU=0 mounted=1 fusenfs=1
+1792010899 READ rc=0 dur=0s
+1792010900 OBS stuckU=0 mounted=1 fusenfs=1
+1792010900 READ rc=0 dur=0s
+1792010901 OBS stuckU=0 mounted=1 fusenfs=1
+1792010901 READ rc=0 dur=0s
+1792010902 OBS stuckU=0 mounted=1 fusenfs=1
+1792010902 READ rc=0 dur=0s
+1792010903 OBS stuckU=0 mounted=1 fusenfs=1
+1792010903 READ rc=0 dur=0s
+1792010904 OBS stuckU=0 mounted=1 fusenfs=1
+1792010904 READ rc=0 dur=0s
+1792010905 READ rc=0 dur=0s
+1792010905 OBS stuckU=0 mounted=1 fusenfs=1
+1792010906 READ rc=0 dur=0s
+1792010906 OBS stuckU=0 mounted=1 fusenfs=1
+1792010907 READ rc=0 dur=0s
+1792010907 OBS stuckU=0 mounted=1 fusenfs=1
+1792010908 READ rc=0 dur=0s
+1792010909 OBS stuckU=0 mounted=1 fusenfs=1
+1792010909 READ rc=0 dur=0s
+1792010910 OBS stuckU=0 mounted=1 fusenfs=1
+1792010910 READ rc=0 dur=0s
+1792010911 OBS stuckU=0 mounted=1 fusenfs=1
+1792010911 READ rc=0 dur=0s
+1792010912 OBS stuckU=0 mounted=1 fusenfs=1
+1792010913 READ rc=0 dur=1s
+1792010913 OBS stuckU=0 mounted=1 fusenfs=1
+1792010914 READ rc=0 dur=0s
+1792010914 OBS stuckU=0 mounted=1 fusenfs=1
+1792010915 READ rc=0 dur=0s
+1792010915 OBS stuckU=0 mounted=1 fusenfs=1
+1792010916 READ rc=0 dur=0s
+1792010916 OBS stuckU=0 mounted=1 fusenfs=1
+1792010917 READ rc=0 dur=0s
+1792010917 OBS stuckU=0 mounted=1 fusenfs=1
+1792010918 READ rc=0 dur=0s
+1792010919 OBS stuckU=0 mounted=1 fusenfs=1
+1792010919 READ rc=0 dur=0s
+1792010920 OBS stuckU=0 mounted=1 fusenfs=1
+1792010920 READ rc=0 dur=0s
+1792010921 READ rc=0 dur=0s
+1792010921 OBS stuckU=0 mounted=1 fusenfs=1
+1792010922 READ rc=0 dur=0s
+1792010922 OBS stuckU=0 mounted=1 fusenfs=1
+1792010923 READ rc=0 dur=0s
+1792010923 OBS stuckU=0 mounted=1 fusenfs=1
+1792010924 READ rc=0 dur=0s
+1792010924 OBS stuckU=0 mounted=1 fusenfs=1
+1792010925 READ rc=0 dur=0s
+1792010925 OBS stuckU=0 mounted=1 fusenfs=1
+1792010926 READ rc=0 dur=0s
+1792010926 OBS stuckU=0 mounted=1 fusenfs=1
+1792010927 READ rc=0 dur=0s
+1792010927 OBS stuckU=0 mounted=1 fusenfs=1
+1792010928 READ rc=0 dur=0s
+1792010929 OBS stuckU=0 mounted=1 fusenfs=1
+1792010929 READ rc=0 dur=0s
+1792010930 OBS stuckU=0 mounted=1 fusenfs=1
+1792010930 READ rc=0 dur=0s
+1792010931 OBS stuckU=0 mounted=1 fusenfs=1
+1792010931 READ rc=0 dur=0s
+1792010932 OBS stuckU=0 mounted=1 fusenfs=1
+1792010932 READ rc=0 dur=0s
+1792010933 OBS stuckU=0 mounted=1 fusenfs=1
+1792010933 READ rc=0 dur=0s
+1792010934 OBS stuckU=0 mounted=1 fusenfs=1
+1792010934 READ rc=0 dur=0s
+1792010935 READ rc=0 dur=0s
+1792010935 OBS stuckU=0 mounted=1 fusenfs=1
+1792010936 READ rc=0 dur=0s
+1792010936 OBS stuckU=0 mounted=1 fusenfs=1
+1792010937 READ rc=0 dur=0s
+1792010937 OBS stuckU=0 mounted=1 fusenfs=1
+1792010938 READ rc=0 dur=0s
+1792010939 OBS stuckU=0 mounted=1 fusenfs=1
+1792010939 READ rc=0 dur=0s
+1792010940 OBS stuckU=0 mounted=1 fusenfs=1
+1792010940 READ rc=0 dur=0s
+1792010941 OBS stuckU=0 mounted=1 fusenfs=1
+1792010941 READ rc=0 dur=0s
+1792010942 OBS stuckU=0 mounted=1 fusenfs=1
+1792010942 READ rc=0 dur=0s
+1792010943 OBS stuckU=0 mounted=1 fusenfs=1
+1792010943 READ rc=0 dur=0s
+1792010944 OBS stuckU=0 mounted=1 fusenfs=1
+1792010945 READ rc=0 dur=0s
+1792010945 OBS stuckU=0 mounted=1 fusenfs=1
+1792010946 READ rc=0 dur=0s
+1792010946 OBS stuckU=0 mounted=1 fusenfs=1
+1792010947 READ rc=0 dur=0s
+1792010947 OBS stuckU=0 mounted=1 fusenfs=1
+1792010948 READ rc=0 dur=0s
+1792010949 OBS stuckU=0 mounted=1 fusenfs=1
+1792010949 READ rc=0 dur=0s
+1792010950 READ rc=0 dur=0s
+1792010950 OBS stuckU=0 mounted=1 fusenfs=1
+1792010951 READ rc=0 dur=0s
+1792010951 OBS stuckU=0 mounted=1 fusenfs=1
+1792010952 READ rc=0 dur=0s
+1792010952 OBS stuckU=0 mounted=1 fusenfs=1
+1792010953 READ rc=0 dur=0s
+1792010953 OBS stuckU=0 mounted=1 fusenfs=1
+1792010954 READ rc=0 dur=0s
+1792010954 OBS stuckU=0 mounted=1 fusenfs=1
+1792010955 READ rc=0 dur=0s
+1792010955 OBS stuckU=0 mounted=1 fusenfs=1
+1792010956 READ rc=0 dur=0s
+1792010956 OBS stuckU=0 mounted=1 fusenfs=1
+1792010957 READ rc=0 dur=0s
+1792010957 OBS stuckU=0 mounted=1 fusenfs=1
+1792010958 READ rc=0 dur=0s
+1792010958 OBS stuckU=0 mounted=1 fusenfs=1
+1792010959 READ rc=0 dur=0s
+1792010960 OBS stuckU=0 mounted=1 fusenfs=1
+1792010960 READ rc=0 dur=0s
+1792010961 OBS stuckU=0 mounted=1 fusenfs=1
+1792010961 READ rc=0 dur=0s
+1792010962 OBS stuckU=0 mounted=1 fusenfs=1
+1792010962 READ rc=0 dur=0s
+1792010963 OBS stuckU=0 mounted=1 fusenfs=1
+1792010963 READ rc=0 dur=0s
+1792010964 OBS stuckU=0 mounted=1 fusenfs=1
+1792010964 READ rc=0 dur=0s
+1792010965 READ rc=0 dur=0s
+1792010965 OBS stuckU=0 mounted=1 fusenfs=1
+1792010966 READ rc=0 dur=0s
+1792010966 OBS stuckU=0 mounted=1 fusenfs=1
+1792010967 READ rc=0 dur=0s
+1792010967 OBS stuckU=0 mounted=1 fusenfs=1
+1792010968 READ rc=0 dur=0s
+1792010968 OBS stuckU=0 mounted=1 fusenfs=1
+1792010969 READ rc=0 dur=0s
+1792010970 OBS stuckU=0 mounted=1 fusenfs=1
+1792010970 READ rc=0 dur=0s
+1792010971 OBS stuckU=0 mounted=1 fusenfs=1
+1792010971 READ rc=0 dur=0s
+1792010972 OBS stuckU=0 mounted=1 fusenfs=1
+1792010972 READ rc=0 dur=0s
+1792010973 OBS stuckU=0 mounted=1 fusenfs=1
+1792010973 READ rc=0 dur=0s
+1792010974 OBS stuckU=0 mounted=1 fusenfs=1
+1792010975 READ rc=0 dur=1s
+1792010975 OBS stuckU=0 mounted=1 fusenfs=1
+1792010976 READ rc=0 dur=0s
+1792010976 OBS stuckU=0 mounted=1 fusenfs=1
+1792010977 READ rc=0 dur=0s
+1792010977 OBS stuckU=0 mounted=1 fusenfs=1
+1792010978 READ rc=0 dur=0s
+1792010978 OBS stuckU=0 mounted=1 fusenfs=1
+1792010979 READ rc=0 dur=0s
+1792010980 READ rc=0 dur=0s
+1792010980 OBS stuckU=0 mounted=1 fusenfs=1
+1792010981 READ rc=0 dur=0s
+1792010981 OBS stuckU=0 mounted=1 fusenfs=1
+1792010982 READ rc=0 dur=0s
+1792010982 OBS stuckU=0 mounted=1 fusenfs=1
+1792010983 READ rc=0 dur=0s
+1792010983 OBS stuckU=0 mounted=1 fusenfs=1
+1792010984 READ rc=0 dur=0s
+1792010984 OBS stuckU=0 mounted=1 fusenfs=1
+1792010985 READ rc=0 dur=0s
+1792010985 OBS stuckU=0 mounted=1 fusenfs=1
+1792010986 READ rc=0 dur=0s
+1792010986 OBS stuckU=0 mounted=1 fusenfs=1
+1792010987 READ rc=0 dur=0s
+1792010987 OBS stuckU=1 mounted=1 fusenfs=1
+1792010988 READ rc=0 dur=0s
+1792010988 OBS stuckU=0 mounted=1 fusenfs=1
+1792010989 READ rc=0 dur=0s
+1792010990 OBS stuckU=0 mounted=1 fusenfs=1
+1792010990 READ rc=0 dur=0s
+1792010991 OBS stuckU=0 mounted=1 fusenfs=1
+1792010991 READ rc=0 dur=0s
+1792010992 OBS stuckU=0 mounted=1 fusenfs=1
+1792010992 READ rc=0 dur=0s
+1792010993 OBS stuckU=0 mounted=1 fusenfs=1
+1792010993 READ rc=0 dur=0s
+1792010994 READ rc=0 dur=0s
+1792010994 OBS stuckU=0 mounted=1 fusenfs=1
+1792010995 READ rc=0 dur=0s
+1792010995 OBS stuckU=0 mounted=1 fusenfs=1
+1792010996 READ rc=0 dur=0s
+1792010996 OBS stuckU=0 mounted=1 fusenfs=1
+1792010997 READ rc=0 dur=0s
+1792010997 OBS stuckU=0 mounted=1 fusenfs=1
+1792010998 READ rc=0 dur=0s
+1792010998 OBS stuckU=0 mounted=1 fusenfs=1
+1792010999 READ rc=0 dur=0s
+1792011000 OBS stuckU=0 mounted=1 fusenfs=1
+1792011000 READ rc=0 dur=0s
+1792011001 OBS stuckU=0 mounted=1 fusenfs=1
+1792011001 READ rc=0 dur=0s
+1792011002 OBS stuckU=0 mounted=1 fusenfs=1
+1792011002 READ rc=0 dur=0s
+1792011003 OBS stuckU=0 mounted=1 fusenfs=1
+1792011003 READ rc=0 dur=0s
+1792011004 OBS stuckU=0 mounted=1 fusenfs=1
+1792011004 READ rc=0 dur=0s
+1792011005 OBS stuckU=0 mounted=1 fusenfs=1
+1792011005 READ rc=0 dur=0s
+1792011006 OBS stuckU=0 mounted=1 fusenfs=1
+1792011006 READ rc=0 dur=0s
+1792011007 OBS stuckU=0 mounted=1 fusenfs=1
+1792011008 READ rc=0 dur=0s
+1792011008 OBS stuckU=0 mounted=1 fusenfs=1
+1792011009 READ rc=0 dur=0s
+1792011010 READ rc=0 dur=0s
+1792011010 OBS stuckU=0 mounted=1 fusenfs=1
+1792011011 READ rc=0 dur=0s
+1792011011 OBS stuckU=0 mounted=1 fusenfs=1
+1792011012 READ rc=0 dur=0s
+1792011012 OBS stuckU=0 mounted=1 fusenfs=1
+1792011013 READ rc=0 dur=0s
+1792011013 OBS stuckU=0 mounted=1 fusenfs=1
+1792011014 READ rc=0 dur=0s
+1792011014 OBS stuckU=0 mounted=1 fusenfs=1
+1792011015 READ rc=0 dur=0s
+1792011015 OBS stuckU=0 mounted=1 fusenfs=1
+1792011016 READ rc=0 dur=0s
+1792011016 OBS stuckU=0 mounted=1 fusenfs=1
+1792011017 READ rc=0 dur=0s
+1792011017 OBS stuckU=0 mounted=1 fusenfs=1
+1792011018 READ rc=0 dur=0s
+1792011018 OBS stuckU=0 mounted=1 fusenfs=1
+1792011019 READ rc=0 dur=0s
+1792011020 OBS stuckU=0 mounted=1 fusenfs=1
+1792011020 READ rc=0 dur=0s
+1792011021 OBS stuckU=0 mounted=1 fusenfs=1
+1792011021 READ rc=0 dur=0s
+1792011022 OBS stuckU=0 mounted=1 fusenfs=1
+1792011022 READ rc=0 dur=0s
+1792011023 OBS stuckU=0 mounted=1 fusenfs=1
+1792011023 READ rc=0 dur=0s
+1792011024 READ rc=0 dur=0s
+1792011024 OBS stuckU=0 mounted=1 fusenfs=1
+1792011025 READ rc=0 dur=0s
+1792011025 OBS stuckU=0 mounted=1 fusenfs=1
+1792011026 READ rc=0 dur=0s
+1792011026 OBS stuckU=0 mounted=1 fusenfs=1
+1792011027 READ rc=0 dur=0s
+1792011027 OBS stuckU=0 mounted=1 fusenfs=1
+1792011028 READ rc=0 dur=0s
+1792011028 OBS stuckU=0 mounted=1 fusenfs=1
+1792011029 READ rc=0 dur=0s
+1792011029 OBS stuckU=0 mounted=1 fusenfs=1
+1792011030 READ rc=0 dur=0s
+1792011031 OBS stuckU=0 mounted=1 fusenfs=1
+1792011031 READ rc=0 dur=0s
+1792011032 OBS stuckU=0 mounted=1 fusenfs=1
+1792011032 READ rc=0 dur=0s
+1792011033 OBS stuckU=0 mounted=1 fusenfs=1
+1792011033 READ rc=0 dur=0s
+1792011034 OBS stuckU=0 mounted=1 fusenfs=1
+1792011034 READ rc=0 dur=0s
+1792011035 OBS stuckU=0 mounted=1 fusenfs=1
+1792011035 READ rc=0 dur=0s
+1792011036 OBS stuckU=0 mounted=1 fusenfs=1
+1792011036 READ rc=0 dur=0s
+1792011037 OBS stuckU=0 mounted=1 fusenfs=1
+1792011037 READ rc=0 dur=0s
+1792011038 OBS stuckU=0 mounted=1 fusenfs=1
+1792011039 READ rc=0 dur=0s
+1792011040 READ rc=0 dur=0s
+1792011039 OBS stuckU=0 mounted=1 fusenfs=1
+1792011041 READ rc=0 dur=0s
+1792011041 OBS stuckU=0 mounted=1 fusenfs=1
+1792011042 READ rc=0 dur=0s
+1792011042 OBS stuckU=0 mounted=1 fusenfs=1
+1792011043 READ rc=0 dur=0s
+1792011043 OBS stuckU=0 mounted=1 fusenfs=1
+1792011044 READ rc=0 dur=0s
+1792011044 OBS stuckU=0 mounted=1 fusenfs=1
+1792011045 READ rc=0 dur=0s
+1792011045 OBS stuckU=0 mounted=1 fusenfs=1
+1792011046 READ rc=0 dur=0s
+1792011046 OBS stuckU=0 mounted=1 fusenfs=1
+1792011047 READ rc=0 dur=0s
+1792011047 OBS stuckU=0 mounted=1 fusenfs=1
+1792011048 READ rc=0 dur=0s
+1792011048 OBS stuckU=0 mounted=1 fusenfs=1
+1792011049 READ rc=0 dur=0s
+1792011049 OBS stuckU=0 mounted=1 fusenfs=1
+1792011050 READ rc=0 dur=0s
+1792011051 OBS stuckU=0 mounted=1 fusenfs=1
+1792011051 READ rc=0 dur=0s
+1792011052 OBS stuckU=0 mounted=1 fusenfs=1
+1792011052 READ rc=0 dur=0s
+1792011053 OBS stuckU=0 mounted=1 fusenfs=1
+1792011053 READ rc=0 dur=0s
+1792011054 OBS stuckU=0 mounted=1 fusenfs=1
+1792011054 READ rc=0 dur=0s
+1792011055 READ rc=0 dur=0s
+1792011055 OBS stuckU=0 mounted=1 fusenfs=1
+1792011056 READ rc=0 dur=0s
+1792011056 OBS stuckU=0 mounted=1 fusenfs=1
+1792011057 READ rc=0 dur=0s
+1792011057 OBS stuckU=0 mounted=1 fusenfs=1
+1792011058 READ rc=0 dur=0s
+1792011058 OBS stuckU=0 mounted=1 fusenfs=1
+1792011059 READ rc=0 dur=0s
+1792011059 OBS stuckU=0 mounted=1 fusenfs=1
+1792011060 READ rc=0 dur=0s
+1792011061 OBS stuckU=0 mounted=1 fusenfs=1
+1792011061 READ rc=0 dur=0s
+1792011062 OBS stuckU=0 mounted=1 fusenfs=1
+1792011062 READ rc=0 dur=0s
+1792011063 OBS stuckU=0 mounted=1 fusenfs=1
+1792011063 READ rc=0 dur=0s
+1792011064 OBS stuckU=0 mounted=1 fusenfs=1
+1792011064 READ rc=0 dur=0s
+1792011065 OBS stuckU=0 mounted=1 fusenfs=1
+1792011065 READ rc=0 dur=0s
+1792011066 OBS stuckU=0 mounted=1 fusenfs=1
+1792011066 READ rc=0 dur=0s
+1792011067 OBS stuckU=0 mounted=1 fusenfs=1
+1792011067 READ rc=0 dur=0s
+1792011068 OBS stuckU=0 mounted=1 fusenfs=1
+1792011068 READ rc=0 dur=0s
+1792011070 READ rc=0 dur=1s
+1792011069 OBS stuckU=0 mounted=1 fusenfs=1
+1792011071 READ rc=0 dur=0s
+1792011071 OBS stuckU=0 mounted=1 fusenfs=1
+1792011072 READ rc=0 dur=0s
+1792011072 OBS stuckU=0 mounted=1 fusenfs=1
+1792011073 READ rc=0 dur=0s
+1792011073 OBS stuckU=0 mounted=1 fusenfs=1
+1792011074 READ rc=0 dur=0s
+1792011074 OBS stuckU=0 mounted=1 fusenfs=1
+1792011075 READ rc=0 dur=0s
+1792011075 OBS stuckU=0 mounted=1 fusenfs=1
+1792011076 READ rc=0 dur=0s
+1792011076 OBS stuckU=0 mounted=1 fusenfs=1
+1792011077 READ rc=0 dur=0s
+1792011077 OBS stuckU=0 mounted=1 fusenfs=1
+1792011078 READ rc=0 dur=0s
+1792011078 OBS stuckU=0 mounted=1 fusenfs=1
+1792011079 READ rc=0 dur=0s
+1792011079 OBS stuckU=0 mounted=1 fusenfs=1
+1792011080 READ rc=0 dur=0s
+1792011081 OBS stuckU=0 mounted=1 fusenfs=1
+1792011081 READ rc=0 dur=0s
+1792011082 OBS stuckU=0 mounted=1 fusenfs=1
+1792011082 READ rc=0 dur=0s
+1792011083 OBS stuckU=0 mounted=1 fusenfs=1
+1792011083 READ rc=0 dur=0s
+1792011084 READ rc=0 dur=0s
+1792011084 OBS stuckU=0 mounted=1 fusenfs=1
+1792011085 READ rc=0 dur=0s
+1792011085 OBS stuckU=0 mounted=1 fusenfs=1
+1792011086 READ rc=0 dur=0s
+1792011086 OBS stuckU=0 mounted=1 fusenfs=1
+1792011087 READ rc=0 dur=0s
+1792011087 OBS stuckU=0 mounted=1 fusenfs=1
+1792011088 READ rc=0 dur=0s
+1792011088 OBS stuckU=0 mounted=1 fusenfs=1
+1792011089 READ rc=0 dur=0s
+1792011089 OBS stuckU=0 mounted=1 fusenfs=1
+1792011090 READ rc=0 dur=0s
+1792011091 OBS stuckU=0 mounted=1 fusenfs=1
+1792011091 READ rc=0 dur=0s
+1792011092 OBS stuckU=0 mounted=1 fusenfs=1
+1792011092 READ rc=0 dur=0s
+1792011093 OBS stuckU=0 mounted=1 fusenfs=1
+1792011093 READ rc=0 dur=0s
+1792011094 OBS stuckU=0 mounted=1 fusenfs=1
+1792011094 READ rc=0 dur=0s
+1792011095 OBS stuckU=0 mounted=1 fusenfs=1
+1792011095 READ rc=0 dur=0s
+1792011096 OBS stuckU=0 mounted=1 fusenfs=1
+1792011096 READ rc=0 dur=0s
+1792011097 OBS stuckU=0 mounted=1 fusenfs=1
+1792011097 READ rc=0 dur=0s
+1792011098 OBS stuckU=0 mounted=1 fusenfs=1
+1792011098 READ rc=0 dur=0s
+1792011100 READ rc=0 dur=0s
+1792011099 OBS stuckU=0 mounted=1 fusenfs=1
+1792011101 READ rc=0 dur=0s
+1792011101 OBS stuckU=0 mounted=1 fusenfs=1
+1792011102 READ rc=0 dur=0s
+1792011102 OBS stuckU=0 mounted=1 fusenfs=1
+1792011103 READ rc=0 dur=0s
+1792011103 OBS stuckU=0 mounted=1 fusenfs=1
+1792011104 READ rc=0 dur=0s
+1792011104 OBS stuckU=0 mounted=1 fusenfs=1
+1792011105 READ rc=0 dur=0s
+1792011105 OBS stuckU=0 mounted=1 fusenfs=1
+1792011106 READ rc=0 dur=0s
+1792011106 OBS stuckU=0 mounted=1 fusenfs=1
+1792011107 READ rc=0 dur=0s
+1792011107 OBS stuckU=0 mounted=1 fusenfs=1
+1792011108 READ rc=0 dur=0s
+1792011108 OBS stuckU=0 mounted=1 fusenfs=1
+1792011109 READ rc=0 dur=0s
+1792011109 OBS stuckU=0 mounted=1 fusenfs=1
+1792011110 READ rc=0 dur=0s
+1792011111 OBS stuckU=0 mounted=1 fusenfs=1
+1792011111 READ rc=0 dur=0s
+1792011112 OBS stuckU=0 mounted=1 fusenfs=1
+1792011112 READ rc=0 dur=0s
+1792011113 OBS stuckU=0 mounted=1 fusenfs=1
+1792011113 READ rc=0 dur=0s
+1792011114 OBS stuckU=0 mounted=1 fusenfs=1
+1792011114 READ rc=0 dur=0s
+1792011115 READ rc=0 dur=0s
+1792011115 OBS stuckU=0 mounted=1 fusenfs=1
+1792011116 READ rc=0 dur=0s
+1792011116 OBS stuckU=0 mounted=1 fusenfs=1
+1792011117 READ rc=0 dur=0s
+1792011117 OBS stuckU=0 mounted=1 fusenfs=1
+1792011118 READ rc=0 dur=0s
+1792011118 OBS stuckU=0 mounted=1 fusenfs=1
+1792011119 READ rc=0 dur=0s
+1792011119 OBS stuckU=0 mounted=1 fusenfs=1
+1792011120 READ rc=0 dur=0s
+1792011121 OBS stuckU=0 mounted=1 fusenfs=1
+1792011121 READ rc=0 dur=0s
+1792011122 OBS stuckU=0 mounted=1 fusenfs=1
+1792011122 READ rc=0 dur=0s
+1792011123 OBS stuckU=0 mounted=1 fusenfs=1
+1792011123 READ rc=0 dur=0s
+1792011124 OBS stuckU=0 mounted=1 fusenfs=1
+1792011124 READ rc=0 dur=0s
+1792011125 OBS stuckU=0 mounted=1 fusenfs=1
+1792011125 READ rc=0 dur=0s
+1792011126 OBS stuckU=0 mounted=1 fusenfs=1
+1792011126 READ rc=0 dur=0s
+1792011127 OBS stuckU=0 mounted=1 fusenfs=1
+1792011127 READ rc=0 dur=0s
+1792011128 OBS stuckU=0 mounted=1 fusenfs=1
+1792011128 READ rc=0 dur=0s
+1792011129 READ rc=0 dur=0s
+1792011129 OBS stuckU=0 mounted=1 fusenfs=1
+1792011131 READ rc=0 dur=0s
+1792011131 OBS stuckU=0 mounted=1 fusenfs=1
+1792011132 READ rc=0 dur=0s
+1792011132 OBS stuckU=0 mounted=1 fusenfs=1
+1792011133 READ rc=0 dur=0s
+1792011133 OBS stuckU=0 mounted=1 fusenfs=1
+1792011134 READ rc=0 dur=0s
+1792011134 OBS stuckU=0 mounted=1 fusenfs=1
+1792011135 READ rc=0 dur=0s
+1792011135 OBS stuckU=0 mounted=1 fusenfs=1
+1792011136 READ rc=0 dur=0s
+1792011136 OBS stuckU=0 mounted=1 fusenfs=1
+1792011137 READ rc=0 dur=0s
+1792011137 OBS stuckU=0 mounted=1 fusenfs=1
+1792011138 READ rc=0 dur=0s
+1792011138 OBS stuckU=0 mounted=1 fusenfs=1
+1792011139 READ rc=0 dur=0s
+1792011139 OBS stuckU=0 mounted=1 fusenfs=1
+1792011140 READ rc=0 dur=0s
+1792011141 OBS stuckU=0 mounted=1 fusenfs=1
+1792011141 READ rc=0 dur=0s
+1792011142 OBS stuckU=0 mounted=1 fusenfs=1
+1792011142 READ rc=0 dur=0s
+1792011143 OBS stuckU=0 mounted=1 fusenfs=1
+1792011143 READ rc=0 dur=0s
+1792011144 OBS stuckU=0 mounted=1 fusenfs=1
+1792011144 READ rc=0 dur=0s
+1792011145 READ rc=0 dur=0s
+1792011145 OBS stuckU=0 mounted=1 fusenfs=1
+1792011146 READ rc=0 dur=0s
+1792011146 OBS stuckU=0 mounted=1 fusenfs=1
+1792011147 READ rc=0 dur=0s
+1792011147 OBS stuckU=0 mounted=1 fusenfs=1
+1792011148 READ rc=0 dur=0s
+1792011148 OBS stuckU=0 mounted=1 fusenfs=1
+1792011149 READ rc=0 dur=0s
+1792011149 OBS stuckU=0 mounted=1 fusenfs=1
+1792011150 READ rc=0 dur=0s
+1792011151 OBS stuckU=0 mounted=1 fusenfs=1
+1792011151 READ rc=0 dur=0s
+1792011152 OBS stuckU=0 mounted=1 fusenfs=1
+1792011152 READ rc=0 dur=0s
+1792011153 OBS stuckU=0 mounted=1 fusenfs=1
+1792011153 READ rc=0 dur=0s
+1792011154 OBS stuckU=0 mounted=1 fusenfs=1
+1792011154 READ rc=0 dur=0s
+1792011155 OBS stuckU=0 mounted=1 fusenfs=1
+1792011155 READ rc=0 dur=0s
+1792011156 OBS stuckU=0 mounted=1 fusenfs=1
+1792011156 READ rc=0 dur=0s
+1792011157 OBS stuckU=0 mounted=1 fusenfs=1
+1792011157 READ rc=0 dur=0s
+1792011158 OBS stuckU=0 mounted=1 fusenfs=1
+1792011158 READ rc=0 dur=0s
+1792011159 OBS stuckU=0 mounted=1 fusenfs=1
+1792011160 READ rc=0 dur=1s
+1792011161 READ rc=0 dur=0s
+1792011161 OBS stuckU=0 mounted=1 fusenfs=1
+1792011162 READ rc=0 dur=0s
+1792011162 OBS stuckU=0 mounted=1 fusenfs=1
+1792011163 READ rc=0 dur=0s
+1792011163 OBS stuckU=0 mounted=1 fusenfs=1
+1792011164 READ rc=0 dur=0s
+1792011164 OBS stuckU=0 mounted=1 fusenfs=1
+1792011165 READ rc=0 dur=0s
+1792011165 OBS stuckU=0 mounted=1 fusenfs=1
+1792011166 READ rc=0 dur=0s
+1792011166 OBS stuckU=0 mounted=1 fusenfs=1
+1792011167 READ rc=0 dur=0s
+1792011167 OBS stuckU=0 mounted=1 fusenfs=1
+1792011168 READ rc=0 dur=0s
+1792011168 OBS stuckU=0 mounted=1 fusenfs=1
+1792011169 READ rc=0 dur=0s
+1792011169 OBS stuckU=0 mounted=1 fusenfs=1
+1792011170 READ rc=0 dur=0s
+1792011171 OBS stuckU=0 mounted=1 fusenfs=1
+1792011171 READ rc=0 dur=0s
+1792011172 OBS stuckU=0 mounted=1 fusenfs=1
+1792011172 READ rc=0 dur=0s
+1792011173 OBS stuckU=0 mounted=1 fusenfs=1
+1792011173 READ rc=0 dur=0s
+1792011174 OBS stuckU=0 mounted=1 fusenfs=1
+1792011174 READ rc=0 dur=0s
+1792011175 READ rc=0 dur=0s
+1792011175 OBS stuckU=0 mounted=1 fusenfs=1
+1792011176 READ rc=0 dur=0s
+1792011176 OBS stuckU=0 mounted=1 fusenfs=1
+1792011177 READ rc=0 dur=0s
+1792011177 OBS stuckU=0 mounted=1 fusenfs=1
+1792011178 READ rc=0 dur=0s
+1792011178 OBS stuckU=0 mounted=1 fusenfs=1
+1792011179 READ rc=0 dur=0s
+1792011179 OBS stuckU=0 mounted=1 fusenfs=1
+1792011180 READ rc=0 dur=0s
+1792011180 OBS stuckU=0 mounted=1 fusenfs=1
+1792011181 READ rc=0 dur=0s
+1792011182 OBS stuckU=0 mounted=1 fusenfs=1
+1792011182 READ rc=0 dur=0s
+1792011183 OBS stuckU=0 mounted=1 fusenfs=1
+1792011183 READ rc=0 dur=0s
+1792011184 OBS stuckU=0 mounted=1 fusenfs=1
+1792011184 READ rc=0 dur=0s
+1792011185 OBS stuckU=0 mounted=1 fusenfs=1
+1792011185 READ rc=0 dur=0s
+1792011186 OBS stuckU=0 mounted=1 fusenfs=1
+1792011186 READ rc=0 dur=0s
+1792011187 OBS stuckU=0 mounted=1 fusenfs=1
+1792011187 READ rc=0 dur=0s
+1792011188 OBS stuckU=0 mounted=1 fusenfs=1
+1792011189 READ rc=0 dur=1s
+1792011189 OBS stuckU=0 mounted=1 fusenfs=1
+1792011190 READ rc=0 dur=0s
+1792011191 READ rc=0 dur=0s
+1792011190 OBS stuckU=0 mounted=1 fusenfs=1
+1792011192 READ rc=0 dur=0s
+1792011192 OBS stuckU=0 mounted=1 fusenfs=1
+1792011193 READ rc=0 dur=0s
+1792011193 OBS stuckU=0 mounted=1 fusenfs=1
+1792011194 READ rc=0 dur=0s
+1792011194 OBS stuckU=0 mounted=1 fusenfs=1
+1792011195 READ rc=0 dur=0s
+1792011195 OBS stuckU=0 mounted=1 fusenfs=1
+1792011196 READ rc=0 dur=0s
+1792011196 OBS stuckU=0 mounted=1 fusenfs=1
+1792011197 READ rc=0 dur=0s
+1792011197 OBS stuckU=0 mounted=1 fusenfs=1
+1792011198 READ rc=0 dur=0s
+1792011198 OBS stuckU=0 mounted=1 fusenfs=1
+1792011199 READ rc=0 dur=0s
+1792011199 OBS stuckU=0 mounted=1 fusenfs=1
+1792011200 READ rc=0 dur=0s
+1792011200 OBS stuckU=0 mounted=1 fusenfs=1
+1792011201 READ rc=0 dur=0s
+1792011202 OBS stuckU=0 mounted=1 fusenfs=1
+1792011202 READ rc=0 dur=0s
+1792011203 OBS stuckU=0 mounted=1 fusenfs=1
+1792011203 READ rc=0 dur=0s
+1792011204 OBS stuckU=0 mounted=1 fusenfs=1
+1792011204 READ rc=0 dur=0s
+1792011205 READ rc=0 dur=0s
+1792011205 OBS stuckU=0 mounted=1 fusenfs=1
+1792011206 READ rc=0 dur=0s
+1792011206 OBS stuckU=0 mounted=1 fusenfs=1
+1792011207 READ rc=0 dur=0s
+1792011207 OBS stuckU=0 mounted=1 fusenfs=1
+1792011208 READ rc=0 dur=0s
+1792011208 OBS stuckU=0 mounted=1 fusenfs=1
+1792011209 READ rc=0 dur=0s
+1792011209 OBS stuckU=0 mounted=1 fusenfs=1
+1792011210 READ rc=0 dur=0s
+1792011210 OBS stuckU=0 mounted=1 fusenfs=1
+1792011211 READ rc=0 dur=0s
+1792011212 OBS stuckU=0 mounted=1 fusenfs=1
+1792011212 READ rc=0 dur=0s
+1792011213 OBS stuckU=0 mounted=1 fusenfs=1
+1792011213 READ rc=0 dur=0s
+1792011214 OBS stuckU=0 mounted=1 fusenfs=1
+1792011214 READ rc=0 dur=0s
+1792011215 OBS stuckU=0 mounted=1 fusenfs=1
+1792011215 READ rc=0 dur=0s
+1792011216 OBS stuckU=0 mounted=1 fusenfs=1
+1792011216 READ rc=0 dur=0s
+1792011217 OBS stuckU=0 mounted=1 fusenfs=1
+1792011217 READ rc=0 dur=0s
+1792011218 OBS stuckU=0 mounted=1 fusenfs=1
+1792011218 READ rc=0 dur=0s
+1792011219 OBS stuckU=0 mounted=1 fusenfs=1
+1792011219 READ rc=0 dur=0s
+1792011221 READ rc=0 dur=0s
+1792011221 OBS stuckU=0 mounted=1 fusenfs=1
+1792011222 READ rc=0 dur=0s
+1792011222 OBS stuckU=0 mounted=1 fusenfs=1
+1792011223 READ rc=0 dur=0s
+1792011223 OBS stuckU=0 mounted=1 fusenfs=1
+1792011224 READ rc=0 dur=0s
+1792011224 OBS stuckU=0 mounted=1 fusenfs=1
+1792011225 READ rc=0 dur=0s
+1792011225 OBS stuckU=0 mounted=1 fusenfs=1
+1792011226 READ rc=0 dur=0s
+1792011226 OBS stuckU=0 mounted=1 fusenfs=1
+1792011227 READ rc=0 dur=0s
+1792011227 OBS stuckU=0 mounted=1 fusenfs=1
+1792011228 READ rc=0 dur=0s
+1792011228 OBS stuckU=0 mounted=1 fusenfs=1
+1792011229 READ rc=0 dur=0s
+1792011229 OBS stuckU=0 mounted=1 fusenfs=1
+1792011230 READ rc=0 dur=0s
+1792011231 OBS stuckU=0 mounted=1 fusenfs=1
+1792011231 READ rc=0 dur=0s
+1792011232 OBS stuckU=0 mounted=1 fusenfs=1
+1792011232 READ rc=0 dur=0s
+1792011233 OBS stuckU=0 mounted=1 fusenfs=1
+1792011233 READ rc=0 dur=0s
+1792011234 OBS stuckU=0 mounted=1 fusenfs=1
+1792011234 READ rc=0 dur=0s
+1792011235 READ rc=0 dur=0s
+1792011235 OBS stuckU=0 mounted=1 fusenfs=1
+1792011236 READ rc=0 dur=0s
+1792011236 OBS stuckU=0 mounted=1 fusenfs=1
+1792011237 READ rc=0 dur=0s
+1792011237 OBS stuckU=0 mounted=1 fusenfs=1
+1792011238 READ rc=0 dur=0s
+1792011238 OBS stuckU=0 mounted=1 fusenfs=1
+1792011239 READ rc=0 dur=0s
+1792011239 OBS stuckU=0 mounted=1 fusenfs=1
+1792011240 READ rc=0 dur=0s
+1792011241 OBS stuckU=0 mounted=1 fusenfs=1
+1792011241 READ rc=0 dur=0s
+1792011242 OBS stuckU=0 mounted=1 fusenfs=1
+1792011242 READ rc=0 dur=0s
+1792011243 OBS stuckU=0 mounted=1 fusenfs=1
+1792011243 READ rc=0 dur=0s
+1792011244 OBS stuckU=0 mounted=1 fusenfs=1
+1792011244 READ rc=0 dur=0s
+1792011245 OBS stuckU=0 mounted=1 fusenfs=1
+1792011245 READ rc=0 dur=0s
+1792011246 OBS stuckU=0 mounted=1 fusenfs=1
+1792011246 READ rc=0 dur=0s
+1792011247 OBS stuckU=0 mounted=1 fusenfs=1
+1792011247 READ rc=0 dur=0s
+1792011248 OBS stuckU=0 mounted=1 fusenfs=1
+1792011248 READ rc=0 dur=0s
+1792011249 READ rc=0 dur=0s
+1792011249 OBS stuckU=0 mounted=1 fusenfs=1
+1792011251 READ rc=0 dur=1s
+1792011251 OBS stuckU=0 mounted=1 fusenfs=1
+1792011252 READ rc=0 dur=0s
+1792011252 OBS stuckU=0 mounted=1 fusenfs=1
+1792011253 READ rc=0 dur=0s
+1792011253 OBS stuckU=0 mounted=1 fusenfs=1
+1792011254 READ rc=0 dur=0s
+1792011254 OBS stuckU=0 mounted=1 fusenfs=1
+1792011255 READ rc=0 dur=0s
+1792011255 OBS stuckU=0 mounted=1 fusenfs=1
+1792011256 READ rc=0 dur=0s
+1792011256 OBS stuckU=0 mounted=1 fusenfs=1
+1792011257 READ rc=0 dur=0s
+1792011257 OBS stuckU=0 mounted=1 fusenfs=1
+1792011258 READ rc=0 dur=0s
+1792011258 OBS stuckU=0 mounted=1 fusenfs=1
+1792011259 READ rc=0 dur=0s
+1792011259 OBS stuckU=0 mounted=1 fusenfs=1
+1792011260 READ rc=0 dur=0s
+1792011261 OBS stuckU=0 mounted=1 fusenfs=1
+1792011261 READ rc=0 dur=0s
+1792011262 OBS stuckU=0 mounted=1 fusenfs=1
+1792011262 READ rc=0 dur=0s
+1792011263 OBS stuckU=0 mounted=1 fusenfs=1
+1792011263 READ rc=0 dur=0s
+1792011264 OBS stuckU=0 mounted=1 fusenfs=1
+1792011264 READ rc=0 dur=0s
+1792011265 READ rc=0 dur=0s
+1792011265 OBS stuckU=0 mounted=1 fusenfs=1
+1792011266 READ rc=0 dur=0s
+1792011266 OBS stuckU=0 mounted=1 fusenfs=1
+1792011267 READ rc=0 dur=0s
+1792011267 OBS stuckU=0 mounted=1 fusenfs=1
+1792011268 READ rc=0 dur=0s
+1792011268 OBS stuckU=0 mounted=1 fusenfs=1
+1792011269 READ rc=0 dur=0s
+1792011269 OBS stuckU=0 mounted=1 fusenfs=1
+1792011270 READ rc=0 dur=0s
+1792011270 OBS stuckU=0 mounted=1 fusenfs=1
+1792011271 READ rc=0 dur=0s
+1792011272 OBS stuckU=0 mounted=1 fusenfs=1
+1792011272 READ rc=0 dur=0s
+1792011273 OBS stuckU=0 mounted=1 fusenfs=1
+1792011273 READ rc=0 dur=0s
+1792011274 OBS stuckU=0 mounted=1 fusenfs=1
+1792011274 READ rc=0 dur=0s
+1792011275 OBS stuckU=0 mounted=1 fusenfs=1
+1792011275 READ rc=0 dur=0s
+1792011276 OBS stuckU=0 mounted=1 fusenfs=1
+1792011276 READ rc=0 dur=0s
+1792011277 OBS stuckU=0 mounted=1 fusenfs=1
+1792011277 READ rc=0 dur=0s
+1792011278 OBS stuckU=0 mounted=1 fusenfs=1
+1792011278 READ rc=0 dur=0s
+1792011279 OBS stuckU=0 mounted=1 fusenfs=1
+1792011279 READ rc=0 dur=0s
+1792011281 READ rc=0 dur=1s
+1792011280 OBS stuckU=0 mounted=1 fusenfs=1
+1792011282 READ rc=0 dur=0s
+1792011282 OBS stuckU=0 mounted=1 fusenfs=1
+1792011283 READ rc=0 dur=0s
+1792011283 OBS stuckU=0 mounted=1 fusenfs=1
+1792011284 READ rc=0 dur=0s
+1792011284 OBS stuckU=0 mounted=1 fusenfs=1
+1792011285 READ rc=0 dur=0s
+1792011285 OBS stuckU=0 mounted=1 fusenfs=1
+1792011286 READ rc=0 dur=0s
+1792011286 OBS stuckU=0 mounted=1 fusenfs=1
+1792011287 READ rc=0 dur=0s
+1792011287 OBS stuckU=0 mounted=1 fusenfs=1
+1792011288 READ rc=0 dur=0s
+1792011288 OBS stuckU=0 mounted=1 fusenfs=1
+1792011289 READ rc=0 dur=0s
+1792011289 OBS stuckU=0 mounted=1 fusenfs=1
+1792011290 READ rc=0 dur=0s
+1792011290 OBS stuckU=0 mounted=1 fusenfs=1
+1792011291 READ rc=0 dur=0s
+1792011292 OBS stuckU=0 mounted=1 fusenfs=1
+1792011292 READ rc=0 dur=0s
+1792011293 OBS stuckU=0 mounted=1 fusenfs=1
+1792011293 READ rc=0 dur=0s
+1792011294 OBS stuckU=0 mounted=1 fusenfs=1
+1792011294 READ rc=0 dur=0s
+1792011295 READ rc=0 dur=0s
+1792011295 OBS stuckU=0 mounted=1 fusenfs=1
+1792011296 READ rc=0 dur=0s
+1792011296 OBS stuckU=0 mounted=1 fusenfs=1
+1792011297 READ rc=0 dur=0s
+1792011297 OBS stuckU=0 mounted=1 fusenfs=1
+1792011298 READ rc=0 dur=0s
+1792011298 OBS stuckU=0 mounted=1 fusenfs=1
+1792011299 READ rc=0 dur=0s
+1792011299 OBS stuckU=0 mounted=1 fusenfs=1
+1792011300 READ rc=0 dur=0s
+1792011300 OBS stuckU=0 mounted=1 fusenfs=1
+1792011301 READ rc=0 dur=0s
+1792011302 OBS stuckU=0 mounted=1 fusenfs=1
+1792011302 READ rc=0 dur=0s
+1792011303 OBS stuckU=0 mounted=1 fusenfs=1
+1792011303 READ rc=0 dur=0s
+1792011304 OBS stuckU=0 mounted=1 fusenfs=1
+1792011304 READ rc=0 dur=0s
+1792011305 OBS stuckU=0 mounted=1 fusenfs=1
+1792011305 READ rc=0 dur=0s
+1792011306 OBS stuckU=0 mounted=1 fusenfs=1
+1792011306 READ rc=0 dur=0s
+1792011307 OBS stuckU=0 mounted=1 fusenfs=1
+1792011307 READ rc=0 dur=0s
+1792011308 OBS stuckU=0 mounted=1 fusenfs=1
+1792011308 READ rc=0 dur=0s
+1792011309 READ rc=0 dur=0s
+1792011309 OBS stuckU=0 mounted=1 fusenfs=1
+1792011310 READ rc=0 dur=0s
+1792011310 OBS stuckU=0 mounted=1 fusenfs=1
+1792011312 READ rc=0 dur=1s
+1792011312 OBS stuckU=0 mounted=1 fusenfs=1
+1792011313 READ rc=0 dur=0s
+1792011313 OBS stuckU=0 mounted=1 fusenfs=1
+1792011314 READ rc=0 dur=0s
+1792011314 OBS stuckU=0 mounted=1 fusenfs=1
+1792011315 READ rc=0 dur=0s
+1792011315 OBS stuckU=0 mounted=1 fusenfs=1
+1792011316 READ rc=0 dur=0s
+1792011316 OBS stuckU=0 mounted=1 fusenfs=1
+1792011317 READ rc=0 dur=0s
+1792011317 OBS stuckU=0 mounted=1 fusenfs=1
+1792011318 READ rc=0 dur=0s
+1792011318 OBS stuckU=0 mounted=1 fusenfs=1
+1792011319 READ rc=0 dur=0s
+1792011319 OBS stuckU=0 mounted=1 fusenfs=1
+1792011320 READ rc=0 dur=0s
+1792011320 OBS stuckU=0 mounted=1 fusenfs=1
+1792011321 READ rc=0 dur=0s
+1792011322 OBS stuckU=0 mounted=1 fusenfs=1
+1792011322 READ rc=0 dur=0s
+1792011323 OBS stuckU=0 mounted=1 fusenfs=1
+1792011323 READ rc=0 dur=0s
+1792011324 READ rc=0 dur=0s
+1792011324 OBS stuckU=0 mounted=1 fusenfs=1
+1792011325 READ rc=0 dur=0s
+1792011325 OBS stuckU=0 mounted=1 fusenfs=1
+1792011326 READ rc=0 dur=0s
+1792011326 OBS stuckU=0 mounted=1 fusenfs=1
+1792011327 READ rc=0 dur=0s
+1792011327 OBS stuckU=0 mounted=1 fusenfs=1
+1792011328 READ rc=0 dur=0s
+1792011328 OBS stuckU=0 mounted=1 fusenfs=1
+1792011329 READ rc=0 dur=0s
+1792011329 OBS stuckU=0 mounted=1 fusenfs=1
+1792011330 READ rc=0 dur=0s
+1792011330 OBS stuckU=0 mounted=1 fusenfs=1
+1792011331 READ rc=0 dur=0s
+1792011332 OBS stuckU=0 mounted=1 fusenfs=1
+1792011332 READ rc=0 dur=0s
+1792011333 OBS stuckU=0 mounted=1 fusenfs=1
+1792011333 READ rc=0 dur=0s
+1792011334 OBS stuckU=0 mounted=1 fusenfs=1
+1792011334 READ rc=0 dur=0s
+1792011335 OBS stuckU=0 mounted=1 fusenfs=1
+1792011335 READ rc=0 dur=0s
+1792011336 OBS stuckU=0 mounted=1 fusenfs=1
+1792011336 READ rc=0 dur=0s
+1792011337 OBS stuckU=0 mounted=1 fusenfs=1
+1792011337 READ rc=0 dur=0s
+1792011338 OBS stuckU=0 mounted=1 fusenfs=1
+1792011338 READ rc=0 dur=0s
+1792011339 READ rc=0 dur=0s
+1792011339 OBS stuckU=0 mounted=1 fusenfs=1
+1792011340 READ rc=0 dur=0s
+1792011340 OBS stuckU=0 mounted=1 fusenfs=1
+1792011341 READ rc=0 dur=0s
+1792011342 OBS stuckU=0 mounted=1 fusenfs=1
+1792011343 READ rc=0 dur=0s
+1792011343 OBS stuckU=0 mounted=1 fusenfs=1
+1792011344 READ rc=0 dur=0s
+1792011344 OBS stuckU=0 mounted=1 fusenfs=1
+1792011345 READ rc=0 dur=0s
+1792011345 OBS stuckU=0 mounted=1 fusenfs=1
+1792011346 READ rc=0 dur=0s
+1792011346 OBS stuckU=0 mounted=1 fusenfs=1
+1792011347 READ rc=0 dur=0s
+1792011347 OBS stuckU=0 mounted=1 fusenfs=1
+1792011348 READ rc=0 dur=0s
+1792011348 OBS stuckU=0 mounted=1 fusenfs=1
+1792011349 READ rc=0 dur=0s
+1792011349 OBS stuckU=0 mounted=1 fusenfs=1
+1792011350 READ rc=0 dur=0s
+1792011350 OBS stuckU=0 mounted=1 fusenfs=1
+1792011351 READ rc=0 dur=0s
+1792011352 OBS stuckU=0 mounted=1 fusenfs=1
+1792011352 READ rc=0 dur=0s
+1792011353 OBS stuckU=0 mounted=1 fusenfs=1
+1792011353 READ rc=0 dur=0s
+1792011354 OBS stuckU=0 mounted=1 fusenfs=1
+1792011354 READ rc=0 dur=0s
+1792011355 READ rc=0 dur=0s
+1792011355 OBS stuckU=0 mounted=1 fusenfs=1
+1792011356 READ rc=0 dur=0s
+1792011356 OBS stuckU=0 mounted=1 fusenfs=1
+1792011357 READ rc=0 dur=0s
+1792011357 OBS stuckU=0 mounted=1 fusenfs=1
+1792011358 READ rc=0 dur=0s
+1792011358 OBS stuckU=0 mounted=1 fusenfs=1
+1792011359 READ rc=0 dur=0s
+1792011359 OBS stuckU=0 mounted=1 fusenfs=1
+1792011360 READ rc=0 dur=0s
+1792011360 OBS stuckU=0 mounted=1 fusenfs=1
+1792011361 READ rc=0 dur=0s
+1792011362 OBS stuckU=0 mounted=1 fusenfs=1
+1792011362 READ rc=0 dur=0s
+1792011363 OBS stuckU=0 mounted=1 fusenfs=1
+1792011363 READ rc=0 dur=0s
+1792011364 OBS stuckU=0 mounted=1 fusenfs=1
+1792011364 READ rc=0 dur=0s
+1792011365 OBS stuckU=0 mounted=1 fusenfs=1
+1792011365 READ rc=0 dur=0s
+1792011366 OBS stuckU=0 mounted=1 fusenfs=1
+1792011366 READ rc=0 dur=0s
+1792011367 OBS stuckU=0 mounted=1 fusenfs=1
+1792011367 READ rc=0 dur=0s
+1792011368 OBS stuckU=0 mounted=1 fusenfs=1
+1792011368 READ rc=0 dur=0s
+1792011369 READ rc=0 dur=0s
+1792011369 OBS stuckU=0 mounted=1 fusenfs=1
+1792011370 READ rc=0 dur=0s
+1792011370 OBS stuckU=0 mounted=1 fusenfs=1
+1792011371 READ rc=0 dur=0s
+1792011372 OBS stuckU=0 mounted=1 fusenfs=1
+1792011373 READ rc=0 dur=1s
+1792011373 OBS stuckU=0 mounted=1 fusenfs=1
+1792011374 READ rc=0 dur=0s
+1792011374 OBS stuckU=0 mounted=1 fusenfs=1
+1792011375 READ rc=0 dur=0s
+1792011375 OBS stuckU=0 mounted=1 fusenfs=1
+1792011376 READ rc=0 dur=0s
+1792011376 OBS stuckU=0 mounted=1 fusenfs=1
+1792011377 READ rc=0 dur=0s
+1792011377 OBS stuckU=0 mounted=1 fusenfs=1
+1792011378 READ rc=0 dur=0s
+1792011378 OBS stuckU=0 mounted=1 fusenfs=1
+1792011379 READ rc=0 dur=0s
+1792011379 OBS stuckU=0 mounted=1 fusenfs=1
+1792011380 READ rc=0 dur=0s
+1792011380 OBS stuckU=0 mounted=1 fusenfs=1
+1792011381 READ rc=0 dur=0s
+1792011382 OBS stuckU=0 mounted=1 fusenfs=1
+1792011382 READ rc=0 dur=0s
+1792011383 OBS stuckU=0 mounted=1 fusenfs=1
+1792011383 READ rc=0 dur=0s
+1792011384 READ rc=0 dur=0s
+1792011384 OBS stuckU=0 mounted=1 fusenfs=1
+1792011385 READ rc=0 dur=0s
+1792011385 OBS stuckU=0 mounted=1 fusenfs=1
+1792011386 READ rc=0 dur=0s
+1792011386 OBS stuckU=0 mounted=1 fusenfs=1
+1792011387 READ rc=0 dur=0s
+1792011387 OBS stuckU=0 mounted=1 fusenfs=1
+1792011388 READ rc=0 dur=0s
+1792011388 OBS stuckU=0 mounted=1 fusenfs=1
+1792011389 READ rc=0 dur=0s
+1792011389 OBS stuckU=0 mounted=1 fusenfs=1
+1792011390 READ rc=0 dur=0s
+1792011390 OBS stuckU=0 mounted=1 fusenfs=1
+1792011391 READ rc=0 dur=0s
+1792011392 OBS stuckU=0 mounted=1 fusenfs=1
+1792011392 READ rc=0 dur=0s
+1792011393 OBS stuckU=0 mounted=1 fusenfs=1
+1792011393 READ rc=0 dur=0s
+1792011394 OBS stuckU=0 mounted=1 fusenfs=1
+1792011394 READ rc=0 dur=0s
+1792011395 OBS stuckU=0 mounted=1 fusenfs=1
+1792011395 READ rc=0 dur=0s
+1792011396 OBS stuckU=0 mounted=1 fusenfs=1
+1792011396 READ rc=0 dur=0s
+1792011397 OBS stuckU=0 mounted=1 fusenfs=1
+1792011397 READ rc=0 dur=0s
+1792011398 OBS stuckU=0 mounted=1 fusenfs=1
+1792011398 READ rc=0 dur=0s
+1792011399 READ rc=0 dur=0s
+1792011399 OBS stuckU=0 mounted=1 fusenfs=1
+1792011400 READ rc=0 dur=0s
+1792011400 OBS stuckU=0 mounted=1 fusenfs=1
+1792011401 READ rc=0 dur=0s
+1792011402 OBS stuckU=0 mounted=1 fusenfs=1
+1792011402 READ rc=0 dur=0s
+1792011403 OBS stuckU=0 mounted=1 fusenfs=1
+1792011403 READ rc=0 dur=0s
+1792011404 OBS stuckU=0 mounted=1 fusenfs=1
+1792011405 READ rc=0 dur=0s
+1792011405 OBS stuckU=0 mounted=1 fusenfs=1
+1792011406 READ rc=0 dur=0s
+1792011406 OBS stuckU=0 mounted=1 fusenfs=1
+1792011407 READ rc=0 dur=0s
+1792011407 OBS stuckU=0 mounted=1 fusenfs=1
+1792011408 READ rc=0 dur=0s
+1792011408 OBS stuckU=0 mounted=1 fusenfs=1
+1792011409 READ rc=0 dur=0s
+1792011409 OBS stuckU=0 mounted=1 fusenfs=1
+1792011410 READ rc=0 dur=0s
+1792011410 OBS stuckU=0 mounted=1 fusenfs=1
+1792011411 READ rc=0 dur=0s
+1792011412 OBS stuckU=0 mounted=1 fusenfs=1
+1792011412 READ rc=0 dur=0s
+1792011413 OBS stuckU=0 mounted=1 fusenfs=1
+1792011413 READ rc=0 dur=0s
+1792011414 READ rc=0 dur=0s
+1792011414 OBS stuckU=0 mounted=1 fusenfs=1
+1792011415 READ rc=0 dur=0s
+1792011415 OBS stuckU=0 mounted=1 fusenfs=1
+1792011416 READ rc=0 dur=0s
+1792011416 OBS stuckU=0 mounted=1 fusenfs=1
+1792011417 READ rc=0 dur=0s
+1792011417 OBS stuckU=0 mounted=1 fusenfs=1
+1792011418 READ rc=0 dur=0s
+1792011418 OBS stuckU=0 mounted=1 fusenfs=1
+1792011419 READ rc=0 dur=0s
+1792011419 OBS stuckU=0 mounted=1 fusenfs=1
+1792011420 READ rc=0 dur=0s
+1792011420 OBS stuckU=0 mounted=1 fusenfs=1
+1792011421 READ rc=0 dur=0s
+1792011422 OBS stuckU=0 mounted=1 fusenfs=1
+1792011422 READ rc=0 dur=0s
+1792011423 OBS stuckU=0 mounted=1 fusenfs=1
+1792011423 READ rc=0 dur=0s
+1792011424 OBS stuckU=0 mounted=1 fusenfs=1
+1792011424 READ rc=0 dur=0s
+1792011425 OBS stuckU=0 mounted=1 fusenfs=1
+1792011425 READ rc=0 dur=0s
+1792011426 OBS stuckU=0 mounted=1 fusenfs=1
+1792011426 READ rc=0 dur=0s
+1792011427 OBS stuckU=0 mounted=1 fusenfs=1
+1792011427 READ rc=0 dur=0s
+1792011428 OBS stuckU=0 mounted=1 fusenfs=1
+1792011428 READ rc=0 dur=0s
+1792011429 READ rc=0 dur=0s
+1792011429 OBS stuckU=0 mounted=1 fusenfs=1
+1792011430 READ rc=0 dur=0s
+1792011430 OBS stuckU=0 mounted=1 fusenfs=1
+1792011431 READ rc=0 dur=0s
+1792011432 OBS stuckU=0 mounted=1 fusenfs=1
+1792011432 READ rc=0 dur=0s
+1792011433 OBS stuckU=0 mounted=1 fusenfs=1
+1792011433 READ rc=0 dur=0s
+1792011434 OBS stuckU=0 mounted=1 fusenfs=1
+1792011435 READ rc=0 dur=0s
+1792011435 OBS stuckU=0 mounted=1 fusenfs=1
+1792011436 READ rc=0 dur=0s
+1792011436 OBS stuckU=0 mounted=1 fusenfs=1
+1792011437 READ rc=0 dur=0s
+1792011437 OBS stuckU=0 mounted=1 fusenfs=1
+1792011438 READ rc=0 dur=0s
+1792011438 OBS stuckU=0 mounted=1 fusenfs=1
+1792011439 READ rc=0 dur=0s
+1792011439 OBS stuckU=0 mounted=1 fusenfs=1
+1792011440 READ rc=0 dur=0s
+1792011440 OBS stuckU=0 mounted=1 fusenfs=1
+1792011441 READ rc=0 dur=0s
+1792011441 OBS stuckU=0 mounted=1 fusenfs=1
+1792011442 READ rc=0 dur=0s
+1792011443 OBS stuckU=0 mounted=1 fusenfs=1
+1792011443 READ rc=0 dur=0s
+1792011444 OBS stuckU=0 mounted=1 fusenfs=1
+1792011444 READ rc=0 dur=0s
+1792011445 READ rc=0 dur=0s
+1792011445 OBS stuckU=0 mounted=1 fusenfs=1
+1792011446 READ rc=0 dur=0s
+1792011446 OBS stuckU=0 mounted=1 fusenfs=1
+1792011447 READ rc=0 dur=0s
+1792011447 OBS stuckU=0 mounted=1 fusenfs=1
+1792011448 READ rc=0 dur=0s
+1792011448 OBS stuckU=0 mounted=1 fusenfs=1
+1792011449 READ rc=0 dur=0s
+1792011449 OBS stuckU=0 mounted=1 fusenfs=1
+1792011450 READ rc=0 dur=0s
+1792011450 OBS stuckU=0 mounted=1 fusenfs=1
+1792011451 READ rc=0 dur=0s
+1792011452 OBS stuckU=0 mounted=1 fusenfs=1
+1792011452 READ rc=0 dur=0s
+1792011453 OBS stuckU=0 mounted=1 fusenfs=1
+1792011453 READ rc=0 dur=0s
+1792011454 OBS stuckU=0 mounted=1 fusenfs=1
+1792011454 READ rc=0 dur=0s
+1792011455 OBS stuckU=0 mounted=1 fusenfs=1
+1792011455 READ rc=0 dur=0s
+1792011456 OBS stuckU=0 mounted=1 fusenfs=1
+1792011456 READ rc=0 dur=0s
+1792011457 OBS stuckU=0 mounted=1 fusenfs=1
+1792011457 READ rc=0 dur=0s
+1792011458 READ rc=0 dur=0s
+1792011458 OBS stuckU=0 mounted=1 fusenfs=1
+1792011459 READ rc=0 dur=0s
+1792011459 OBS stuckU=0 mounted=1 fusenfs=1
+1792011460 READ rc=0 dur=0s
+1792011460 OBS stuckU=0 mounted=1 fusenfs=1
+1792011461 READ rc=0 dur=0s
+1792011462 OBS stuckU=0 mounted=1 fusenfs=1
+1792011462 READ rc=0 dur=0s
+1792011463 OBS stuckU=0 mounted=1 fusenfs=1
+1792011463 READ rc=0 dur=0s
+1792011464 OBS stuckU=0 mounted=1 fusenfs=1
+1792011465 READ rc=0 dur=1s
+1792011465 OBS stuckU=0 mounted=1 fusenfs=1
+1792011466 READ rc=0 dur=0s
+1792011466 OBS stuckU=0 mounted=1 fusenfs=1
+1792011467 READ rc=0 dur=0s
+1792011467 OBS stuckU=0 mounted=1 fusenfs=1
+1792011468 READ rc=0 dur=0s
+1792011468 OBS stuckU=0 mounted=1 fusenfs=1
+1792011469 READ rc=0 dur=0s
+1792011469 OBS stuckU=0 mounted=1 fusenfs=1
+1792011470 READ rc=0 dur=0s
+1792011470 OBS stuckU=0 mounted=1 fusenfs=1
+1792011471 READ rc=0 dur=0s
+1792011472 OBS stuckU=0 mounted=1 fusenfs=1
+1792011472 READ rc=0 dur=0s
+1792011473 OBS stuckU=0 mounted=1 fusenfs=1
+1792011473 READ rc=0 dur=0s
+1792011474 READ rc=0 dur=0s
+1792011474 OBS stuckU=0 mounted=1 fusenfs=1
+1792011475 READ rc=0 dur=0s
+1792011475 OBS stuckU=0 mounted=1 fusenfs=1
+1792011476 READ rc=0 dur=0s
+1792011476 OBS stuckU=0 mounted=1 fusenfs=1
+1792011477 READ rc=0 dur=0s
+1792011477 OBS stuckU=0 mounted=1 fusenfs=1
+1792011478 READ rc=0 dur=0s
+1792011478 OBS stuckU=0 mounted=1 fusenfs=1
+1792011479 READ rc=0 dur=0s
+1792011479 OBS stuckU=0 mounted=1 fusenfs=1
+1792011480 READ rc=0 dur=0s
+1792011480 OBS stuckU=0 mounted=1 fusenfs=1
+1792011481 READ rc=0 dur=0s
+1792011481 OBS stuckU=0 mounted=1 fusenfs=1
+1792011482 READ rc=0 dur=0s
+1792011483 OBS stuckU=0 mounted=1 fusenfs=1
+1792011483 READ rc=0 dur=0s
+1792011484 OBS stuckU=0 mounted=1 fusenfs=1
+1792011484 READ rc=0 dur=0s
+1792011485 OBS stuckU=0 mounted=1 fusenfs=1
+1792011485 READ rc=0 dur=0s
+1792011486 OBS stuckU=0 mounted=1 fusenfs=1
+1792011486 READ rc=0 dur=0s
+1792011487 OBS stuckU=0 mounted=1 fusenfs=1
+1792011487 READ rc=0 dur=0s
+1792011488 OBS stuckU=0 mounted=1 fusenfs=1
+1792011488 READ rc=0 dur=0s
+1792011489 READ rc=0 dur=0s
+1792011489 OBS stuckU=0 mounted=1 fusenfs=1
+1792011490 READ rc=0 dur=0s
+1792011490 OBS stuckU=0 mounted=1 fusenfs=1
+1792011491 READ rc=0 dur=0s
+1792011491 OBS stuckU=0 mounted=1 fusenfs=1
+1792011492 READ rc=0 dur=0s
+1792011493 OBS stuckU=0 mounted=1 fusenfs=1
+1792011493 READ rc=0 dur=0s
+1792011494 OBS stuckU=0 mounted=1 fusenfs=1
+1792011494 READ rc=0 dur=0s
+1792011495 OBS stuckU=0 mounted=1 fusenfs=1
+1792011496 READ rc=0 dur=0s
+1792011496 OBS stuckU=0 mounted=1 fusenfs=1
+1792011497 READ rc=0 dur=0s
+1792011497 OBS stuckU=0 mounted=1 fusenfs=1
+1792011498 READ rc=0 dur=0s
+1792011498 OBS stuckU=0 mounted=1 fusenfs=1
+1792011499 READ rc=0 dur=0s
+1792011499 OBS stuckU=0 mounted=1 fusenfs=1
+1792011500 READ rc=0 dur=0s
+1792011500 OBS stuckU=0 mounted=1 fusenfs=1
+1792011501 READ rc=0 dur=0s
+1792011501 OBS stuckU=0 mounted=1 fusenfs=1
+1792011502 READ rc=0 dur=0s
+1792011503 OBS stuckU=0 mounted=1 fusenfs=1
+1792011503 READ rc=0 dur=0s
+1792011504 READ rc=0 dur=0s
+1792011504 OBS stuckU=0 mounted=1 fusenfs=1
+1792011505 READ rc=0 dur=0s
+1792011505 OBS stuckU=0 mounted=1 fusenfs=1
+1792011506 READ rc=0 dur=0s
+1792011506 OBS stuckU=0 mounted=1 fusenfs=1
+1792011507 READ rc=0 dur=0s
+1792011507 OBS stuckU=0 mounted=1 fusenfs=1
+1792011508 READ rc=0 dur=0s
+1792011508 OBS stuckU=0 mounted=1 fusenfs=1
+1792011509 READ rc=0 dur=0s
+1792011509 OBS stuckU=0 mounted=1 fusenfs=1
+1792011510 READ rc=0 dur=0s
+1792011510 OBS stuckU=0 mounted=1 fusenfs=1
+1792011511 READ rc=0 dur=0s
+1792011511 OBS stuckU=0 mounted=1 fusenfs=1
+1792011512 READ rc=0 dur=0s
+1792011513 OBS stuckU=0 mounted=1 fusenfs=1
+1792011513 READ rc=0 dur=0s
+1792011514 OBS stuckU=0 mounted=1 fusenfs=1
+1792011514 READ rc=0 dur=0s
+1792011515 OBS stuckU=0 mounted=1 fusenfs=1
+1792011515 READ rc=0 dur=0s
+1792011516 OBS stuckU=0 mounted=1 fusenfs=1
+1792011516 READ rc=0 dur=0s
+1792011517 OBS stuckU=0 mounted=1 fusenfs=1
+1792011517 READ rc=0 dur=0s
+1792011518 OBS stuckU=0 mounted=1 fusenfs=1
+1792011518 READ rc=0 dur=0s
+1792011519 READ rc=0 dur=0s
+1792011519 OBS stuckU=0 mounted=1 fusenfs=1
+1792011520 READ rc=0 dur=0s
+1792011520 OBS stuckU=0 mounted=1 fusenfs=1
+1792011521 READ rc=0 dur=0s
+1792011521 OBS stuckU=0 mounted=1 fusenfs=1
+1792011522 READ rc=0 dur=0s
+1792011523 OBS stuckU=0 mounted=1 fusenfs=1
+1792011523 READ rc=0 dur=0s
+1792011524 OBS stuckU=0 mounted=1 fusenfs=1
+1792011524 READ rc=0 dur=0s
+1792011525 OBS stuckU=0 mounted=1 fusenfs=1
+1792011525 READ rc=0 dur=0s
+1792011526 OBS stuckU=0 mounted=1 fusenfs=1
+1792011527 READ rc=0 dur=0s
+1792011527 OBS stuckU=0 mounted=1 fusenfs=1
+1792011528 READ rc=0 dur=0s
+1792011528 OBS stuckU=0 mounted=1 fusenfs=1
+1792011529 READ rc=0 dur=0s
+1792011529 OBS stuckU=0 mounted=1 fusenfs=1
+1792011530 READ rc=0 dur=0s
+1792011530 OBS stuckU=0 mounted=1 fusenfs=1
+1792011531 READ rc=0 dur=0s
+1792011531 OBS stuckU=0 mounted=1 fusenfs=1
+1792011532 READ rc=0 dur=0s
+1792011533 OBS stuckU=0 mounted=1 fusenfs=1
+1792011533 READ rc=0 dur=0s
+1792011534 READ rc=0 dur=0s
+1792011534 OBS stuckU=0 mounted=1 fusenfs=1
+1792011535 READ rc=0 dur=0s
+1792011535 OBS stuckU=0 mounted=1 fusenfs=1
+1792011536 READ rc=0 dur=0s
+1792011536 OBS stuckU=0 mounted=1 fusenfs=1
+1792011537 READ rc=0 dur=0s
+1792011537 OBS stuckU=0 mounted=1 fusenfs=1
+1792011538 READ rc=0 dur=0s
+1792011538 OBS stuckU=0 mounted=1 fusenfs=1
+1792011539 READ rc=0 dur=0s
+1792011539 OBS stuckU=0 mounted=1 fusenfs=1
+1792011540 READ rc=0 dur=0s
+1792011540 OBS stuckU=0 mounted=1 fusenfs=1
+1792011541 READ rc=0 dur=0s
+1792011541 OBS stuckU=0 mounted=1 fusenfs=1
+1792011542 READ rc=0 dur=0s
+1792011543 OBS stuckU=0 mounted=1 fusenfs=1
+1792011543 READ rc=0 dur=0s
+1792011544 OBS stuckU=0 mounted=1 fusenfs=1
+1792011544 READ rc=0 dur=0s
+1792011545 OBS stuckU=0 mounted=1 fusenfs=1
+1792011545 READ rc=0 dur=0s
+1792011546 OBS stuckU=0 mounted=1 fusenfs=1
+1792011546 READ rc=0 dur=0s
+1792011547 OBS stuckU=0 mounted=1 fusenfs=1
+1792011547 READ rc=0 dur=0s
+1792011548 OBS stuckU=0 mounted=1 fusenfs=1
+1792011548 READ rc=0 dur=0s
+1792011549 READ rc=0 dur=0s
+1792011549 OBS stuckU=0 mounted=1 fusenfs=1
+1792011550 READ rc=0 dur=0s
+1792011550 OBS stuckU=0 mounted=1 fusenfs=1
+1792011551 READ rc=0 dur=0s
+1792011551 OBS stuckU=0 mounted=1 fusenfs=1
+1792011552 READ rc=0 dur=0s
+1792011553 OBS stuckU=0 mounted=1 fusenfs=1
+1792011553 READ rc=0 dur=0s
+1792011554 OBS stuckU=0 mounted=1 fusenfs=1
+1792011554 READ rc=0 dur=0s
+1792011555 OBS stuckU=0 mounted=1 fusenfs=1
+1792011555 READ rc=0 dur=0s
+1792011556 OBS stuckU=0 mounted=1 fusenfs=1
+1792011557 READ rc=0 dur=0s
+1792011557 OBS stuckU=0 mounted=1 fusenfs=1
+1792011558 READ rc=0 dur=0s
+1792011558 OBS stuckU=0 mounted=1 fusenfs=1
+1792011559 READ rc=0 dur=0s
+1792011559 OBS stuckU=0 mounted=1 fusenfs=1
+1792011560 READ rc=0 dur=0s
+1792011560 OBS stuckU=0 mounted=1 fusenfs=1
+1792011561 READ rc=0 dur=0s
+1792011561 OBS stuckU=0 mounted=1 fusenfs=1
+1792011562 READ rc=0 dur=0s
+1792011563 OBS stuckU=0 mounted=1 fusenfs=1
+1792011563 READ rc=0 dur=0s
+1792011564 OBS stuckU=0 mounted=1 fusenfs=1
+1792011564 READ rc=0 dur=0s
+1792011565 READ rc=0 dur=0s
+1792011565 OBS stuckU=0 mounted=1 fusenfs=1
+1792011566 READ rc=0 dur=0s
+1792011566 OBS stuckU=0 mounted=1 fusenfs=1
+1792011567 READ rc=0 dur=0s
+1792011567 OBS stuckU=0 mounted=1 fusenfs=1
+1792011568 READ rc=0 dur=0s
+1792011568 OBS stuckU=0 mounted=1 fusenfs=1
+1792011569 READ rc=0 dur=0s
+1792011569 OBS stuckU=0 mounted=1 fusenfs=1
+1792011570 READ rc=0 dur=0s
+1792011570 OBS stuckU=0 mounted=1 fusenfs=1
+1792011571 READ rc=0 dur=0s
+1792011571 OBS stuckU=0 mounted=1 fusenfs=1
+1792011572 READ rc=0 dur=0s
+1792011573 OBS stuckU=0 mounted=1 fusenfs=1
+1792011573 READ rc=0 dur=0s
+1792011574 OBS stuckU=1 mounted=1 fusenfs=1
+1792011574 READ rc=0 dur=0s
+1792011575 OBS stuckU=0 mounted=1 fusenfs=1
+1792011575 READ rc=0 dur=0s
+1792011576 OBS stuckU=0 mounted=1 fusenfs=1
+1792011576 READ rc=0 dur=0s
+1792011577 OBS stuckU=0 mounted=1 fusenfs=1
+1792011577 READ rc=0 dur=0s
+1792011578 OBS stuckU=0 mounted=1 fusenfs=1
+1792011578 READ rc=0 dur=0s
+1792011579 READ rc=0 dur=0s
+1792011579 OBS stuckU=0 mounted=1 fusenfs=1
+1792011580 READ rc=0 dur=0s
+1792011580 OBS stuckU=0 mounted=1 fusenfs=1
+1792011581 READ rc=0 dur=0s
+1792011581 OBS stuckU=0 mounted=1 fusenfs=1
+1792011582 READ rc=0 dur=0s
+1792011583 OBS stuckU=0 mounted=1 fusenfs=1
+1792011583 READ rc=0 dur=0s
+1792011584 OBS stuckU=0 mounted=1 fusenfs=1
+1792011584 READ rc=0 dur=0s
+1792011585 OBS stuckU=0 mounted=1 fusenfs=1
+1792011585 READ rc=0 dur=0s
+1792011586 OBS stuckU=0 mounted=1 fusenfs=1
+1792011587 READ rc=0 dur=0s
+1792011587 OBS stuckU=0 mounted=1 fusenfs=1
+1792011588 READ rc=0 dur=0s
+1792011588 OBS stuckU=0 mounted=1 fusenfs=1
+1792011589 READ rc=0 dur=0s
+1792011589 OBS stuckU=0 mounted=1 fusenfs=1
+1792011590 READ rc=0 dur=0s
+1792011590 OBS stuckU=0 mounted=1 fusenfs=1
+1792011591 READ rc=0 dur=0s
+1792011591 OBS stuckU=0 mounted=1 fusenfs=1
+1792011592 READ rc=0 dur=0s
+1792011592 OBS stuckU=0 mounted=1 fusenfs=1
+1792011593 READ rc=0 dur=0s
+1792011594 OBS stuckU=0 mounted=1 fusenfs=1
+1792011594 READ rc=0 dur=0s
+1792011595 READ rc=0 dur=0s
+1792011595 OBS stuckU=0 mounted=1 fusenfs=1
+1792011596 READ rc=0 dur=0s
+1792011596 OBS stuckU=0 mounted=1 fusenfs=1
+1792011597 READ rc=0 dur=0s
+1792011597 OBS stuckU=0 mounted=1 fusenfs=1
+1792011598 READ rc=0 dur=0s
+1792011598 OBS stuckU=0 mounted=1 fusenfs=1
+1792011599 READ rc=0 dur=0s
+1792011599 OBS stuckU=0 mounted=1 fusenfs=1
+1792011600 READ rc=0 dur=0s
+1792011600 OBS stuckU=0 mounted=1 fusenfs=1
+1792011601 READ rc=0 dur=0s
+1792011601 OBS stuckU=0 mounted=1 fusenfs=1
+1792011602 READ rc=0 dur=0s
+1792011602 OBS stuckU=0 mounted=1 fusenfs=1
+1792011603 READ rc=0 dur=0s
+1792011604 OBS stuckU=0 mounted=1 fusenfs=1
+1792011604 READ rc=0 dur=0s
+1792011605 OBS stuckU=0 mounted=1 fusenfs=1
+1792011605 READ rc=0 dur=0s
+1792011606 OBS stuckU=0 mounted=1 fusenfs=1
+1792011606 READ rc=0 dur=0s
+1792011607 OBS stuckU=0 mounted=1 fusenfs=1
+1792011607 READ rc=0 dur=0s
+1792011608 OBS stuckU=0 mounted=1 fusenfs=1
+1792011608 READ rc=0 dur=0s
+1792011609 OBS stuckU=0 mounted=1 fusenfs=1
+1792011609 READ rc=0 dur=0s
+1792011610 READ rc=0 dur=0s
+1792011610 OBS stuckU=0 mounted=1 fusenfs=1
+1792011611 READ rc=0 dur=0s
+1792011611 OBS stuckU=0 mounted=1 fusenfs=1
+1792011612 READ rc=0 dur=0s
+1792011612 OBS stuckU=0 mounted=1 fusenfs=1
+1792011613 READ rc=0 dur=0s
+1792011614 OBS stuckU=0 mounted=1 fusenfs=1
+1792011614 READ rc=0 dur=0s
+1792011615 OBS stuckU=0 mounted=1 fusenfs=1
+1792011615 READ rc=0 dur=0s
+1792011616 OBS stuckU=0 mounted=1 fusenfs=1
+1792011617 READ rc=0 dur=0s
+1792011617 OBS stuckU=0 mounted=1 fusenfs=1
+1792011618 READ rc=0 dur=0s
+1792011618 OBS stuckU=0 mounted=1 fusenfs=1
+1792011619 READ rc=0 dur=0s
+1792011619 OBS stuckU=0 mounted=1 fusenfs=1
+1792011620 READ rc=0 dur=0s
+1792011620 OBS stuckU=0 mounted=1 fusenfs=1
+1792011621 READ rc=0 dur=0s
+1792011621 OBS stuckU=0 mounted=1 fusenfs=1
+1792011622 READ rc=0 dur=0s
+1792011622 OBS stuckU=0 mounted=1 fusenfs=1
+1792011623 READ rc=0 dur=0s
+1792011624 OBS stuckU=0 mounted=1 fusenfs=1
+1792011624 READ rc=0 dur=0s
+1792011625 READ rc=0 dur=0s
+1792011625 OBS stuckU=0 mounted=1 fusenfs=1
+1792011626 READ rc=0 dur=0s
+1792011626 OBS stuckU=0 mounted=1 fusenfs=1
+1792011627 READ rc=0 dur=0s
+1792011627 OBS stuckU=0 mounted=1 fusenfs=1
+1792011628 READ rc=0 dur=0s
+1792011628 OBS stuckU=0 mounted=1 fusenfs=1
+1792011629 READ rc=0 dur=0s
+1792011629 OBS stuckU=0 mounted=1 fusenfs=1
+1792011630 READ rc=0 dur=0s
+1792011630 OBS stuckU=0 mounted=1 fusenfs=1
+1792011631 READ rc=0 dur=0s
+1792011631 OBS stuckU=0 mounted=1 fusenfs=1
+1792011632 READ rc=0 dur=0s
+1792011632 OBS stuckU=0 mounted=1 fusenfs=1
+1792011633 READ rc=0 dur=0s
+1792011634 OBS stuckU=0 mounted=1 fusenfs=1
+1792011634 READ rc=0 dur=0s
+1792011635 OBS stuckU=0 mounted=1 fusenfs=1
+1792011635 READ rc=0 dur=0s
+1792011636 OBS stuckU=0 mounted=1 fusenfs=1
+1792011636 READ rc=0 dur=0s
+1792011637 OBS stuckU=0 mounted=1 fusenfs=1
+1792011637 READ rc=0 dur=0s
+1792011638 OBS stuckU=0 mounted=1 fusenfs=1
+1792011638 READ rc=0 dur=0s
+1792011639 OBS stuckU=0 mounted=1 fusenfs=1
+1792011639 READ rc=0 dur=0s
+1792011640 OBS stuckU=0 mounted=1 fusenfs=1
+1792011640 READ rc=0 dur=0s
+1792011641 OBS stuckU=0 mounted=1 fusenfs=1
+1792011641 READ rc=0 dur=0s
+1792011642 READ rc=0 dur=0s
+1792011642 OBS stuckU=0 mounted=1 fusenfs=1
+1792011643 READ rc=0 dur=0s
+1792011643 OBS stuckU=0 mounted=1 fusenfs=1
+1792011644 READ rc=0 dur=0s
+1792011644 OBS stuckU=0 mounted=1 fusenfs=1
+1792011645 READ rc=0 dur=0s
+1792011645 OBS stuckU=0 mounted=1 fusenfs=1
+1792011646 OBS stuckU=1 mounted=1 fusenfs=1
+1792011647 OBS stuckU=1 mounted=1 fusenfs=1
+1792011649 OBS stuckU=1 mounted=1 fusenfs=1
+1792011650 OBS stuckU=1 mounted=1 fusenfs=1
+1792011651 OBS stuckU=1 mounted=1 fusenfs=1
+1792011652 OBS stuckU=1 mounted=1 fusenfs=1
+1792011653 OBS stuckU=1 mounted=1 fusenfs=1
+1792011654 OBS stuckU=1 mounted=1 fusenfs=1
+1792011655 OBS stuckU=1 mounted=1 fusenfs=1
+1792011656 OBS stuckU=1 mounted=1 fusenfs=1
+1792011657 OBS stuckU=1 mounted=1 fusenfs=1
+1792011658 READ rc=1 dur=12s
+1792011658 OBS stuckU=0 mounted=1 fusenfs=1
+1792011659 OBS stuckU=1 mounted=1 fusenfs=1
+1792011660 OBS stuckU=1 mounted=1 fusenfs=1
+1792011661 OBS stuckU=1 mounted=1 fusenfs=1
+1792011662 OBS stuckU=1 mounted=1 fusenfs=1
+1792011663 OBS stuckU=1 mounted=1 fusenfs=1
+1792011665 OBS stuckU=1 mounted=1 fusenfs=1
+1792011666 OBS stuckU=1 mounted=1 fusenfs=1
+1792011667 OBS stuckU=1 mounted=1 fusenfs=1
+1792011668 OBS stuckU=1 mounted=1 fusenfs=1
+1792011669 OBS stuckU=1 mounted=1 fusenfs=1
+1792011670 READ rc=1 dur=11s
+1792011670 OBS stuckU=0 mounted=1 fusenfs=1
+1792011671 OBS stuckU=1 mounted=1 fusenfs=1
+1792011672 OBS stuckU=1 mounted=1 fusenfs=1
+1792011673 OBS stuckU=1 mounted=1 fusenfs=1
+1792011674 OBS stuckU=1 mounted=1 fusenfs=1
+1792011675 OBS stuckU=1 mounted=1 fusenfs=1
+1792011676 OBS stuckU=1 mounted=1 fusenfs=1
+1792011677 OBS stuckU=1 mounted=1 fusenfs=1
+1792011678 OBS stuckU=1 mounted=1 fusenfs=1
+1792011680 OBS stuckU=1 mounted=1 fusenfs=1
+1792011681 OBS stuckU=1 mounted=1 fusenfs=1
+1792011682 READ rc=1 dur=11s
+1792011682 OBS stuckU=0 mounted=1 fusenfs=1
+1792011683 OBS stuckU=1 mounted=1 fusenfs=1
+1792011684 OBS stuckU=1 mounted=1 fusenfs=1
+1792011685 OBS stuckU=1 mounted=1 fusenfs=1
+1792011686 OBS stuckU=1 mounted=1 fusenfs=1
+1792011687 OBS stuckU=1 mounted=1 fusenfs=1
+1792011688 OBS stuckU=1 mounted=1 fusenfs=1
+1792011689 OBS stuckU=1 mounted=1 fusenfs=1
+1792011690 OBS stuckU=1 mounted=1 fusenfs=1
+1792011691 OBS stuckU=1 mounted=1 fusenfs=1
+1792011692 OBS stuckU=1 mounted=1 fusenfs=1
+
+1792011693 FAULT-END
+1792011693 OBS stuckU=1 mounted=1 fusenfs=1
+1792011694 READ rc=1 dur=11s
+1792011695 OBS stuckU=0 mounted=1 fusenfs=1
+1792011696 OBS stuckU=1 mounted=1 fusenfs=1
+1792011697 OBS stuckU=1 mounted=1 fusenfs=1
+1792011698 OBS stuckU=1 mounted=1 fusenfs=1
+1792011699 OBS stuckU=1 mounted=1 fusenfs=1
+1792011699 READ rc=0 dur=4s
+1792011700 OBS stuckU=1 mounted=1 fusenfs=1
+1792011700 READ rc=0 dur=0s
+1792011701 OBS stuckU=0 mounted=1 fusenfs=1
+1792011701 READ rc=0 dur=0s
+1792011702 READ rc=0 dur=0s
+1792011702 OBS stuckU=0 mounted=1 fusenfs=1
+1792011703 READ rc=0 dur=0s
+1792011703 OBS stuckU=0 mounted=1 fusenfs=1
+1792011704 READ rc=0 dur=0s
+1792011704 OBS stuckU=0 mounted=1 fusenfs=1
+1792011705 READ rc=0 dur=0s
+1792011706 OBS stuckU=0 mounted=1 fusenfs=1
+1792011706 READ rc=0 dur=0s
+1792011707 OBS stuckU=0 mounted=1 fusenfs=1
+1792011708 READ rc=0 dur=1s
+1792011708 OBS stuckU=0 mounted=1 fusenfs=1
+1792011709 READ rc=0 dur=0s
+1792011709 OBS stuckU=0 mounted=1 fusenfs=1
+1792011710 READ rc=0 dur=0s
+1792011710 OBS stuckU=0 mounted=1 fusenfs=1
+1792011711 READ rc=0 dur=0s
+1792011711 OBS stuckU=0 mounted=1 fusenfs=1
+1792011712 READ rc=0 dur=0s
+1792011712 OBS stuckU=0 mounted=1 fusenfs=1
+1792011713 READ rc=0 dur=0s
+1792011713 OBS stuckU=0 mounted=1 fusenfs=1
+1792011714 READ rc=0 dur=0s
+1792011714 OBS stuckU=0 mounted=1 fusenfs=1
+1792011715 READ rc=0 dur=0s
+1792011716 OBS stuckU=0 mounted=1 fusenfs=1
+1792011716 READ rc=0 dur=0s
+1792011717 OBS stuckU=0 mounted=1 fusenfs=1
+1792011717 READ rc=0 dur=0s
+1792011718 READ rc=0 dur=0s
+1792011718 OBS stuckU=0 mounted=1 fusenfs=1
+1792011719 READ rc=0 dur=0s
+1792011719 OBS stuckU=0 mounted=1 fusenfs=1
+1792011720 READ rc=0 dur=0s
+1792011720 OBS stuckU=0 mounted=1 fusenfs=1
+1792011721 READ rc=0 dur=0s
+1792011721 OBS stuckU=0 mounted=1 fusenfs=1
+1792011722 READ rc=0 dur=0s
+1792011722 OBS stuckU=0 mounted=1 fusenfs=1
+1792011723 READ rc=0 dur=0s
+1792011723 OBS stuckU=0 mounted=1 fusenfs=1
+1792011724 READ rc=0 dur=0s
+1792011724 OBS stuckU=0 mounted=1 fusenfs=1
+1792011725 READ rc=0 dur=0s
+1792011725 OBS stuckU=0 mounted=1 fusenfs=1
+1792011726 READ rc=0 dur=0s
+1792011727 OBS stuckU=0 mounted=1 fusenfs=1
+1792011727 READ rc=0 dur=0s
+1792011728 OBS stuckU=0 mounted=1 fusenfs=1
+1792011728 READ rc=0 dur=0s
+1792011729 OBS stuckU=0 mounted=1 fusenfs=1
+1792011729 READ rc=0 dur=0s
+1792011730 OBS stuckU=0 mounted=1 fusenfs=1
+1792011730 READ rc=0 dur=0s
+1792011731 OBS stuckU=0 mounted=1 fusenfs=1
+1792011731 READ rc=0 dur=0s
+1792011732 OBS stuckU=0 mounted=1 fusenfs=1
+1792011732 READ rc=0 dur=0s
+1792011733 DONE mounted=0 fusenfs=0

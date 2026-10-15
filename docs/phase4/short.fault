@@ -1,0 +1,11 @@
+No ALTQ support in kernel
+pfctl: Use of -f option, could result in flushing of rules
+present in the main ruleset added by the system at startup.
+See /etc/pf.conf for further details.
+No ALTQ support in kernel
+ALTQ related functions disabled
+block drop out quick inet proto tcp from any to 192.168.50.213
+No ALTQ support in kernel
+ALTQ related functions disabled
+blocked 16:08:22
+restored 16:09:22

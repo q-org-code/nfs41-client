@@ -1,0 +1,414 @@
+diff --git a/include/nfsc/libnfs.h b/include/nfsc/libnfs.h
+index 4f0166b..7168d2b 100755
+--- a/include/nfsc/libnfs.h
++++ b/include/nfsc/libnfs.h
+@@ -412,6 +412,8 @@ EXTERN void nfs_set_readdir_max_buffer_size(struct nfs_context *nfs, uint32_t di
+  * NFSv3 and NFSv4.0 have no sessions and are not affected by any of this.
+  */
+ #define NFS_V4_2 42
++/* NFSv4.1: same session machinery as NFS_V4_2, minor version 1, no 4.2-only calls. */
++#define NFS_V4_1 41
+ #endif /* LIBNFS_FEATURE_NFS4_2 */
+ 
+ /*
+diff --git a/lib/libnfs.c b/lib/libnfs.c
+index de5da5a..c509969 100755
+--- a/lib/libnfs.c
++++ b/lib/libnfs.c
+@@ -331,7 +331,15 @@ nfs_set_context_args(struct nfs_context *nfs, const char *arg, const char *val)
+ 		 */
+ 		int v;
+ 
+-		if (!strcmp(val, "4.2")) {
++		if (!strcmp(val, "4.1")) {
++#ifdef LIBNFS_FEATURE_NFS4_2
++			v = NFS_V4_1;
++#else
++			nfs_set_error(nfs, "NFS version %s is not supported",
++				      val);
++			return -1;
++#endif
++		} else if (!strcmp(val, "4.2")) {
+ #ifdef LIBNFS_FEATURE_NFS4_2
+ 			v = NFS_V4_2;
+ #else
+@@ -1354,6 +1362,7 @@ _nfs_mount_async(struct nfs_context *nfs, const char *server,
+         case NFS_V3:
+                 return nfs3_mount_async(nfs, server, export, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1525,6 +1534,7 @@ nfs_stat64_dispatch(struct nfs_context *nfs, const char *path, int no_follow,
+                 return nfs3_stat64_async(nfs, path, no_follow,
+                                          cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1560,6 +1570,7 @@ nfs4_stat64_dispatch(struct nfs_context *nfs, const char *path, int no_follow,
+ {
+ 	switch (nfs->nfsi->version) {
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1612,6 +1623,7 @@ nfs_open2_async(struct nfs_context *nfs, const char *path, int flags,
+                 return nfs3_open_async(nfs, path, flags, mode,
+                                        cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1640,6 +1652,7 @@ nfs_chdir_async(struct nfs_context *nfs, const char *path,
+         case NFS_V3:
+                 return nfs3_chdir_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1662,6 +1675,7 @@ __nfs_pread_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                                                  buf, count, offset,
+                                                  cb, private_data, update_pos);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1802,6 +1816,7 @@ nfs_preadv_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                                                   iov, iovcnt, offset,
+                                                   cb, private_data, 0);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1826,6 +1841,7 @@ nfs_readv_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                                                   iov, iovcnt, nfsfh->offset,
+                                                   cb, private_data, 1);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1850,6 +1866,7 @@ __nfs_pwrite_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                                                   buf, count, offset,
+                                                   cb, private_data, update_pos);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -1987,6 +2004,7 @@ nfs_write_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                                                 buf, count,
+                                                 cb, private_data);
+ #ifdef HAVE_NFS4_2
++                case NFS_V4_1:
+                 case NFS_V4_2:
+ #endif
+                 case NFS_V4:
+@@ -2011,6 +2029,7 @@ nfs_close_async(struct nfs_context *nfs, struct nfsfh *nfsfh, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_close_async(nfs, nfsfh, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2044,6 +2063,7 @@ nfs_fstat64_async(struct nfs_context *nfs, struct nfsfh *nfsfh, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_fstat64_async(nfs, nfsfh, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2061,6 +2081,7 @@ nfs4_fstat64_async(struct nfs_context *nfs, struct nfsfh *nfsfh, nfs_cb cb,
+ {
+ 	switch (nfs->nfsi->version) {
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2080,6 +2101,7 @@ nfs_fsync_async(struct nfs_context *nfs, struct nfsfh *nfsfh, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_fsync_async(nfs, nfsfh, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2104,6 +2126,7 @@ nfs_ftruncate_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+                 return nfs3_ftruncate_async(nfs, nfsfh, length,
+                                             cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2130,6 +2153,7 @@ nfs_truncate_async(struct nfs_context *nfs, const char *path, uint64_t length,
+         case NFS_V3:
+                 return nfs3_truncate_async(nfs, path, length, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2155,6 +2179,7 @@ nfs_mkdir2_async(struct nfs_context *nfs, const char *path, int mode,
+         case NFS_V3:
+                 return nfs3_mkdir2_async(nfs, path, mode, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2187,6 +2212,7 @@ nfs_rmdir_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_rmdir_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2213,6 +2239,7 @@ nfs_creat_async(struct nfs_context *nfs, const char *path,
+                 return nfs3_creat_async(nfs, path, mode,
+                                          cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2239,6 +2266,7 @@ nfs_unlink_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_unlink_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2264,6 +2292,7 @@ nfs_mknod_async(struct nfs_context *nfs, const char *path, int mode, int dev,
+         case NFS_V3:
+                 return nfs3_mknod_async(nfs, path, mode, dev, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2283,6 +2312,7 @@ nfs_opendir_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_opendir_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2413,6 +2443,7 @@ nfs_lseek_async(struct nfs_context *nfs, struct nfsfh *nfsfh, int64_t offset,
+                 return nfs3_lseek_async(nfs, nfsfh, offset, whence,
+                                         cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2432,6 +2463,7 @@ nfs_lockf_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+ {
+ 	switch (nfs->nfsi->version) {
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2451,6 +2483,7 @@ nfs_fcntl_async(struct nfs_context *nfs, struct nfsfh *nfsfh,
+ {
+ 	switch (nfs->nfsi->version) {
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2471,6 +2504,7 @@ nfs_statvfs_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_statvfs_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2490,6 +2524,7 @@ nfs_statvfs64_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_statvfs64_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2509,6 +2544,7 @@ nfs_readlink_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_readlink_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2535,6 +2571,7 @@ nfs_chmod_async(struct nfs_context *nfs, const char *path, int mode,
+                 return nfs3_chmod_async_internal(nfs, path, 0, mode,
+                                                  cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2562,6 +2599,7 @@ nfs_lchmod_async(struct nfs_context *nfs, const char *path, int mode,
+                 return nfs3_chmod_async_internal(nfs, path, 1, mode,
+                                                  cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2588,6 +2626,7 @@ nfs_fchmod_async(struct nfs_context *nfs, struct nfsfh *nfsfh, int mode,
+         case NFS_V3:
+                 return nfs3_fchmod_async(nfs, nfsfh, mode, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2614,6 +2653,7 @@ nfs_chown_async(struct nfs_context *nfs, const char *path, int uid, int gid,
+                 return nfs3_chown_async_internal(nfs, path, 0, uid, gid,
+                                                  cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2641,6 +2681,7 @@ nfs_lchown_async(struct nfs_context *nfs, const char *path, int uid, int gid,
+                 return nfs3_chown_async_internal(nfs, path, 1, uid, gid,
+                                                  cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2668,6 +2709,7 @@ nfs_fchown_async(struct nfs_context *nfs, struct nfsfh *nfsfh, int uid,
+                 return nfs3_fchown_async(nfs, nfsfh, uid, gid,
+                                          cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2695,6 +2737,7 @@ nfs_utimes_async(struct nfs_context *nfs, const char *path,
+                 return nfs3_utimes_async_internal(nfs, path, 0, times,
+                                                   cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2722,6 +2765,7 @@ nfs_lutimes_async(struct nfs_context *nfs, const char *path,
+                 return nfs3_utimes_async_internal(nfs, path, 1, times,
+                                                   cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2748,6 +2792,7 @@ nfs_utime_async(struct nfs_context *nfs, const char *path,
+         case NFS_V3:
+                 return nfs3_utime_async(nfs, path, times, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2767,6 +2812,7 @@ nfs_access_async(struct nfs_context *nfs, const char *path, int mode,
+         case NFS_V3:
+                 return nfs3_access_async(nfs, path, mode, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2786,6 +2832,7 @@ nfs_access2_async(struct nfs_context *nfs, const char *path, nfs_cb cb,
+         case NFS_V3:
+                 return nfs3_access2_async(nfs, path, cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2806,6 +2853,7 @@ nfs_symlink_async(struct nfs_context *nfs, const char *target,
+                 return nfs3_symlink_async(nfs, target, newpath,
+                                           cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2833,6 +2881,7 @@ nfs_rename_async(struct nfs_context *nfs, const char *oldpath,
+                 return nfs3_rename_async(nfs, oldpath, newpath,
+                                          cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2860,6 +2909,7 @@ nfs_link_async(struct nfs_context *nfs, const char *oldpath,
+                 return nfs3_link_async(nfs, oldpath, newpath,
+                                        cb, private_data);
+ #ifdef HAVE_NFS4_2
++        case NFS_V4_1:
+         case NFS_V4_2:
+ #endif
+         case NFS_V4:
+@@ -2988,6 +3038,20 @@ nfs_set_version(struct nfs_context *nfs, int version) {
+ #endif
+ 		break;
+ #ifdef LIBNFS_FEATURE_NFS4_2
++	case NFS_V4_1:
++#ifdef HAVE_NFS4_2
++#ifdef HAVE_TLS
++		nfs->rpc->nfs_version = NFS_V4;
++#endif
++		nfs->nfsi->version = NFS_V4_1;
++		nfs->nfsi->default_version = 0;
++		nfs->rpc->nfs4_minorversion = 1;
++		break;
++#else
++		nfs_set_error(nfs, "NFSv4.1 support was not built into this "
++			      "library");
++		return -1;
++#endif /* HAVE_NFS4_2 */
+ 	case NFS_V4_2:
+ #ifdef HAVE_NFS4_2
+ 		/*
+diff --git a/lib/nfs_v4.c b/lib/nfs_v4.c
+index 8a1a8e3..c27f0c9 100644
+--- a/lib/nfs_v4.c
++++ b/lib/nfs_v4.c
+@@ -1441,7 +1441,8 @@ nfs4_start_compound(struct nfs_context *nfs, nfs_argop4 *op)
+          * Only once the session exists. The COMPOUNDs that build it run
+          * before there is anything to sequence against.
+          */
+-        if (nfs->nfsi->version == NFS_V4_2 && nfs->rpc->nfs4_session_valid) {
++        if ((nfs->nfsi->version == NFS_V4_2 || nfs->nfsi->version == NFS_V4_1) &&
++            nfs->rpc->nfs4_session_valid) {
+                 return nfs42_op_sequence(nfs, op);
+         }
+ #endif /* HAVE_NFS4_2 */
+@@ -2413,7 +2414,7 @@ nfs4_mount_async(struct nfs_context *nfs, const char *server,
+ 
+         port = nfs->nfsi->nfsport ? nfs->nfsi->nfsport : 2049;
+ #ifdef HAVE_NFS4_2
+-        if (nfs->nfsi->version == NFS_V4_2) {
++        if (nfs->nfsi->version == NFS_V4_2 || nfs->nfsi->version == NFS_V4_1) {
+                 connect_cb = nfs42_mount_start;
+         }
+ #endif

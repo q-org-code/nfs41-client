@@ -1,0 +1,20 @@
+diff --git a/fuse/fuse-nfs.c b/fuse/fuse-nfs.c
+index 92d01b6..39e862e 100755
+--- a/fuse/fuse-nfs.c
++++ b/fuse/fuse-nfs.c
+@@ -349,7 +349,14 @@ fuse_nfs_getattr(const char *path, struct FUSE_STAT *stbuf)
+ 	stbuf->st_blksize      = st.nfs_blksize;
+ 	stbuf->st_blocks       = st.nfs_blocks;
+ 
+-#if defined(HAVE_ST_ATIM) || defined(__MINGW32__)
++#if defined(__APPLE__)
++	stbuf->st_atimespec.tv_sec  = st.nfs_atime;
++	stbuf->st_atimespec.tv_nsec = st.nfs_atime_nsec;
++	stbuf->st_mtimespec.tv_sec  = st.nfs_mtime;
++	stbuf->st_mtimespec.tv_nsec = st.nfs_mtime_nsec;
++	stbuf->st_ctimespec.tv_sec  = st.nfs_ctime;
++	stbuf->st_ctimespec.tv_nsec = st.nfs_ctime_nsec;
++#elif defined(HAVE_ST_ATIM) || defined(__MINGW32__)
+ 	stbuf->st_atim.tv_sec  = st.nfs_atime;
+ 	stbuf->st_atim.tv_nsec = st.nfs_atime_nsec;
+ 	stbuf->st_mtim.tv_sec  = st.nfs_mtime;
