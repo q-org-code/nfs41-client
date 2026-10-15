@@ -7,5 +7,6 @@ ALTQ related functions disabled
 block drop out quick inet proto tcp from any to 192.168.50.213
 No ALTQ support in kernel
 ALTQ related functions disabled
-blocked 09:22:15
-restored 09:23:15
+blocked 16:05:05
+restored 16:06:05
+pcap: 8612 bytes
